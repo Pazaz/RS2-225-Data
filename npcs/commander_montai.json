@@ -1,0 +1,27 @@
+{
+  "id": 470,
+  "level": 0,
+  "description": "It's a tree gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "scaleX": 150,
+  "scaleY": 150,
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    933
+  ],
+  "name": "Commander Montai",
+  "modelIndices": [
+    2909,
+    2903,
+    2919
+  ],
+  "headModelIndices": [
+    22
+  ]
+}

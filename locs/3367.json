@@ -1,0 +1,17 @@
+{
+  "id": 3367,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    609
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Prison Door",
+  "description": "Steel bars that are locked securely."
+}

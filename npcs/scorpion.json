@@ -1,0 +1,16 @@
+{
+  "id": 107,
+  "size": 2,
+  "walkSeq": 244,
+  "standSeq": 245,
+  "description": "An extremely vicious scorpion.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 14,
+  "name": "Scorpion",
+  "modelIndices": [
+    2967
+  ]
+}

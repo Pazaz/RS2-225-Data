@@ -1,0 +1,16 @@
+{
+  "id": 85,
+  "description": "A creature made from clay.",
+  "size": 2,
+  "walkSeq": 152,
+  "standSeq": 155,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 55,
+  "name": "Golem",
+  "modelIndices": [
+    2969
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1315,
+  "description": "A two handed sword.",
+  "value": 2600,
+  "modelIndex": 2754,
+  "iconX": 3,
+  "iconY": -9,
+  "iconZoom": 1380,
+  "iconYaw": 1396,
+  "iconCameraPitch": 204,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 546,
+  "maleOffsetY": 0,
+  "femaleModel0": 546,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43297
+  ],
+  "name": "Mithril 2h sword",
+  "notedId": 1316
+}

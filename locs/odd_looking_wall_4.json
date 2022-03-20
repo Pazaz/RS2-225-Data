@@ -1,0 +1,30 @@
+{
+  "id": 3211,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "push"
+  ],
+  "oldColors": [
+    2,
+    24,
+    20
+  ],
+  "newColors": [
+    23,
+    9098,
+    7050
+  ],
+  "modelIndices": [
+    3369
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Odd looking wall",
+  "description": "A strange crack cuts into the wall."
+}

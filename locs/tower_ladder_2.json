@@ -1,0 +1,21 @@
+{
+  "id": 2512,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Climb-down"
+  ],
+  "mapscene": 7,
+  "modelIndices": [
+    1215
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tower ladder",
+  "description": "This leads back down to the guild."
+}

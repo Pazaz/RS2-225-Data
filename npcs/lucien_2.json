@@ -1,0 +1,41 @@
+{
+  "id": 273,
+  "description": "He walks with a slight limp.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    61,
+    4550,
+    926
+  ],
+  "newColors": [
+    16,
+    16,
+    16,
+    16,
+    16,
+    16
+  ],
+  "name": "Lucien",
+  "modelIndices": [
+    218,
+    181,
+    292,
+    170,
+    179,
+    265
+  ],
+  "headModelIndices": [
+    56
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 693,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1218
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broom",
+  "description": "Good for sweeping."
+}

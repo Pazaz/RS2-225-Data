@@ -1,0 +1,16 @@
+{
+  "id": 661,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1079
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Corpse",
+  "description": "He looks very relaxed."
+}

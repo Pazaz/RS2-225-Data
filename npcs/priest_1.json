@@ -1,0 +1,31 @@
+{
+  "id": 31,
+  "level": 0,
+  "description": "A holy man.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    25238,
+    8741,
+    8078
+  ],
+  "newColors": [
+    43414,
+    43660,
+    43111
+  ],
+  "name": "Priest",
+  "modelIndices": [
+    223,
+    249,
+    292,
+    162,
+    176,
+    265,
+    185,
+    325
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 887,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 20,
+  "interactable": true,
+  "modelIndices": [
+    2057
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Portrait",
+  "description": "A painting of the King looking royal."
+}

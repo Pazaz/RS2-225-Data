@@ -1,0 +1,18 @@
+{
+  "id": 1855,
+  "description": "Looks like a plain rock, must have some ore in it?",
+  "modelIndex": 2393,
+  "iconX": 8,
+  "iconY": -15,
+  "iconZoom": 1170,
+  "iconYaw": 1904,
+  "iconCameraPitch": 120,
+  "members": true,
+  "oldColors": [
+    5790
+  ],
+  "newColors": [
+    43038
+  ],
+  "name": "Rock"
+}

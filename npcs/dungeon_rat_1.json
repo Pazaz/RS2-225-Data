@@ -1,0 +1,22 @@
+{
+  "id": 88,
+  "size": 2,
+  "walkSeq": 137,
+  "standSeq": 140,
+  "description": "Overgrown vermin.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 10,
+  "oldColors": [
+    43299
+  ],
+  "newColors": [
+    70
+  ],
+  "name": "Dungeon rat",
+  "modelIndices": [
+    2959
+  ]
+}

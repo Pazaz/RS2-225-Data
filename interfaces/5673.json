@@ -1,0 +1,17 @@
+{
+  "id": 5673,
+  "parent": 5608,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 174,
+  "height": 20,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 0,
+  "shadow": true,
+  "text": "2x restore rate for all stats\\nexcept hitpoints and prayer",
+  "color": 7040819,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

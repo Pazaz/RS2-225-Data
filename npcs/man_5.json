@@ -1,0 +1,40 @@
+{
+  "id": 24,
+  "description": "One of RuneScape's many citizens.",
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Pickpocket"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 2,
+  "oldColors": [
+    43072,
+    25238
+  ],
+  "newColors": [
+    4550,
+    7073
+  ],
+  "name": "Man",
+  "modelIndices": [
+    230,
+    185,
+    299,
+    159,
+    179,
+    267,
+    252,
+    321,
+    186
+  ],
+  "headModelIndices": [
+    63,
+    84,
+    28
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 411,
+  "level": 0,
+  "description": "A swarm of vicious insects!",
+  "standSeq": 0,
+  "walkSeq": 0,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    12
+  ],
+  "newColors": [
+    3988
+  ],
+  "name": "Swarm",
+  "modelIndices": [
+    2950
+  ]
+}

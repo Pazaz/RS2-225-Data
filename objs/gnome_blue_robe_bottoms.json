@@ -1,0 +1,26 @@
+{
+  "id": 650,
+  "description": "Made by Tree Gnomes.",
+  "modelIndex": 2521,
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 180,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "members": true,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    43342
+  ],
+  "name": "Robe bottoms",
+  "notedId": 651
+}

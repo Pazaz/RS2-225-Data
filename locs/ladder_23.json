@@ -1,0 +1,21 @@
+{
+  "id": 1759,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Climb-Down"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1203
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ladder",
+  "description": "This leads downwards."
+}

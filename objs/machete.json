@@ -1,0 +1,28 @@
+{
+  "id": 975,
+  "description": "A jungle specific slashing device.",
+  "value": 40,
+  "modelIndex": 2841,
+  "members": true,
+  "iconX": -2,
+  "iconY": -12,
+  "iconZoom": 770,
+  "iconYaw": 88,
+  "iconCameraPitch": 200,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 566,
+  "maleOffsetY": 0,
+  "femaleModel0": 566,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Machete",
+  "notedId": 976
+}

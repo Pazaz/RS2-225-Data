@@ -1,0 +1,17 @@
+{
+  "id": 3239,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "interactable": true,
+  "modelIndices": [
+    2293
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bridge",
+  "description": "It looks like only the guide ropes are holding the bridge up."
+}

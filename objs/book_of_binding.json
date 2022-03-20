@@ -1,0 +1,28 @@
+{
+  "id": 730,
+  "description": "An ancient tome on Demonology.",
+  "modelIndex": 2509,
+  "iconY": 5,
+  "iconZoom": 1340,
+  "iconYaw": 1940,
+  "iconCameraPitch": 412,
+  "members": true,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    41,
+    61,
+    11177,
+    10351
+  ],
+  "newColors": [
+    43544,
+    41191,
+    41191,
+    41191,
+    33744
+  ],
+  "name": "Book of binding"
+}

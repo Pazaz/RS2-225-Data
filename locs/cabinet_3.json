@@ -1,0 +1,28 @@
+{
+  "id": 397,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    7952,
+    5772,
+    8860,
+    70
+  ],
+  "newColors": [
+    43270,
+    43270,
+    43270,
+    43270
+  ],
+  "modelIndices": [
+    1187
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cabinet",
+  "description": "The perfect place to store things."
+}

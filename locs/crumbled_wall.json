@@ -1,0 +1,28 @@
+{
+  "id": 2185,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-over"
+  ],
+  "interactable": true,
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    23,
+    9098
+  ],
+  "modelIndices": [
+    843
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crumbled wall",
+  "description": "This wall has seen better days."
+}

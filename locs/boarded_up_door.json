@@ -1,0 +1,17 @@
+{
+  "id": 1572,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2033
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Boarded-up door",
+  "description": "This door has been boarded up."
+}

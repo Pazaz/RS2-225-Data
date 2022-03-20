@@ -1,0 +1,20 @@
+{
+  "id": 239,
+  "modelIndex": 2358,
+  "iconX": 1,
+  "iconY": 4,
+  "iconZoom": 970,
+  "iconYaw": 668,
+  "iconCameraPitch": 404,
+  "members": true,
+  "value": 10,
+  "description": "Sour berries, used in potions.",
+  "oldColors": [
+    960
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "White berries",
+  "notedId": 240
+}

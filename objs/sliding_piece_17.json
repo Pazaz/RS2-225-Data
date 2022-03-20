@@ -1,0 +1,17 @@
+{
+  "id": 2765,
+  "modelIndex": 3429,
+  "iconX": -1,
+  "iconY": 1,
+  "iconZoom": 2180,
+  "iconCameraPitch": 520,
+  "options": [
+    null,
+    null,
+    null,
+    null,
+    "Move"
+  ],
+  "members": true,
+  "name": "Sliding piece"
+}

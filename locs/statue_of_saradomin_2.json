@@ -1,0 +1,16 @@
+{
+  "id": 586,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1488
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue of Saradomin",
+  "description": "What a good likeness!"
+}

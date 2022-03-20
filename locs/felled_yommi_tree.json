@@ -1,0 +1,16 @@
+{
+  "id": 2950,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1770
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Felled Yommi tree",
+  "description": "A felled adult Yommi tree, perhaps you should trim those branches?"
+}

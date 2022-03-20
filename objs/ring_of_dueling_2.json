@@ -1,0 +1,27 @@
+{
+  "id": 2564,
+  "description": "An enchanted ring.",
+  "value": 1275,
+  "members": true,
+  "modelIndex": 2677,
+  "iconX": 3,
+  "iconY": -35,
+  "iconZoom": 830,
+  "iconYaw": 180,
+  "iconRoll": 2024,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wear",
+    null,
+    "Rub"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    22443
+  ],
+  "name": "Ring of dueling(2)",
+  "notedId": 2565
+}

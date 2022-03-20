@@ -1,0 +1,21 @@
+{
+  "id": 471,
+  "level": 0,
+  "description": "It's a tree gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "name": "Bolkoy",
+  "modelIndices": [
+    2909,
+    2901,
+    2917
+  ],
+  "headModelIndices": [
+    17
+  ]
+}

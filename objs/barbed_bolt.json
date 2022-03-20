@@ -1,0 +1,18 @@
+{
+  "id": 881,
+  "stackable": true,
+  "value": 200,
+  "members": true,
+  "description": "Great if you have a crossbow!",
+  "modelIndex": 2453,
+  "iconX": -6,
+  "iconY": 145,
+  "iconZoom": 580,
+  "iconYaw": 104,
+  "iconCameraPitch": 232,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "name": "Barbed bolt"
+}

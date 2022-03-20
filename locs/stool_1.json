@@ -1,0 +1,16 @@
+{
+  "id": 1095,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1186
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stool",
+  "description": "Good for sitting on."
+}

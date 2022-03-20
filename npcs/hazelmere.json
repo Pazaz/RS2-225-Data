@@ -1,0 +1,31 @@
+{
+  "id": 669,
+  "description": "An ancient looking gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    10365,
+    4550,
+    4541,
+    4537
+  ],
+  "newColors": [
+    11193,
+    5916,
+    5916,
+    5916
+  ],
+  "name": "Hazelmere",
+  "modelIndices": [
+    2909,
+    2901,
+    2916
+  ],
+  "headModelIndices": [
+    17
+  ]
+}

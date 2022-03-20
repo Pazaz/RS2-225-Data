@@ -1,0 +1,17 @@
+{
+  "id": 2440,
+  "parent": 2423,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 26,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Block",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

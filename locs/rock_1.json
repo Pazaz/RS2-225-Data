@@ -1,0 +1,23 @@
+{
+  "id": 436,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    805
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A lump of rock."
+}

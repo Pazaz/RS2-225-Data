@@ -1,0 +1,16 @@
+{
+  "id": 64,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "showOnMinimap": false,
+  "description": "I think this spider has been genetically modified.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 61,
+  "name": "Ice spider",
+  "modelIndices": [
+    2885
+  ]
+}

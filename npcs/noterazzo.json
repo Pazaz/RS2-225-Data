@@ -1,0 +1,38 @@
+{
+  "id": 597,
+  "level": 0,
+  "description": "The lawless shop keeper.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508
+  ],
+  "name": "Noterazzo",
+  "modelIndices": [
+    207,
+    181,
+    247,
+    292,
+    170,
+    176,
+    254,
+    326
+  ],
+  "headModelIndices": [
+    47,
+    79
+  ]
+}

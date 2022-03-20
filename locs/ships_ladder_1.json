@@ -1,0 +1,21 @@
+{
+  "id": 245,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    "Climb-up"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1898
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ship's ladder",
+  "description": "Allows access to other parts of the ship."
+}

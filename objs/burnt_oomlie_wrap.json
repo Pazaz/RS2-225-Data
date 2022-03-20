@@ -1,0 +1,26 @@
+{
+  "id": 2345,
+  "description": "Burnt oomlie meat in a palm leaf pouch.",
+  "modelIndex": 2687,
+  "iconX": 2,
+  "iconY": -103,
+  "iconZoom": 1110,
+  "iconYaw": 176,
+  "iconCameraPitch": 236,
+  "value": 1,
+  "members": true,
+  "oldColors": [
+    63390,
+    2524,
+    18851,
+    13731
+  ],
+  "newColors": [
+    12,
+    20,
+    37,
+    33
+  ],
+  "name": "Burnt oomlie wrap",
+  "notedId": 2346
+}

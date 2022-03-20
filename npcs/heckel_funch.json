@@ -1,0 +1,33 @@
+{
+  "id": 603,
+  "description": "It's another jolly tree gnome.",
+  "standSeq": 195,
+  "walkSeq": 189,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "level": 0,
+  "oldColors": [
+    22426,
+    22424,
+    10365,
+    127
+  ],
+  "newColors": [
+    8472,
+    43914,
+    8621,
+    8621
+  ],
+  "name": "Heckel Funch",
+  "modelIndices": [
+    2901,
+    2909,
+    2915
+  ],
+  "headModelIndices": [
+    17
+  ]
+}

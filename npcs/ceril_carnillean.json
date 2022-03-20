@@ -1,0 +1,42 @@
+{
+  "id": 885,
+  "level": 0,
+  "description": "Head of the Carnillean household.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    25238,
+    43072,
+    8741,
+    7700
+  ],
+  "newColors": [
+    94,
+    4550,
+    1843,
+    1843
+  ],
+  "name": "Ceril Carnillean",
+  "modelIndices": [
+    217,
+    246,
+    299,
+    159,
+    176,
+    274,
+    185,
+    323,
+    281,
+    201
+  ],
+  "headModelIndices": [
+    55,
+    43
+  ]
+}

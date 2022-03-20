@@ -1,0 +1,12 @@
+{
+  "id": 2403,
+  "description": "Scroll containing a powerful enchantment of restoration.",
+  "modelIndex": 2600,
+  "members": true,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "name": "Scroll of hazeel"
+}

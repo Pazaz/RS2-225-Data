@@ -1,0 +1,17 @@
+{
+  "id": 685,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 488,
+  "modelIndices": [
+    2285
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Weather vane",
+  "description": "Shows which way the wind blows."
+}

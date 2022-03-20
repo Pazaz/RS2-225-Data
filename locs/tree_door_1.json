@@ -1,0 +1,19 @@
+{
+  "id": 1967,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1350
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree Door",
+  "description": "A grand door for a grand tree."
+}

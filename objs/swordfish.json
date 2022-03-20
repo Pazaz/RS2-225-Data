@@ -1,0 +1,23 @@
+{
+  "id": 373,
+  "description": "I'd better be careful eating this!",
+  "modelIndex": 2494,
+  "iconX": -7,
+  "iconZoom": 1710,
+  "iconYaw": 1960,
+  "iconCameraPitch": 368,
+  "value": 200,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    52541,
+    52686
+  ],
+  "name": "Swordfish",
+  "notedId": 374
+}

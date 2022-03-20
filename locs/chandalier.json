@@ -1,0 +1,18 @@
+{
+  "id": 209,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1201,
+    1272
+  ],
+  "modelTypes": [
+    10,
+    4
+  ],
+  "name": "Chandalier",
+  "description": "An ornamental lighting fixture."
+}

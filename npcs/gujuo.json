@@ -1,0 +1,44 @@
+{
+  "id": 928,
+  "level": 0,
+  "description": "A dark, charismatic jungle native.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to",
+    "Hidden"
+  ],
+  "oldColors": [
+    4550,
+    43072,
+    25238,
+    8741,
+    908,
+    926
+  ],
+  "newColors": [
+    7062,
+    7062,
+    11939,
+    11939,
+    12182,
+    127
+  ],
+  "name": "Gujuo",
+  "modelIndices": [
+    231,
+    246,
+    309,
+    167,
+    176,
+    265,
+    181,
+    540
+  ],
+  "headModelIndices": [
+    64
+  ]
+}

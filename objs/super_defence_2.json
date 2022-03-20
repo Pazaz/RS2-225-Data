@@ -1,0 +1,22 @@
+{
+  "id": 165,
+  "description": "2 doses of super defence potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 198,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    8008
+  ],
+  "name": "Super defence(2)",
+  "notedId": 166
+}

@@ -1,0 +1,19 @@
+{
+  "id": 964,
+  "description": "Ooooh spooky!",
+  "modelIndex": 2388,
+  "iconX": -1,
+  "iconY": -10,
+  "iconZoom": 530,
+  "iconYaw": 64,
+  "iconRoll": 1996,
+  "iconCameraPitch": 160,
+  "oldColors": [
+    5231
+  ],
+  "newColors": [
+    7514
+  ],
+  "name": "Skull",
+  "notedId": 965
+}

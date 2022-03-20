@@ -1,0 +1,27 @@
+{
+  "id": 472,
+  "level": 0,
+  "description": "It's a tree gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    11162,
+    22422
+  ],
+  "newColors": [
+    38715,
+    38715
+  ],
+  "name": "Remsai",
+  "modelIndices": [
+    2909,
+    2890,
+    2917
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

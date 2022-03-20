@@ -1,0 +1,17 @@
+{
+  "id": 3533,
+  "parent": 3443,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 146,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "You are about to give:",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

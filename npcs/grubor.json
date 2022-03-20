@@ -1,0 +1,44 @@
+{
+  "id": 789,
+  "level": 0,
+  "description": "A rough looking thief.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    8078,
+    43072,
+    4550
+  ],
+  "newColors": [
+    7070,
+    12,
+    6049,
+    5347,
+    4550,
+    6709
+  ],
+  "name": "Grubor",
+  "modelIndices": [
+    215,
+    250,
+    299,
+    159,
+    329,
+    263,
+    185,
+    176
+  ],
+  "headModelIndices": [
+    53,
+    82
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 744,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1510
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Scaffold",
+  "description": "An old-looking bit of scaffolding."
+}

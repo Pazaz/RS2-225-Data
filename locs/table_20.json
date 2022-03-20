@@ -1,0 +1,16 @@
+{
+  "id": 621,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 5,
+  "sizeZ": 5,
+  "modelIndices": [
+    1212
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "It's a banquet table."
+}

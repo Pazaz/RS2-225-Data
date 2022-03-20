@@ -1,0 +1,32 @@
+{
+  "id": 3355,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    5669,
+    5665,
+    8078,
+    10700,
+    10590,
+    10560
+  ],
+  "newColors": [
+    20,
+    7954,
+    17284,
+    57,
+    57,
+    57
+  ],
+  "modelIndices": [
+    708
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "ibantomb_burnt_left"
+}

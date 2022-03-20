@@ -1,0 +1,45 @@
+{
+  "id": 544,
+  "level": 0,
+  "description": "She's an expert on armoured skirts!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    6798,
+    7056,
+    25238,
+    43072
+  ],
+  "newColors": [
+    4647,
+    1950,
+    10508,
+    1950,
+    33,
+    4647
+  ],
+  "name": "Ranael",
+  "modelIndices": [
+    390,
+    478,
+    332,
+    353,
+    428,
+    361,
+    376
+  ],
+  "headModelIndices": [
+    113,
+    43
+  ]
+}

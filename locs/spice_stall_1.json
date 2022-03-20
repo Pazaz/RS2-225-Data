@@ -1,0 +1,16 @@
+{
+  "id": 633,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1484
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spice stall",
+  "description": "The spice is right."
+}

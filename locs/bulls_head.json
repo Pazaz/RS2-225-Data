@@ -1,0 +1,17 @@
+{
+  "id": 906,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2052
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Bull's head",
+  "description": "Looks like the bull lost."
+}

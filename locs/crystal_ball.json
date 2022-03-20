@@ -1,0 +1,16 @@
+{
+  "id": 589,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1190
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crystal ball",
+  "description": "The scrying glass of a seer."
+}

@@ -1,0 +1,35 @@
+{
+  "id": 194,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "A crazy evil necromancer.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 29,
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    687,
+    687,
+    127
+  ],
+  "name": "Necromancer",
+  "modelIndices": [
+    230,
+    181,
+    250,
+    292,
+    170,
+    176,
+    260,
+    328
+  ]
+}

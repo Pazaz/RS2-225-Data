@@ -1,0 +1,17 @@
+{
+  "id": 707,
+  "description": "A mixture of strong chemicals.",
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    12
+  ],
+  "name": "Chemical compound"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 960,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2117
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Clock face",
+  "description": "It's a time machine....sort of!"
+}

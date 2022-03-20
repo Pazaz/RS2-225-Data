@@ -1,0 +1,48 @@
+{
+  "id": 970,
+  "level": 0,
+  "description": "He smells funny.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    9104,
+    25238,
+    7073,
+    10004
+  ],
+  "newColors": [
+    3862,
+    4626,
+    7566,
+    33174,
+    4502,
+    908
+  ],
+  "name": "Diango",
+  "modelIndices": [
+    186,
+    217,
+    253,
+    292,
+    320,
+    167,
+    179,
+    3329,
+    730
+  ],
+  "headModelIndices": [
+    28,
+    55,
+    85
+  ]
+}

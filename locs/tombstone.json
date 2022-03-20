@@ -1,0 +1,16 @@
+{
+  "id": 402,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1364
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tombstone",
+  "description": "The remiains of someone lie inside."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 390,
+  "description": "A big fish with a bigger mouth.",
+  "level": 0,
+  "standSeq": 4,
+  "scaleX": 64,
+  "scaleY": 64,
+  "disposeAlpha": true,
+  "name": "Big fish",
+  "modelIndices": [
+    2845
+  ]
+}

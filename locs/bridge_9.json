@@ -1,0 +1,22 @@
+{
+  "id": 3258,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    762
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bridge"
+}

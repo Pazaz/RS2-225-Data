@@ -1,0 +1,16 @@
+{
+  "id": 871,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1264
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bath pipes",
+  "description": "Takes my dirty bath water away."
+}

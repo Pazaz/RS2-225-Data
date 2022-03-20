@@ -1,0 +1,16 @@
+{
+  "id": 137,
+  "description": "These gnomes know how to get around!",
+  "size": 2,
+  "walkSeq": 326,
+  "standSeq": 330,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 29,
+  "name": "Mounted terrorbird gnome",
+  "modelIndices": [
+    3012
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 542,
+  "level": 0,
+  "description": "For the finest in armoured legware.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    6798,
+    4626
+  ],
+  "newColors": [
+    4647,
+    10508,
+    7700,
+    24
+  ],
+  "name": "Louie legs",
+  "modelIndices": [
+    207,
+    268,
+    249,
+    170,
+    176,
+    185,
+    292
+  ],
+  "headModelIndices": [
+    47,
+    81
+  ]
+}

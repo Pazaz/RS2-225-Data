@@ -1,0 +1,18 @@
+{
+  "id": 1769,
+  "description": "A little bottle of orange dye.",
+  "value": 5,
+  "modelIndex": 2705,
+  "iconY": -2,
+  "iconZoom": 760,
+  "iconYaw": 1920,
+  "iconCameraPitch": 124,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    6073
+  ],
+  "name": "Orange dye",
+  "notedId": 1770
+}

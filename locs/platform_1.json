@@ -1,0 +1,17 @@
+{
+  "id": 3243,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "delayShading": true,
+  "modelIndices": [
+    715
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Platform",
+  "description": "The base of a platform."
+}

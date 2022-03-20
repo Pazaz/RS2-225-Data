@@ -1,0 +1,23 @@
+{
+  "id": 2221,
+  "description": "It actually smells quite good.",
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "value": 120,
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    22414
+  ],
+  "name": "Toad batta",
+  "notedId": 2222
+}

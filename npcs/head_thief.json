@@ -1,0 +1,31 @@
+{
+  "id": 283,
+  "description": "The head of the treacherous blanket stealing gang.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 26,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    47399
+  ],
+  "name": "Head Thief",
+  "modelIndices": [
+    215,
+    247,
+    311,
+    169,
+    179,
+    254,
+    185,
+    518
+  ]
+}

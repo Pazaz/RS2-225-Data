@@ -1,0 +1,25 @@
+{
+  "id": 672,
+  "description": "Glough's girlfriend.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22422
+  ],
+  "newColors": [
+    63009
+  ],
+  "name": "Anita",
+  "modelIndices": [
+    2911,
+    2907,
+    2917
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

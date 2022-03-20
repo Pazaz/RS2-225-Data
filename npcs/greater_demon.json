@@ -1,0 +1,18 @@
+{
+  "id": 83,
+  "size": 3,
+  "scaleX": 110,
+  "scaleY": 110,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "description": "Big, red, and incredibly evil.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 92,
+  "name": "Greater demon",
+  "modelIndices": [
+    2942
+  ]
+}

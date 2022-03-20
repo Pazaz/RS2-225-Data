@@ -1,0 +1,16 @@
+{
+  "id": 748,
+  "size": 2,
+  "walkSeq": 137,
+  "standSeq": 140,
+  "description": "Overgrown vermin.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 6,
+  "name": "Giant rat",
+  "modelIndices": [
+    2959
+  ]
+}

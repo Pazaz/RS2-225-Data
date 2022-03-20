@@ -1,0 +1,24 @@
+{
+  "id": 714,
+  "description": "Notes given to you by Radimus Erkle, it includes a partially completed map.",
+  "members": true,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read",
+    "Complete"
+  ],
+  "oldColors": [
+    10351,
+    7070
+  ],
+  "newColors": [
+    40171,
+    933
+  ],
+  "name": "Radimus notes"
+}

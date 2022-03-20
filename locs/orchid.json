@@ -1,0 +1,16 @@
+{
+  "id": 1203,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1581
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Orchid",
+  "description": "A very rare exotic flower."
+}

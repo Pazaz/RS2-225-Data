@@ -1,0 +1,23 @@
+{
+  "id": 993,
+  "level": 0,
+  "description": "Curiosity is yet to kill this one...",
+  "walkSeq": 314,
+  "standSeq": 317,
+  "options": [
+    "Pick-up"
+  ],
+  "scaleX": 60,
+  "scaleY": 60,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    16
+  ],
+  "name": "Witches cat",
+  "modelIndices": [
+    3010,
+    3006
+  ]
+}

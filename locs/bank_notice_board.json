@@ -1,0 +1,18 @@
+{
+  "id": 961,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "interactable": true,
+  "modelIndices": [
+    2040
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Bank notice board",
+  "description": "'Ask about our low, low interest rates!'"
+}

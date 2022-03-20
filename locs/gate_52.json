@@ -1,0 +1,24 @@
+{
+  "id": 2553,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "interactable": true,
+  "actions": [
+    null,
+    "Pick Lock"
+  ],
+  "modelIndices": [
+    1509,
+    1511
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Gate",
+  "description": "A metal gate bars your way"
+}

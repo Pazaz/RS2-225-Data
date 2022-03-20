@@ -1,0 +1,25 @@
+{
+  "id": 736,
+  "level": 0,
+  "description": "I could get a beer from her.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Barmaid",
+  "modelIndices": [
+    378,
+    467,
+    332,
+    356,
+    419,
+    358
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

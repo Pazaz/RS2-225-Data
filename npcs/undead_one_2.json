@@ -1,0 +1,22 @@
+{
+  "id": 503,
+  "description": "A minion of Rashiliyia.",
+  "walkSeq": 259,
+  "standSeq": 262,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 47,
+  "oldColors": [
+    5231
+  ],
+  "newColors": [
+    14561
+  ],
+  "name": "Undead One",
+  "modelIndices": [
+    2944,
+    2946
+  ]
+}

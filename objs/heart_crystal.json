@@ -1,0 +1,13 @@
+{
+  "id": 744,
+  "description": "A heart shaped crystal.",
+  "modelIndex": 2472,
+  "members": true,
+  "iconX": 2,
+  "iconY": 1,
+  "iconZoom": 660,
+  "options": [
+    "Look-at"
+  ],
+  "name": "Heart crystal"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2625,
+  "description": "Rune platelegs with trim.",
+  "value": 64000,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    41,
+    57
+  ],
+  "newColors": [
+    36133,
+    37270,
+    38226
+  ],
+  "name": "Rune platelegs (t)",
+  "notedId": 2626
+}

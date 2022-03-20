@@ -1,0 +1,19 @@
+{
+  "id": 1761,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 6,
+  "sizeZ": 5,
+  "actions": [
+    "Climb-up"
+  ],
+  "modelIndices": [
+    1772
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Steps",
+  "description": "Steps made from natural rock."
+}

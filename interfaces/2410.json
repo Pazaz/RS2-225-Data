@@ -1,0 +1,30 @@
+{
+  "id": 2410,
+  "parent": 2311,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 35,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    17
+  ],
+  "script": [
+    [
+      1,
+      12,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Chaps",
+  "color": 13369344,
+  "colorEnabled": 39423,
+  "hoverColor": 0
+}

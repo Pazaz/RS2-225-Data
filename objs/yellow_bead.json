@@ -1,0 +1,17 @@
+{
+  "id": 1472,
+  "value": 4,
+  "description": "A small round yellow bead.",
+  "modelIndex": 2456,
+  "iconZoom": 1020,
+  "iconYaw": 68,
+  "iconCameraPitch": 68,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    11200
+  ],
+  "name": "Yellow bead",
+  "notedId": 1473
+}

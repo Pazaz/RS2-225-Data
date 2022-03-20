@@ -1,0 +1,24 @@
+{
+  "id": 2142,
+  "description": "Mmm this looks tasty.",
+  "options": [
+    "Eat"
+  ],
+  "value": 4,
+  "modelIndex": 2760,
+  "iconX": 1,
+  "iconY": 3,
+  "iconZoom": 560,
+  "iconYaw": 176,
+  "iconCameraPitch": 308,
+  "oldColors": [
+    947,
+    127
+  ],
+  "newColors": [
+    5027,
+    2613
+  ],
+  "name": "Cooked meat",
+  "notedId": 2143
+}

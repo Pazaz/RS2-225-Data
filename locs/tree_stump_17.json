@@ -1,0 +1,16 @@
+{
+  "id": 1357,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1661
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree stump",
+  "description": "This tree has been cut down."
+}

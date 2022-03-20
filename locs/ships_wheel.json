@@ -1,0 +1,16 @@
+{
+  "id": 252,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1890
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ship's wheel",
+  "description": "Without this I'm going around in circles."
+}

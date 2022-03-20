@@ -1,0 +1,16 @@
+{
+  "id": 2379,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1277
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Campsite bed",
+  "description": "Technically a bed."
+}

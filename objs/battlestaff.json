@@ -1,0 +1,21 @@
+{
+  "id": 1391,
+  "members": true,
+  "description": "It's a slightly magical stick.",
+  "value": 7000,
+  "modelIndex": 2648,
+  "iconY": -23,
+  "iconZoom": 1460,
+  "iconYaw": 1416,
+  "iconCameraPitch": 196,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 534,
+  "maleOffsetY": 0,
+  "femaleModel0": 534,
+  "femaleOffsetY": 6,
+  "name": "Battlestaff",
+  "notedId": 1392
+}

@@ -1,0 +1,47 @@
+{
+  "id": 466,
+  "description": "Salty old sea dog.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    43569,
+    8741,
+    25238,
+    10262,
+    6798,
+    4550
+  ],
+  "newColors": [
+    8741,
+    39461,
+    272,
+    41,
+    74,
+    6709
+  ],
+  "name": "Murphy",
+  "modelIndices": [
+    217,
+    310,
+    267,
+    170,
+    176,
+    185,
+    194,
+    244,
+    322,
+    249
+  ],
+  "headModelIndices": [
+    55,
+    81,
+    37
+  ]
+}

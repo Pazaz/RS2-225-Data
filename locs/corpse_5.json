@@ -1,0 +1,22 @@
+{
+  "id": 664,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    6241
+  ],
+  "newColors": [
+    28
+  ],
+  "modelIndices": [
+    1078
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Corpse",
+  "description": "Now that's what I call slimline!"
+}

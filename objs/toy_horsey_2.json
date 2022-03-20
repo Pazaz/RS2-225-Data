@@ -1,0 +1,28 @@
+{
+  "id": 2522,
+  "value": 100,
+  "description": "A white toy horse.",
+  "modelIndex": 3339,
+  "maleModel0": 3333,
+  "maleOffsetY": 0,
+  "femaleModel0": 3333,
+  "femaleOffsetY": 6,
+  "iconX": 1,
+  "iconY": -2,
+  "iconZoom": 920,
+  "iconYaw": 1732,
+  "iconCameraPitch": 40,
+  "options": [
+    "Play-with"
+  ],
+  "oldColors": [
+    5662,
+    7954
+  ],
+  "newColors": [
+    43100,
+    43084
+  ],
+  "name": "Toy horsey",
+  "notedId": 2523
+}

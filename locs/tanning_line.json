@@ -1,0 +1,16 @@
+{
+  "id": 1027,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "modelIndices": [
+    1296
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tanning line",
+  "description": "Prepared hides hang here drying."
+}

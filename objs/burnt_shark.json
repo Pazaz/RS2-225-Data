@@ -1,0 +1,22 @@
+{
+  "id": 387,
+  "description": "Oops!",
+  "modelIndex": 2594,
+  "iconX": 5,
+  "iconY": 12,
+  "iconZoom": 1860,
+  "iconYaw": 12,
+  "iconCameraPitch": 344,
+  "value": 1,
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    28,
+    41
+  ],
+  "name": "Burnt shark",
+  "notedId": 388
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2616,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    "Walk-Down"
+  ],
+  "modelIndices": [
+    1952
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stairs",
+  "description": "Looks spooky..."
+}

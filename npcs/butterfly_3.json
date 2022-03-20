@@ -1,0 +1,22 @@
+{
+  "id": 155,
+  "description": "It's a Blue Morpho Butterfly.",
+  "walkSeq": 362,
+  "standSeq": 362,
+  "showOnMinimap": false,
+  "level": 0,
+  "oldColors": [
+    39892,
+    39386,
+    32889
+  ],
+  "newColors": [
+    35767,
+    37834,
+    5648
+  ],
+  "name": "Butterfly",
+  "modelIndices": [
+    3023
+  ]
+}

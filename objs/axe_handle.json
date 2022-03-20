@@ -1,0 +1,23 @@
+{
+  "id": 492,
+  "description": "Useless without the head.",
+  "modelIndex": 2597,
+  "iconX": -19,
+  "iconY": -6,
+  "iconZoom": 1220,
+  "iconYaw": 84,
+  "iconCameraPitch": 440,
+  "maleModel0": 557,
+  "maleOffsetY": 0,
+  "femaleModel0": 557,
+  "femaleOffsetY": 6,
+  "value": 1,
+  "oldColors": [
+    6024
+  ],
+  "newColors": [
+    7073
+  ],
+  "name": "Axe handle",
+  "notedId": 493
+}

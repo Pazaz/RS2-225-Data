@@ -1,0 +1,18 @@
+{
+  "id": 6535,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 57,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "No Forfeit",
+  "color": 11175970,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

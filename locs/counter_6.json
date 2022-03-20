@@ -1,0 +1,23 @@
+{
+  "id": 2876,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6036
+  ],
+  "newColors": [
+    37
+  ],
+  "modelIndices": [
+    723
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Counter",
+  "description": "A counter made from a stone block."
+}

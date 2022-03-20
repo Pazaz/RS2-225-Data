@@ -1,0 +1,16 @@
+{
+  "id": 218,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 8,
+  "sizeZ": 1,
+  "modelIndices": [
+    1851
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sail",
+  "description": "Useful for making ships move."
+}

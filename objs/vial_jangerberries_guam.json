@@ -1,0 +1,17 @@
+{
+  "id": 2390,
+  "modelIndex": 2789,
+  "description": "A mixture of jangerberries and guam leaves in a vial.",
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22422
+  ],
+  "name": "Vial"
+}

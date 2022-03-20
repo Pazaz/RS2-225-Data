@@ -1,0 +1,15 @@
+{
+  "id": 433,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "value": 1,
+  "description": "Pirates don't have the best handwriting...",
+  "name": "Pirate message"
+}

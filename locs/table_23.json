@@ -1,0 +1,27 @@
+{
+  "id": 624,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "scaleX": 40,
+  "scaleY": 100,
+  "scaleZ": 100,
+  "oldColors": [
+    5,
+    22
+  ],
+  "newColors": [
+    16,
+    16
+  ],
+  "modelIndices": [
+    1213
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "A nice sturdy looking table."
+}

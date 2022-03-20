@@ -1,0 +1,11 @@
+{
+  "id": 686,
+  "description": "A decent enough weapon gone rusty.",
+  "modelIndex": 2608,
+  "iconY": -1,
+  "iconZoom": 590,
+  "iconYaw": 1136,
+  "iconCameraPitch": 652,
+  "members": true,
+  "name": "Rusty sword"
+}

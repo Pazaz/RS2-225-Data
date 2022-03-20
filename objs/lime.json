@@ -1,0 +1,15 @@
+{
+  "id": 2120,
+  "description": "A fresh lime.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2816,
+  "iconZoom": 1160,
+  "iconYaw": 744,
+  "iconCameraPitch": 596,
+  "name": "Lime",
+  "notedId": 2121
+}

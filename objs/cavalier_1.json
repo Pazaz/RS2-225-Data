@@ -1,0 +1,24 @@
+{
+  "id": 2639,
+  "description": "All for one and one for all!",
+  "value": 200,
+  "members": true,
+  "modelIndex": 2451,
+  "iconX": -1,
+  "iconY": -8,
+  "iconZoom": 690,
+  "iconYaw": 1856,
+  "iconCameraPitch": 160,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 186,
+  "maleOffsetY": 0,
+  "femaleModel0": 362,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 28,
+  "femaleHeadModelA": 86,
+  "name": "Cavalier",
+  "notedId": 2640
+}

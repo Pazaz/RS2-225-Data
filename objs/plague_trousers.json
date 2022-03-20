@@ -1,0 +1,21 @@
+{
+  "id": 285,
+  "description": "A thick pair of leather trousers.",
+  "members": true,
+  "value": 50,
+  "modelIndex": 2669,
+  "iconY": 6,
+  "iconZoom": 2060,
+  "iconYaw": 1924,
+  "iconRoll": 104,
+  "iconCameraPitch": 596,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 273,
+  "maleOffsetY": 0,
+  "femaleModel0": 436,
+  "femaleOffsetY": 0,
+  "name": "Plague trousers"
+}

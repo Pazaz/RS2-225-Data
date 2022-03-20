@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "walkSeq": 336,
+  "standSeq": 337,
+  "description": "A servent to Zamorak.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 18,
+  "name": "Souless",
+  "modelIndices": [
+    2958
+  ]
+}

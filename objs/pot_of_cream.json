@@ -1,0 +1,17 @@
+{
+  "id": 2130,
+  "description": "Fresh cream.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2636,
+  "iconX": 1,
+  "iconY": -1,
+  "iconZoom": 580,
+  "iconYaw": 1900,
+  "iconCameraPitch": 128,
+  "name": "Pot of cream",
+  "notedId": 2131
+}

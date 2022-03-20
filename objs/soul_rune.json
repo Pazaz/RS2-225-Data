@@ -1,0 +1,12 @@
+{
+  "id": 566,
+  "description": "Used for high level curse spells.",
+  "stackable": true,
+  "value": 1250,
+  "modelIndex": 2434,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "members": true,
+  "name": "Soul rune"
+}

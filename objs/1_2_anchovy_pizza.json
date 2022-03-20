@@ -1,0 +1,26 @@
+{
+  "id": 2299,
+  "options": [
+    "Eat"
+  ],
+  "description": "Half of this pizza has been eaten.",
+  "value": 30,
+  "modelIndex": 2717,
+  "iconX": 8,
+  "iconY": 14,
+  "iconZoom": 880,
+  "iconYaw": 1848,
+  "iconCameraPitch": 272,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    103,
+    937
+  ],
+  "name": "1/2 anchovy pizza",
+  "notedId": 2300
+}

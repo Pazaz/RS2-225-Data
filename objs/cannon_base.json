@@ -1,0 +1,17 @@
+{
+  "id": 6,
+  "description": "The cannon is built on this.",
+  "modelIndex": 2461,
+  "iconX": -2,
+  "iconY": -4,
+  "iconZoom": 2590,
+  "iconYaw": 1756,
+  "iconCameraPitch": 188,
+  "value": 187500,
+  "options": [
+    "Set-up"
+  ],
+  "members": true,
+  "name": "Cannon base",
+  "notedId": 7
+}

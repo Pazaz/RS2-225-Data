@@ -1,0 +1,15 @@
+{
+  "id": 610,
+  "description": "The remains of Zadimus.",
+  "iconX": -4,
+  "iconY": 12,
+  "iconZoom": 1780,
+  "iconYaw": 436,
+  "iconCameraPitch": 320,
+  "modelIndex": 2595,
+  "options": [
+    "Bury"
+  ],
+  "members": true,
+  "name": "Zadimus corpse"
+}

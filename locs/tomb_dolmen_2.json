@@ -1,0 +1,20 @@
+{
+  "id": 2258,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1470
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tomb dolmen",
+  "description": "An ancient construct for supporting the bones of the deceased."
+}

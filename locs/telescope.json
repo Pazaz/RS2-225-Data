@@ -1,0 +1,19 @@
+{
+  "id": 2210,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "actions": [
+    "Use"
+  ],
+  "modelIndices": [
+    1174
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Telescope",
+  "description": "Looking through it makes far off things look closer!"
+}

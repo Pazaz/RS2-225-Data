@@ -1,0 +1,19 @@
+{
+  "id": 1052,
+  "description": "The cape worn by members of the Legends Guild.",
+  "value": 450,
+  "members": true,
+  "modelIndex": 3196,
+  "iconZoom": 1370,
+  "iconYaw": 804,
+  "iconCameraPitch": 204,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3189,
+  "maleOffsetY": 0,
+  "femaleModel0": 3194,
+  "femaleOffsetY": 0,
+  "name": "Cape of legends"
+}

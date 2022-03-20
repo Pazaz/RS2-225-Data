@@ -1,0 +1,17 @@
+{
+  "id": 6066,
+  "parent": 5993,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 650,
+  "width": 401,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "You last logged in 3 days ago from bighouse.onthehill.webcompany.com",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

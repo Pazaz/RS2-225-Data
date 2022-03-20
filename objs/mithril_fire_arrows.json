@@ -1,0 +1,28 @@
+{
+  "id": 2536,
+  "description": "Arrows with mithril heads and oil soaked cloth.",
+  "members": true,
+  "value": 3,
+  "stackable": true,
+  "modelIndex": 2702,
+  "iconZoom": 1580,
+  "iconYaw": 1832,
+  "iconCameraPitch": 336,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    2542,
+    2543,
+    2544,
+    2545
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "name": "Mithril fire arrows"
+}

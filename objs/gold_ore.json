@@ -1,0 +1,21 @@
+{
+  "id": 444,
+  "value": 150,
+  "description": "This needs refining.",
+  "modelIndex": 2748,
+  "iconX": 1,
+  "iconY": 15,
+  "iconZoom": 1400,
+  "iconYaw": 1576,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    7062,
+    45
+  ],
+  "newColors": [
+    8128,
+    8128
+  ],
+  "name": "Gold ore",
+  "notedId": 445
+}

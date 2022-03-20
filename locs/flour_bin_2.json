@@ -1,0 +1,19 @@
+{
+  "id": 1782,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Empty"
+  ],
+  "modelIndices": [
+    1373
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flour bin",
+  "description": "The ground flour comes down from the millstones above."
+}

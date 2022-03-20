@@ -1,0 +1,21 @@
+{
+  "id": 1794,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "oldColors": [
+    6
+  ],
+  "newColors": [
+    18
+  ],
+  "modelIndices": [
+    595
+  ],
+  "modelTypes": [
+    18
+  ]
+}

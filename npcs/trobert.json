@@ -1,0 +1,44 @@
+{
+  "id": 790,
+  "level": 0,
+  "description": "A well dressed thief.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    7700,
+    11200
+  ],
+  "newColors": [
+    12,
+    127,
+    12,
+    7083,
+    111
+  ],
+  "name": "Trobert",
+  "modelIndices": [
+    235,
+    246,
+    292,
+    254,
+    323,
+    179,
+    185,
+    151,
+    290,
+    518,
+    326
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

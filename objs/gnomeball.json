@@ -1,0 +1,19 @@
+{
+  "id": 751,
+  "description": "A ball from the game Gnomeball",
+  "modelIndex": 2644,
+  "iconZoom": 790,
+  "iconYaw": 2020,
+  "iconCameraPitch": 108,
+  "options": [
+    null,
+    "Hold"
+  ],
+  "maleModel0": 528,
+  "maleOffsetY": 0,
+  "femaleModel0": 528,
+  "femaleOffsetY": 6,
+  "members": true,
+  "name": "Gnomeball",
+  "notedId": 752
+}

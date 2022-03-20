@@ -1,0 +1,30 @@
+{
+  "id": 800,
+  "members": true,
+  "value": 3,
+  "description": "A finely balanced throwing axe.",
+  "modelIndex": 2752,
+  "maleModel0": 545,
+  "maleOffsetY": 0,
+  "femaleModel0": 545,
+  "femaleOffsetY": 6,
+  "iconX": 1,
+  "iconY": 6,
+  "iconZoom": 750,
+  "iconYaw": 208,
+  "iconCameraPitch": 388,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackable": true,
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    5652,
+    5652
+  ],
+  "name": "Bronze thrownaxe"
+}

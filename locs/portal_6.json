@@ -1,0 +1,29 @@
+{
+  "id": 2469,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 504,
+  "actions": [
+    "Use"
+  ],
+  "brightness": 100,
+  "specular": 100,
+  "disposeAlpha": true,
+  "oldColors": [
+    11218
+  ],
+  "newColors": [
+    935
+  ],
+  "modelIndices": [
+    2318
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Portal",
+  "description": "A portal from this mystical place."
+}

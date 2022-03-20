@@ -1,0 +1,39 @@
+{
+  "id": 517,
+  "level": 0,
+  "description": "This is Fernahei - he owns the local fishing tackle shop.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    43072,
+    25238
+  ],
+  "newColors": [
+    4785,
+    4785,
+    7070
+  ],
+  "name": "Fernahei",
+  "modelIndices": [
+    203,
+    248,
+    311,
+    167,
+    176,
+    267,
+    181
+  ],
+  "headModelIndices": [
+    45,
+    80
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 538,
+  "modelIndex": 2521,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "members": true,
+  "value": 30,
+  "description": "Keeps a druids's knees nice and warm.",
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Druid's robe",
+  "notedId": 539
+}

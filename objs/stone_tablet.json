@@ -1,0 +1,15 @@
+{
+  "id": 699,
+  "description": "An old stone slab with writing on it.",
+  "modelIndex": 2627,
+  "iconY": -16,
+  "iconZoom": 1370,
+  "iconYaw": 1888,
+  "iconCameraPitch": 180,
+  "members": true,
+  "options": [
+    null,
+    "Read"
+  ],
+  "name": "Stone tablet"
+}

@@ -1,0 +1,26 @@
+{
+  "id": 295,
+  "description": "A bright green gem set in a necklace.",
+  "modelIndex": 2515,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 283,
+  "maleOffsetY": 0,
+  "femaleModel0": 447,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    22464
+  ],
+  "name": "Glarials amulet"
+}

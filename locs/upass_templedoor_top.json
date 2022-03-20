@@ -1,0 +1,15 @@
+{
+  "id": 3332,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 4,
+  "modelIndices": [
+    765
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "upass_templedoor_top"
+}

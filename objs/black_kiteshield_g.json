@@ -1,0 +1,31 @@
+{
+  "id": 2597,
+  "description": "Black kiteshield with gold trim.",
+  "modelIndex": 2339,
+  "iconX": -6,
+  "iconY": -14,
+  "iconZoom": 1560,
+  "iconYaw": 1104,
+  "iconCameraPitch": 344,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 1632,
+  "maleModel0": 486,
+  "maleOffsetY": 0,
+  "femaleModel0": 486,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    57,
+    7054
+  ],
+  "newColors": [
+    12,
+    12,
+    7114
+  ],
+  "name": "Black kiteshield (g)",
+  "notedId": 2598
+}

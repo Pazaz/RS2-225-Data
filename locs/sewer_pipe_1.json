@@ -1,0 +1,19 @@
+{
+  "id": 2541,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    813
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sewer pipe",
+  "description": "An outlet to the sewer."
+}

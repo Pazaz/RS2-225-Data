@@ -1,0 +1,20 @@
+{
+  "id": 312,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Pick"
+  ],
+  "modelIndices": [
+    1698
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potato",
+  "description": "Potato-licious!"
+}

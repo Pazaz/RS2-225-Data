@@ -1,0 +1,19 @@
+{
+  "id": 1852,
+  "description": "A key to the chest in Captain Siad's room.",
+  "value": 1,
+  "modelIndex": 2372,
+  "members": true,
+  "iconX": -3,
+  "iconY": 5,
+  "iconZoom": 700,
+  "iconYaw": 20,
+  "iconCameraPitch": 328,
+  "oldColors": [
+    8128
+  ],
+  "newColors": [
+    6059
+  ],
+  "name": "Bedobin key"
+}

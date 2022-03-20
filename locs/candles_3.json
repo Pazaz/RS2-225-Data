@@ -1,0 +1,22 @@
+{
+  "id": 204,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    6695
+  ],
+  "newColors": [
+    18
+  ],
+  "modelIndices": [
+    1204
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Candles",
+  "description": "Posh candlesticks."
+}

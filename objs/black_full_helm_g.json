@@ -1,0 +1,31 @@
+{
+  "id": 2595,
+  "description": "Black full helm with gold trim.",
+  "value": 1056,
+  "modelIndex": 2813,
+  "iconX": -1,
+  "iconY": 6,
+  "iconZoom": 800,
+  "iconYaw": 152,
+  "iconCameraPitch": 160,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 218,
+  "maleOffsetY": 0,
+  "femaleModel0": 394,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 56,
+  "femaleHeadModelA": 116,
+  "oldColors": [
+    61,
+    926
+  ],
+  "newColors": [
+    8,
+    7114
+  ],
+  "name": "Black full helm (g)",
+  "notedId": 2596
+}

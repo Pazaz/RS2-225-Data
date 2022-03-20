@@ -1,0 +1,15 @@
+{
+  "id": 122,
+  "walkSeq": 162,
+  "standSeq": 166,
+  "description": "An ugly, smelly creature.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 28,
+  "name": "Hobgoblin",
+  "modelIndices": [
+    2994
+  ]
+}

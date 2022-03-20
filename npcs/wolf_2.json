@@ -1,0 +1,24 @@
+{
+  "id": 142,
+  "size": 2,
+  "walkSeq": 74,
+  "standSeq": 77,
+  "description": "A social killer.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 25,
+  "oldColors": [
+    61,
+    61
+  ],
+  "newColors": [
+    127,
+    127
+  ],
+  "name": "Wolf",
+  "modelIndices": [
+    2937
+  ]
+}

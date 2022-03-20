@@ -1,0 +1,26 @@
+{
+  "id": 1430,
+  "description": "A spiky mace.",
+  "value": 1440,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 502,
+  "maleOffsetY": 0,
+  "femaleModel0": 502,
+  "femaleOffsetY": 6,
+  "modelIndex": 2464,
+  "iconY": -1,
+  "iconZoom": 1030,
+  "iconYaw": 1188,
+  "iconCameraPitch": 392,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    21662
+  ],
+  "name": "Adamant mace",
+  "notedId": 1431
+}

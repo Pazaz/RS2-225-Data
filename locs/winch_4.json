@@ -1,0 +1,20 @@
+{
+  "id": 2667,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Use"
+  ],
+  "modelIndices": [
+    1778
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch",
+  "description": "Slaves are using this to pull up barrels of rocks from down below."
+}

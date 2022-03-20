@@ -1,0 +1,29 @@
+{
+  "id": 886,
+  "description": "Arrows with steel heads.",
+  "value": 12,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    912,
+    911,
+    910,
+    913
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "name": "Steel arrow"
+}

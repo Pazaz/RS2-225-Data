@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "description": "It's missing a handle.",
+  "modelIndex": 2444,
+  "iconX": -15,
+  "iconZoom": 1060,
+  "iconYaw": 1196,
+  "iconCameraPitch": 520,
+  "value": 12799,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Axe head",
+  "notedId": 521
+}

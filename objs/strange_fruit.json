@@ -1,0 +1,14 @@
+{
+  "id": 464,
+  "description": "I wonder what this tastes like?",
+  "modelIndex": 2432,
+  "members": true,
+  "iconZoom": 940,
+  "iconYaw": 56,
+  "iconCameraPitch": 116,
+  "options": [
+    "Eat"
+  ],
+  "name": "Strange fruit",
+  "notedId": 465
+}

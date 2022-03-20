@@ -1,0 +1,16 @@
+{
+  "id": 2722,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1382
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hopper controls",
+  "description": "These control the flow of grain from the hopper to the millstones."
+}

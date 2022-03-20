@@ -1,0 +1,42 @@
+{
+  "id": 499,
+  "level": 0,
+  "description": "He can look after my money.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    61,
+    6798,
+    4550
+  ],
+  "newColors": [
+    45,
+    45,
+    4550,
+    41,
+    4785
+  ],
+  "name": "Banker",
+  "modelIndices": [
+    206,
+    246,
+    292,
+    162,
+    176,
+    271,
+    181,
+    320
+  ],
+  "headModelIndices": [
+    46
+  ],
+  "wander": 0
+}

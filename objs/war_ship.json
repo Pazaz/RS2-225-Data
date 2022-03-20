@@ -1,0 +1,13 @@
+{
+  "id": 795,
+  "description": "A model of a Karamja warship.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 3065,
+  "iconX": 4,
+  "iconY": 21,
+  "iconZoom": 710,
+  "iconYaw": 1832,
+  "iconCameraPitch": 60,
+  "name": "War ship"
+}

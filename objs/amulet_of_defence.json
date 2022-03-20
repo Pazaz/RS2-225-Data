@@ -1,0 +1,31 @@
+{
+  "id": 1729,
+  "description": "An enchanted emerald amulet of protection.",
+  "value": 1275,
+  "modelIndex": 2796,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 290,
+  "maleOffsetY": 0,
+  "femaleModel0": 454,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    127,
+    5916,
+    4882
+  ],
+  "newColors": [
+    22443,
+    127,
+    127
+  ],
+  "name": "Amulet of defence",
+  "notedId": 1730
+}

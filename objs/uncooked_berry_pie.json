@@ -1,0 +1,22 @@
+{
+  "id": 2321,
+  "description": "This would be much more appetising cooked.",
+  "modelIndex": 2767,
+  "iconY": -9,
+  "iconZoom": 950,
+  "iconYaw": 104,
+  "iconCameraPitch": 192,
+  "value": 6,
+  "oldColors": [
+    8670,
+    5006,
+    61
+  ],
+  "newColors": [
+    5720,
+    4407,
+    4416
+  ],
+  "name": "Uncooked berry pie",
+  "notedId": 2322
+}

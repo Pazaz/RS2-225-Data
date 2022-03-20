@@ -1,0 +1,16 @@
+{
+  "id": 3242,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1796
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Lever",
+  "description": "This lever can be operated."
+}

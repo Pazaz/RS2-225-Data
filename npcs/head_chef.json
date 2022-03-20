@@ -1,0 +1,39 @@
+{
+  "id": 847,
+  "level": 0,
+  "description": "Despite his name, rarely actually cooks heads.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    107
+  ],
+  "newColors": [
+    39145,
+    10258,
+    127
+  ],
+  "name": "Head chef",
+  "modelIndices": [
+    215,
+    199,
+    251,
+    305,
+    170,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    41,
+    83
+  ]
+}

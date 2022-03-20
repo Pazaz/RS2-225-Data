@@ -1,0 +1,24 @@
+{
+  "id": 1172,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    6090,
+    5594
+  ],
+  "newColors": [
+    6575,
+    7867
+  ],
+  "modelIndices": [
+    1609
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fungus",
+  "description": "I doubt that's edible."
+}

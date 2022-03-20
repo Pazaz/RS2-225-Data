@@ -1,0 +1,19 @@
+{
+  "id": 2211,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Read"
+  ],
+  "modelIndices": [
+    1370
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Grave of Scorpius",
+  "description": "A weathered old gravestone."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1937,
+  "description": "It's full of water.",
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "value": 1,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    43486
+  ],
+  "name": "Jug of water",
+  "notedId": 1938
+}

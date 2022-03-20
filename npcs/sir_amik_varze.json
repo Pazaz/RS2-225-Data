@@ -1,0 +1,48 @@
+{
+  "id": 608,
+  "level": 0,
+  "description": "Leader of the White Knights.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    70,
+    5532,
+    41,
+    61,
+    7700,
+    57
+  ],
+  "newColors": [
+    99,
+    82,
+    82,
+    99,
+    103,
+    99
+  ],
+  "name": "Sir Amik Varze",
+  "modelIndices": [
+    215,
+    306,
+    164,
+    179,
+    268,
+    184,
+    518,
+    517,
+    201,
+    249,
+    323
+  ],
+  "headModelIndices": [
+    53,
+    81,
+    43
+  ]
+}

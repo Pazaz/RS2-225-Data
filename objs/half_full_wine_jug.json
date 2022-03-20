@@ -1,0 +1,22 @@
+{
+  "id": 1989,
+  "description": "An optimist would say it's half full.",
+  "value": 1,
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "options": [
+    "Drink"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    701
+  ],
+  "name": "Half full wine jug",
+  "notedId": 1990
+}

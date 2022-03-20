@@ -1,0 +1,23 @@
+{
+  "id": 740,
+  "description": "A strange blue wizards hat.",
+  "value": 2,
+  "modelIndex": 2483,
+  "members": true,
+  "iconX": 5,
+  "iconY": -10,
+  "iconZoom": 800,
+  "iconYaw": 156,
+  "iconCameraPitch": 152,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 202,
+  "maleOffsetY": 0,
+  "femaleModel0": 377,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 44,
+  "femaleHeadModelA": 102,
+  "name": "Blue hat"
+}

@@ -1,0 +1,41 @@
+{
+  "id": 712,
+  "level": 0,
+  "description": "She looks upset.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    8741,
+    25238,
+    43072,
+    4626
+  ],
+  "newColors": [
+    5025,
+    50006,
+    50006,
+    50006,
+    4550,
+    53018
+  ],
+  "name": "Carla",
+  "modelIndices": [
+    390,
+    471,
+    332,
+    353,
+    428,
+    358
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

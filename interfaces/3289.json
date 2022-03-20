@@ -1,0 +1,17 @@
+{
+  "id": 3289,
+  "parent": 3281,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 31,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "Port",
+  "color": 15977625,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

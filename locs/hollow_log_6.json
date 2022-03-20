@@ -1,0 +1,25 @@
+{
+  "id": 1370,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "oldColors": [
+    4537,
+    4531
+  ],
+  "newColors": [
+    21646,
+    21646
+  ],
+  "modelIndices": [
+    1634
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hollow log",
+  "description": "This old tree is rotting away."
+}

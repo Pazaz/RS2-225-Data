@@ -1,0 +1,27 @@
+{
+  "id": 2629,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Push"
+  ],
+  "modelIndices": [
+    678,
+    679,
+    636,
+    637,
+    638
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Wall",
+  "description": "There is something unusual about this wall..."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3254,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "actions": [
+    "Cross"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    751
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bridge",
+  "description": "I can't get past that very easily..."
+}

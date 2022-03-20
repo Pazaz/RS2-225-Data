@@ -1,0 +1,26 @@
+{
+  "id": 1167,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    2857,
+    7283,
+    6371
+  ],
+  "newColors": [
+    2332,
+    8381,
+    9641
+  ],
+  "modelIndices": [
+    1579
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mushroom",
+  "description": "Fungal growth."
+}

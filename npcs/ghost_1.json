@@ -1,0 +1,18 @@
+{
+  "id": 103,
+  "description": "Eeek! A ghost!",
+  "disposeAlpha": true,
+  "walkSeq": 119,
+  "standSeq": 125,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "name": "Ghost",
+  "modelIndices": [
+    2961,
+    2964,
+    2965
+  ]
+}

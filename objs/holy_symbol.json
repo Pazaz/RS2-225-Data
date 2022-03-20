@@ -1,0 +1,33 @@
+{
+  "id": 1718,
+  "description": "A blessed holy symbol of Saradomin.",
+  "value": 300,
+  "modelIndex": 2462,
+  "iconX": -3,
+  "iconY": -235,
+  "iconZoom": 990,
+  "iconYaw": 96,
+  "iconCameraPitch": 260,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 280,
+  "maleOffsetY": 0,
+  "maleModel1": 284,
+  "femaleModel0": 444,
+  "femaleOffsetY": 0,
+  "femaleModel1": 448,
+  "oldColors": [
+    10171,
+    5916,
+    4882
+  ],
+  "newColors": [
+    94,
+    127,
+    127
+  ],
+  "name": "Holy symbol",
+  "notedId": 1719
+}

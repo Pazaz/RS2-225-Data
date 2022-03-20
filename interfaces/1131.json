@@ -1,0 +1,30 @@
+{
+  "id": 1131,
+  "parent": 994,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 25,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    0
+  ],
+  "script": [
+    [
+      5,
+      210,
+      0
+    ]
+  ],
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "1bar",
+  "color": 12582912,
+  "colorEnabled": 49152,
+  "hoverColor": 0
+}

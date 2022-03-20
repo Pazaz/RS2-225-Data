@@ -1,0 +1,17 @@
+{
+  "id": 700,
+  "description": "An acrid chemical.",
+  "modelIndex": 2742,
+  "members": true,
+  "iconY": -1,
+  "iconZoom": 520,
+  "iconYaw": 2008,
+  "iconCameraPitch": 136,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    115
+  ],
+  "name": "Chemical powder"
+}

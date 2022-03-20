@@ -1,0 +1,30 @@
+{
+  "id": 817,
+  "stackable": true,
+  "members": true,
+  "value": 350,
+  "description": "A deadly poisoned dart with a rune tip.",
+  "modelIndex": 2454,
+  "iconX": 8,
+  "iconY": 11,
+  "iconZoom": 720,
+  "iconYaw": 336,
+  "iconCameraPitch": 396,
+  "maleModel0": 500,
+  "maleOffsetY": 0,
+  "femaleModel0": 500,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    82,
+    22459
+  ],
+  "newColors": [
+    36133,
+    13221
+  ],
+  "name": "Rune dart(p)"
+}

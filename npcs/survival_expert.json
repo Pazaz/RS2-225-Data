@@ -1,0 +1,43 @@
+{
+  "id": 943,
+  "level": 0,
+  "description": "Very much an outdoors type.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    926,
+    7700,
+    11200,
+    8078,
+    25238,
+    8741
+  ],
+  "newColors": [
+    9104,
+    8078,
+    8078,
+    677,
+    8741,
+    425
+  ],
+  "name": "Survival Expert",
+  "modelIndices": [
+    384,
+    481,
+    456,
+    343,
+    356,
+    431,
+    361,
+    482
+  ],
+  "headModelIndices": [
+    108
+  ]
+}

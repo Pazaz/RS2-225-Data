@@ -1,0 +1,16 @@
+{
+  "id": 834,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1232
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sword cabinet",
+  "description": "Break glass in case of emergency."
+}

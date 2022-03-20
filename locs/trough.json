@@ -1,0 +1,24 @@
+{
+  "id": 2044,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "oldColors": [
+    3998,
+    61
+  ],
+  "newColors": [
+    2452,
+    33
+  ],
+  "modelIndices": [
+    1540
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trough",
+  "description": "Like an animal dinner table."
+}

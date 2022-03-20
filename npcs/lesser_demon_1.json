@@ -1,0 +1,16 @@
+{
+  "id": 82,
+  "size": 2,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "description": "Lesser, but still pretty big.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 82,
+  "name": "Lesser demon",
+  "modelIndices": [
+    2943
+  ]
+}

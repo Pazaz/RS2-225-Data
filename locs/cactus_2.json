@@ -1,0 +1,17 @@
+{
+  "id": 1397,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 4,
+  "modelIndices": [
+    1604
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cactus",
+  "description": "This cactus has recently had a chunk taken off."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 84,
+  "description": "The power in this staff causes it to vibrate gently.",
+  "members": true,
+  "value": 15,
+  "modelIndex": 2810,
+  "iconX": -5,
+  "iconY": 2,
+  "iconZoom": 1490,
+  "iconYaw": 1400,
+  "iconCameraPitch": 148,
+  "oldColors": [
+    43117
+  ],
+  "newColors": [
+    326
+  ],
+  "name": "Staff of armadyl"
+}

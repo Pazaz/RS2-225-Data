@@ -1,0 +1,26 @@
+{
+  "id": 45,
+  "description": "She quackers.",
+  "walkSeq": 7,
+  "standSeq": 7,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "showOnMinimap": false,
+  "level": 1,
+  "oldColors": [
+    17694,
+    66,
+    86
+  ],
+  "newColors": [
+    5667,
+    5660,
+    5910
+  ],
+  "name": "Duck",
+  "modelIndices": [
+    2847
+  ]
+}

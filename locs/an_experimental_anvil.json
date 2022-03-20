@@ -1,0 +1,19 @@
+{
+  "id": 2672,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Use"
+  ],
+  "modelIndices": [
+    1251
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "An experimental anvil",
+  "description": "I can try to make new items on this."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1131,
+  "value": 170,
+  "description": "Harder than normal leather.",
+  "modelIndex": 2474,
+  "iconZoom": 920,
+  "iconCameraPitch": 628,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 296,
+  "maleOffsetY": 0,
+  "femaleModel0": 296,
+  "femaleOffsetY": 0,
+  "name": "Hardleather body",
+  "notedId": 1132
+}

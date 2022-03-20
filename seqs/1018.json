@@ -1,0 +1,19 @@
+{
+  "id": 1018,
+  "delay": 3,
+  "primaryFrames": [
+    4086,
+    4090,
+    4095
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2368,
+  "value": 500000,
+  "description": "The right half of a dragon square shield.",
+  "modelIndex": 2360,
+  "iconX": -13,
+  "iconZoom": 1800,
+  "iconYaw": 140,
+  "iconCameraPitch": 392,
+  "members": true,
+  "name": "Shield right half",
+  "notedId": 2369
+}

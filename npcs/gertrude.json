@@ -1,0 +1,40 @@
+{
+  "id": 780,
+  "level": 0,
+  "description": "A busy housewife.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    5916,
+    4626
+  ],
+  "newColors": [
+    57924,
+    50407,
+    4680,
+    10946,
+    43945
+  ],
+  "name": "Gertrude",
+  "modelIndices": [
+    390,
+    462,
+    348,
+    353,
+    428,
+    358,
+    444
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

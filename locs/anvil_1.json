@@ -1,0 +1,17 @@
+{
+  "id": 2782,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 14,
+  "modelIndices": [
+    1251
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Anvil",
+  "description": "It says \"Property of Doric the dwarf.\" on the side."
+}

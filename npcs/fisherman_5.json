@@ -1,0 +1,30 @@
+{
+  "id": 705,
+  "level": 0,
+  "description": "Something fishy about him...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    5805,
+    7855
+  ],
+  "name": "Fisherman",
+  "modelIndices": [
+    230,
+    250,
+    292,
+    162,
+    176,
+    265,
+    181,
+    241,
+    323
+  ]
+}

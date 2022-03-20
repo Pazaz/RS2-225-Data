@@ -1,0 +1,15 @@
+{
+  "id": 2776,
+  "description": "A clue!",
+  "value": 1,
+  "members": true,
+  "modelIndex": 3374,
+  "iconX": 1,
+  "iconZoom": 1010,
+  "iconYaw": 672,
+  "iconCameraPitch": 360,
+  "options": [
+    "Read"
+  ],
+  "name": "Clue scroll"
+}

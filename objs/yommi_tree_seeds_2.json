@@ -1,0 +1,22 @@
+{
+  "id": 736,
+  "description": "These are germinated and ready to be planted in fertile soil.",
+  "modelIndex": 2381,
+  "iconX": 7,
+  "iconY": 39,
+  "iconZoom": 920,
+  "iconYaw": 676,
+  "iconCameraPitch": 240,
+  "members": true,
+  "stackable": true,
+  "groundOptions": [
+    "Look"
+  ],
+  "oldColors": [
+    43288
+  ],
+  "newColors": [
+    17344
+  ],
+  "name": "Yommi tree seeds"
+}

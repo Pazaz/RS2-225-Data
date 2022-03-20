@@ -1,0 +1,20 @@
+{
+  "id": 62,
+  "value": 320,
+  "members": true,
+  "description": "An unstrung maple longbow, I need a bowstring for this.",
+  "modelIndex": 2401,
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1820,
+  "iconYaw": 1004,
+  "iconCameraPitch": 460,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    2250
+  ],
+  "name": "Maple longbow",
+  "notedId": 63
+}

@@ -1,0 +1,43 @@
+{
+  "id": 795,
+  "description": "A cold hearted lady.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 102,
+  "oldColors": [
+    41,
+    61,
+    4550,
+    12224,
+    25238,
+    6798
+  ],
+  "newColors": [
+    43484,
+    39386,
+    41193,
+    43484,
+    43484,
+    42209
+  ],
+  "name": "Ice Queen",
+  "modelIndices": [
+    379,
+    368,
+    468,
+    440,
+    353,
+    339
+  ],
+  "headModelIndices": [
+    104,
+    93
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": 889,
+  "description": "Venomous looking arrows.",
+  "members": true,
+  "value": 32,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    924,
+    923,
+    922,
+    925
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    43297,
+    13221
+  ],
+  "name": "Mithril arrow(p)"
+}

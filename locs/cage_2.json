@@ -1,0 +1,22 @@
+{
+  "id": 3267,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    969,
+    970
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Cage",
+  "description": "Usually used for storing living things..."
+}

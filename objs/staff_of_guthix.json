@@ -1,0 +1,20 @@
+{
+  "id": 2416,
+  "description": "It's a stick of the gods.",
+  "value": 80000,
+  "members": true,
+  "modelIndex": 2634,
+  "iconX": -7,
+  "iconZoom": 1830,
+  "iconYaw": 980,
+  "iconCameraPitch": 324,
+  "maleModel0": 527,
+  "maleOffsetY": 0,
+  "femaleModel0": 527,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "name": "Staff of guthix"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1743,
+  "description": "It's a piece of hard leather.",
+  "modelIndex": 2338,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 1190,
+  "iconYaw": 116,
+  "iconCameraPitch": 440,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    7566
+  ],
+  "name": "Hard leather",
+  "notedId": 1744
+}

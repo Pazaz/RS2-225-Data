@@ -1,0 +1,21 @@
+{
+  "id": 421,
+  "description": "Yup. It's an amulet.",
+  "value": 10,
+  "modelIndex": 2508,
+  "iconX": -1,
+  "iconY": -5,
+  "iconZoom": 420,
+  "iconYaw": 80,
+  "iconCameraPitch": 224,
+  "members": true,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 282,
+  "maleOffsetY": 0,
+  "femaleModel0": 446,
+  "femaleOffsetY": 0,
+  "name": "Lathas' amulet"
+}

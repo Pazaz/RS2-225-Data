@@ -1,0 +1,20 @@
+{
+  "id": 2406,
+  "description": "Sign of my commitment to Hazeel.",
+  "modelIndex": 2392,
+  "members": true,
+  "iconX": -1,
+  "iconY": 12,
+  "iconZoom": 430,
+  "iconYaw": 1764,
+  "iconCameraPitch": 288,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 286,
+  "maleOffsetY": 0,
+  "femaleModel0": 450,
+  "femaleOffsetY": 0,
+  "name": "Mark of hazeel"
+}

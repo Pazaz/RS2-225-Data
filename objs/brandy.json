@@ -1,0 +1,15 @@
+{
+  "id": 2021,
+  "description": "A strong spirit.",
+  "value": 5,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2836,
+  "iconZoom": 1030,
+  "iconYaw": 1808,
+  "iconCameraPitch": 76,
+  "name": "Brandy",
+  "notedId": 2022
+}

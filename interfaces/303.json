@@ -1,0 +1,17 @@
+{
+  "id": 303,
+  "parent": 297,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 69,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Total Points:",
+  "color": 39423,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

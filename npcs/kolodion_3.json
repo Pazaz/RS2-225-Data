@@ -1,0 +1,47 @@
+{
+  "id": 907,
+  "level": 0,
+  "description": "He runs the mage arena.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "oldColors": [
+    53947,
+    11200,
+    8741,
+    25238,
+    8078,
+    908
+  ],
+  "newColors": [
+    43968,
+    43934,
+    43920,
+    43920,
+    43926,
+    43968
+  ],
+  "name": "Kolodion",
+  "modelIndices": [
+    162,
+    185,
+    176,
+    208,
+    250,
+    265,
+    292,
+    236,
+    290
+  ],
+  "headModelIndices": [
+    48,
+    82,
+    68
+  ]
+}

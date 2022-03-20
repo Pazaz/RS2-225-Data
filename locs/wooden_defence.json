@@ -1,0 +1,16 @@
+{
+  "id": 824,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1334
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wooden defence",
+  "description": "A wooden defensive structure."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 993,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "actions": [
+    "Climb-over"
+  ],
+  "modelIndices": [
+    982
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stile",
+  "description": "I can climb over the fence with this."
+}

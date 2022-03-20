@@ -1,0 +1,17 @@
+{
+  "id": 954,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1516
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Doormat",
+  "description": "For wiping muddy feet on."
+}

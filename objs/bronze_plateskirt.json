@@ -1,0 +1,28 @@
+{
+  "id": 1087,
+  "description": "Designer leg protection.",
+  "value": 80,
+  "modelIndex": 2542,
+  "iconX": 5,
+  "iconY": 5,
+  "iconZoom": 1100,
+  "iconCameraPitch": 620,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 266,
+  "maleOffsetY": 0,
+  "femaleModel0": 430,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    5652,
+    7050
+  ],
+  "name": "Bronze plateskirt",
+  "notedId": 1088
+}

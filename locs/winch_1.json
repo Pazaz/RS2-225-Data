@@ -1,0 +1,19 @@
+{
+  "id": 255,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Operate"
+  ],
+  "modelIndices": [
+    1835
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch",
+  "description": "Used for pulling things up."
+}

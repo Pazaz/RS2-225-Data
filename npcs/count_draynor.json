@@ -1,0 +1,40 @@
+{
+  "id": 757,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "Stop looking and run!",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 39,
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    6038,
+    11183
+  ],
+  "newColors": [
+    3303,
+    0,
+    0,
+    926,
+    10475
+  ],
+  "name": "Count Draynor",
+  "modelIndices": [
+    227,
+    323,
+    292,
+    320,
+    256,
+    163,
+    176,
+    238,
+    283
+  ]
+}

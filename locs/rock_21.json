@@ -1,0 +1,19 @@
+{
+  "id": 2831,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Jump-From"
+  ],
+  "modelIndices": [
+    1391
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "You can probably jump over from here."
+}

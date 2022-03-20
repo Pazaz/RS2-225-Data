@@ -1,0 +1,18 @@
+{
+  "id": 38,
+  "description": "A spooky candle.",
+  "members": true,
+  "value": 3,
+  "modelIndex": 2467,
+  "iconY": -2,
+  "iconZoom": 570,
+  "iconYaw": 1864,
+  "iconCameraPitch": 168,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    8
+  ],
+  "name": "Black candle"
+}

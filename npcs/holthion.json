@@ -1,0 +1,18 @@
+{
+  "id": 1000,
+  "size": 3,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "description": "One of the Guardians of Iban.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "scaleX": 110,
+  "scaleY": 110,
+  "level": 91,
+  "name": "Holthion",
+  "modelIndices": [
+    2942
+  ]
+}

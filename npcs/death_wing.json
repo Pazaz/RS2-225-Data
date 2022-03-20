@@ -1,0 +1,29 @@
+{
+  "id": 79,
+  "description": "A shadowy, barely visible flying entity from some evil place.",
+  "size": 2,
+  "disposeAlpha": true,
+  "walkSeq": 29,
+  "standSeq": 35,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 83,
+  "oldColors": [
+    931,
+    935,
+    0,
+    914
+  ],
+  "newColors": [
+    0,
+    0,
+    20,
+    20
+  ],
+  "name": "Death wing",
+  "modelIndices": [
+    2940
+  ]
+}

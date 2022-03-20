@@ -1,0 +1,17 @@
+{
+  "id": 1947,
+  "parent": 1829,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 174,
+  "height": 68,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Level 53 : Earth Blast",
+  "color": 16773120,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

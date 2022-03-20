@@ -1,0 +1,42 @@
+{
+  "id": 576,
+  "level": 0,
+  "description": "Something fishy about him.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    54397,
+    43072,
+    6798
+  ],
+  "newColors": [
+    5014,
+    6709,
+    36771,
+    4550,
+    78
+  ],
+  "name": "Harry",
+  "modelIndices": [
+    215,
+    263,
+    246,
+    159,
+    176,
+    185,
+    302
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

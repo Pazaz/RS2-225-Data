@@ -1,0 +1,13 @@
+{
+  "id": 948,
+  "description": "This would make warm clothing.",
+  "modelIndex": 2631,
+  "iconX": -2,
+  "iconY": 5,
+  "iconZoom": 1290,
+  "iconYaw": 168,
+  "iconCameraPitch": 388,
+  "value": 10,
+  "name": "Fur",
+  "notedId": 949
+}

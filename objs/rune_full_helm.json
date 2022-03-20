@@ -1,0 +1,31 @@
+{
+  "id": 1163,
+  "description": "A full face helmet.",
+  "value": 35200,
+  "modelIndex": 2813,
+  "iconX": -1,
+  "iconY": 6,
+  "iconZoom": 800,
+  "iconYaw": 152,
+  "iconCameraPitch": 160,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 218,
+  "maleOffsetY": 0,
+  "femaleModel0": 394,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 56,
+  "femaleHeadModelA": 116,
+  "oldColors": [
+    61,
+    926
+  ],
+  "newColors": [
+    36133,
+    48030
+  ],
+  "name": "Rune full helm",
+  "notedId": 1164
+}

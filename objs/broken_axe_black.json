@@ -1,0 +1,22 @@
+{
+  "id": 500,
+  "description": "Bob can fix this for me.",
+  "modelIndex": 2342,
+  "iconX": -15,
+  "iconZoom": 1060,
+  "iconYaw": 1196,
+  "iconCameraPitch": 520,
+  "maleModel0": 487,
+  "maleOffsetY": 0,
+  "femaleModel0": 487,
+  "femaleOffsetY": 6,
+  "value": 10,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Broken axe",
+  "notedId": 501
+}

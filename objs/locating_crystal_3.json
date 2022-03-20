@@ -1,0 +1,19 @@
+{
+  "id": 613,
+  "description": "A magical crystal sphere.",
+  "value": 1,
+  "modelIndex": 2744,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 1270,
+  "iconYaw": 4,
+  "iconCameraPitch": 120,
+  "members": true,
+  "oldColors": [
+    50396
+  ],
+  "newColors": [
+    65222
+  ],
+  "name": "Locating crystal"
+}

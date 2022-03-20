@@ -1,0 +1,42 @@
+{
+  "id": 793,
+  "level": 0,
+  "description": "Smartly dressed, and ready to deliver food.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    54397,
+    9104,
+    8741,
+    25238
+  ],
+  "newColors": [
+    4550,
+    115,
+    115,
+    45908
+  ],
+  "name": "Alfonse the waiter",
+  "modelIndices": [
+    235,
+    292,
+    247,
+    170,
+    267,
+    185,
+    176,
+    320
+  ],
+  "headModelIndices": [
+    67,
+    79
+  ]
+}

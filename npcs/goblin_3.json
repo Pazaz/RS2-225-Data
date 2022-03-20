@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "description": "These goblins have grown strong.",
+  "walkSeq": 308,
+  "standSeq": 311,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 13,
+  "name": "Goblin",
+  "modelIndices": [
+    2952,
+    2953,
+    2955,
+    2956
+  ]
+}

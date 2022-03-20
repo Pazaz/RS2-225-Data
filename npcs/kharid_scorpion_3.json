@@ -1,0 +1,14 @@
+{
+  "id": 387,
+  "level": 0,
+  "description": "Looks vicious!",
+  "walkSeq": 269,
+  "standSeq": 272,
+  "options": [
+    "Pick-up"
+  ],
+  "name": "Kharid Scorpion",
+  "modelIndices": [
+    2968
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 252,
+  "level": 0,
+  "description": "He looks very hungry...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    43072,
+    25238,
+    4626,
+    4550
+  ],
+  "newColors": [
+    103,
+    4550,
+    8472,
+    8,
+    5347
+  ],
+  "name": "Beggar",
+  "modelIndices": [
+    230,
+    308,
+    173,
+    176,
+    275,
+    181,
+    250
+  ],
+  "headModelIndices": [
+    63,
+    82
+  ]
+}

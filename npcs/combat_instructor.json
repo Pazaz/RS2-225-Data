@@ -1,0 +1,47 @@
+{
+  "id": 944,
+  "level": 146,
+  "description": "An expert on all forms of combat.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    5442,
+    9104,
+    4626,
+    4684,
+    11200,
+    0
+  ],
+  "newColors": [
+    4550,
+    41,
+    41,
+    49,
+    41,
+    926
+  ],
+  "name": "Combat Instructor",
+  "modelIndices": [
+    231,
+    252,
+    315,
+    165,
+    565,
+    268,
+    185,
+    546,
+    328,
+    290,
+    201
+  ],
+  "headModelIndices": [
+    64,
+    84
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1204,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1679
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "A small fernlike plant."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1263,
+  "members": true,
+  "description": "A dragon tipped spear.",
+  "value": 62400,
+  "modelIndex": 2482,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 505,
+  "maleOffsetY": 0,
+  "femaleModel0": 505,
+  "femaleOffsetY": 6,
+  "iconX": 7,
+  "iconY": -4,
+  "iconZoom": 1490,
+  "iconYaw": 112,
+  "iconRoll": 144,
+  "iconCameraPitch": 1960,
+  "oldColors": [
+    22457
+  ],
+  "newColors": [
+    13221
+  ],
+  "name": "Dragon spear(p)",
+  "notedId": 1264
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1103,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1301
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stool",
+  "description": "Gnomes sit on these."
+}

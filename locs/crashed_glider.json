@@ -1,0 +1,17 @@
+{
+  "id": 188,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "interactable": true,
+  "modelIndices": [
+    1329
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crashed glider",
+  "description": "Probably pilot error."
+}

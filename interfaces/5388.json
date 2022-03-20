@@ -1,0 +1,17 @@
+{
+  "id": 5388,
+  "parent": 5292,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 50,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Withdraw",
+  "color": 16750623,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

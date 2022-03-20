@@ -1,0 +1,18 @@
+{
+  "id": 2138,
+  "description": "I need to cook this first.",
+  "modelIndex": 2498,
+  "iconX": -3,
+  "iconZoom": 870,
+  "iconYaw": 1748,
+  "iconCameraPitch": 88,
+  "value": 1,
+  "oldColors": [
+    4773
+  ],
+  "newColors": [
+    208
+  ],
+  "name": "Raw chicken",
+  "notedId": 2139
+}

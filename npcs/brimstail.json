@@ -1,0 +1,31 @@
+{
+  "id": 171,
+  "description": "Small but powerful.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    926,
+    11162,
+    22424
+  ],
+  "newColors": [
+    70,
+    36762,
+    8472,
+    70
+  ],
+  "name": "Brimstail",
+  "modelIndices": [
+    2909,
+    2898,
+    2915
+  ],
+  "headModelIndices": [
+    18
+  ]
+}

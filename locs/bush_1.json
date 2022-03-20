@@ -1,0 +1,17 @@
+{
+  "id": 1118,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 9,
+  "modelIndices": [
+    1669
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "Found in wild areas."
+}

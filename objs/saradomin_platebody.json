@@ -1,0 +1,35 @@
+{
+  "id": 2661,
+  "description": "Rune platebody in the colours of Saradomin.",
+  "value": 65000,
+  "modelIndex": 3020,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "maleModel2": 3330,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "femaleModel2": 3330,
+  "oldColors": [
+    61,
+    41,
+    24,
+    11187
+  ],
+  "newColors": [
+    36133,
+    37270,
+    10467,
+    10467
+  ],
+  "name": "Saradomin plate",
+  "notedId": 2662
+}

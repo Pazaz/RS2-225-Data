@@ -1,0 +1,31 @@
+{
+  "id": 476,
+  "description": "It's one of General Khazard's warriors.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    20
+  ],
+  "name": "Khazard trooper",
+  "modelIndices": [
+    219,
+    252,
+    306,
+    152,
+    176,
+    269,
+    185,
+    540
+  ]
+}

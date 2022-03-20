@@ -1,0 +1,39 @@
+{
+  "id": 810,
+  "level": 0,
+  "description": "She looks very nervous...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    8472,
+    25238,
+    43072
+  ],
+  "newColors": [
+    8,
+    127,
+    8,
+    4550
+  ],
+  "name": "Mary",
+  "modelIndices": [
+    391,
+    475,
+    351,
+    353,
+    429,
+    358,
+    483,
+    414
+  ],
+  "headModelIndices": [
+    114
+  ]
+}

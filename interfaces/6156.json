@@ -1,0 +1,17 @@
+{
+  "id": 6156,
+  "parent": 297,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 93,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "You are awarded",
+  "color": 49152,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

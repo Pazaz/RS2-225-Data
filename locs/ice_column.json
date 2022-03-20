@@ -1,0 +1,16 @@
+{
+  "id": 516,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    734
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ice Column",
+  "description": "A very tall column of ice."
+}

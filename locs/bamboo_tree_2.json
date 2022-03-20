@@ -1,0 +1,16 @@
+{
+  "id": 1327,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1687
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bamboo tree",
+  "description": "A terribly tall tropical tree."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 921,
+  "description": "Now that's an effective disguise!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    62699,
+    55194,
+    6854
+  ],
+  "name": "Prince Ali",
+  "modelIndices": [
+    214,
+    181,
+    246,
+    292,
+    151,
+    176,
+    265
+  ]
+}

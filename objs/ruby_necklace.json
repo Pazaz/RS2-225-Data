@@ -1,0 +1,27 @@
+{
+  "id": 1660,
+  "value": 2175,
+  "description": "I wonder if this is valuable.",
+  "modelIndex": 2506,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 281,
+  "maleOffsetY": 0,
+  "femaleModel0": 445,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "Ruby necklace",
+  "notedId": 1661
+}

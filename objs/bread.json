@@ -1,0 +1,15 @@
+{
+  "id": 2309,
+  "value": 12,
+  "options": [
+    "Eat"
+  ],
+  "description": "Nice crispy bread.",
+  "modelIndex": 2409,
+  "iconY": 5,
+  "iconZoom": 830,
+  "iconYaw": 268,
+  "iconCameraPitch": 392,
+  "name": "Bread",
+  "notedId": 2310
+}

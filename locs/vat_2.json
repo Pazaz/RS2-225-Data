@@ -1,0 +1,16 @@
+{
+  "id": 1029,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1285
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Vat",
+  "description": "This contains dye for leather."
+}

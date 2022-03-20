@@ -1,0 +1,16 @@
+{
+  "id": 136,
+  "description": "A giant raptor.",
+  "size": 2,
+  "walkSeq": 321,
+  "standSeq": 324,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 28,
+  "name": "Terrorbird",
+  "modelIndices": [
+    3011
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1101,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    933,
+    3986
+  ],
+  "newColors": [
+    43105,
+    9096
+  ],
+  "modelIndices": [
+    1161
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "The perfect way to sit at the bar."
+}

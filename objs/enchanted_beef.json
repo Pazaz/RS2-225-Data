@@ -1,0 +1,21 @@
+{
+  "id": 522,
+  "description": "I don't fancy eating this now.",
+  "members": true,
+  "modelIndex": 2760,
+  "iconX": 1,
+  "iconY": 3,
+  "iconZoom": 560,
+  "iconYaw": 176,
+  "iconCameraPitch": 308,
+  "value": 1,
+  "oldColors": [
+    947,
+    127
+  ],
+  "newColors": [
+    44510,
+    43241
+  ],
+  "name": "Enchanted beef"
+}

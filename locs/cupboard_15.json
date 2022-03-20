@@ -1,0 +1,22 @@
+{
+  "id": 2435,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "interactionSideFlags": 13,
+  "actions": [
+    null,
+    null,
+    "Close"
+  ],
+  "modelIndices": [
+    2244
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cupboard",
+  "description": "This may be worth opening."
+}

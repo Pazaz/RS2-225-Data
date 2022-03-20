@@ -1,0 +1,27 @@
+{
+  "id": 2303,
+  "options": [
+    "Eat"
+  ],
+  "description": "Half of this pizza has been eaten.",
+  "value": 50,
+  "modelIndex": 2717,
+  "iconX": 8,
+  "iconY": 14,
+  "iconZoom": 880,
+  "iconYaw": 1848,
+  "iconCameraPitch": 272,
+  "members": true,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    9152,
+    937
+  ],
+  "name": "1/2pineapple pizza",
+  "notedId": 2304
+}

@@ -1,0 +1,22 @@
+{
+  "id": 2312,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "delayShading": true,
+  "interactable": true,
+  "actions": [
+    "Walk-on"
+  ],
+  "modelIndices": [
+    1878
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Balancing rope",
+  "description": "I can balance on this rope."
+}

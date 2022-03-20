@@ -1,0 +1,12 @@
+{
+  "id": 168,
+  "parent": 147,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 36,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "image": "miscgraphics2,0",
+  "option": "Ok"
+}

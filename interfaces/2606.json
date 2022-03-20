@@ -1,0 +1,18 @@
+{
+  "id": 2606,
+  "parent": 2505,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 55,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "CONFIRM",
+  "color": 65280,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

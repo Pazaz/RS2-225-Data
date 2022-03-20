@@ -1,0 +1,15 @@
+{
+  "id": 70,
+  "description": "A tightly wrapped monster.",
+  "walkSeq": 224,
+  "standSeq": 227,
+  "options": [
+    null,
+    "attack"
+  ],
+  "level": 47,
+  "name": "Mummy",
+  "modelIndices": [
+    2925
+  ]
+}

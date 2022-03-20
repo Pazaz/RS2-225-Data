@@ -1,0 +1,15 @@
+{
+  "id": 798,
+  "modelIndex": 529,
+  "iconX": 8,
+  "iconY": -5,
+  "iconZoom": 610,
+  "iconYaw": 532,
+  "iconRoll": 1844,
+  "iconCameraPitch": 440,
+  "maleModel0": 529,
+  "maleOffsetY": 0,
+  "femaleModel0": 529,
+  "femaleOffsetY": 6,
+  "name": "Grinder"
+}

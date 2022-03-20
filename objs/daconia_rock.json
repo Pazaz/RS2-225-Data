@@ -1,0 +1,17 @@
+{
+  "id": 793,
+  "modelIndex": 2394,
+  "description": "An ancient rock with strange magical properties.",
+  "iconY": -12,
+  "iconZoom": 1290,
+  "iconYaw": 1952,
+  "iconCameraPitch": 144,
+  "members": true,
+  "oldColors": [
+    5790
+  ],
+  "newColors": [
+    41240
+  ],
+  "name": "Daconia rock"
+}

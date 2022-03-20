@@ -1,0 +1,19 @@
+{
+  "id": 415,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Close"
+  ],
+  "modelIndices": [
+    912
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Coffin",
+  "description": "Whoevers inside must have been rich."
+}

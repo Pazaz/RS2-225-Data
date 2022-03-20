@@ -1,0 +1,17 @@
+{
+  "id": 588,
+  "parent": 569,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 163,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 3,
+  "shadow": false,
+  "text": "Gnome Crunchies",
+  "color": 128,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

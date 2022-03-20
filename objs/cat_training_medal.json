@@ -1,0 +1,21 @@
+{
+  "id": 1575,
+  "value": 350,
+  "description": "For feline training expertise.",
+  "modelIndex": 2400,
+  "members": true,
+  "iconY": 9,
+  "iconZoom": 500,
+  "iconYaw": 120,
+  "iconCameraPitch": 296,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 289,
+  "maleOffsetY": 0,
+  "femaleModel0": 453,
+  "femaleOffsetY": 0,
+  "name": "Cat training medal",
+  "notedId": 1576
+}

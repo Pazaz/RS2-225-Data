@@ -1,0 +1,28 @@
+{
+  "id": 598,
+  "description": "Unlit arrows.",
+  "members": true,
+  "value": 10,
+  "stackable": true,
+  "modelIndex": 2702,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    2542,
+    2543,
+    2544,
+    2545
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "iconZoom": 1580,
+  "iconYaw": 1832,
+  "iconCameraPitch": 336,
+  "name": "Unlit arrows"
+}

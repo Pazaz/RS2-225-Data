@@ -1,0 +1,17 @@
+{
+  "id": 1395,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 492,
+  "modelIndices": [
+    2295
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fly trap",
+  "description": "No flies on me."
+}

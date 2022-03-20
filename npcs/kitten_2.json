@@ -1,0 +1,21 @@
+{
+  "id": 761,
+  "level": 0,
+  "description": "A friendly little pet.",
+  "walkSeq": 314,
+  "standSeq": 317,
+  "options": [
+    "Pick-up",
+    null,
+    "Stroke",
+    "Shoo-away",
+    "Chase vermin"
+  ],
+  "scaleX": 30,
+  "scaleY": 40,
+  "name": "Kitten",
+  "modelIndices": [
+    3010,
+    3006
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2990,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Check"
+  ],
+  "adjustToTerrain": true,
+  "delayShading": true,
+  "oldColors": [
+    929,
+    931
+  ],
+  "newColors": [
+    1688,
+    1812
+  ],
+  "modelIndices": [
+    1631
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Vine",
+  "description": "Known commonly as Red worm vine."
+}

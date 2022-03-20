@@ -1,0 +1,22 @@
+{
+  "id": 165,
+  "description": "Sells gnomish things.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "oldColors": [
+    10365
+  ],
+  "newColors": [
+    5561
+  ],
+  "name": "Gnome shop keeper",
+  "modelIndices": [
+    2909,
+    2901,
+    2917
+  ],
+  "headModelIndices": [
+    17
+  ]
+}

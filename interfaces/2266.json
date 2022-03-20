@@ -1,0 +1,17 @@
+{
+  "id": 2266,
+  "parent": 2156,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 24,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Text",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

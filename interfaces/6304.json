@@ -1,0 +1,17 @@
+{
+  "id": 6304,
+  "parent": 6299,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 170,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "please switch version, but bear",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

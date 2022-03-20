@@ -1,0 +1,19 @@
+{
+  "id": 1675,
+  "value": 900,
+  "description": "It needs a string so I can wear it.",
+  "modelIndex": 2550,
+  "iconX": 8,
+  "iconY": 106,
+  "iconZoom": 370,
+  "iconYaw": 100,
+  "iconCameraPitch": 304,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    43951
+  ],
+  "name": "Sapphire amulet",
+  "notedId": 1676
+}

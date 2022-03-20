@@ -1,0 +1,20 @@
+{
+  "id": 2870,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Examine"
+  ],
+  "modelIndices": [
+    2068
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mouse hole",
+  "description": "The mouse equivalent of a door."
+}

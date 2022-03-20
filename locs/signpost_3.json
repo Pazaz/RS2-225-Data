@@ -1,0 +1,16 @@
+{
+  "id": 1035,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1403
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Signpost",
+  "description": "This tells you which way is which."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2912,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1809
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Ancient Gate"
+}

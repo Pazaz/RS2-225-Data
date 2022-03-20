@@ -1,0 +1,30 @@
+{
+  "id": 2579,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 5,
+  "adjustToTerrain": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    4892,
+    4899
+  ],
+  "newColors": [
+    4750,
+    7056
+  ],
+  "modelIndices": [
+    1065
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Scorched earth",
+  "description": "The burnt ground has a plant growing on it."
+}

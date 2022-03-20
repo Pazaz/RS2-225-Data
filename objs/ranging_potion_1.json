@@ -1,0 +1,22 @@
+{
+  "id": 173,
+  "description": "1 dose of ranging potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 144,
+  "modelIndex": 2621,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36680
+  ],
+  "name": "Ranging potion(1)",
+  "notedId": 174
+}

@@ -1,0 +1,42 @@
+{
+  "id": 843,
+  "level": 0,
+  "description": "Inefficient looking.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072,
+    7070
+  ],
+  "newColors": [
+    43569,
+    36048,
+    4550,
+    43569
+  ],
+  "name": "RPDT employee",
+  "modelIndices": [
+    215,
+    292,
+    249,
+    151,
+    176,
+    271,
+    185,
+    194,
+    327
+  ],
+  "headModelIndices": [
+    53,
+    81,
+    37
+  ]
+}

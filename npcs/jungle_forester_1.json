@@ -1,0 +1,42 @@
+{
+  "id": 401,
+  "level": 0,
+  "description": "He deals in exotic types of wood.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    11200,
+    926,
+    9104
+  ],
+  "newColors": [
+    8741,
+    8741,
+    7952,
+    7952
+  ],
+  "name": "Jungle Forester",
+  "modelIndices": [
+    207,
+    250,
+    292,
+    167,
+    179,
+    254,
+    185,
+    323,
+    324,
+    566
+  ],
+  "headModelIndices": [
+    47,
+    82
+  ]
+}

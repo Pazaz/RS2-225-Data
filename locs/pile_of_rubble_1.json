@@ -1,0 +1,25 @@
+{
+  "id": 2317,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Climb-up"
+  ],
+  "oldColors": [
+    7064
+  ],
+  "newColors": [
+    7721
+  ],
+  "modelIndices": [
+    1411
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pile of rubble",
+  "description": "I can climb up these rocks to another cave."
+}

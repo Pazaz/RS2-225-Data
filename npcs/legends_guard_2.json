@@ -1,0 +1,45 @@
+{
+  "id": 399,
+  "level": 0,
+  "description": "A Legends Guild Guard, he protects the entrance to the Legends Guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    7952,
+    61,
+    41,
+    926,
+    57,
+    10004
+  ],
+  "newColors": [
+    127,
+    43218,
+    43181,
+    127,
+    43218,
+    127
+  ],
+  "name": "Legends Guard",
+  "modelIndices": [
+    219,
+    253,
+    306,
+    164,
+    179,
+    268,
+    184,
+    540,
+    317
+  ],
+  "headModelIndices": [
+    57,
+    85
+  ]
+}

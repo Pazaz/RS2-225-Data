@@ -1,0 +1,16 @@
+{
+  "id": 2195,
+  "description": "This looks pretty healthy.",
+  "value": 2,
+  "modelIndex": 2823,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "name": "Veg ball",
+  "notedId": 2196
+}

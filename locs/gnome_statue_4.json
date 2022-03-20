@@ -1,0 +1,16 @@
+{
+  "id": 572,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1320
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gnome statue",
+  "description": "The head and shoulders of a famous gnome."
+}

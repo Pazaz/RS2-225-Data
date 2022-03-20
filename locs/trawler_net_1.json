@@ -1,0 +1,16 @@
+{
+  "id": 2162,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1905
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trawler net",
+  "description": "Smells like fish."
+}

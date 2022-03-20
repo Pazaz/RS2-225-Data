@@ -1,0 +1,41 @@
+{
+  "id": 881,
+  "level": 0,
+  "description": "An old wizard.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    38852,
+    38852,
+    127
+  ],
+  "name": "Traiborn",
+  "modelIndices": [
+    215,
+    181,
+    251,
+    292,
+    170,
+    176,
+    265,
+    202,
+    245
+  ],
+  "headModelIndices": [
+    53,
+    83,
+    78,
+    44
+  ]
+}

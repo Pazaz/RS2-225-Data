@@ -1,0 +1,16 @@
+{
+  "id": 2276,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 6,
+  "modelIndices": [
+    2268
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A odd looking rock formation."
+}

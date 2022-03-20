@@ -1,0 +1,19 @@
+{
+  "id": 759,
+  "level": 0,
+  "description": "A friendly feline?",
+  "walkSeq": 314,
+  "standSeq": 317,
+  "options": [
+    "Pick-up",
+    null,
+    "Stroke"
+  ],
+  "scaleX": 80,
+  "scaleY": 80,
+  "name": "Gertrudes cat",
+  "modelIndices": [
+    3010,
+    3006
+  ]
+}

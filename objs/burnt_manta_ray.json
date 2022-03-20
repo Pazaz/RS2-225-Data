@@ -1,0 +1,21 @@
+{
+  "id": 393,
+  "description": "Oops!",
+  "modelIndex": 2722,
+  "iconX": -3,
+  "iconZoom": 1830,
+  "iconYaw": 216,
+  "iconCameraPitch": 376,
+  "value": 1,
+  "members": true,
+  "oldColors": [
+    66,
+    33
+  ],
+  "newColors": [
+    28,
+    41
+  ],
+  "name": "Burnt manta ray",
+  "notedId": 394
+}

@@ -1,0 +1,29 @@
+{
+  "id": 872,
+  "members": true,
+  "value": 10,
+  "description": "A finely balanced throwing knife.",
+  "modelIndex": 2557,
+  "maleModel0": 548,
+  "maleOffsetY": 0,
+  "femaleModel0": 548,
+  "femaleOffsetY": 6,
+  "iconX": -1,
+  "iconY": -26,
+  "iconZoom": 1080,
+  "iconYaw": 112,
+  "iconRoll": 1860,
+  "iconCameraPitch": 204,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackable": true,
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    13221
+  ],
+  "name": "Steel knife(p)"
+}

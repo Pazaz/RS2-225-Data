@@ -1,0 +1,37 @@
+{
+  "id": 715,
+  "level": 0,
+  "description": "She doesn't look too happy.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    43072
+  ],
+  "newColors": [
+    32962,
+    21838,
+    4502,
+    4550
+  ],
+  "name": "Elena",
+  "modelIndices": [
+    390,
+    474,
+    347,
+    353,
+    438,
+    358
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

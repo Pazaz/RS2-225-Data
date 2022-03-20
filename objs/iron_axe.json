@@ -1,0 +1,26 @@
+{
+  "id": 1349,
+  "description": "A woodcutters axe.",
+  "value": 56,
+  "modelIndex": 2544,
+  "iconX": -15,
+  "iconZoom": 1060,
+  "iconYaw": 1196,
+  "iconCameraPitch": 520,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 510,
+  "maleOffsetY": 0,
+  "femaleModel0": 510,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Iron axe",
+  "notedId": 1350
+}

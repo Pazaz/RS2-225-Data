@@ -1,0 +1,20 @@
+{
+  "id": 635,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Steal-from"
+  ],
+  "modelIndices": [
+    1417
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tea stall",
+  "description": "Fine brews from exotic regions."
+}

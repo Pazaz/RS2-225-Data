@@ -1,0 +1,18 @@
+{
+  "id": 771,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 16,
+  "obstructsGround": true,
+  "interactable": true,
+  "modelIndices": [
+    596
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "gnomeglider_icon1"
+}

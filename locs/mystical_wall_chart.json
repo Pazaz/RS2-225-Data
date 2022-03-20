@@ -1,0 +1,18 @@
+{
+  "id": 908,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "interactable": true,
+  "modelIndices": [
+    2086
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Mystical wall chart",
+  "description": "Weird looking symbols and diagrams."
+}

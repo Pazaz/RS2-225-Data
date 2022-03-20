@@ -1,0 +1,16 @@
+{
+  "id": 1399,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1677
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "This has broad leaves."
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2424,
+  "description": "A bottle of skin coloured paste.",
+  "value": 5,
+  "modelIndex": 2705,
+  "iconY": -2,
+  "iconZoom": 760,
+  "iconYaw": 1920,
+  "iconCameraPitch": 124,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    3550
+  ],
+  "name": "Paste"
+}

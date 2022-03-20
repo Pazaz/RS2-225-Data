@@ -1,0 +1,13 @@
+{
+  "id": 1857,
+  "description": "The Rantuki tribes' totem.",
+  "value": 10,
+  "modelIndex": 2765,
+  "members": true,
+  "iconX": 2,
+  "iconY": -9,
+  "iconZoom": 1150,
+  "iconYaw": 108,
+  "iconCameraPitch": 188,
+  "name": "Totem"
+}

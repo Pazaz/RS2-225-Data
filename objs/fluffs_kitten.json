@@ -1,0 +1,16 @@
+{
+  "id": 1554,
+  "description": "It looks like it's lost.",
+  "modelIndex": 3006,
+  "iconX": 13,
+  "iconY": 21,
+  "iconZoom": 880,
+  "iconYaw": 152,
+  "iconRoll": 1940,
+  "iconCameraPitch": 32,
+  "members": true,
+  "groundOptions": [
+    "Use"
+  ],
+  "name": "Fluffs' kitten"
+}

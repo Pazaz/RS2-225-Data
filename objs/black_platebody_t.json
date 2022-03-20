@@ -1,0 +1,31 @@
+{
+  "id": 2583,
+  "description": "Black plate body with trim.",
+  "value": 3840,
+  "modelIndex": 2378,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "oldColors": [
+    24,
+    61,
+    41
+  ],
+  "newColors": [
+    24,
+    8,
+    0
+  ],
+  "name": "Black platebody (t)",
+  "notedId": 2584
+}

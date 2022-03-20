@@ -1,0 +1,22 @@
+{
+  "id": 1186,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    17304
+  ],
+  "newColors": [
+    22449
+  ],
+  "modelIndices": [
+    1617
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Curling plant",
+  "description": "A large curling plant."
+}

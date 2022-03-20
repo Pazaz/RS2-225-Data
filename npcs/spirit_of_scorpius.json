@@ -1,0 +1,20 @@
+{
+  "id": 492,
+  "level": 0,
+  "description": "The essence of evil.",
+  "walkSeq": 119,
+  "standSeq": 125,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Spirit of Scorpius",
+  "modelIndices": [
+    2961,
+    2964,
+    2965
+  ],
+  "headModelIndices": [
+    10
+  ]
+}

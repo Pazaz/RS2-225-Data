@@ -1,0 +1,19 @@
+{
+  "id": 965,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 10,
+  "interactable": true,
+  "modelIndices": [
+    2090
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Stuffed swordfish",
+  "description": "It really was this big!"
+}

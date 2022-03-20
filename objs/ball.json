@@ -1,0 +1,11 @@
+{
+  "id": 2407,
+  "description": "A childs' ball.",
+  "value": 1,
+  "modelIndex": 2755,
+  "iconZoom": 970,
+  "iconYaw": 1956,
+  "iconCameraPitch": 300,
+  "members": true,
+  "name": "Ball"
+}

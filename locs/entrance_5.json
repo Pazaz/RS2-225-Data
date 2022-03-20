@@ -1,0 +1,30 @@
+{
+  "id": 3113,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "brightness": 60,
+  "specular": 60,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Forfeit"
+  ],
+  "interactable": true,
+  "animationIndex": 917,
+  "oldColors": [
+    6932
+  ],
+  "newColors": [
+    6689
+  ],
+  "modelIndices": [
+    3324
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Entrance",
+  "description": "Flags marking the entrance to the arena."
+}

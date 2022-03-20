@@ -1,0 +1,13 @@
+{
+  "id": 1488,
+  "description": "A coat of arms of the Ardougne Paladins.",
+  "value": 10,
+  "modelIndex": 2759,
+  "iconX": -2,
+  "iconY": 3,
+  "iconZoom": 580,
+  "iconYaw": 156,
+  "iconCameraPitch": 444,
+  "members": true,
+  "name": "Paladin's badge"
+}

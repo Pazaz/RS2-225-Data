@@ -1,0 +1,16 @@
+{
+  "id": 362,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1460
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barrel",
+  "description": "A wooden barrel for storage."
+}

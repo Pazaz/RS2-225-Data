@@ -1,0 +1,33 @@
+{
+  "id": 717,
+  "description": "A scrawled note with spidery writing on it.",
+  "members": true,
+  "modelIndex": 2838,
+  "maleModel0": 532,
+  "maleOffsetY": 0,
+  "femaleModel0": 532,
+  "femaleOffsetY": 6,
+  "iconZoom": 940,
+  "iconYaw": 112,
+  "iconCameraPitch": 248,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    0,
+    898,
+    898,
+    898,
+    904,
+    5351
+  ],
+  "newColors": [
+    926,
+    926,
+    8530,
+    8530,
+    8530,
+    8530
+  ],
+  "name": "Scrawled note"
+}

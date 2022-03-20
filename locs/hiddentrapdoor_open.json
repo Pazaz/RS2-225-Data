@@ -1,0 +1,15 @@
+{
+  "id": 106,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1223
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "hiddentrapdoor_open"
+}

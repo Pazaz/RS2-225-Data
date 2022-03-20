@@ -1,0 +1,19 @@
+{
+  "id": 394,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1275
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bookcase",
+  "description": "Bamboo storage!"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25,
+  "description": "Wormy.",
+  "modelIndex": 2519,
+  "members": true,
+  "stackable": true,
+  "iconX": 8,
+  "iconY": 11,
+  "iconZoom": 990,
+  "iconYaw": 188,
+  "iconCameraPitch": 404,
+  "oldColors": [
+    5698
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "Red vine worm"
+}

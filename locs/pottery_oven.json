@@ -1,0 +1,17 @@
+{
+  "id": 2643,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1184
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pottery Oven",
+  "description": "Bake your clay pots in here."
+}

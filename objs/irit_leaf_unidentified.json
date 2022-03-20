@@ -1,0 +1,15 @@
+{
+  "id": 209,
+  "options": [
+    "Identify"
+  ],
+  "members": true,
+  "description": "I need a closer look to identify this.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "name": "Herb",
+  "notedId": 210
+}

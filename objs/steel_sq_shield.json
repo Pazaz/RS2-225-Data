@@ -1,0 +1,27 @@
+{
+  "id": 1177,
+  "description": "A medium square shield.",
+  "value": 600,
+  "modelIndex": 2720,
+  "iconX": 2,
+  "iconY": 174,
+  "iconZoom": 1410,
+  "iconYaw": 60,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 541,
+  "maleOffsetY": 0,
+  "femaleModel0": 541,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Steel sq shield",
+  "notedId": 1178
+}

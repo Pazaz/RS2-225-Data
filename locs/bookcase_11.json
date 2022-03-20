@@ -1,0 +1,20 @@
+{
+  "id": 2678,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1263
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bookcase",
+  "description": "A selection of Captain Siad's Books."
+}

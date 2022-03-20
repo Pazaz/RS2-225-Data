@@ -1,0 +1,20 @@
+{
+  "id": 2801,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "mapscene": 9,
+  "modelIndices": [
+    1565
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "A leafy bush."
+}

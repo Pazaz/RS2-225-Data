@@ -1,0 +1,40 @@
+{
+  "id": 910,
+  "level": 0,
+  "description": "He's a shape shifter.",
+  "walkSeq": 841,
+  "standSeq": 842,
+  "disposeAlpha": true,
+  "scaleX": 192,
+  "scaleY": 224,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "oldColors": [
+    23442,
+    4550,
+    8741,
+    8078,
+    25238,
+    4626
+  ],
+  "newColors": [
+    61,
+    40049,
+    41,
+    61,
+    41,
+    40049
+  ],
+  "name": "Kolodion",
+  "modelIndices": [
+    221,
+    246,
+    292,
+    162,
+    176,
+    267,
+    181
+  ]
+}

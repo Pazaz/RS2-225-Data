@@ -1,0 +1,22 @@
+{
+  "id": 1292,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 0,
+  "modelIndices": [
+    1650
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dramen tree",
+  "description": "An ancient magical tree."
+}

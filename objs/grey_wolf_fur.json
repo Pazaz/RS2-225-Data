@@ -1,0 +1,19 @@
+{
+  "id": 958,
+  "modelIndex": 2631,
+  "iconX": 2,
+  "iconZoom": 1350,
+  "iconYaw": 1668,
+  "iconCameraPitch": 312,
+  "description": "This would make warm clothing.",
+  "value": 50,
+  "members": true,
+  "oldColors": [
+    8103
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Grey wolf fur",
+  "notedId": 959
+}

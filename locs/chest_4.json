@@ -1,0 +1,25 @@
+{
+  "id": 2141,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 14,
+  "animationIndex": 654,
+  "disposeAlpha": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    13877
+  ],
+  "modelIndices": [
+    3075
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chest",
+  "description": "An open chest."
+}

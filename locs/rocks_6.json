@@ -1,0 +1,22 @@
+{
+  "id": 511,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "oldColors": [
+    14494
+  ],
+  "newColors": [
+    7465
+  ],
+  "modelIndices": [
+    775
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "A rock with a pickaxe and mining tools."
+}

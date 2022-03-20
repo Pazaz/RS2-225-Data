@@ -1,0 +1,11 @@
+{
+  "id": 19,
+  "description": "A holy and powerful artifact.",
+  "value": 3,
+  "members": true,
+  "modelIndex": 2623,
+  "iconZoom": 670,
+  "iconYaw": 2044,
+  "iconCameraPitch": 116,
+  "name": "Holy grail"
+}

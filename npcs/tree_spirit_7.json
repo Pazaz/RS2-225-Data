@@ -1,0 +1,26 @@
+{
+  "id": 655,
+  "description": "Guardian of the dramen tree.",
+  "walkSeq": 119,
+  "standSeq": 125,
+  "disposeAlpha": true,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 101,
+  "oldColors": [
+    39025,
+    61
+  ],
+  "newColors": [
+    5012,
+    21826
+  ],
+  "name": "Tree spirit",
+  "modelIndices": [
+    2961,
+    2965,
+    2964
+  ]
+}

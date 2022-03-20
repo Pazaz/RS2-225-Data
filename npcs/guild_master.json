@@ -1,0 +1,35 @@
+{
+  "id": 198,
+  "level": 0,
+  "description": "Master of the guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4626,
+    5532
+  ],
+  "newColors": [
+    24,
+    41
+  ],
+  "name": "Guild master",
+  "modelIndices": [
+    214,
+    246,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518
+  ],
+  "headModelIndices": [
+    52
+  ]
+}

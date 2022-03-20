@@ -1,0 +1,12 @@
+{
+  "id": 675,
+  "description": "A small pick for cracking rock samples.",
+  "modelIndex": 2792,
+  "iconX": -6,
+  "iconY": -10,
+  "iconZoom": 700,
+  "iconYaw": 1076,
+  "iconCameraPitch": 476,
+  "members": true,
+  "name": "Rock pick"
+}

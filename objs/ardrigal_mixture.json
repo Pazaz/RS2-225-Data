@@ -1,0 +1,17 @@
+{
+  "id": 738,
+  "description": "It's a mixture of Ardrigal and water, I need another ingredient to finish this potion.",
+  "modelIndex": 2789,
+  "members": true,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    8615
+  ],
+  "name": "Ardrigal mixture"
+}

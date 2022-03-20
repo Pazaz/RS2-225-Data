@@ -1,0 +1,22 @@
+{
+  "id": 2049,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "culls": true,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    570
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Door",
+  "description": "It's a door."
+}

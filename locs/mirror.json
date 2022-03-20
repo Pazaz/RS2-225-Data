@@ -1,0 +1,16 @@
+{
+  "id": 689,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1294
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mirror",
+  "description": "Looking good!"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 3194,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "Shut"
+  ],
+  "interactionSideFlags": 14,
+  "modelIndices": [
+    1226
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Open chest",
+  "description": "Use for quick access to your bank."
+}

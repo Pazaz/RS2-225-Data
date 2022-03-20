@@ -1,0 +1,19 @@
+{
+  "id": 651,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1101
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Buried skeleton",
+  "description": "Dead and half buried."
+}

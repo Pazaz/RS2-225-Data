@@ -1,0 +1,20 @@
+{
+  "id": 2670,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 4,
+  "actions": [
+    "Cut"
+  ],
+  "modelIndices": [
+    1580
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Kharidian cactus (Healthy)",
+  "description": "A succulent cactus."
+}

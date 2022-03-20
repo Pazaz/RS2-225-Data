@@ -1,0 +1,12 @@
+{
+  "id": 1734,
+  "description": "Used with a needle to make clothes.",
+  "stackable": true,
+  "modelIndex": 2831,
+  "iconX": 1,
+  "iconY": -2,
+  "iconZoom": 590,
+  "iconYaw": 1644,
+  "iconCameraPitch": 248,
+  "name": "Thread"
+}

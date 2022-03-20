@@ -1,0 +1,19 @@
+{
+  "id": 2543,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1507
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Manhole",
+  "description": "There's a cover over this manhole."
+}

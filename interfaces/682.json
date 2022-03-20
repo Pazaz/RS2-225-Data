@@ -1,0 +1,17 @@
+{
+  "id": 682,
+  "parent": 638,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 113,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "MEMBERS QUESTS:",
+  "color": 16358165,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

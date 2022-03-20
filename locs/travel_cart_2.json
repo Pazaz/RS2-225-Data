@@ -1,0 +1,20 @@
+{
+  "id": 2265,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    "Board"
+  ],
+  "modelIndices": [
+    1480
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Travel cart",
+  "description": "A sturdy cart for travelling in."
+}

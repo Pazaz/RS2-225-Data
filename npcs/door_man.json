@@ -1,0 +1,43 @@
+{
+  "id": 33,
+  "level": 0,
+  "description": "What a boring job he has.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8090,
+    7700,
+    6798,
+    16,
+    8741
+  ],
+  "newColors": [
+    37807,
+    9661,
+    99,
+    11208,
+    37807
+  ],
+  "name": "Door man",
+  "modelIndices": [
+    214,
+    252,
+    295,
+    323,
+    283,
+    170,
+    176,
+    268,
+    183
+  ],
+  "headModelIndices": [
+    52,
+    84
+  ]
+}

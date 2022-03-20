@@ -1,0 +1,16 @@
+{
+  "id": 1030,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1292
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mangle",
+  "description": "Used to squeeze moisture from the hide."
+}

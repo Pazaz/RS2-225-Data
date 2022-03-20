@@ -1,0 +1,17 @@
+{
+  "id": 440,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 11,
+  "modelIndices": [
+    1434
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A big slimy lump of rock."
+}

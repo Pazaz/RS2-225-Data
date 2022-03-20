@@ -1,0 +1,40 @@
+{
+  "id": 488,
+  "level": 0,
+  "description": "A learned man in the ways of the stars.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072,
+    8090
+  ],
+  "newColors": [
+    127,
+    90,
+    90,
+    90
+  ],
+  "name": "Observatory professor",
+  "modelIndices": [
+    230,
+    245,
+    246,
+    295,
+    151,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    63,
+    78
+  ]
+}

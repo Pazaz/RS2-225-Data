@@ -1,0 +1,17 @@
+{
+  "id": 1814,
+  "description": "A flimsy looking dagger found at the crime scene coated with a thin layer of flour.",
+  "members": true,
+  "modelIndex": 2672,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    35344
+  ],
+  "name": "Criminals' dagger"
+}

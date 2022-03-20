@@ -1,0 +1,22 @@
+{
+  "id": 1383,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1719
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dead tree",
+  "description": "This tree has long been dead."
+}

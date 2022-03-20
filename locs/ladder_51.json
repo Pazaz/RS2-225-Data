@@ -1,0 +1,37 @@
+{
+  "id": 2871,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Climb-down"
+  ],
+  "mapscene": 7,
+  "oldColors": [
+    5660,
+    5784,
+    5908,
+    6032,
+    5006,
+    3980
+  ],
+  "newColors": [
+    33,
+    28,
+    24,
+    20,
+    16,
+    12
+  ],
+  "modelIndices": [
+    1203
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ladder",
+  "description": "I can climb down this."
+}

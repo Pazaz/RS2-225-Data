@@ -1,0 +1,22 @@
+{
+  "id": 1848,
+  "description": "Very important information.",
+  "value": 1,
+  "modelIndex": 2746,
+  "members": true,
+  "iconX": 3,
+  "iconY": 1,
+  "iconZoom": 1720,
+  "iconYaw": 156,
+  "iconCameraPitch": 472,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    970
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Shantay disclaimer"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 966,
+  "description": "A citizen of Al Kharid.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "scaleX": 128,
+  "scaleY": 128,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    127
+  ],
+  "newColors": [
+    6705,
+    7397,
+    7397,
+    7397
+  ],
+  "name": "Jadid",
+  "modelIndices": [
+    215,
+    251,
+    188,
+    292,
+    170,
+    176,
+    267,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    82,
+    30
+  ]
+}

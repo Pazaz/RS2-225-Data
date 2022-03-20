@@ -1,0 +1,19 @@
+{
+  "id": 97,
+  "description": "I need another ingredient to finish this Harralander potion.",
+  "value": 20,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    212
+  ],
+  "name": "Unfinished potion",
+  "notedId": 98
+}

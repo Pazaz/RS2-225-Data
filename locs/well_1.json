@@ -1,0 +1,16 @@
+{
+  "id": 878,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1525
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Well",
+  "description": "No this is not a mirage!"
+}

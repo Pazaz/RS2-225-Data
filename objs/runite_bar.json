@@ -1,0 +1,19 @@
+{
+  "id": 2363,
+  "description": "It's a bar of runite.",
+  "value": 5000,
+  "modelIndex": 2408,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 820,
+  "iconYaw": 1180,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Runite bar",
+  "notedId": 2364
+}

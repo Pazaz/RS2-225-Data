@@ -1,0 +1,16 @@
+{
+  "id": 3303,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    2294
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Portcullis",
+  "description": "You won't be able to lift that."
+}

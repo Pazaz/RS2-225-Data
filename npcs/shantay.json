@@ -1,0 +1,40 @@
+{
+  "id": 836,
+  "level": 0,
+  "description": "He's in control of the Shantay pass.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    61,
+    25238
+  ],
+  "newColors": [
+    9104,
+    4550,
+    6583
+  ],
+  "name": "Shantay",
+  "modelIndices": [
+    217,
+    247,
+    292,
+    320,
+    170,
+    176,
+    254,
+    185
+  ],
+  "headModelIndices": [
+    55,
+    79
+  ]
+}

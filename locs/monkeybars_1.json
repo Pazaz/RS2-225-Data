@@ -1,0 +1,16 @@
+{
+  "id": 2319,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1522
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Monkeybars",
+  "description": "I can traverse these."
+}

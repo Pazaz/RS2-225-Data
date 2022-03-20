@@ -1,0 +1,16 @@
+{
+  "id": 206,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 481,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2256
+  ],
+  "modelTypes": [
+    4
+  ]
+}

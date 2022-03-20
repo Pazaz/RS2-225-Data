@@ -1,0 +1,26 @@
+{
+  "id": 2048,
+  "description": "A fresh healthy fruit mix.",
+  "value": 30,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2738,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    11200,
+    21733,
+    22464
+  ],
+  "newColors": [
+    10184,
+    7104,
+    6080
+  ],
+  "name": "Pineapple punch",
+  "notedId": 2049
+}

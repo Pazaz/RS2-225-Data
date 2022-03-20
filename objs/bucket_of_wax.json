@@ -1,0 +1,19 @@
+{
+  "id": 30,
+  "description": "It's a bucket of wax.",
+  "value": 6,
+  "modelIndex": 2504,
+  "members": true,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "oldColors": [
+    39834
+  ],
+  "newColors": [
+    7766
+  ],
+  "name": "Bucket of wax",
+  "notedId": 31
+}

@@ -1,0 +1,24 @@
+{
+  "id": 449,
+  "level": 0,
+  "description": "These trees are found near water.",
+  "standSeq": 334,
+  "size": 2,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    5786
+  ],
+  "name": "Willow",
+  "modelIndices": [
+    2851
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5101,
+  "parent": 5065,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 10,
+  "width": 100,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Send message"
+}

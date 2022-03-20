@@ -1,0 +1,15 @@
+{
+  "id": 408,
+  "level": 0,
+  "description": "A very strange plant.",
+  "standSeq": 352,
+  "walkSeq": 356,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "name": "Strange plant",
+  "modelIndices": [
+    3371
+  ]
+}

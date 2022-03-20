@@ -1,0 +1,41 @@
+{
+  "id": 706,
+  "description": "An old wizard.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    38814
+  ],
+  "newColors": [
+    38852,
+    38852,
+    5921,
+    38852
+  ],
+  "name": "Wizard Mizgog",
+  "modelIndices": [
+    215,
+    181,
+    249,
+    292,
+    170,
+    176,
+    265,
+    202
+  ],
+  "headModelIndices": [
+    53,
+    44,
+    81
+  ]
+}

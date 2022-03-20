@@ -1,0 +1,28 @@
+{
+  "id": 808,
+  "stackable": true,
+  "members": true,
+  "value": 10,
+  "description": "A deadly throwing dart with a steel tip.",
+  "modelIndex": 2379,
+  "iconX": 8,
+  "iconY": 11,
+  "iconZoom": 720,
+  "iconYaw": 336,
+  "iconCameraPitch": 396,
+  "maleModel0": 492,
+  "maleOffsetY": 0,
+  "femaleModel0": 492,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Steel dart"
+}

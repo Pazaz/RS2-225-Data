@@ -1,0 +1,17 @@
+{
+  "id": 5983,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 330,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "First please enter the name of the offending player below:",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

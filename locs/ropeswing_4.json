@@ -1,0 +1,19 @@
+{
+  "id": 2282,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 6,
+  "actions": [
+    "Swing-on"
+  ],
+  "modelIndices": [
+    2269
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ropeswing",
+  "description": "Use this to swing over crevices."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2546,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    2,
+    3,
+    7089
+  ],
+  "newColors": [
+    23,
+    16,
+    61
+  ],
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door"
+}

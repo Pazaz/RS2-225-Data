@@ -1,0 +1,22 @@
+{
+  "id": 2028,
+  "description": "Looks good... smells strong.",
+  "value": 30,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2738,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    7104
+  ],
+  "name": "Blurberry special",
+  "notedId": 2029
+}

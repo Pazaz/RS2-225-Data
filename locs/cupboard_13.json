@@ -1,0 +1,22 @@
+{
+  "id": 2401,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "interactable": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    2244
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cupboard",
+  "description": "Might be worth searching."
+}

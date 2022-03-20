@@ -1,0 +1,17 @@
+{
+  "id": 5572,
+  "parent": 5570,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 47,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Weapon:",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

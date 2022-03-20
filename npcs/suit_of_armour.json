@@ -1,0 +1,41 @@
+{
+  "id": 453,
+  "description": "A dusty old suit of armour.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    6798,
+    41,
+    61,
+    4550,
+    57,
+    7054
+  ],
+  "newColors": [
+    926,
+    61,
+    41,
+    0,
+    41,
+    926
+  ],
+  "name": "Suit of armour",
+  "modelIndices": [
+    218,
+    313,
+    164,
+    179,
+    268,
+    185,
+    518,
+    486,
+    3330
+  ]
+}

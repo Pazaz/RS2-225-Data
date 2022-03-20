@@ -1,0 +1,29 @@
+{
+  "id": 2583,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 50,
+  "interactable": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    22428
+  ],
+  "modelIndices": [
+    2071
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Fungus covered Cavern wall",
+  "description": "It looks as if it is covered in some fungus."
+}

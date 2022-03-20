@@ -1,0 +1,20 @@
+{
+  "id": 278,
+  "description": "An old cattle prod.",
+  "members": true,
+  "value": 3,
+  "modelIndex": 2700,
+  "iconX": -5,
+  "iconZoom": 680,
+  "iconYaw": 1844,
+  "iconCameraPitch": 264,
+  "options": [
+    null,
+    "Equip"
+  ],
+  "maleModel0": 537,
+  "maleOffsetY": 0,
+  "femaleModel0": 537,
+  "femaleOffsetY": 6,
+  "name": "Prod"
+}

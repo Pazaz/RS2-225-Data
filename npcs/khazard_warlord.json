@@ -1,0 +1,40 @@
+{
+  "id": 477,
+  "description": "He looks real nasty, smells bad too.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 112,
+  "oldColors": [
+    61,
+    7700,
+    57
+  ],
+  "newColors": [
+    20,
+    11138,
+    20
+  ],
+  "name": "Khazard warlord",
+  "modelIndices": [
+    225,
+    246,
+    306,
+    152,
+    176,
+    268,
+    185,
+    542,
+    523,
+    323
+  ],
+  "headModelIndices": [
+    60
+  ]
+}

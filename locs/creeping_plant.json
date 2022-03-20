@@ -1,0 +1,16 @@
+{
+  "id": 1184,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1617
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Creeping plant",
+  "description": "The tendrils of a creeping plant."
+}

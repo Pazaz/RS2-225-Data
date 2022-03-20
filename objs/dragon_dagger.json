@@ -1,0 +1,27 @@
+{
+  "id": 1215,
+  "members": true,
+  "modelIndex": 2718,
+  "description": "A powerful dagger.",
+  "value": 30000,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 539,
+  "maleOffsetY": 0,
+  "femaleModel0": 539,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    22459
+  ],
+  "newColors": [
+    924
+  ],
+  "name": "Dragon dagger",
+  "notedId": 1216
+}

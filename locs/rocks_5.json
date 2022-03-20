@@ -1,0 +1,37 @@
+{
+  "id": 492,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "culls": true,
+  "actions": [
+    "Climb-down"
+  ],
+  "oldColors": [
+    5425,
+    61,
+    45,
+    57,
+    28,
+    16156
+  ],
+  "newColors": [
+    6798,
+    5908,
+    5772,
+    8086,
+    5388,
+    6798
+  ],
+  "modelIndices": [
+    831
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "A collection of rocks over what looks like a depression."
+}

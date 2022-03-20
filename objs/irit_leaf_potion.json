@@ -1,0 +1,19 @@
+{
+  "id": 101,
+  "description": "I need another ingredient to finish this Irit potion.",
+  "value": 40,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43105
+  ],
+  "name": "Unfinished potion",
+  "notedId": 102
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2393,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1317
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gnome goal",
+  "description": "Aim for the goal!"
+}

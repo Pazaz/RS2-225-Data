@@ -1,0 +1,16 @@
+{
+  "id": 708,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1267
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bell mechanism",
+  "description": "Some kind of pulley system."
+}

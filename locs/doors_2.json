@@ -1,0 +1,21 @@
+{
+  "id": 1574,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Close"
+  ],
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    593
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Doors",
+  "description": "A door to a grand place."
+}

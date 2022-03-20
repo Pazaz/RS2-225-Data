@@ -1,0 +1,15 @@
+{
+  "id": 71,
+  "description": "A hideous malformed elf.",
+  "walkSeq": 229,
+  "standSeq": 232,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 20,
+  "name": "Orc",
+  "modelIndices": [
+    2926
+  ]
+}

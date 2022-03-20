@@ -1,0 +1,23 @@
+{
+  "id": 2259,
+  "value": 2,
+  "description": "This smells really good.",
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    15283
+  ],
+  "newColors": [
+    11200
+  ],
+  "name": "Cheese+tom batta",
+  "notedId": 2260
+}

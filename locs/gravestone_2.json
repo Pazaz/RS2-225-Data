@@ -1,0 +1,16 @@
+{
+  "id": 405,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1369
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gravestone",
+  "description": "'Here lies...' is all I can read."
+}

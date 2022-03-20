@@ -1,0 +1,24 @@
+{
+  "id": 1551,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    966,
+    967,
+    968
+  ],
+  "modelTypes": [
+    0,
+    1,
+    9
+  ],
+  "name": "Gate",
+  "description": "A wooden gate."
+}

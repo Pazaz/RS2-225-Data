@@ -1,0 +1,29 @@
+{
+  "id": 356,
+  "level": 0,
+  "description": "One of RuneScapes' many citizens.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    4550,
+    11162
+  ],
+  "newColors": [
+    5797,
+    5662,
+    5006
+  ],
+  "name": "Child",
+  "modelIndices": [
+    2897,
+    2909,
+    2918
+  ],
+  "headModelIndices": [
+    139
+  ]
+}

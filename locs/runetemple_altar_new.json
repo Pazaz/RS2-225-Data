@@ -1,0 +1,17 @@
+{
+  "id": 1887,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "animationIndex": 503,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2304
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "runetemple_altar_new"
+}

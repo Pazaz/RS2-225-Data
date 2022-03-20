@@ -1,0 +1,34 @@
+{
+  "id": 223,
+  "level": 0,
+  "description": "A peaceful monk.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    9108,
+    8741
+  ],
+  "newColors": [
+    4769,
+    4769
+  ],
+  "name": "Brother Kojo",
+  "modelIndices": [
+    223,
+    181,
+    246,
+    292,
+    170,
+    176,
+    260
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

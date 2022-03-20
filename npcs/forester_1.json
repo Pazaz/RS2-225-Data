@@ -1,0 +1,40 @@
+{
+  "id": 22,
+  "description": "They love the forests.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 15,
+  "oldColors": [
+    7700,
+    8741,
+    43072,
+    11200
+  ],
+  "newColors": [
+    13200,
+    11148,
+    4550,
+    10508
+  ],
+  "name": "Forester",
+  "modelIndices": [
+    217,
+    247,
+    292,
+    151,
+    179,
+    274,
+    181,
+    196,
+    326,
+    323,
+    510
+  ]
+}

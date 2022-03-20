@@ -1,0 +1,17 @@
+{
+  "id": 1323,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "modelIndices": [
+    2172
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "A gnarly old tree root."
+}

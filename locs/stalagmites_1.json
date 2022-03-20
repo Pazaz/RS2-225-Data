@@ -1,0 +1,16 @@
+{
+  "id": 468,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    694
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalagmites",
+  "description": "limestone ceiling growth."
+}

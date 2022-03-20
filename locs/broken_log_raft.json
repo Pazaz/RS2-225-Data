@@ -1,0 +1,16 @@
+{
+  "id": 1988,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1554
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken log raft",
+  "description": "Oops!"
+}

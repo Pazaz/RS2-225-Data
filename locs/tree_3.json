@@ -1,0 +1,28 @@
+{
+  "id": 1277,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 0,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "oldColors": [
+    3470
+  ],
+  "newColors": [
+    5029
+  ],
+  "modelIndices": [
+    1570
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "A healthy young tree."
+}

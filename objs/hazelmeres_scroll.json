@@ -1,0 +1,16 @@
+{
+  "id": 786,
+  "description": "Hazelmere wrote something down on this scroll.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "name": "Hazelmere's scroll"
+}

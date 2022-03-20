@@ -1,0 +1,19 @@
+{
+  "id": 515,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 7,
+  "sizeZ": 7,
+  "brightness": 100,
+  "specular": 100,
+  "animationIndex": 505,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2319
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "greatrunestone_top_glow"
+}

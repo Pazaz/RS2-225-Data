@@ -1,0 +1,34 @@
+{
+  "id": 994,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A strong and hardy dwarf.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803,
+    4550,
+    5784,
+    61
+  ],
+  "newColors": [
+    38040,
+    6709,
+    66,
+    42413
+  ],
+  "name": "Nilhoof",
+  "modelIndices": [
+    2970,
+    2984,
+    2981,
+    2979,
+    2985,
+    2990
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

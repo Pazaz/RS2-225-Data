@@ -1,0 +1,21 @@
+{
+  "id": 837,
+  "description": "This fires crossbow bolts.",
+  "value": 70,
+  "modelIndex": 2523,
+  "iconX": 2,
+  "iconY": 1,
+  "iconZoom": 950,
+  "iconYaw": 744,
+  "iconCameraPitch": 640,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 508,
+  "maleOffsetY": 0,
+  "femaleModel0": 508,
+  "femaleOffsetY": 6,
+  "name": "Crossbow",
+  "notedId": 838
+}

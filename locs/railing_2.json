@@ -1,0 +1,23 @@
+{
+  "id": 15,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "actions": [
+    "Inspect"
+  ],
+  "modelIndices": [
+    969,
+    970
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Railing",
+  "description": "There is a hole in this section of the railing."
+}

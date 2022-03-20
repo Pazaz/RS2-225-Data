@@ -1,0 +1,15 @@
+{
+  "id": 1787,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "modelIndices": [
+    1375
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "mroof2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2015,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Take treasure"
+  ],
+  "oldColors": [
+    43069
+  ],
+  "newColors": [
+    28
+  ],
+  "modelIndices": [
+    1814
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chalice of eternity",
+  "description": "A magically elevated chalice full of ash."
+}

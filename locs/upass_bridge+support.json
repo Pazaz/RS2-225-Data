@@ -1,0 +1,17 @@
+{
+  "id": 3261,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    756
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "upass_bridge+support"
+}

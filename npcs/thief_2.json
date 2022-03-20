@@ -1,0 +1,31 @@
+{
+  "id": 282,
+  "description": "A dastardly blanket thief.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 14,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    47399
+  ],
+  "name": "Thief",
+  "modelIndices": [
+    215,
+    246,
+    311,
+    169,
+    179,
+    254,
+    185,
+    519
+  ]
+}

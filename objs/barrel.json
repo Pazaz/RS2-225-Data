@@ -1,0 +1,12 @@
+{
+  "id": 1841,
+  "description": "An empty mining barrel.",
+  "modelIndex": 2546,
+  "value": 1,
+  "iconY": -5,
+  "iconZoom": 1820,
+  "iconYaw": 76,
+  "iconCameraPitch": 136,
+  "members": true,
+  "name": "Barrel"
+}

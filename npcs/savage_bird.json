@@ -1,0 +1,33 @@
+{
+  "id": 412,
+  "level": 0,
+  "description": "This bird isn't happy.",
+  "standSeq": 324,
+  "walkSeq": 321,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "scaleY": 64,
+  "scaleX": 64,
+  "oldColors": [
+    15006,
+    11934,
+    6957,
+    7073,
+    7880,
+    84
+  ],
+  "newColors": [
+    906,
+    912,
+    148,
+    272,
+    169,
+    565
+  ],
+  "name": "Savage bird",
+  "modelIndices": [
+    3011
+  ]
+}

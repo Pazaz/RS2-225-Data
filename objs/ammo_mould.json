@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "description": "Used to make cannon ammunition.",
+  "modelIndex": 2706,
+  "iconX": 8,
+  "iconZoom": 2160,
+  "iconYaw": 88,
+  "iconCameraPitch": 308,
+  "value": 5,
+  "members": true,
+  "name": "Ammo mould"
+}

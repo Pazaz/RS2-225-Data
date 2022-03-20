@@ -1,0 +1,17 @@
+{
+  "id": 1474,
+  "value": 4,
+  "description": "A small round black bead.",
+  "modelIndex": 2456,
+  "iconZoom": 1020,
+  "iconYaw": 68,
+  "iconCameraPitch": 68,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Black bead",
+  "notedId": 1475
+}

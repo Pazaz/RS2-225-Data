@@ -1,0 +1,37 @@
+{
+  "id": 16,
+  "description": "One of the citizens of Al-Kharid.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 2,
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    43072
+  ],
+  "newColors": [
+    10508,
+    10508,
+    4647,
+    4647
+  ],
+  "name": "Man",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    151,
+    176,
+    254,
+    181
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 725,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 473,
+  "disposeAlpha": true,
+  "brightness": 100,
+  "specular": 100,
+  "modelIndices": [
+    2289
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "fire_graphic",
+  "description": "Fire !"
+}

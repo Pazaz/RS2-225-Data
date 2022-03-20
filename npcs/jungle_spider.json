@@ -1,0 +1,22 @@
+{
+  "id": 62,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "showOnMinimap": false,
+  "description": "A venomous deadly spider.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 42,
+  "oldColors": [
+    10258
+  ],
+  "newColors": [
+    16945
+  ],
+  "name": "Jungle spider",
+  "modelIndices": [
+    2884
+  ]
+}

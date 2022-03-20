@@ -1,0 +1,21 @@
+{
+  "id": 2197,
+  "options": [
+    "Eat"
+  ],
+  "description": "These crunchies don't look very appetising.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2352,
+  "iconX": -2,
+  "iconZoom": 650,
+  "iconCameraPitch": 220,
+  "oldColors": [
+    8642
+  ],
+  "newColors": [
+    9112
+  ],
+  "name": "Odd crunchies",
+  "notedId": 2198
+}

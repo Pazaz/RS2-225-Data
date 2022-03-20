@@ -1,0 +1,16 @@
+{
+  "id": 2215,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1146
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Closed bank booth",
+  "description": "This booth is closed."
+}

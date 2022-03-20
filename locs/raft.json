@@ -1,0 +1,20 @@
+{
+  "id": 2849,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "interactable": true,
+  "actions": [
+    "Board"
+  ],
+  "modelIndices": [
+    1461
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Raft",
+  "description": "A rudimentary type of boat."
+}

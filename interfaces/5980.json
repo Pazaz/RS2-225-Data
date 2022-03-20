@@ -1,0 +1,18 @@
+{
+  "id": 5980,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 610,
+  "width": 180,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "10: Misuse of customer support",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

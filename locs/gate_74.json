@@ -1,0 +1,31 @@
+{
+  "id": 3198,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Open"
+  ],
+  "interactable": true,
+  "oldColors": [
+    6040
+  ],
+  "newColors": [
+    6689
+  ],
+  "modelIndices": [
+    966,
+    967,
+    968
+  ],
+  "modelTypes": [
+    0,
+    1,
+    9
+  ],
+  "name": "Gate",
+  "description": "Entrance to the Duel Arena."
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1126,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1568
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rosebush"
+}

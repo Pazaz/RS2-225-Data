@@ -1,0 +1,19 @@
+{
+  "id": 130,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 501,
+  "disposeAlpha": true,
+  "brightness": 60,
+  "modelIndices": [
+    2231
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Party Balloon",
+  "description": "A party balloon."
+}

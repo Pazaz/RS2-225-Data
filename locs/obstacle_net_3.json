@@ -1,0 +1,19 @@
+{
+  "id": 2286,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-over"
+  ],
+  "modelIndices": [
+    1439
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obstacle net",
+  "description": "This must be climbed over."
+}

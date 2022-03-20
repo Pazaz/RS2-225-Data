@@ -1,0 +1,17 @@
+{
+  "id": 703,
+  "description": "A strong chemical.",
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    6080
+  ],
+  "name": "Nitroglycerin"
+}

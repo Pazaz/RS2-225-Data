@@ -1,0 +1,40 @@
+{
+  "id": 891,
+  "description": "Leader of the Hazeel cult.",
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 13,
+  "oldColors": [
+    8741,
+    25238,
+    4550,
+    11200
+  ],
+  "newColors": [
+    24,
+    24,
+    5347,
+    10473
+  ],
+  "name": "Alomone",
+  "modelIndices": [
+    208,
+    251,
+    292,
+    162,
+    176,
+    256,
+    286
+  ],
+  "headModelIndices": [
+    48,
+    83
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 2784,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2125
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Blacksmith's tools",
+  "description": "Various implements for working with metal."
+}

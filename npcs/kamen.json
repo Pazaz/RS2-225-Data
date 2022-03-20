@@ -1,0 +1,30 @@
+{
+  "id": 996,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "This dwarf looks intoxicated.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803,
+    4550
+  ],
+  "newColors": [
+    38040,
+    6709
+  ],
+  "name": "Kamen",
+  "modelIndices": [
+    2972,
+    2984,
+    2981,
+    2979,
+    2985,
+    2990
+  ],
+  "headModelIndices": [
+    2
+  ]
+}

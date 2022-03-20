@@ -1,0 +1,27 @@
+{
+  "id": 481,
+  "level": 0,
+  "description": "Looks like a gnome to me.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22422,
+    22426
+  ],
+  "newColors": [
+    6942,
+    6945
+  ],
+  "name": "Gnome",
+  "modelIndices": [
+    2909,
+    2890,
+    2915
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

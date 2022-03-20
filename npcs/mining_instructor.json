@@ -1,0 +1,43 @@
+{
+  "id": 948,
+  "level": 0,
+  "description": "An expert on mining related skills.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    6798,
+    22177,
+    25238,
+    61
+  ],
+  "newColors": [
+    4550,
+    10159,
+    53793,
+    53793,
+    36133
+  ],
+  "name": "Mining Instructor",
+  "modelIndices": [
+    211,
+    249,
+    315,
+    167,
+    509,
+    271,
+    185,
+    280,
+    179
+  ],
+  "headModelIndices": [
+    50,
+    81
+  ]
+}

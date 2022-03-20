@@ -1,0 +1,22 @@
+{
+  "id": 1306,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 0,
+  "modelIndices": [
+    1693
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Magic tree",
+  "description": "The tree shimmers with a magical force."
+}

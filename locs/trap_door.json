@@ -1,0 +1,21 @@
+{
+  "id": 2446,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "mapscene": 43,
+  "modelIndices": [
+    1175
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Trap door",
+  "description": "This leads to somewhere...but where?"
+}

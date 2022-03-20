@@ -1,0 +1,12 @@
+{
+  "id": 769,
+  "description": "I can use this to claim a reward from the King.",
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "name": "Certificate",
+  "notedId": 770
+}

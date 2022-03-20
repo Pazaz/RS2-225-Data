@@ -1,0 +1,27 @@
+{
+  "id": 564,
+  "level": 0,
+  "description": "A being from a mysterious other realm.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    22753,
+    9447
+  ],
+  "newColors": [
+    23492,
+    38854
+  ],
+  "name": "Jakut",
+  "modelIndices": [
+    2857
+  ],
+  "headModelIndices": [
+    13
+  ]
+}

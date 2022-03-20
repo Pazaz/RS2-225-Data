@@ -1,0 +1,18 @@
+{
+  "id": 868,
+  "level": 0,
+  "description": "A skavid.",
+  "size": 2,
+  "walkSeq": 254,
+  "standSeq": 257,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Skavid",
+  "modelIndices": [
+    2999
+  ],
+  "headModelIndices": [
+    146
+  ]
+}

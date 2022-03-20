@@ -1,0 +1,26 @@
+{
+  "id": 3042,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Prospect"
+  ],
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    4510
+  ],
+  "modelIndices": [
+    1390
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "A rocky outcrop."
+}

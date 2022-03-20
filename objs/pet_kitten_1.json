@@ -1,0 +1,13 @@
+{
+  "id": 1555,
+  "description": "This kitten seems to like you.",
+  "modelIndex": 3009,
+  "iconX": 13,
+  "iconY": 21,
+  "iconZoom": 880,
+  "iconYaw": 152,
+  "iconRoll": 1940,
+  "iconCameraPitch": 32,
+  "members": true,
+  "name": "Pet kitten"
+}

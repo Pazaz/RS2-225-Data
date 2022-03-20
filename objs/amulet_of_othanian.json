@@ -1,0 +1,21 @@
+{
+  "id": 1497,
+  "description": "A mystical demonic amulet.",
+  "value": 0,
+  "modelIndex": 2796,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "members": true,
+  "oldColors": [
+    11200,
+    127
+  ],
+  "newColors": [
+    933,
+    916
+  ],
+  "name": "Amulet of othanian"
+}

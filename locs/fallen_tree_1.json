@@ -1,0 +1,17 @@
+{
+  "id": 1296,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "mapscene": 6,
+  "modelIndices": [
+    1633
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fallen tree",
+  "description": "This tree has fallen to the ground."
+}

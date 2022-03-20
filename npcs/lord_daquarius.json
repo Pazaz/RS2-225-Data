@@ -1,0 +1,41 @@
+{
+  "id": 200,
+  "description": "Wears a stylish suit of armour.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 59,
+  "oldColors": [
+    61,
+    41,
+    926,
+    7700,
+    57,
+    4550
+  ],
+  "newColors": [
+    12,
+    12,
+    20,
+    12,
+    12,
+    3742
+  ],
+  "name": "Lord Daquarius",
+  "modelIndices": [
+    217,
+    306,
+    268,
+    246,
+    185,
+    156,
+    179,
+    323
+  ]
+}

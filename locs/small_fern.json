@@ -1,0 +1,16 @@
+{
+  "id": 1173,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1696
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Small fern",
+  "description": "A commonly found fern."
+}

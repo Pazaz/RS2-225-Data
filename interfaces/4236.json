@@ -1,0 +1,17 @@
+{
+  "id": 4236,
+  "parent": 4161,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 400,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "You need a necklace mould to craft necklaces.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

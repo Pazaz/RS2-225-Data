@@ -1,0 +1,33 @@
+{
+  "id": 938,
+  "description": "The spirit of a long dead warrior.",
+  "walkSeq": 264,
+  "standSeq": 267,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 95,
+  "oldColors": [
+    10297,
+    7054,
+    61,
+    9152
+  ],
+  "newColors": [
+    173,
+    65180,
+    173,
+    4
+  ],
+  "name": "Ranalph Devere",
+  "modelIndices": [
+    2944,
+    2948
+  ],
+  "headModelIndices": [
+    54,
+    34
+  ]
+}

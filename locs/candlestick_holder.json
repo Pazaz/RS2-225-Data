@@ -1,0 +1,16 @@
+{
+  "id": 1897,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1560
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Candlestick holder",
+  "description": "Not as nice as some."
+}

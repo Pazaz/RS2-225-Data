@@ -1,0 +1,16 @@
+{
+  "id": 1950,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    840
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bricks",
+  "description": "A pile of bricks."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 628,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1485
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Silver stall",
+  "description": "Finely wrought wares of silver."
+}

@@ -1,0 +1,48 @@
+{
+  "id": 251,
+  "level": 0,
+  "description": "Legendary King of the Britons.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22430,
+    57,
+    61,
+    5056,
+    4626,
+    10128
+  ],
+  "newColors": [
+    43968,
+    107,
+    107,
+    107,
+    70,
+    70
+  ],
+  "name": "King Arthur",
+  "modelIndices": [
+    215,
+    306,
+    164,
+    179,
+    268,
+    185,
+    501,
+    526,
+    252,
+    318,
+    201
+  ],
+  "headModelIndices": [
+    53,
+    84,
+    43
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2340,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    45,
+    4762
+  ],
+  "modelIndices": [
+    678,
+    679,
+    636,
+    637,
+    638
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Sturdy door",
+  "description": "This door is very sturdy looking."
+}

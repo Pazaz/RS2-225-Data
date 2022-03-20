@@ -1,0 +1,18 @@
+{
+  "id": 697,
+  "description": "Beyond repair.",
+  "modelIndex": 1306,
+  "iconX": -8,
+  "iconY": 11,
+  "iconZoom": 1450,
+  "iconYaw": 128,
+  "iconCameraPitch": 292,
+  "members": true,
+  "oldColors": [
+    45
+  ],
+  "newColors": [
+    8472
+  ],
+  "name": "Damaged armour"
+}

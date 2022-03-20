@@ -1,0 +1,16 @@
+{
+  "id": 6168,
+  "parent": 2302,
+  "type": 6,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 50,
+  "height": 105,
+  "hoverParentIndex": -1,
+  "modelDisabled": 3006,
+  "seqId": -1,
+  "activeSeqId": -1,
+  "modelZoom": 450,
+  "modelEyePitch": 120,
+  "modelYaw": 160
+}

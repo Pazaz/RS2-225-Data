@@ -1,0 +1,18 @@
+{
+  "id": 1927,
+  "description": "It's a bucket of milk.",
+  "value": 6,
+  "modelIndex": 2504,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "oldColors": [
+    39834
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Bucket of milk",
+  "notedId": 1928
+}

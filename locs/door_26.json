@@ -1,0 +1,19 @@
+{
+  "id": 1505,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "culls": true,
+  "interactable": true,
+  "modelIndices": [
+    605
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door",
+  "description": "The door is closed."
+}

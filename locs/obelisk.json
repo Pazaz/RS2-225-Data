@@ -1,0 +1,16 @@
+{
+  "id": 2149,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1810
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obelisk",
+  "description": "An imposing stone structure."
+}

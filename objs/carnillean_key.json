@@ -1,0 +1,12 @@
+{
+  "id": 2404,
+  "description": "This key opens a chest in the Carnillean household.",
+  "members": true,
+  "modelIndex": 2372,
+  "iconX": -3,
+  "iconY": 5,
+  "iconZoom": 700,
+  "iconYaw": 20,
+  "iconCameraPitch": 328,
+  "name": "Key"
+}

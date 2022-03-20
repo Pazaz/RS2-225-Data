@@ -1,0 +1,51 @@
+{
+  "id": 1834,
+  "parent": 1829,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1889,
+  "scriptCompareType": [
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    1,
+    0,
+    16
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      556,
+      10,
+      1688,
+      1381,
+      10,
+      1688,
+      1397,
+      10,
+      1688,
+      1405,
+      0
+    ],
+    [
+      4,
+      3214,
+      562,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,8",
+  "activeImage": "magicon,8",
+  "option": "Ok"
+}

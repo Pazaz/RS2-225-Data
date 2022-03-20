@@ -1,0 +1,22 @@
+{
+  "id": 319,
+  "description": "Some nicely cooked fish.",
+  "modelIndex": 2590,
+  "iconZoom": 950,
+  "iconYaw": 552,
+  "iconCameraPitch": 272,
+  "value": 15,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    6080,
+    4032
+  ],
+  "newColors": [
+    42419,
+    42304
+  ],
+  "name": "Anchovies",
+  "notedId": 320
+}

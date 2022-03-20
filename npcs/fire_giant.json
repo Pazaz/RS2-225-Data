@@ -1,0 +1,25 @@
+{
+  "id": 110,
+  "size": 2,
+  "walkSeq": 127,
+  "standSeq": 130,
+  "description": "A very large elemental adversary.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 93,
+  "oldColors": [
+    4550,
+    39145
+  ],
+  "newColors": [
+    960,
+    2349
+  ],
+  "name": "Fire giant",
+  "modelIndices": [
+    2870,
+    2864
+  ]
+}

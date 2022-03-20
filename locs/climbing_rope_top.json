@@ -1,0 +1,15 @@
+{
+  "id": 1763,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1433
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "climbing_rope_top"
+}

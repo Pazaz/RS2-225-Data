@@ -1,0 +1,17 @@
+{
+  "id": 727,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    776
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave web",
+  "description": "A fissure in the cave wall."
+}

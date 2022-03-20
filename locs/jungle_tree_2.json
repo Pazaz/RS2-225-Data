@@ -1,0 +1,22 @@
+{
+  "id": 2889,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1701
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle Tree",
+  "description": "Home to many unusual creatures."
+}

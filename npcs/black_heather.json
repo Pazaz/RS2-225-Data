@@ -1,0 +1,38 @@
+{
+  "id": 202,
+  "description": "Has a fearsome scowl.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 34,
+  "oldColors": [
+    8741,
+    6024,
+    10138,
+    7700,
+    11200
+  ],
+  "newColors": [
+    12,
+    10508,
+    12,
+    1950,
+    2749
+  ],
+  "name": "Black Heather",
+  "modelIndices": [
+    401,
+    456,
+    348,
+    353,
+    435,
+    490,
+    481
+  ]
+}

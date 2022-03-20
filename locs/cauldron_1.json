@@ -1,0 +1,17 @@
+{
+  "id": 692,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 479,
+  "modelIndices": [
+    2241
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cauldron",
+  "description": "I don't even want to think about what's cooking in that."
+}

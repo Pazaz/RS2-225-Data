@@ -1,0 +1,17 @@
+{
+  "id": 2327,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "interactable": true,
+  "modelIndices": [
+    2276
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Long branched tree",
+  "description": "This tree has an unusually long branch on it."
+}

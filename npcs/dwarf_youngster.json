@@ -1,0 +1,29 @@
+{
+  "id": 207,
+  "level": 0,
+  "scaleY": 70,
+  "scaleX": 70,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A young Dwarf lad.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Dwarf youngster",
+  "modelIndices": [
+    2976,
+    2981,
+    2979,
+    2983,
+    2985
+  ],
+  "headModelIndices": [
+    5
+  ]
+}

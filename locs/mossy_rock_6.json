@@ -1,0 +1,26 @@
+{
+  "id": 2901,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 12,
+  "actions": [
+    "Search"
+  ],
+  "oldColors": [
+    14228
+  ],
+  "newColors": [
+    127
+  ],
+  "modelIndices": [
+    2157
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mossy rock",
+  "description": "Looks slippery!"
+}

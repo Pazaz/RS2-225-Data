@@ -1,0 +1,24 @@
+{
+  "id": 1913,
+  "description": "A pint of thick dark beer.",
+  "value": 2,
+  "options": [
+    "Drink"
+  ],
+  "modelIndex": 2491,
+  "iconX": -3,
+  "iconY": 2,
+  "iconZoom": 660,
+  "iconYaw": 1904,
+  "iconCameraPitch": 140,
+  "oldColors": [
+    7091,
+    7116
+  ],
+  "newColors": [
+    8,
+    33
+  ],
+  "name": "Dwarven stout",
+  "notedId": 1914
+}

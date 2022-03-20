@@ -1,0 +1,22 @@
+{
+  "id": 668,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    10361
+  ],
+  "newColors": [
+    6241
+  ],
+  "modelIndices": [
+    2171
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pile of skulls",
+  "description": "Disturbing but tidy."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1147,
+  "description": "A medium sized helmet.",
+  "value": 19200,
+  "modelIndex": 2833,
+  "iconX": 1,
+  "iconY": -4,
+  "iconZoom": 640,
+  "iconYaw": 156,
+  "iconCameraPitch": 108,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 219,
+  "maleOffsetY": 0,
+  "femaleModel0": 395,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 57,
+  "femaleHeadModelA": 117,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Rune med helm",
+  "notedId": 1148
+}

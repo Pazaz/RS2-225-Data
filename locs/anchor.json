@@ -1,0 +1,16 @@
+{
+  "id": 271,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1840
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Anchor",
+  "description": "How much does this weigh?"
+}

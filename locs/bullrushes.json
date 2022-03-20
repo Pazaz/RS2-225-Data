@@ -1,0 +1,16 @@
+{
+  "id": 1162,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1674
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bullrushes",
+  "description": "Found near the water's edge."
+}

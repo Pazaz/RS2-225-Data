@@ -1,0 +1,40 @@
+{
+  "id": 716,
+  "level": 0,
+  "description": "In charge of people with silly outfits.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    926,
+    8741,
+    11200,
+    8090,
+    8090
+  ],
+  "newColors": [
+    43270,
+    8,
+    43270,
+    4,
+    8
+  ],
+  "name": "Head mourner",
+  "modelIndices": [
+    212,
+    295,
+    150,
+    273,
+    290,
+    323,
+    536
+  ],
+  "headModelIndices": [
+    51
+  ]
+}

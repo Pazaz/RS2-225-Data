@@ -1,0 +1,21 @@
+{
+  "id": 1097,
+  "value": 750,
+  "description": "Those studs should provide a bit more protection.",
+  "modelIndex": 2581,
+  "iconX": 7,
+  "iconY": 5,
+  "iconZoom": 1720,
+  "iconRoll": 224,
+  "iconCameraPitch": 488,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 277,
+  "maleOffsetY": 0,
+  "femaleModel0": 441,
+  "femaleOffsetY": 0,
+  "name": "Studded chaps",
+  "notedId": 1098
+}

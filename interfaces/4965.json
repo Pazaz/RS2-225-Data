@@ -1,0 +1,12 @@
+{
+  "id": 4965,
+  "parent": 4958,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 25,
+  "height": 39,
+  "hoverParentIndex": -1,
+  "image": "gnomeball_buttons,1",
+  "option": "Shoot"
+}

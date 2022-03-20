@@ -1,0 +1,17 @@
+{
+  "id": 1785,
+  "value": 2,
+  "members": true,
+  "modelIndex": 2570,
+  "maleModel0": 515,
+  "maleOffsetY": 0,
+  "femaleModel0": 515,
+  "femaleOffsetY": 0,
+  "iconX": 2,
+  "iconY": -18,
+  "iconZoom": 1400,
+  "iconYaw": 132,
+  "iconCameraPitch": 228,
+  "name": "Glassblowing pipe",
+  "notedId": 1786
+}

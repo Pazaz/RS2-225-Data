@@ -1,0 +1,16 @@
+{
+  "id": 286,
+  "description": "Armour designed to fit goblins.",
+  "modelIndex": 2574,
+  "value": 40,
+  "iconY": 3,
+  "iconZoom": 1500,
+  "iconCameraPitch": 608,
+  "oldColors": [
+    916
+  ],
+  "newColors": [
+    6073
+  ],
+  "name": "Orange goblin mail"
+}

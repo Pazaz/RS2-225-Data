@@ -1,0 +1,29 @@
+{
+  "id": 98,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    "Climb-down"
+  ],
+  "interactable": true,
+  "oldColors": [
+    49,
+    37,
+    7064
+  ],
+  "newColors": [
+    8,
+    24,
+    7050
+  ],
+  "modelIndices": [
+    1211
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stairs"
+}

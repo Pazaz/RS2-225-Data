@@ -1,0 +1,20 @@
+{
+  "id": 2832,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Climb-over"
+  ],
+  "modelIndices": [
+    3345
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Battlement",
+  "description": "A low wall is blocking your path."
+}

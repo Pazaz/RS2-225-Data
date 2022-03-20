@@ -1,0 +1,39 @@
+{
+  "id": 754,
+  "level": 0,
+  "description": "His job is to keep the ship in tip-top condition!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    22177,
+    25238,
+    4550
+  ],
+  "newColors": [
+    43235,
+    65480,
+    65480,
+    6709
+  ],
+  "name": "Cabin Boy Jenkins",
+  "modelIndices": [
+    211,
+    249,
+    310,
+    167,
+    179,
+    271,
+    181
+  ],
+  "headModelIndices": [
+    50,
+    81
+  ]
+}

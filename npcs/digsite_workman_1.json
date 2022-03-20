@@ -1,0 +1,37 @@
+{
+  "id": 613,
+  "level": 0,
+  "description": "This person is working on the site.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Steal-from"
+  ],
+  "oldColors": [
+    43072,
+    54397
+  ],
+  "newColors": [
+    6032,
+    6032
+  ],
+  "name": "Digsite workman",
+  "modelIndices": [
+    235,
+    246,
+    302,
+    173,
+    179,
+    274,
+    181,
+    185
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

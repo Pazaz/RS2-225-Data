@@ -1,0 +1,15 @@
+{
+  "id": 301,
+  "description": "Useful for catching lobsters.",
+  "modelIndex": 2663,
+  "iconZoom": 1180,
+  "iconYaw": 1668,
+  "iconCameraPitch": 192,
+  "value": 20,
+  "maleModel0": 531,
+  "maleOffsetY": 0,
+  "femaleModel0": 531,
+  "femaleOffsetY": 6,
+  "name": "Lobster pot",
+  "notedId": 302
+}

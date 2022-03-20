@@ -1,0 +1,22 @@
+{
+  "id": 1723,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Climb-down"
+  ],
+  "interactionSideFlags": 14,
+  "delayShading": true,
+  "mapscene": 7,
+  "modelIndices": [
+    1268
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "They go down."
+}

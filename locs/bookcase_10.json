@@ -1,0 +1,21 @@
+{
+  "id": 2402,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "interactable": true,
+  "actions": [
+    null,
+    "Check"
+  ],
+  "modelIndices": [
+    1263
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bookcase",
+  "description": "A good source of books!"
+}

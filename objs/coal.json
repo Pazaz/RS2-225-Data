@@ -1,0 +1,19 @@
+{
+  "id": 453,
+  "value": 45,
+  "description": "Hmm a non-renewable energy source!",
+  "modelIndex": 2748,
+  "iconX": 1,
+  "iconY": 15,
+  "iconZoom": 1400,
+  "iconYaw": 1576,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    10508
+  ],
+  "name": "Coal",
+  "notedId": 454
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5721,
+  "parent": 5715,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 51,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Del Name",
+  "color": 16776960,
+  "colorEnabled": 16777215,
+  "hoverColor": 0
+}

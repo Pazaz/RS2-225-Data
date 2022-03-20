@@ -1,0 +1,18 @@
+{
+  "id": 2472,
+  "parent": 2469,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 480,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 3,
+  "shadow": false,
+  "text": "option2",
+  "color": 0,
+  "colorEnabled": 0,
+  "hoverColor": 49152,
+  "option": "Ok"
+}

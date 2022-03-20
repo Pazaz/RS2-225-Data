@@ -1,0 +1,15 @@
+{
+  "id": 712,
+  "description": "A refreshing cuppa.",
+  "options": [
+    "Drink"
+  ],
+  "modelIndex": 2468,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 500,
+  "iconYaw": 1980,
+  "iconCameraPitch": 156,
+  "members": true,
+  "name": "Cup of tea"
+}

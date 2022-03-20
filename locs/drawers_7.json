@@ -1,0 +1,36 @@
+{
+  "id": 3190,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "interactionSideFlags": 13,
+  "brightness": 15,
+  "specular": 15,
+  "scaleX": 100,
+  "scaleY": 100,
+  "scaleZ": 100,
+  "interactable": true,
+  "oldColors": [
+    5786,
+    7954,
+    2452
+  ],
+  "newColors": [
+    99,
+    86,
+    70
+  ],
+  "modelIndices": [
+    1155
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Drawers",
+  "description": "These open and close!"
+}

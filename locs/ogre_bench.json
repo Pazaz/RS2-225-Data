@@ -1,0 +1,25 @@
+{
+  "id": 3376,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "scaleX": 110,
+  "scaleY": 74,
+  "scaleZ": 128,
+  "oldColors": [
+    6036
+  ],
+  "newColors": [
+    6689
+  ],
+  "modelIndices": [
+    723
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ogre bench",
+  "description": "An ogre bench, useful for taking all that weight off their legs."
+}

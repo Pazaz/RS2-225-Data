@@ -1,0 +1,29 @@
+{
+  "id": 723,
+  "level": 0,
+  "description": "The Rehnisons' eldest son.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    22418,
+    11162
+  ],
+  "newColors": [
+    8741,
+    908,
+    3980
+  ],
+  "name": "Billy Rehnison",
+  "modelIndices": [
+    2897,
+    2909,
+    2918
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

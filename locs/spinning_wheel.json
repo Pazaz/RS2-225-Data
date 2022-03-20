@@ -1,0 +1,17 @@
+{
+  "id": 2644,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    2248
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spinning wheel",
+  "description": "Used for spinning thread."
+}

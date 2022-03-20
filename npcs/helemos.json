@@ -1,0 +1,45 @@
+{
+  "id": 797,
+  "level": 0,
+  "description": "A retired hero.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8472,
+    8078,
+    8741,
+    25238,
+    4550,
+    6798
+  ],
+  "newColors": [
+    28325,
+    28325,
+    10419,
+    33306,
+    6709,
+    7075
+  ],
+  "name": "Helemos",
+  "modelIndices": [
+    217,
+    162,
+    291,
+    274,
+    176,
+    185,
+    251
+  ],
+  "headModelIndices": [
+    67,
+    80
+  ]
+}

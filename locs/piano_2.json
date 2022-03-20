@@ -1,0 +1,16 @@
+{
+  "id": 681,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1943
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Piano",
+  "description": "I never learnt to play."
+}

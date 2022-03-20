@@ -1,0 +1,15 @@
+{
+  "id": 2246,
+  "parent": 2156,
+  "type": 3,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 68,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "fill": true,
+  "color": 0,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

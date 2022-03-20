@@ -1,0 +1,19 @@
+{
+  "id": 486,
+  "level": 0,
+  "description": "He looks lost.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Kalron",
+  "modelIndices": [
+    2909,
+    2890,
+    2917
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

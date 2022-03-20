@@ -1,0 +1,17 @@
+{
+  "id": 81,
+  "size": 2,
+  "walkSeq": 58,
+  "standSeq": 61,
+  "description": "It's a dairy cow.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Cow",
+  "modelIndices": [
+    3341,
+    3342
+  ]
+}

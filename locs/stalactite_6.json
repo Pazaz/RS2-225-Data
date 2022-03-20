@@ -1,0 +1,16 @@
+{
+  "id": 539,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    764
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalactite",
+  "description": "A tooth shaped rock formation protruding from the ceiling."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 451,
+  "description": "This needs refining.",
+  "value": 3200,
+  "modelIndex": 2748,
+  "iconX": 1,
+  "iconY": 15,
+  "iconZoom": 1400,
+  "iconYaw": 1576,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Runite ore",
+  "notedId": 452
+}

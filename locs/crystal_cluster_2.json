@@ -1,0 +1,16 @@
+{
+  "id": 712,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2169
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crystal cluster",
+  "description": "A huge chunk of shining natural crystal."
+}

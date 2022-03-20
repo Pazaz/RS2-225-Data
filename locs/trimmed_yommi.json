@@ -1,0 +1,16 @@
+{
+  "id": 2952,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1741
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trimmed Yommi",
+  "description": "A trimmed Yommi tree log, perfect for sculpting into a totem pole."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 284,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "A dwarf smith, quite handy with a hammer.",
+  "oldColors": [
+    5784,
+    803
+  ],
+  "newColors": [
+    5022,
+    7469
+  ],
+  "name": "Doric",
+  "modelIndices": [
+    2974,
+    2981,
+    2979,
+    2983,
+    2985
+  ],
+  "headModelIndices": [
+    4
+  ]
+}

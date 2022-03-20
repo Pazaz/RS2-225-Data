@@ -1,0 +1,15 @@
+{
+  "id": 129,
+  "walkSeq": 254,
+  "standSeq": 257,
+  "description": "Servant race to the ogres.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Skavid",
+  "modelIndices": [
+    2999
+  ]
+}

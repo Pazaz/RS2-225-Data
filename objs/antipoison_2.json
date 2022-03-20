@@ -1,0 +1,22 @@
+{
+  "id": 177,
+  "description": "2 doses of antipoison potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 216,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    18372
+  ],
+  "name": "Antipoison(2)",
+  "notedId": 178
+}

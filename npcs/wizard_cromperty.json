@@ -1,0 +1,38 @@
+{
+  "id": 844,
+  "level": 0,
+  "description": "The hat is a dead give away.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    38814,
+    38814,
+    127
+  ],
+  "name": "Wizard Cromperty",
+  "modelIndices": [
+    215,
+    181,
+    246,
+    292,
+    170,
+    176,
+    265,
+    202
+  ],
+  "headModelIndices": [
+    53,
+    44
+  ]
+}

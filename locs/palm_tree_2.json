@@ -1,0 +1,21 @@
+{
+  "id": 2577,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1612
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Palm tree",
+  "description": "A tall palm tree with some plants growing at it's stem."
+}

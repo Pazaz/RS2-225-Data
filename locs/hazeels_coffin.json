@@ -1,0 +1,17 @@
+{
+  "id": 2860,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1819
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hazeels' coffin",
+  "description": "Very ominous."
+}

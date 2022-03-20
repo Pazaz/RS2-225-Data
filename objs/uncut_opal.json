@@ -1,0 +1,21 @@
+{
+  "id": 1625,
+  "value": 20,
+  "description": "This would be worth more cut.",
+  "modelIndex": 2528,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    10465
+  ],
+  "name": "Uncut opal",
+  "notedId": 1626
+}

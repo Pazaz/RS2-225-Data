@@ -1,0 +1,21 @@
+{
+  "id": 745,
+  "description": "A badly behaved goblin.",
+  "walkSeq": 308,
+  "standSeq": 311,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Wormbrain",
+  "modelIndices": [
+    2951,
+    2953,
+    2955,
+    2956
+  ],
+  "headModelIndices": [
+    144
+  ]
+}

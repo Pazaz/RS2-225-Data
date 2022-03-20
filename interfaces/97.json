@@ -1,0 +1,28 @@
+{
+  "id": 97,
+  "parent": 0,
+  "type": 3,
+  "buttonType": 5,
+  "contentType": 0,
+  "width": 25,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    7
+  ],
+  "script": [
+    [
+      5,
+      263,
+      0
+    ]
+  ],
+  "fill": true,
+  "color": 12499100,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "White"
+}

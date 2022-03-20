@@ -1,0 +1,18 @@
+{
+  "id": 727,
+  "value": 2,
+  "description": "One of nature's pipes.",
+  "members": true,
+  "modelIndex": 2344,
+  "maleModel0": 515,
+  "maleOffsetY": 0,
+  "femaleModel0": 515,
+  "femaleOffsetY": 0,
+  "iconX": -2,
+  "iconY": -15,
+  "iconZoom": 1770,
+  "iconYaw": 940,
+  "iconCameraPitch": 212,
+  "name": "Hollow reed",
+  "notedId": 728
+}

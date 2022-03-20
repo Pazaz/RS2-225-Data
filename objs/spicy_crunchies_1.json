@@ -1,0 +1,21 @@
+{
+  "id": 2213,
+  "value": 2,
+  "description": "Yum... smells good.",
+  "modelIndex": 2753,
+  "iconX": -2,
+  "iconZoom": 650,
+  "iconCameraPitch": 220,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    3974
+  ],
+  "newColors": [
+    5056
+  ],
+  "name": "Spicy crunchies",
+  "notedId": 2214
+}

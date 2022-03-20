@@ -1,0 +1,23 @@
+{
+  "id": 542,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    693
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalagmite",
+  "description": "A tooth shaped rock formation protruding from the floor."
+}

@@ -1,0 +1,38 @@
+{
+  "id": 620,
+  "level": 0,
+  "description": "A specialist in panning for gold.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4626,
+    25238,
+    8741
+  ],
+  "newColors": [
+    12,
+    4636,
+    4645
+  ],
+  "name": "Panning guide",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    170,
+    179,
+    254,
+    276,
+    185,
+    326
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

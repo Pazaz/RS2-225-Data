@@ -1,0 +1,11 @@
+{
+  "id": 98,
+  "description": "Bow wow.",
+  "walkSeq": 74,
+  "standSeq": 77,
+  "level": 0,
+  "name": "Dog",
+  "modelIndices": [
+    2935
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 898,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2038
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Cross",
+  "description": "Cross shaped."
+}

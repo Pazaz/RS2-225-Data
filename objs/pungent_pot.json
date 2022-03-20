@@ -1,0 +1,18 @@
+{
+  "id": 1812,
+  "description": "A pot found at the murder scene, with a sickly odour.",
+  "members": true,
+  "modelIndex": 2345,
+  "iconX": -1,
+  "iconY": 2,
+  "iconZoom": 990,
+  "iconYaw": 8,
+  "iconCameraPitch": 112,
+  "oldColors": [
+    4775
+  ],
+  "newColors": [
+    1959
+  ],
+  "name": "Pungent pot"
+}

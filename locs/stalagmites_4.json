@@ -1,0 +1,17 @@
+{
+  "id": 3232,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    2326
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalagmites",
+  "description": "Formed over many years."
+}

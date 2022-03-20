@@ -1,0 +1,21 @@
+{
+  "id": 1468,
+  "description": "Some dry wooden sticks.",
+  "members": true,
+  "modelIndex": 2402,
+  "iconX": 4,
+  "iconY": 20,
+  "iconZoom": 1020,
+  "iconYaw": 188,
+  "iconCameraPitch": 316,
+  "options": [
+    "Rub-together"
+  ],
+  "oldColors": [
+    5010
+  ],
+  "newColors": [
+    5392
+  ],
+  "name": "Dry sticks"
+}

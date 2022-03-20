@@ -1,0 +1,18 @@
+{
+  "id": 144,
+  "size": 2,
+  "walkSeq": 244,
+  "standSeq": 245,
+  "scaleX": 180,
+  "scaleY": 180,
+  "description": "Wow! Scorpions shouldn't grow that big.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 32,
+  "name": "King Scorpion",
+  "modelIndices": [
+    2967
+  ]
+}

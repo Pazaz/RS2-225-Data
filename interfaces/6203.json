@@ -1,0 +1,17 @@
+{
+  "id": 6203,
+  "parent": 6073,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 373,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Do this from the 'account management' area on our front webpage",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

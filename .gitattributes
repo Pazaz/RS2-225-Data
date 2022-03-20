@@ -1,0 +1,13 @@
+# Original formats
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.idx filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+
+# Models
+*.ob3 filter=lfs diff=lfs merge=lfs -text
+
+# Sounds
+*.snd filter=lfs diff=lfs merge=lfs -text
+
+# Other binary files
+*.png filter=lfs diff=lfs merge=lfs -text

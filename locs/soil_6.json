@@ -1,0 +1,28 @@
+{
+  "id": 2383,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "oldColors": [
+    4899,
+    4892,
+    4899
+  ],
+  "newColors": [
+    21902,
+    21782,
+    24854
+  ],
+  "modelIndices": [
+    1032
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Soil",
+  "description": "Swampy dirt."
+}

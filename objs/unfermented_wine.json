@@ -1,0 +1,19 @@
+{
+  "id": 1995,
+  "value": 10,
+  "description": "This wine needs to ferment before it can be drunk.",
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    701
+  ],
+  "name": "Unfermented wine",
+  "notedId": 1996
+}

@@ -1,0 +1,12 @@
+{
+  "id": 755,
+  "description": "A message from Juliet to Romeo.",
+  "value": 5,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "name": "Message"
+}

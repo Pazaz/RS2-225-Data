@@ -1,0 +1,45 @@
+{
+  "id": 591,
+  "level": 0,
+  "description": "He helps to run the adventurers' shop.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    908,
+    4626
+  ],
+  "newColors": [
+    5652,
+    4769,
+    45,
+    4550,
+    103,
+    908
+  ],
+  "name": "Kortan",
+  "modelIndices": [
+    215,
+    254,
+    253,
+    292,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    85
+  ]
+}

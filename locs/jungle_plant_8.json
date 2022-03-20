@@ -1,0 +1,16 @@
+{
+  "id": 2244,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1618
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "Commonly found in these parts."
+}

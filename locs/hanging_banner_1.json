@@ -1,0 +1,19 @@
+{
+  "id": 899,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "delayShading": true,
+  "interactable": true,
+  "modelIndices": [
+    2065
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Hanging banner",
+  "description": "Mmmm decorative!"
+}

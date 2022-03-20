@@ -1,0 +1,29 @@
+{
+  "id": 1065,
+  "value": 2500,
+  "description": "Made from 100% real dragon hide.",
+  "modelIndex": 2656,
+  "iconX": 7,
+  "iconY": -33,
+  "iconZoom": 740,
+  "iconYaw": 1784,
+  "iconCameraPitch": 196,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 178,
+  "maleOffsetY": 0,
+  "femaleModel0": 355,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    8472,
+    7446
+  ],
+  "newColors": [
+    22416,
+    22408
+  ],
+  "name": "Dragon vambraces",
+  "notedId": 1066
+}

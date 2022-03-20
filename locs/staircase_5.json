@@ -1,0 +1,22 @@
+{
+  "id": 1726,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Climb-down"
+  ],
+  "delayShading": true,
+  "interactionSideFlags": 14,
+  "mapscene": 7,
+  "modelIndices": [
+    1283
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "I can climb down this."
+}

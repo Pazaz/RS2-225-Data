@@ -1,0 +1,38 @@
+{
+  "id": 125,
+  "disposeAlpha": true,
+  "walkSeq": 841,
+  "standSeq": 842,
+  "description": "A cold hearted elemental warrior.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 53,
+  "oldColors": [
+    61,
+    41,
+    4550,
+    57,
+    12,
+    24
+  ],
+  "newColors": [
+    35792,
+    35792,
+    35792,
+    35792,
+    35792,
+    35792
+  ],
+  "name": "Ice warrior",
+  "modelIndices": [
+    213,
+    306,
+    164,
+    176,
+    268,
+    184,
+    511
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 862,
+  "description": "Tries to keep the peace.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 74,
+  "name": "City guard",
+  "modelIndices": [
+    2878,
+    2876
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

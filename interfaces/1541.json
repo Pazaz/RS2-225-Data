@@ -1,0 +1,51 @@
+{
+  "id": 1541,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1453,
+  "scriptCompareType": [
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    1,
+    1,
+    57
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      557,
+      10,
+      1688,
+      1385,
+      10,
+      1688,
+      1399,
+      10,
+      1688,
+      1407,
+      0
+    ],
+    [
+      4,
+      3214,
+      563,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,40",
+  "activeImage": "magicon,40",
+  "option": "Cast @gre@Watchtower teleport"
+}

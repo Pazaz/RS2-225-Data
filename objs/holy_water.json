@@ -1,0 +1,26 @@
+{
+  "id": 732,
+  "description": "A vial of holy water, good against certain demons.",
+  "modelIndex": 1736,
+  "members": true,
+  "stackable": true,
+  "iconY": -2,
+  "iconZoom": 710,
+  "iconYaw": 1516,
+  "iconCameraPitch": 80,
+  "maleModel0": 552,
+  "maleOffsetY": 0,
+  "femaleModel0": 552,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43959
+  ],
+  "name": "Holy water"
+}

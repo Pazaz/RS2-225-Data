@@ -1,0 +1,14 @@
+{
+  "id": 1969,
+  "options": [
+    "Eat"
+  ],
+  "description": "A home made spinach thing.",
+  "modelIndex": 2829,
+  "iconZoom": 790,
+  "iconYaw": 164,
+  "iconCameraPitch": 376,
+  "value": 1,
+  "name": "Spinach roll",
+  "notedId": 1970
+}

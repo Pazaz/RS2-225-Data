@@ -1,0 +1,11 @@
+{
+  "id": 625,
+  "description": "A decorated belt used to trade information between distant villages.",
+  "value": 5,
+  "modelIndex": 3155,
+  "iconZoom": 2190,
+  "iconYaw": 2040,
+  "iconCameraPitch": 436,
+  "members": true,
+  "name": "Wampum belt"
+}

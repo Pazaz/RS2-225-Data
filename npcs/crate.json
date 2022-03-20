@@ -1,0 +1,13 @@
+{
+  "id": 767,
+  "level": 0,
+  "description": "Can I hear kittens?",
+  "options": [
+    "Search"
+  ],
+  "showOnMinimap": false,
+  "name": "Crate",
+  "modelIndices": [
+    2141
+  ]
+}

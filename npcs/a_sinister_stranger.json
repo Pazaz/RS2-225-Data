@@ -1,0 +1,45 @@
+{
+  "id": 226,
+  "level": 0,
+  "description": "He looks a LOT like a vampire...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    127,
+    8741,
+    25238,
+    9104,
+    11200,
+    4550
+  ],
+  "newColors": [
+    4550,
+    20,
+    20,
+    0,
+    20,
+    4205
+  ],
+  "name": "A Sinister Stranger",
+  "modelIndices": [
+    227,
+    246,
+    292,
+    163,
+    176,
+    267,
+    185,
+    323,
+    562,
+    324
+  ],
+  "headModelIndices": [
+    62
+  ]
+}

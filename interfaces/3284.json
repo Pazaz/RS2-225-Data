@@ -1,0 +1,17 @@
+{
+  "id": 3284,
+  "parent": 3281,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 62,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "Kandarin",
+  "color": 15977625,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

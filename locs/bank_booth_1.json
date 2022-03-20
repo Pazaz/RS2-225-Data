@@ -1,0 +1,20 @@
+{
+  "id": 2213,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Use-quickly"
+  ],
+  "modelIndices": [
+    1270
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bank booth",
+  "description": "The bank teller will serve you from here."
+}

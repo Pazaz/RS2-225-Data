@@ -1,0 +1,18 @@
+{
+  "id": 1883,
+  "description": "A strange smelling kebab made from ugthanki meat.",
+  "modelIndex": 2822,
+  "iconX": 4,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1844,
+  "iconRoll": 176,
+  "iconCameraPitch": 1876,
+  "value": 20,
+  "members": true,
+  "options": [
+    "Eat"
+  ],
+  "name": "Ugthanki kebab",
+  "notedId": 1884
+}

@@ -1,0 +1,43 @@
+{
+  "id": 837,
+  "description": "He patrols the Shantay Pass.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 22,
+  "oldColors": [
+    8741,
+    25238,
+    43072,
+    43072,
+    908
+  ],
+  "newColors": [
+    8472,
+    8472,
+    4550,
+    4550,
+    945
+  ],
+  "name": "Shantay Guard",
+  "modelIndices": [
+    230,
+    246,
+    311,
+    167,
+    176,
+    254,
+    276,
+    185,
+    519
+  ],
+  "headModelIndices": [
+    63
+  ]
+}

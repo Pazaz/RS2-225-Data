@@ -1,0 +1,38 @@
+{
+  "id": 487,
+  "level": 0,
+  "description": "He helps the professor.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    127,
+    90,
+    90
+  ],
+  "name": "Observatory assistant",
+  "modelIndices": [
+    235,
+    248,
+    292,
+    327,
+    170,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    67,
+    80
+  ]
+}

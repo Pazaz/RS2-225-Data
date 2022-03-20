@@ -1,0 +1,20 @@
+{
+  "id": 2668,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Use"
+  ],
+  "modelIndices": [
+    1779
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch bucket",
+  "description": "Slaves are placing barrels on this to haul them to the surface."
+}

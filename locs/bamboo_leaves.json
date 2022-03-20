@@ -1,0 +1,16 @@
+{
+  "id": 1329,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1706
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bamboo leaves",
+  "description": "Leaves of a bamboo tree."
+}

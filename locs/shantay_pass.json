@@ -1,0 +1,21 @@
+{
+  "id": 2669,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 14,
+  "actions": [
+    null,
+    "Look-at"
+  ],
+  "modelIndices": [
+    1416
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Shantay pass",
+  "description": "Looks like a stone doorway to me."
+}

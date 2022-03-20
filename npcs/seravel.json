@@ -1,0 +1,41 @@
+{
+  "id": 514,
+  "level": 0,
+  "description": "This is Seravel - he sells tickets for the 'Lady of the Waves'.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    906,
+    8472,
+    4626
+  ],
+  "newColors": [
+    4785,
+    37181,
+    41872,
+    41872,
+    37181
+  ],
+  "name": "Seravel",
+  "modelIndices": [
+    235,
+    253,
+    311,
+    170,
+    176,
+    274,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    85
+  ]
+}

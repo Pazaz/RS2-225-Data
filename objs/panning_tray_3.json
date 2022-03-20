@@ -1,0 +1,15 @@
+{
+  "id": 679,
+  "description": "This tray contains mud.",
+  "modelIndex": 2452,
+  "iconY": 17,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 172,
+  "members": true,
+  "options": [
+    null,
+    "Search"
+  ],
+  "name": "Panning tray"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1091,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    922
+  ],
+  "newColors": [
+    6080
+  ],
+  "modelIndices": [
+    1273
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "A comfortable seat."
+}

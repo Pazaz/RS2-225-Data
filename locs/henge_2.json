@@ -1,0 +1,17 @@
+{
+  "id": 408,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 14,
+  "modelIndices": [
+    1422
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Henge",
+  "description": "Looks like a stone doorway to my untrained eye."
+}

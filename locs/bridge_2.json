@@ -1,0 +1,17 @@
+{
+  "id": 3240,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 4,
+  "animationIndex": 474,
+  "interactable": true,
+  "modelIndices": [
+    2292
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bridge"
+}

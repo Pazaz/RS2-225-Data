@@ -1,0 +1,25 @@
+{
+  "id": 3307,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Climb"
+  ],
+  "oldColors": [
+    7064
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    1411
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rockpile",
+  "description": "A pile of rocks."
+}

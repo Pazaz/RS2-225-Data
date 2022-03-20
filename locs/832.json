@@ -1,0 +1,17 @@
+{
+  "id": 832,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "thickness": 32,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1528
+  ],
+  "modelTypes": [
+    0
+  ]
+}

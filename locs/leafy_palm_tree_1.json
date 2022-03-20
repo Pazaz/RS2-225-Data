@@ -1,0 +1,20 @@
+{
+  "id": 2975,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 0,
+  "actions": [
+    "Shake"
+  ],
+  "modelIndices": [
+    1676
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Leafy Palm Tree",
+  "description": "This tree is particularly leafy."
+}

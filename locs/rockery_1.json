@@ -1,0 +1,16 @@
+{
+  "id": 1185,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1711
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rockery",
+  "description": "Nicely planted."
+}

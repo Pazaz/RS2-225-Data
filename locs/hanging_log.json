@@ -1,0 +1,16 @@
+{
+  "id": 3338,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 5,
+  "modelIndices": [
+    2322
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hanging log",
+  "description": "Why would a log be hung up there?"
+}

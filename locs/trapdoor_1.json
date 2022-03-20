@@ -1,0 +1,16 @@
+{
+  "id": 105,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1244
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trapdoor",
+  "description": "I wonder what that's there for..."
+}

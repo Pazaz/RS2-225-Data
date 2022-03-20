@@ -1,0 +1,16 @@
+{
+  "id": 569,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1302
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gnome statue",
+  "description": "A depiction of a famous gnome warrior."
+}

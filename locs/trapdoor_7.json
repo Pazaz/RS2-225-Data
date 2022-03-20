@@ -1,0 +1,21 @@
+{
+  "id": 3203,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Forfeit"
+  ],
+  "obstructsGround": true,
+  "delayShading": true,
+  "modelIndices": [
+    3253
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trapdoor",
+  "description": "Access to the duel arena."
+}

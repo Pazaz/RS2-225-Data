@@ -1,0 +1,14 @@
+{
+  "id": 4964,
+  "parent": 4958,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 25,
+  "height": 39,
+  "hoverParentIndex": -1,
+  "image": "gnomeball_buttons,2",
+  "optionCircumfix": "Tackle",
+  "optionSuffix": "",
+  "optionFlags": 10
+}

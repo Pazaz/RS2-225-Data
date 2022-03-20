@@ -1,0 +1,24 @@
+{
+  "id": 1657,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "oldColors": [
+    6,
+    61
+  ],
+  "newColors": [
+    16,
+    7952
+  ],
+  "modelIndices": [
+    2198
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "crumblywall_with_roof_diag"
+}

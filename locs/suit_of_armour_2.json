@@ -1,0 +1,24 @@
+{
+  "id": 818,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    61,
+    10153
+  ],
+  "newColors": [
+    18,
+    801
+  ],
+  "modelIndices": [
+    1214
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Suit of armour",
+  "description": "Looks kind of like a man made of metal."
+}

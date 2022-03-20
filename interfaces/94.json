@@ -1,0 +1,28 @@
+{
+  "id": 94,
+  "parent": 0,
+  "type": 3,
+  "buttonType": 5,
+  "contentType": 0,
+  "width": 25,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    4
+  ],
+  "script": [
+    [
+      5,
+      263,
+      0
+    ]
+  ],
+  "fill": true,
+  "color": 7679803,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Crimson"
+}

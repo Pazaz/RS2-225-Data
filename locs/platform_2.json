@@ -1,0 +1,24 @@
+{
+  "id": 3244,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    742
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Platform",
+  "description": "The base of a platform."
+}

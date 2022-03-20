@@ -1,0 +1,20 @@
+{
+  "id": 2635,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Open"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    2245
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cupboard",
+  "description": "I wonder what's inside?"
+}

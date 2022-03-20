@@ -1,0 +1,16 @@
+{
+  "id": 2510,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    868
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rubble",
+  "description": "Broken parts of an old temple."
+}

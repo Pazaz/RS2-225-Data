@@ -1,0 +1,19 @@
+{
+  "id": 2833,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-up"
+  ],
+  "modelIndices": [
+    1208
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ladder",
+  "description": "This goes up!"
+}

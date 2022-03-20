@@ -1,0 +1,25 @@
+{
+  "id": 2867,
+  "stackable": true,
+  "modelIndex": 2422,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "oldColors": [
+    5012,
+    926,
+    61,
+    57,
+    74
+  ],
+  "newColors": [
+    7582,
+    127,
+    10326,
+    13790,
+    9329
+  ],
+  "name": "Ogre arrow 5"
+}

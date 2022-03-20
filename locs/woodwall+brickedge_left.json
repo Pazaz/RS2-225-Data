@@ -1,0 +1,16 @@
+{
+  "id": 1941,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "modelIndices": [
+    606
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "woodwall+brickedge_left"
+}

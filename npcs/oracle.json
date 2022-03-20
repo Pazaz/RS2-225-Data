@@ -1,0 +1,43 @@
+{
+  "id": 746,
+  "level": 0,
+  "description": "A mystical fount of knowledge.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    25238,
+    8741,
+    41193,
+    4550,
+    22430
+  ],
+  "newColors": [
+    4550,
+    6053,
+    4550,
+    4550,
+    41071,
+    926
+  ],
+  "name": "Oracle",
+  "modelIndices": [
+    231,
+    246,
+    308,
+    168,
+    176,
+    275,
+    181,
+    318
+  ],
+  "headModelIndices": [
+    64
+  ]
+}

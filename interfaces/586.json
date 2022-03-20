@@ -1,0 +1,18 @@
+{
+  "id": 586,
+  "parent": 569,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 163,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 3,
+  "shadow": false,
+  "text": "Worm Hole",
+  "color": 0,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

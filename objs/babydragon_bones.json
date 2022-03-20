@@ -1,0 +1,14 @@
+{
+  "id": 534,
+  "members": true,
+  "description": "Ew it's a pile of bones.",
+  "modelIndex": 222,
+  "iconZoom": 1830,
+  "iconYaw": 648,
+  "iconCameraPitch": 216,
+  "options": [
+    "Bury"
+  ],
+  "name": "Babydragon bones",
+  "notedId": 535
+}

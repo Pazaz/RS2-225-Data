@@ -1,0 +1,15 @@
+{
+  "id": 41,
+  "description": "Yep, definitely a chicken.",
+  "walkSeq": 53,
+  "standSeq": 54,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 1,
+  "name": "Chicken",
+  "modelIndices": [
+    2849
+  ]
+}

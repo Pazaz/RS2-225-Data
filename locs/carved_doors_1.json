@@ -1,0 +1,22 @@
+{
+  "id": 2240,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    611,
+    607
+  ],
+  "modelTypes": [
+    10,
+    1
+  ],
+  "name": "Carved doors",
+  "description": "These doors must have been hidden here for years."
+}

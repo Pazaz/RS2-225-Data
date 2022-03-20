@@ -1,0 +1,17 @@
+{
+  "id": 1971,
+  "description": "A meaty kebab.",
+  "value": 3,
+  "options": [
+    "Eat"
+  ],
+  "modelIndex": 2822,
+  "iconX": 4,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1844,
+  "iconRoll": 176,
+  "iconCameraPitch": 1876,
+  "name": "Kebab",
+  "notedId": 1972
+}

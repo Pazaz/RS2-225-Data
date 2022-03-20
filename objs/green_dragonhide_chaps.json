@@ -1,0 +1,21 @@
+{
+  "id": 1099,
+  "value": 3900,
+  "description": "Made from 100% real dragon hide.",
+  "modelIndex": 2507,
+  "iconX": 7,
+  "iconY": 5,
+  "iconZoom": 1720,
+  "iconRoll": 224,
+  "iconCameraPitch": 488,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 258,
+  "maleOffsetY": 0,
+  "femaleModel0": 423,
+  "femaleOffsetY": 0,
+  "name": "Dragonhide chaps",
+  "notedId": 1100
+}

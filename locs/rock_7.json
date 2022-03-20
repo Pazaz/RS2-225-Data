@@ -1,0 +1,17 @@
+{
+  "id": 442,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 12,
+  "modelIndices": [
+    1518
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A slippery looking rock."
+}

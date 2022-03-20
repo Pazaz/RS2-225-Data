@@ -1,0 +1,41 @@
+{
+  "id": 192,
+  "description": "A warrior touched by chaos.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 8,
+  "oldColors": [
+    4550,
+    10128,
+    41,
+    61,
+    926,
+    57
+  ],
+  "newColors": [
+    4657,
+    10508,
+    10508,
+    24,
+    24,
+    24
+  ],
+  "name": "Dark warrior",
+  "modelIndices": [
+    219,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518,
+    246
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 830,
+  "description": "He looks a bit aggressive.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Watch"
+  ],
+  "level": 53,
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    7700,
+    10297
+  ],
+  "newColors": [
+    11187,
+    11187,
+    4645,
+    2991,
+    11187
+  ],
+  "name": "Mercenary Captain",
+  "modelIndices": [
+    230,
+    191,
+    247,
+    294,
+    167,
+    179,
+    254,
+    185,
+    490,
+    517,
+    323
+  ],
+  "headModelIndices": [
+    63,
+    34,
+    79
+  ]
+}

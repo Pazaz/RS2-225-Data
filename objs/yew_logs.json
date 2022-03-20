@@ -1,0 +1,25 @@
+{
+  "id": 1515,
+  "description": "Logs cut from a yew tree.",
+  "value": 160,
+  "modelIndex": 2800,
+  "iconX": 3,
+  "iconY": 66,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 280,
+  "groundOptions": [
+    null,
+    null,
+    null,
+    "Light"
+  ],
+  "oldColors": [
+    6049
+  ],
+  "newColors": [
+    6697
+  ],
+  "name": "Yew logs",
+  "notedId": 1516
+}

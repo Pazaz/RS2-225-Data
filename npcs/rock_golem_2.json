@@ -1,0 +1,27 @@
+{
+  "id": 414,
+  "description": "Rock with attitude.",
+  "size": 2,
+  "standSeq": 155,
+  "walkSeq": 152,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "disposeAlpha": true,
+  "level": 29,
+  "oldColors": [
+    3280,
+    5169,
+    0
+  ],
+  "newColors": [
+    7841,
+    6812,
+    920
+  ],
+  "name": "Rock Golem",
+  "modelIndices": [
+    2969
+  ]
+}

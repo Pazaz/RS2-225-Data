@@ -1,0 +1,31 @@
+{
+  "id": 2421,
+  "parent": 2311,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 4,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    2
+  ],
+  "scriptCompareValue": [
+    9
+  ],
+  "script": [
+    [
+      1,
+      12,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": false,
+  "text": "",
+  "activeText": "Not Available",
+  "color": 0,
+  "colorEnabled": 13369344,
+  "hoverColor": 0
+}

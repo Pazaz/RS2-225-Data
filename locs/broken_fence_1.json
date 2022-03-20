@@ -1,0 +1,21 @@
+{
+  "id": 1003,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    "Climb-over"
+  ],
+  "adjustToTerrain": true,
+  "modelIndices": [
+    971
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken fence",
+  "description": "I can climb over this..."
+}

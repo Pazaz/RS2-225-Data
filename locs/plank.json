@@ -1,0 +1,18 @@
+{
+  "id": 3231,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "modelIndices": [
+    1135
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Plank"
+}

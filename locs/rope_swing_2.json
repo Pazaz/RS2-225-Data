@@ -1,0 +1,19 @@
+{
+  "id": 2274,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 6,
+  "actions": [
+    "Swing-on"
+  ],
+  "modelIndices": [
+    2279
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rope swing",
+  "description": "A odd looking rock with a rope tied to it."
+}

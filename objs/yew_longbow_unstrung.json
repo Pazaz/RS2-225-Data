@@ -1,0 +1,20 @@
+{
+  "id": 66,
+  "value": 640,
+  "members": true,
+  "description": "An unstrung yew longbow, I need a bowstring for this.",
+  "modelIndex": 2401,
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1820,
+  "iconYaw": 1004,
+  "iconCameraPitch": 460,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    9135
+  ],
+  "name": "Yew longbow",
+  "notedId": 67
+}

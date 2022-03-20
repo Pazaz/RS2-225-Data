@@ -1,0 +1,29 @@
+{
+  "id": 604,
+  "level": 0,
+  "description": "Dwarvish.",
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803,
+    4550
+  ],
+  "newColors": [
+    5652,
+    4657
+  ],
+  "name": "Thurgo",
+  "modelIndices": [
+    2971,
+    2981,
+    2979,
+    2983,
+    2985
+  ],
+  "headModelIndices": [
+    1
+  ]
+}

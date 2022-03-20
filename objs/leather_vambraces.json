@@ -1,0 +1,21 @@
+{
+  "id": 1063,
+  "value": 18,
+  "description": "Better than no armour!",
+  "modelIndex": 2656,
+  "iconX": 7,
+  "iconY": -33,
+  "iconZoom": 740,
+  "iconYaw": 1784,
+  "iconCameraPitch": 196,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 177,
+  "maleOffsetY": 0,
+  "femaleModel0": 354,
+  "femaleOffsetY": 0,
+  "name": "Leather vambraces",
+  "notedId": 1064
+}

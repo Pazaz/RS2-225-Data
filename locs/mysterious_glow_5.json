@@ -1,0 +1,25 @@
+{
+  "id": 2502,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 502,
+  "brightness": 60,
+  "disposeAlpha": true,
+  "oldColors": [
+    10349
+  ],
+  "newColors": [
+    61733
+  ],
+  "modelIndices": [
+    2317
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mysterious glow",
+  "description": "Unusual energy is gathered here."
+}

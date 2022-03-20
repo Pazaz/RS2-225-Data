@@ -1,0 +1,45 @@
+{
+  "id": 562,
+  "level": 0,
+  "description": "Has an odd smell about him.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    6798,
+    43072,
+    8741,
+    25238,
+    4626,
+    54397
+  ],
+  "newColors": [
+    7070,
+    4550,
+    32852,
+    8,
+    8,
+    4391
+  ],
+  "name": "Candle maker",
+  "modelIndices": [
+    217,
+    302,
+    167,
+    176,
+    274,
+    185,
+    249
+  ],
+  "headModelIndices": [
+    55,
+    81
+  ]
+}

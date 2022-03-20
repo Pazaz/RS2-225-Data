@@ -1,0 +1,39 @@
+{
+  "id": 278,
+  "level": 0,
+  "description": "The head cook of Lumbridge castle.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    107
+  ],
+  "newColors": [
+    567,
+    10258,
+    127
+  ],
+  "name": "Cook",
+  "modelIndices": [
+    215,
+    199,
+    247,
+    305,
+    170,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    41,
+    79
+  ]
+}

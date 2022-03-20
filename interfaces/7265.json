@@ -1,0 +1,42 @@
+{
+  "id": 7265,
+  "parent": 7221,
+  "type": 0,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 203,
+  "height": 220,
+  "hoverParentIndex": -1,
+  "scrollHeight": 0,
+  "hidden": false,
+  "children": [
+    7224,
+    7226,
+    7235,
+    7244,
+    7245,
+    7246,
+    7247,
+    7248
+  ],
+  "childX": [
+    112,
+    112,
+    125,
+    123,
+    111,
+    127,
+    127,
+    126
+  ],
+  "childY": [
+    67,
+    119,
+    92,
+    123,
+    123,
+    109,
+    90,
+    81
+  ]
+}

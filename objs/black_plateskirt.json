@@ -1,0 +1,28 @@
+{
+  "id": 1089,
+  "description": "Big, black and heavy looking.",
+  "value": 1920,
+  "modelIndex": 2542,
+  "iconX": 5,
+  "iconY": 5,
+  "iconZoom": 1100,
+  "iconCameraPitch": 620,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 266,
+  "maleOffsetY": 0,
+  "femaleModel0": 430,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    8,
+    0
+  ],
+  "name": "Black plateskirt",
+  "notedId": 1090
+}

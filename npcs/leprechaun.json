@@ -1,0 +1,17 @@
+{
+  "id": 65,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "description": "A funny little man normally associated with rainbows.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 12,
+  "name": "Leprechaun",
+  "modelIndices": [
+    2909,
+    2896,
+    2915
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 884,
+  "description": "Arrows with iron heads.",
+  "value": 3,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    904,
+    903,
+    902,
+    905
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    33,
+    33
+  ],
+  "name": "Iron arrow"
+}

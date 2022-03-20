@@ -1,0 +1,23 @@
+{
+  "id": 1563,
+  "description": "This cat definitely likes you.",
+  "modelIndex": 3006,
+  "iconX": 13,
+  "iconY": 21,
+  "iconZoom": 880,
+  "iconYaw": 152,
+  "iconRoll": 1940,
+  "iconCameraPitch": 32,
+  "members": true,
+  "oldColors": [
+    61,
+    16,
+    127
+  ],
+  "newColors": [
+    8105,
+    5916,
+    5673
+  ],
+  "name": "Pet cat"
+}

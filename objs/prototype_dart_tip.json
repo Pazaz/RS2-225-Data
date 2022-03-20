@@ -1,0 +1,13 @@
+{
+  "id": 1853,
+  "description": "A protoype dart tip - it looks deadly.",
+  "value": 1,
+  "modelIndex": 2518,
+  "iconX": 5,
+  "iconZoom": 720,
+  "iconYaw": 308,
+  "iconCameraPitch": 344,
+  "members": true,
+  "stackable": true,
+  "name": "Prototype dart tip"
+}

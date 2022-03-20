@@ -1,0 +1,19 @@
+{
+  "id": 3378,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    3449
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Unlocked Ogre chest",
+  "description": "Some stealthy thief must have picked the ogre lock!"
+}

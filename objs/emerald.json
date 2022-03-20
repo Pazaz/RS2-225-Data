@@ -1,0 +1,30 @@
+{
+  "id": 1605,
+  "value": 500,
+  "description": "This looks valuable.",
+  "modelIndex": 2586,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "maleModel0": 516,
+  "maleOffsetY": 0,
+  "femaleModel0": 516,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    478,
+    931,
+    918,
+    127
+  ],
+  "newColors": [
+    21460,
+    22443,
+    22433,
+    21460
+  ],
+  "name": "Emerald",
+  "notedId": 1606
+}

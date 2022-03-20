@@ -1,0 +1,22 @@
+{
+  "id": 2245,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "oldColors": [
+    17304
+  ],
+  "newColors": [
+    22447
+  ],
+  "modelIndices": [
+    1618
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "A leafy fern."
+}

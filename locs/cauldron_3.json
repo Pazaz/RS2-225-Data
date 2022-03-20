@@ -1,0 +1,25 @@
+{
+  "id": 2043,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 479,
+  "oldColors": [
+    22435,
+    22420
+  ],
+  "newColors": [
+    8520,
+    6695
+  ],
+  "modelIndices": [
+    2241
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cauldron",
+  "description": "Something's bubbling away in it."
+}

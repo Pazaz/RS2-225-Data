@@ -1,0 +1,22 @@
+{
+  "id": 2935,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 5,
+  "actions": [
+    "Climb-down"
+  ],
+  "scaleX": 300,
+  "scaleY": 300,
+  "scaleZ": 300,
+  "modelIndices": [
+    1778
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch",
+  "description": "Used to move earth to, and from, the dig shaft. A rope has been thrown over it."
+}

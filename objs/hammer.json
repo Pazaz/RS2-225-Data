@@ -1,0 +1,16 @@
+{
+  "id": 2347,
+  "description": "Good for hitting things!",
+  "modelIndex": 2376,
+  "maleModel0": 491,
+  "maleOffsetY": 0,
+  "femaleModel0": 491,
+  "femaleOffsetY": 6,
+  "iconX": -3,
+  "iconY": -1,
+  "iconZoom": 900,
+  "iconYaw": 2012,
+  "iconCameraPitch": 356,
+  "name": "Hammer",
+  "notedId": 2348
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1434,
+  "members": true,
+  "description": "A spiky mace.",
+  "value": 50000,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 493,
+  "maleOffsetY": 0,
+  "femaleModel0": 493,
+  "femaleOffsetY": 6,
+  "modelIndex": 2391,
+  "iconX": -13,
+  "iconY": 13,
+  "iconZoom": 1440,
+  "iconYaw": 1388,
+  "iconCameraPitch": 348,
+  "name": "Dragon mace",
+  "notedId": 1435
+}

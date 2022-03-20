@@ -1,0 +1,25 @@
+{
+  "id": 2227,
+  "description": "Well... it looks healthy.",
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "value": 120,
+  "oldColors": [
+    926,
+    15283
+  ],
+  "newColors": [
+    947,
+    12762
+  ],
+  "name": "Vegetable batta",
+  "notedId": 2228
+}

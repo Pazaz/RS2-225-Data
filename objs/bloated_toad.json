@@ -1,0 +1,19 @@
+{
+  "id": 2875,
+  "description": "An inflated toad.",
+  "members": true,
+  "modelIndex": 3447,
+  "iconX": -2,
+  "iconY": -34,
+  "iconZoom": 1430,
+  "iconYaw": 204,
+  "iconCameraPitch": 212,
+  "options": [
+    "Drop",
+    null,
+    null,
+    "Release All",
+    "Release"
+  ],
+  "name": "Bloated toad"
+}

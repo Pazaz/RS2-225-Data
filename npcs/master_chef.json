@@ -1,0 +1,47 @@
+{
+  "id": 942,
+  "level": 0,
+  "description": "An expert on all things culinary.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    43072,
+    25238,
+    4550,
+    107
+  ],
+  "newColors": [
+    5173,
+    21819,
+    4550,
+    43183,
+    4645,
+    127
+  ],
+  "name": "Master Chef",
+  "modelIndices": [
+    235,
+    250,
+    302,
+    159,
+    176,
+    263,
+    185,
+    244,
+    199,
+    536
+  ],
+  "headModelIndices": [
+    67,
+    82,
+    41
+  ]
+}

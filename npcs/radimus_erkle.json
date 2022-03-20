@@ -1,0 +1,44 @@
+{
+  "id": 400,
+  "level": 0,
+  "description": "Radimus is the Grand Vizier of the Legends Guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    7952,
+    61,
+    41,
+    6798,
+    4626,
+    57
+  ],
+  "newColors": [
+    127,
+    36133,
+    37270,
+    111,
+    43181,
+    36133
+  ],
+  "name": "Radimus Erkle",
+  "modelIndices": [
+    215,
+    250,
+    306,
+    164,
+    179,
+    268,
+    185,
+    317
+  ],
+  "headModelIndices": [
+    53,
+    82
+  ]
+}

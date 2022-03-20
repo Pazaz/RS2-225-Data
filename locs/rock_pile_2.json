@@ -1,0 +1,30 @@
+{
+  "id": 3343,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 12,
+  "scaleX": 50,
+  "scaleY": 50,
+  "scaleZ": 50,
+  "adjustToTerrain": true,
+  "actions": [
+    "Climb-over"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    819
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock pile",
+  "description": "A pile of rocks."
+}

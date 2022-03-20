@@ -1,0 +1,20 @@
+{
+  "id": 1601,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Magic guild door",
+  "description": "The doors to the Magic guild."
+}

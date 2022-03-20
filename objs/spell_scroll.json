@@ -1,0 +1,16 @@
+{
+  "id": 2396,
+  "description": "A spell is written on this parchment.",
+  "value": 5,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "name": "Spell scroll"
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1493,
+  "description": "An account of the last times of someone.",
+  "value": 1,
+  "modelIndex": 2633,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "members": true,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    10351
+  ],
+  "newColors": [
+    9104,
+    5330
+  ],
+  "name": "Old journal"
+}

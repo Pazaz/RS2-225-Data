@@ -1,0 +1,16 @@
+{
+  "id": 822,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1550
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cannonballs",
+  "description": "Big heavy metal balls."
+}

@@ -1,0 +1,42 @@
+{
+  "id": 904,
+  "level": 0,
+  "description": "He hasn't seen much sun lately.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238,
+    7952
+  ],
+  "newColors": [
+    6046,
+    7062,
+    7062,
+    6028
+  ],
+  "name": "Chamber guardian",
+  "modelIndices": [
+    214,
+    250,
+    303,
+    170,
+    176,
+    265,
+    185,
+    317
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

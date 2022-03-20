@@ -1,0 +1,20 @@
+{
+  "id": 1903,
+  "description": "Argh what a mess!",
+  "modelIndex": 2531,
+  "iconY": -8,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 164,
+  "value": 1,
+  "oldColors": [
+    6036,
+    8094
+  ],
+  "newColors": [
+    8,
+    28
+  ],
+  "name": "Burnt cake",
+  "notedId": 1904
+}

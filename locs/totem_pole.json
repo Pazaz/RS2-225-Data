@@ -1,0 +1,19 @@
+{
+  "id": 2954,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Lift"
+  ],
+  "modelIndices": [
+    1789
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Totem pole",
+  "description": "A beatifully crafted totem pole carved from the trunk of the sacred Yommi tree."
+}

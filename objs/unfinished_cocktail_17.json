@@ -1,0 +1,16 @@
+{
+  "id": 2086,
+  "description": "This cocktail is just missing those little finishing touches.",
+  "value": 2,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2532,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "name": "Unfinished cocktail",
+  "notedId": 2087
+}

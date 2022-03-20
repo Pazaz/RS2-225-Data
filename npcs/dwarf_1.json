@@ -1,0 +1,26 @@
+{
+  "id": 118,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A short angry guy.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 10,
+  "oldColors": [
+    803
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Dwarf",
+  "modelIndices": [
+    2970,
+    2981,
+    2979,
+    2983,
+    2985,
+    2990
+  ]
+}

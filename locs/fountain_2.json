@@ -1,0 +1,17 @@
+{
+  "id": 879,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 8,
+  "modelIndices": [
+    1497
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fountain",
+  "description": "Everyone needs a water feature."
+}

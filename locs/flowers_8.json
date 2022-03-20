@@ -1,0 +1,27 @@
+{
+  "id": 2982,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 912,
+  "oldColors": [
+    48596,
+    37196,
+    53167
+  ],
+  "newColors": [
+    43955,
+    43955,
+    43955
+  ],
+  "modelIndices": [
+    237
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowers",
+  "description": "Some beautiful flowers."
+}

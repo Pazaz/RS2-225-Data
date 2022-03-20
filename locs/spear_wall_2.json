@@ -1,0 +1,17 @@
+{
+  "id": 849,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    642
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spear wall",
+  "description": "Rows of sharp pointy spears."
+}

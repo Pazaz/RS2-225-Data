@@ -1,0 +1,25 @@
+{
+  "id": 2909,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 476,
+  "disposeAlpha": true,
+  "brightness": 100,
+  "specular": 100,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "mapscene": 15,
+  "modelIndices": [
+    2266
+  ],
+  "modelTypes": [
+    9
+  ],
+  "name": "Fire Wall",
+  "description": "A wall of magic fire."
+}

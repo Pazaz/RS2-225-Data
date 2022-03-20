@@ -1,0 +1,20 @@
+{
+  "id": 725,
+  "description": "A blessed golden bowl. It has water in it.",
+  "value": 700,
+  "members": true,
+  "modelIndex": 2367,
+  "iconZoom": 910,
+  "iconYaw": 1856,
+  "iconCameraPitch": 204,
+  "options": [
+    "Empty"
+  ],
+  "oldColors": [
+    7081
+  ],
+  "newColors": [
+    9166
+  ],
+  "name": "Golden bowl"
+}

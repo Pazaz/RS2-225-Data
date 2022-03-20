@@ -1,0 +1,42 @@
+{
+  "id": 682,
+  "level": 0,
+  "description": "Supplier of Rangers armour.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    6798,
+    23442,
+    6798,
+    25238,
+    8741
+  ],
+  "newColors": [
+    8111,
+    916,
+    7073,
+    916,
+    916
+  ],
+  "name": "Armour salesman",
+  "modelIndices": [
+    221,
+    185,
+    246,
+    303,
+    167,
+    262,
+    179
+  ],
+  "headModelIndices": [
+    58
+  ]
+}

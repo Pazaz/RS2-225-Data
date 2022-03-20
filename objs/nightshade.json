@@ -1,0 +1,17 @@
+{
+  "id": 2398,
+  "description": "Deadly!",
+  "value": 30,
+  "modelIndex": 2762,
+  "iconX": 10,
+  "iconY": -27,
+  "iconZoom": 1730,
+  "iconYaw": 1860,
+  "iconCameraPitch": 220,
+  "options": [
+    null,
+    "Eat"
+  ],
+  "members": true,
+  "name": "Nightshade"
+}

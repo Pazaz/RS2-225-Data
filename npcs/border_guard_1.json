@@ -1,0 +1,43 @@
+{
+  "id": 925,
+  "description": "Guards the border.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    6798
+  ],
+  "newColors": [
+    55194,
+    2754,
+    4657,
+    10508
+  ],
+  "name": "Border Guard",
+  "modelIndices": [
+    215,
+    555,
+    249,
+    292,
+    151,
+    176,
+    254,
+    181,
+    191
+  ],
+  "headModelIndices": [
+    53,
+    81,
+    34
+  ],
+  "wander": 0
+}

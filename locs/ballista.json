@@ -1,0 +1,20 @@
+{
+  "id": 2181,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    "Fire"
+  ],
+  "modelIndices": [
+    2225
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ballista",
+  "description": "It's a war machine."
+}

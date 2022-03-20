@@ -1,0 +1,25 @@
+{
+  "id": 1810,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Slash"
+  ],
+  "oldColors": [
+    12
+  ],
+  "newColors": [
+    26
+  ],
+  "modelIndices": [
+    776
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Web",
+  "description": "Here be spiders!"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 885,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1265
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bar pumps",
+  "description": "If only I had one of those at home..."
+}

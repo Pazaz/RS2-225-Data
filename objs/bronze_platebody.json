@@ -1,0 +1,31 @@
+{
+  "id": 1117,
+  "description": "Provides excellent protection.",
+  "value": 160,
+  "modelIndex": 2605,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 306,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "femaleModel0": 468,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "oldColors": [
+    24,
+    61,
+    41
+  ],
+  "newColors": [
+    61,
+    5652,
+    7050
+  ],
+  "name": "Bronze platebody",
+  "notedId": 1118
+}

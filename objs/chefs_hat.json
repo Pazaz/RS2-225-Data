@@ -1,0 +1,28 @@
+{
+  "id": 1949,
+  "description": "What a silly hat.",
+  "value": 2,
+  "modelIndex": 2782,
+  "iconX": -4,
+  "iconY": 3,
+  "iconZoom": 580,
+  "iconCameraPitch": 668,
+  "maleModel0": 199,
+  "maleOffsetY": 0,
+  "femaleModel0": 374,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 41,
+  "femaleHeadModelA": 99,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Chef's hat",
+  "notedId": 1950
+}

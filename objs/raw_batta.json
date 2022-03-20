@@ -1,0 +1,13 @@
+{
+  "id": 2250,
+  "description": "This gnome batta needs cooking.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2447,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "name": "Raw batta"
+}

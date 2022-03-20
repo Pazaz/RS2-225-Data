@@ -1,0 +1,23 @@
+{
+  "id": 1527,
+  "description": "An unidentified herb.",
+  "value": 1,
+  "modelIndex": 2364,
+  "members": true,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "options": [
+    "Identify"
+  ],
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    8090,
+    7083
+  ],
+  "name": "Unidentified herb"
+}

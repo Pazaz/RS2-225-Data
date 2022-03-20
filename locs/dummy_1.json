@@ -1,0 +1,20 @@
+{
+  "id": 823,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Attack"
+  ],
+  "modelIndices": [
+    1286
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dummy",
+  "description": "The easiest opponent I'll ever fight."
+}

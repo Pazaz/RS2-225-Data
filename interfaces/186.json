@@ -1,0 +1,17 @@
+{
+  "id": 186,
+  "parent": 147,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 30,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Cheer",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

@@ -1,0 +1,42 @@
+{
+  "id": 375,
+  "level": 0,
+  "description": "A pirate.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    43072,
+    25238
+  ],
+  "newColors": [
+    5937,
+    10508,
+    4550,
+    43420
+  ],
+  "name": "Redbeard Frank",
+  "modelIndices": [
+    215,
+    251,
+    299,
+    159,
+    176,
+    254,
+    181,
+    236,
+    533
+  ],
+  "headModelIndices": [
+    53,
+    83,
+    68
+  ]
+}

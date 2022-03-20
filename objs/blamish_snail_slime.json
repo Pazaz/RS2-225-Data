@@ -1,0 +1,18 @@
+{
+  "id": 1581,
+  "description": "Yuck.",
+  "value": 5,
+  "modelIndex": 2705,
+  "iconY": -2,
+  "iconZoom": 760,
+  "iconYaw": 1920,
+  "iconCameraPitch": 124,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    16495
+  ],
+  "name": "Blamish snail slime"
+}

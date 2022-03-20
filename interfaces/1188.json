@@ -1,0 +1,70 @@
+{
+  "id": 1188,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1530,
+  "scriptCompareType": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    6,
+    4,
+    0,
+    69
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      557,
+      10,
+      1688,
+      1385,
+      10,
+      1688,
+      1399,
+      10,
+      1688,
+      1407,
+      0
+    ],
+    [
+      4,
+      3214,
+      556,
+      10,
+      1688,
+      1381,
+      10,
+      1688,
+      1397,
+      10,
+      1688,
+      1405,
+      0
+    ],
+    [
+      4,
+      3214,
+      565,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,36",
+  "activeImage": "magicon,36",
+  "optionCircumfix": "Cast on",
+  "optionSuffix": "Earth wave",
+  "optionFlags": 10
+}

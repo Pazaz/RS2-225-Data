@@ -1,0 +1,15 @@
+{
+  "id": 604,
+  "description": "A slender bone shard given to you by Zadimus.",
+  "modelIndex": 2654,
+  "iconX": 6,
+  "iconY": -1,
+  "iconZoom": 580,
+  "iconYaw": 60,
+  "iconCameraPitch": 152,
+  "members": true,
+  "options": [
+    "Inspect"
+  ],
+  "name": "Bone shard"
+}

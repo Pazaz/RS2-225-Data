@@ -1,0 +1,12 @@
+{
+  "id": 683,
+  "modelIndex": 2675,
+  "description": "A stamped scroll of recommendation.",
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "members": true,
+  "name": "Stamped letter"
+}

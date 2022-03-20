@@ -1,0 +1,24 @@
+{
+  "id": 143,
+  "description": "A rare jungle wolf - specific to the Kharazi jungle.",
+  "size": 2,
+  "walkSeq": 74,
+  "standSeq": 77,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 64,
+  "oldColors": [
+    61,
+    90
+  ],
+  "newColors": [
+    10145,
+    8751
+  ],
+  "name": "Jungle Wolf",
+  "modelIndices": [
+    2937
+  ]
+}

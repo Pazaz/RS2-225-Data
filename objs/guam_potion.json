@@ -1,0 +1,19 @@
+{
+  "id": 91,
+  "description": "I need another ingredient to finish this Guam potion.",
+  "value": 3,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    32980
+  ],
+  "name": "Unfinished potion",
+  "notedId": 92
+}

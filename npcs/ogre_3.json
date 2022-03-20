@@ -1,0 +1,17 @@
+{
+  "id": 374,
+  "description": "Big, ugly, and smelly.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 53,
+  "name": "Ogre",
+  "modelIndices": [
+    2878,
+    2874
+  ]
+}

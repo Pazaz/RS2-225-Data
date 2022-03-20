@@ -1,0 +1,14 @@
+{
+  "id": 12,
+  "description": "Used to make the cannon's ammo.",
+  "modelIndex": 2769,
+  "iconX": 2,
+  "iconY": -19,
+  "iconZoom": 1170,
+  "iconYaw": 1780,
+  "iconCameraPitch": 160,
+  "value": 187500,
+  "members": true,
+  "name": "Cannon furnace",
+  "notedId": 13
+}

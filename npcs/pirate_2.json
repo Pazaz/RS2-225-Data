@@ -1,0 +1,42 @@
+{
+  "id": 183,
+  "description": "Avast ye scurvy land lubbers!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 20,
+  "oldColors": [
+    6798,
+    8741,
+    43072
+  ],
+  "newColors": [
+    10508,
+    10508,
+    4550
+  ],
+  "name": "Pirate",
+  "modelIndices": [
+    215,
+    252,
+    299,
+    159,
+    176,
+    259,
+    193,
+    236,
+    518
+  ],
+  "headModelIndices": [
+    53,
+    84,
+    68,
+    36
+  ]
+}

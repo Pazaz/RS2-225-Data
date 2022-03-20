@@ -1,0 +1,47 @@
+{
+  "id": 930,
+  "description": "The Kharazi tribes elusive Shaman - something doesn't look quite right with him.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "scaleX": 150,
+  "scaleY": 150,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 179,
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    6798,
+    926,
+    0
+  ],
+  "newColors": [
+    5027,
+    103,
+    103,
+    200,
+    5027,
+    960
+  ],
+  "name": "Ungadulu",
+  "modelIndices": [
+    214,
+    250,
+    292,
+    170,
+    176,
+    265,
+    181,
+    534
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

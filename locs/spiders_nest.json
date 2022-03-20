@@ -1,0 +1,26 @@
+{
+  "id": 2653,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "oldColors": [
+    9152
+  ],
+  "newColors": [
+    82
+  ],
+  "modelIndices": [
+    2109
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spiders' nest",
+  "description": "It looks like a spiders nest to me."
+}

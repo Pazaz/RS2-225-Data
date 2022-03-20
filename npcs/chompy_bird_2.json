@@ -1,0 +1,19 @@
+{
+  "id": 1016,
+  "level": 0,
+  "description": "A once boisterous bird, closer to being an ogre delicacy.",
+  "walkSeq": 1010,
+  "standSeq": 1010,
+  "options": [
+    null,
+    null,
+    null,
+    "Pluck"
+  ],
+  "scaleX": 180,
+  "scaleY": 180,
+  "name": "Chompy bird",
+  "modelIndices": [
+    3445
+  ]
+}

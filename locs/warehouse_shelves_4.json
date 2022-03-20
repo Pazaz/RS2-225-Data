@@ -1,0 +1,16 @@
+{
+  "id": 1018,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2135
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Warehouse shelves",
+  "description": "Storage for all needs."
+}

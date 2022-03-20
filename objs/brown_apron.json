@@ -1,0 +1,29 @@
+{
+  "id": 1757,
+  "description": "A mostly clean apron.",
+  "value": 2,
+  "modelIndex": 2592,
+  "iconX": -4,
+  "iconY": -4,
+  "iconZoom": 1580,
+  "iconYaw": 172,
+  "iconCameraPitch": 544,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 305,
+  "maleOffsetY": 0,
+  "femaleModel0": 467,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    127,
+    54397
+  ],
+  "newColors": [
+    4769,
+    4769
+  ],
+  "name": "Brown apron",
+  "notedId": 1758
+}

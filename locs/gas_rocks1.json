@@ -1,0 +1,17 @@
+{
+  "id": 675,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 523,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2236
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "gas_rocks1"
+}

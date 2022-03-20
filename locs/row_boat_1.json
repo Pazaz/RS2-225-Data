@@ -1,0 +1,16 @@
+{
+  "id": 2515,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1737
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Row boat",
+  "description": "I hope it doesn't sink."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 126,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "Is he invisible or just a set of floating clothing?",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 64,
+  "oldColors": [
+    25238,
+    38814,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508,
+    10508
+  ],
+  "name": "Otherworldly being",
+  "modelIndices": [
+    292,
+    170,
+    260,
+    202
+  ]
+}

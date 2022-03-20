@@ -1,0 +1,22 @@
+{
+  "id": 127,
+  "description": "3 doses of stat restoration potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 88,
+  "modelIndex": 2697,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    840
+  ],
+  "name": "Restore potion(3)",
+  "notedId": 128
+}

@@ -1,0 +1,26 @@
+{
+  "id": 1083,
+  "description": "Designer leg protection.",
+  "value": 1000,
+  "modelIndex": 2542,
+  "iconX": 5,
+  "iconY": 5,
+  "iconZoom": 1100,
+  "iconCameraPitch": 620,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 266,
+  "maleOffsetY": 0,
+  "femaleModel0": 430,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    41
+  ],
+  "name": "Steel plateskirt",
+  "notedId": 1084
+}

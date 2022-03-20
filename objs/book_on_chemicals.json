@@ -1,0 +1,26 @@
+{
+  "id": 711,
+  "description": "It's about chemicals, judging from its' cover.",
+  "modelIndex": 2543,
+  "iconX": 1,
+  "iconY": -21,
+  "iconZoom": 830,
+  "iconYaw": 116,
+  "iconCameraPitch": 244,
+  "members": true,
+  "options": [
+    null,
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    61,
+    11177
+  ],
+  "newColors": [
+    24743,
+    24850,
+    24850
+  ],
+  "name": "Book on chemicals"
+}

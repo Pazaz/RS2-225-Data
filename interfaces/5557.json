@@ -1,0 +1,31 @@
+{
+  "id": 5557,
+  "parent": 5454,
+  "type": 4,
+  "buttonType": 5,
+  "contentType": 0,
+  "width": 33,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    1
+  ],
+  "script": [
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "MALE",
+  "color": 0,
+  "colorEnabled": 65280,
+  "hoverColor": 0,
+  "option": "Select"
+}

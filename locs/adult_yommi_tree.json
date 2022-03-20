@@ -1,0 +1,16 @@
+{
+  "id": 2948,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1818
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Adult Yommi tree",
+  "description": " A fully grown Yommi tree, it won't get much taller than this."
+}

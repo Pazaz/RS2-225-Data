@@ -1,0 +1,41 @@
+{
+  "id": 827,
+  "description": "He looks a bit aggressive.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 15,
+  "oldColors": [
+    25238,
+    908,
+    4550,
+    10297
+  ],
+  "newColors": [
+    8741,
+    8741,
+    4645,
+    11187
+  ],
+  "name": "Rowdy slave",
+  "modelIndices": [
+    217,
+    250,
+    292,
+    170,
+    176,
+    265,
+    185,
+    509
+  ],
+  "headModelIndices": [
+    55,
+    82
+  ]
+}

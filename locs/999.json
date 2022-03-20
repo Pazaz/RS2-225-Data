@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "rotateCounterClockwise": true,
+  "interactable": false,
+  "modelIndices": [
+    965
+  ],
+  "modelTypes": [
+    10
+  ]
+}

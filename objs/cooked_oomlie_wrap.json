@@ -1,0 +1,29 @@
+{
+  "id": 2343,
+  "description": "Deliciously cooked oomlie meat in a palm leaf pouch.",
+  "options": [
+    "Eat"
+  ],
+  "modelIndex": 2687,
+  "iconX": 2,
+  "iconY": -103,
+  "iconZoom": 1110,
+  "iconYaw": 176,
+  "iconCameraPitch": 236,
+  "members": true,
+  "value": 35,
+  "oldColors": [
+    63390,
+    2524,
+    18851,
+    13731
+  ],
+  "newColors": [
+    5027,
+    4775,
+    19986,
+    22410
+  ],
+  "name": "Cooked oomlie wrap",
+  "notedId": 2344
+}

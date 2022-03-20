@@ -1,0 +1,18 @@
+{
+  "id": 3216,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "obstructsGround": true,
+  "interactable": true,
+  "modelIndices": [
+    1757
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mud",
+  "description": "A pile of mud."
+}

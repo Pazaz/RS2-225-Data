@@ -1,0 +1,25 @@
+{
+  "id": 2932,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Smash"
+  ],
+  "oldColors": [
+    33
+  ],
+  "newColors": [
+    677
+  ],
+  "modelIndices": [
+    1460
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barrel",
+  "description": "Strangely, there's a locked barrel here, I wonder what's inside."
+}

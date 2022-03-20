@@ -1,0 +1,24 @@
+{
+  "id": 956,
+  "level": 0,
+  "description": "He's had a fair bit to drink...",
+  "standSeq": 900,
+  "walkSeq": 104,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Drunken Dwarf",
+  "modelIndices": [
+    2974,
+    2986,
+    2983,
+    2979,
+    2981,
+    2985,
+    2992
+  ],
+  "headModelIndices": [
+    4,
+    6
+  ]
+}

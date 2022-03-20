@@ -1,0 +1,17 @@
+{
+  "id": 6825,
+  "parent": 6733,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 106,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "You are victorious!",
+  "color": 16755268,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

@@ -1,0 +1,21 @@
+{
+  "id": 390,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "Close"
+  ],
+  "modelIndices": [
+    1949
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wardrobe",
+  "description": "It smells funny in there."
+}

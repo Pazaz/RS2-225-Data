@@ -1,0 +1,21 @@
+{
+  "id": 2417,
+  "description": "It's a stick of the gods.",
+  "value": 80000,
+  "members": true,
+  "modelIndex": 2749,
+  "iconX": -12,
+  "iconY": 50,
+  "iconZoom": 1480,
+  "iconYaw": 916,
+  "iconCameraPitch": 240,
+  "maleModel0": 544,
+  "maleOffsetY": 0,
+  "femaleModel0": 544,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "name": "Staff of zamorak"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 637,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1398
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mine cart",
+  "description": "You can 'cart' things around on this."
+}

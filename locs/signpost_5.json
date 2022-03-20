@@ -1,0 +1,16 @@
+{
+  "id": 1080,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1402
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Signpost",
+  "description": "North to Draynor Village :: East to Varrock."
+}

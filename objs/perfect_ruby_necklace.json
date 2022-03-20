@@ -1,0 +1,27 @@
+{
+  "id": 774,
+  "value": 2175,
+  "description": "A perfect ruby necklace.",
+  "modelIndex": 2506,
+  "iconX": 5,
+  "iconY": 44,
+  "iconZoom": 600,
+  "iconYaw": 160,
+  "iconCameraPitch": 304,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 281,
+  "maleOffsetY": 0,
+  "femaleModel0": 445,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "'perfect' necklace"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 587,
+  "level": 0,
+  "description": "He runs the Herblore Shop",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    61,
+    908
+  ],
+  "newColors": [
+    127,
+    127,
+    40412,
+    40412
+  ],
+  "name": "Jatix",
+  "modelIndices": [
+    207,
+    292,
+    170,
+    265,
+    250,
+    176,
+    181,
+    552
+  ],
+  "headModelIndices": [
+    47,
+    82
+  ]
+}

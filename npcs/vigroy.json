@@ -1,0 +1,41 @@
+{
+  "id": 511,
+  "level": 0,
+  "description": "A cart driver, it looks like he's quite experienced.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    103,
+    8090,
+    4550
+  ],
+  "newColors": [
+    103,
+    43478,
+    103,
+    103,
+    4645
+  ],
+  "name": "Vigroy",
+  "modelIndices": [
+    230,
+    247,
+    295,
+    150,
+    179,
+    274,
+    185
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

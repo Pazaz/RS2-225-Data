@@ -1,0 +1,37 @@
+{
+  "id": 254,
+  "description": "It's one of General Khazard's guards.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 21,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    20,
+    3974
+  ],
+  "name": "Khazard Guard",
+  "modelIndices": [
+    230,
+    253,
+    306,
+    152,
+    176,
+    254,
+    185,
+    550
+  ],
+  "headModelIndices": [
+    63,
+    85
+  ]
+}

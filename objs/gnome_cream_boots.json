@@ -1,0 +1,28 @@
+{
+  "id": 632,
+  "description": "They're soft and silky.",
+  "modelIndex": 2837,
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 200,
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "members": true,
+  "oldColors": [
+    4626
+  ],
+  "newColors": [
+    10475
+  ],
+  "name": "Boots",
+  "notedId": 633
+}

@@ -1,0 +1,24 @@
+{
+  "id": 1653,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    61,
+    2
+  ],
+  "newColors": [
+    7952,
+    23
+  ],
+  "modelIndices": [
+    674
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "oldstone_arched_doortop_b_l"
+}

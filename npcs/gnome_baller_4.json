@@ -1,0 +1,22 @@
+{
+  "id": 623,
+  "description": "A professional gnome baller.",
+  "level": 0,
+  "walkSeq": 205,
+  "standSeq": 205,
+  "oldColors": [
+    37
+  ],
+  "newColors": [
+    825
+  ],
+  "name": "Gnome baller",
+  "modelIndices": [
+    2914,
+    2905,
+    2924
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

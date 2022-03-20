@@ -1,0 +1,27 @@
+{
+  "id": 88,
+  "members": true,
+  "description": "Magic boots that make you lighter than normal.",
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "value": 6,
+  "modelIndex": 2837,
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    4626
+  ],
+  "newColors": [
+    43189
+  ],
+  "name": "Boots of lightness"
+}

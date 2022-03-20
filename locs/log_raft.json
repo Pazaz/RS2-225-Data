@@ -1,0 +1,19 @@
+{
+  "id": 1987,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Board"
+  ],
+  "modelIndices": [
+    1461
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Log raft",
+  "description": "A primitive looking boat."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1187,
+  "description": "An ancient and powerful looking Dragon Square shield.",
+  "value": 500000,
+  "members": true,
+  "modelIndex": 2840,
+  "iconX": 1,
+  "iconY": 10,
+  "iconZoom": 1730,
+  "iconYaw": 120,
+  "iconCameraPitch": 352,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 565,
+  "maleOffsetY": 0,
+  "femaleModel0": 565,
+  "femaleOffsetY": 6,
+  "name": "Dragon sq shield",
+  "notedId": 1188
+}

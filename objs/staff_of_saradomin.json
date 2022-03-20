@@ -1,0 +1,20 @@
+{
+  "id": 2415,
+  "description": "It's a stick of the gods.",
+  "value": 80000,
+  "members": true,
+  "modelIndex": 2790,
+  "iconY": -18,
+  "iconZoom": 1710,
+  "iconYaw": 892,
+  "iconCameraPitch": 200,
+  "maleModel0": 554,
+  "maleOffsetY": 0,
+  "femaleModel0": 554,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "name": "Staff of saradomin"
+}

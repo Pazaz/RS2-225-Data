@@ -1,0 +1,22 @@
+{
+  "id": 2253,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    611,
+    607
+  ],
+  "modelTypes": [
+    10,
+    1
+  ],
+  "name": "Tomb exit",
+  "description": "Perhaps you should give them a push."
+}

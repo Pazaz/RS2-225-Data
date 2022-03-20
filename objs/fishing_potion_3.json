@@ -1,0 +1,22 @@
+{
+  "id": 151,
+  "description": "3 doses of fishing potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 200,
+  "modelIndex": 2697,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    24
+  ],
+  "name": "Fishing potion(3)",
+  "notedId": 152
+}

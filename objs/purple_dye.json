@@ -1,0 +1,18 @@
+{
+  "id": 1773,
+  "description": "A little bottle of purple dye.",
+  "value": 5,
+  "modelIndex": 2705,
+  "iconY": -2,
+  "iconZoom": 760,
+  "iconYaw": 1920,
+  "iconCameraPitch": 124,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    51136
+  ],
+  "name": "Purple dye",
+  "notedId": 1774
+}

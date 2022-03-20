@@ -1,0 +1,24 @@
+{
+  "id": 444,
+  "level": 0,
+  "description": "One of the most common trees in RuneScape.",
+  "standSeq": 334,
+  "size": 2,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    3470
+  ],
+  "name": "Tree",
+  "modelIndices": [
+    2851
+  ]
+}

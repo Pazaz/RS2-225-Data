@@ -1,0 +1,19 @@
+{
+  "id": 883,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Close"
+  ],
+  "modelIndices": [
+    1507
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Manhole cover",
+  "description": "This is supposed to stop people falling down the manhole."
+}

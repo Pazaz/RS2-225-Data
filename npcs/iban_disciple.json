@@ -1,0 +1,39 @@
+{
+  "id": 1002,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "A dark magic user.",
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 13,
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    4550
+  ],
+  "newColors": [
+    687,
+    687,
+    127,
+    5347
+  ],
+  "name": "Iban disciple",
+  "modelIndices": [
+    235,
+    181,
+    249,
+    292,
+    170,
+    176,
+    260
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

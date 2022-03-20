@@ -1,0 +1,41 @@
+{
+  "id": 519,
+  "level": 0,
+  "description": "An expert on axes.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    6798
+  ],
+  "newColors": [
+    1950,
+    1950,
+    6806,
+    10508
+  ],
+  "name": "Bob",
+  "modelIndices": [
+    235,
+    254,
+    246,
+    292,
+    151,
+    176,
+    276,
+    185
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

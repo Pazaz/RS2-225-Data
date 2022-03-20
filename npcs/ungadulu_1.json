@@ -1,0 +1,43 @@
+{
+  "id": 929,
+  "description": "The Kharazi tribes elusive Shaman.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 70,
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    6798,
+    926
+  ],
+  "newColors": [
+    7062,
+    127,
+    127,
+    86,
+    7062
+  ],
+  "name": "Ungadulu",
+  "modelIndices": [
+    214,
+    250,
+    292,
+    170,
+    176,
+    265,
+    181,
+    534
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1517,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Close"
+  ],
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Large door",
+  "description": "A large double door."
+}

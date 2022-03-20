@@ -1,0 +1,22 @@
+{
+  "id": 735,
+  "description": "These need to be germinated before they can be used.",
+  "modelIndex": 2381,
+  "iconX": 7,
+  "iconY": 39,
+  "iconZoom": 920,
+  "iconYaw": 676,
+  "iconCameraPitch": 240,
+  "members": true,
+  "stackable": true,
+  "groundOptions": [
+    "Look"
+  ],
+  "oldColors": [
+    43288
+  ],
+  "newColors": [
+    22433
+  ],
+  "name": "Yommi tree seeds"
+}

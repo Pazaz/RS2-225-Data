@@ -1,0 +1,16 @@
+{
+  "id": 229,
+  "description": "An empty glass vial.",
+  "modelIndex": 2747,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "maleModel0": 561,
+  "maleOffsetY": 0,
+  "femaleModel0": 561,
+  "femaleOffsetY": 6,
+  "value": 2,
+  "name": "Vial",
+  "notedId": 230
+}

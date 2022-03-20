@@ -1,0 +1,20 @@
+{
+  "id": 1854,
+  "description": "Allows you to pass through the Shantay pass into the Kharid Desert.",
+  "value": 5,
+  "modelIndex": 2560,
+  "iconX": 6,
+  "iconY": -2,
+  "iconZoom": 830,
+  "iconYaw": 132,
+  "iconCameraPitch": 320,
+  "members": true,
+  "stackable": true,
+  "oldColors": [
+    16714
+  ],
+  "newColors": [
+    32827
+  ],
+  "name": "Shantay pass"
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2608,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "rotateCounterClockwise": true,
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    45,
+    4762
+  ],
+  "modelIndices": [
+    1509,
+    1511
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Gate",
+  "description": "It's closed."
+}

@@ -1,0 +1,42 @@
+{
+  "id": 230,
+  "level": 0,
+  "description": "He looks elderly.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    10142,
+    6798,
+    8741,
+    926,
+    25238
+  ],
+  "newColors": [
+    32877,
+    32877,
+    54172,
+    8,
+    8
+  ],
+  "name": "Grandpa Jack",
+  "modelIndices": [
+    206,
+    250,
+    299,
+    170,
+    176,
+    254,
+    181,
+    323
+  ],
+  "headModelIndices": [
+    46,
+    82
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 952,
+  "level": 0,
+  "description": "I can see fish swimming in the water.",
+  "options": [
+    "Net",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "standSeq": 447,
+  "walkSeq": 448,
+  "disposeAlpha": true,
+  "name": "Fishing spot",
+  "modelIndices": [
+    1491
+  ],
+  "wander": 0
+}

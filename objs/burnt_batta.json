@@ -1,0 +1,20 @@
+{
+  "id": 2247,
+  "description": "This batta has been burnt to a cinder.",
+  "value": 1,
+  "members": true,
+  "modelIndex": 2708,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "oldColors": [
+    8642
+  ],
+  "newColors": [
+    20
+  ],
+  "name": "Burnt batta",
+  "notedId": 2248
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1793,
+  "description": "A slightly bluish leaf.",
+  "value": 1,
+  "modelIndex": 2819,
+  "iconX": 11,
+  "iconY": 4,
+  "iconZoom": 1010,
+  "iconYaw": 300,
+  "iconCameraPitch": 344,
+  "stackable": true,
+  "oldColors": [
+    22441,
+    22428
+  ],
+  "newColors": [
+    32691,
+    34727
+  ],
+  "name": "Woad leaf"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 955,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "animationIndex": 470,
+  "interactable": true,
+  "modelIndices": [
+    2291
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Spooky picture",
+  "description": "Disturbingly its eyes look everywhere in the room except at you."
+}

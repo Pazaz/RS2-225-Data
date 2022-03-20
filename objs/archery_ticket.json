@@ -1,0 +1,14 @@
+{
+  "id": 1464,
+  "description": "I can exchange this for equipment.",
+  "modelIndex": 2560,
+  "value": 25,
+  "iconX": 6,
+  "iconY": -2,
+  "iconZoom": 830,
+  "iconYaw": 132,
+  "iconCameraPitch": 320,
+  "members": true,
+  "stackable": true,
+  "name": "Archery ticket"
+}

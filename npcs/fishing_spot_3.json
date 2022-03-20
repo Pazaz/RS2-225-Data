@@ -1,0 +1,17 @@
+{
+  "id": 235,
+  "level": 0,
+  "description": "I can fish here.",
+  "standSeq": 447,
+  "walkSeq": 448,
+  "disposeAlpha": true,
+  "showOnMinimap": false,
+  "options": [
+    "Fish"
+  ],
+  "name": "Fishing spot",
+  "modelIndices": [
+    1491
+  ],
+  "wander": 0
+}

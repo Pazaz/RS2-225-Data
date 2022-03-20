@@ -1,0 +1,23 @@
+{
+  "id": 2277,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    2270
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A odd looking rock formation."
+}

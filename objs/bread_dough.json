@@ -1,0 +1,13 @@
+{
+  "id": 2307,
+  "description": "Some uncooked dough.",
+  "modelIndex": 2756,
+  "iconX": 1,
+  "iconY": 129,
+  "iconZoom": 440,
+  "iconYaw": 92,
+  "iconCameraPitch": 264,
+  "value": 4,
+  "name": "Bread dough",
+  "notedId": 2308
+}

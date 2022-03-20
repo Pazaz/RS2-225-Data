@@ -1,0 +1,30 @@
+{
+  "id": 2633,
+  "description": "Pouvez-vous parler francais?",
+  "value": 80,
+  "members": true,
+  "modelIndex": 3373,
+  "iconX": -1,
+  "iconY": -4,
+  "iconZoom": 560,
+  "iconYaw": 1936,
+  "iconCameraPitch": 136,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 198,
+  "maleOffsetY": 0,
+  "femaleModel0": 373,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 40,
+  "femaleHeadModelA": 98,
+  "oldColors": [
+    10659
+  ],
+  "newColors": [
+    41492
+  ],
+  "name": "Berret",
+  "notedId": 2634
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1290,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 6,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1718
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dead tree",
+  "description": "It's only useful for firewood now."
+}

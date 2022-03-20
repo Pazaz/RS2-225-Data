@@ -1,0 +1,20 @@
+{
+  "id": 2944,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1674
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tall Reeds",
+  "description": "Found near the waters edge."
+}

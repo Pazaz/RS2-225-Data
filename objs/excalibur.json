@@ -1,0 +1,21 @@
+{
+  "id": 35,
+  "description": "This used to belong to King Arthur.",
+  "members": true,
+  "value": 200,
+  "modelIndex": 2458,
+  "iconX": 6,
+  "iconY": 17,
+  "iconZoom": 1500,
+  "iconYaw": 932,
+  "iconCameraPitch": 384,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 501,
+  "maleOffsetY": 0,
+  "femaleModel0": 501,
+  "femaleOffsetY": 6,
+  "name": "Excalibur"
+}

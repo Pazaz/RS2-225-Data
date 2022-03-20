@@ -1,0 +1,16 @@
+{
+  "id": 2507,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "modelIndices": [
+    875
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pillar",
+  "description": "An old crumbled pillar."
+}

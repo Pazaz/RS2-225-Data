@@ -1,0 +1,25 @@
+{
+  "id": 12,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-over"
+  ],
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    7721
+  ],
+  "modelIndices": [
+    1391
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock pile",
+  "description": "A pile of rocks is blocking my path."
+}

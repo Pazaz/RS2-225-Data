@@ -1,0 +1,19 @@
+{
+  "id": 1935,
+  "description": "This jug is empty.",
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "value": 1,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Jug",
+  "notedId": 1936
+}

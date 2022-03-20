@@ -1,0 +1,29 @@
+{
+  "id": 2575,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    22441,
+    13243
+  ],
+  "newColors": [
+    22435,
+    10173
+  ],
+  "modelIndices": [
+    1654
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Marshy jungle vine",
+  "description": "A marshy jungle vine."
+}

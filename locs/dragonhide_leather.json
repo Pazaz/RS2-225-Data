@@ -1,0 +1,17 @@
+{
+  "id": 975,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2067
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Dragonhide Leather",
+  "description": "Leather made from the skin of a Dragon."
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1975,
+  "parent": 1829,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 174,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Level 65 : Water Wave",
+  "color": 16773120,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

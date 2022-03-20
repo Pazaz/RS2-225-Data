@@ -1,0 +1,17 @@
+{
+  "id": 588,
+  "description": "Two strange glowing green orbs.",
+  "members": true,
+  "modelIndex": 2337,
+  "iconZoom": 1550,
+  "iconYaw": 1976,
+  "iconCameraPitch": 92,
+  "opcode9": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    19410
+  ],
+  "name": "Orb of protection"
+}

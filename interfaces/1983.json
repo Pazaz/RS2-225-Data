@@ -1,0 +1,45 @@
+{
+  "id": 1983,
+  "parent": 1829,
+  "type": 0,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 182,
+  "height": 76,
+  "hoverParentIndex": -1,
+  "scrollHeight": 0,
+  "hidden": true,
+  "children": [
+    6865,
+    1985,
+    1986,
+    1988,
+    1989,
+    6866,
+    1991,
+    1992,
+    1993
+  ],
+  "childX": [
+    3,
+    2,
+    3,
+    26,
+    78,
+    130,
+    28,
+    80,
+    132
+  ],
+  "childY": [
+    5,
+    4,
+    17,
+    35,
+    35,
+    35,
+    62,
+    62,
+    62
+  ]
+}

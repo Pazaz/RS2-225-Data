@@ -1,0 +1,23 @@
+{
+  "id": 905,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    926
+  ],
+  "modelIndices": [
+    2076
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Dragon's head",
+  "description": "Not what I would pick as wall decoration."
+}

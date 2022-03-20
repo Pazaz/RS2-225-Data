@@ -1,0 +1,35 @@
+{
+  "id": 721,
+  "level": 0,
+  "description": "The head of the Rehnison family.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    25238
+  ],
+  "newColors": [
+    4550,
+    3980
+  ],
+  "name": "Ted Rehnison",
+  "modelIndices": [
+    230,
+    185,
+    250,
+    310,
+    151,
+    176,
+    275
+  ],
+  "headModelIndices": [
+    63,
+    82
+  ]
+}

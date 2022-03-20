@@ -1,0 +1,20 @@
+{
+  "id": 383,
+  "description": "I should try cooking this.",
+  "modelIndex": 2594,
+  "iconX": 5,
+  "iconY": 12,
+  "iconZoom": 1860,
+  "iconYaw": 12,
+  "iconCameraPitch": 344,
+  "value": 300,
+  "members": true,
+  "oldColors": [
+    103
+  ],
+  "newColors": [
+    86
+  ],
+  "name": "Raw shark",
+  "notedId": 384
+}

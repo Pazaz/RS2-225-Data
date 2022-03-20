@@ -1,0 +1,14 @@
+{
+  "id": 1939,
+  "description": "A foul smelling thick tar like substance.",
+  "value": 1,
+  "modelIndex": 2499,
+  "iconX": 1,
+  "iconY": -22,
+  "iconZoom": 710,
+  "iconYaw": 148,
+  "iconCameraPitch": 224,
+  "members": true,
+  "stackable": true,
+  "name": "Swamp tar"
+}

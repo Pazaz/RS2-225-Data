@@ -1,0 +1,28 @@
+{
+  "id": 2100,
+  "description": "I'm not completely sure what this contains.",
+  "value": 2,
+  "options": [
+    "Empty",
+    null,
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2738,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    11200,
+    21733,
+    22464
+  ],
+  "newColors": [
+    66,
+    74,
+    61
+  ],
+  "name": "Odd cocktail",
+  "notedId": 2101
+}

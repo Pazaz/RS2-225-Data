@@ -1,0 +1,16 @@
+{
+  "id": 1111,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1950
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "Do I dare sit on this?"
+}

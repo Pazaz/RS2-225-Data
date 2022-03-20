@@ -1,0 +1,18 @@
+{
+  "id": 2381,
+  "modelIndex": 2335,
+  "opcode9": true,
+  "iconX": 1,
+  "iconY": -29,
+  "iconZoom": 1320,
+  "iconYaw": 128,
+  "iconCameraPitch": 216,
+  "members": true,
+  "oldColors": [
+    18522
+  ],
+  "newColors": [
+    55250
+  ],
+  "name": "Crystal"
+}

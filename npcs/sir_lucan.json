@@ -1,0 +1,46 @@
+{
+  "id": 245,
+  "level": 0,
+  "description": "One of the Knights of the Round Table.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    10128,
+    6798,
+    61,
+    22430,
+    4626,
+    57
+  ],
+  "newColors": [
+    70,
+    0,
+    107,
+    960,
+    70,
+    107
+  ],
+  "name": "Sir Lucan",
+  "modelIndices": [
+    233,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518,
+    521,
+    248,
+    318
+  ],
+  "headModelIndices": [
+    66,
+    80
+  ]
+}

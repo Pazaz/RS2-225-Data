@@ -1,0 +1,28 @@
+{
+  "id": 46,
+  "description": "Mini quackers.",
+  "walkSeq": 7,
+  "standSeq": 7,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "scaleX": 64,
+  "scaleY": 64,
+  "showOnMinimap": false,
+  "level": 1,
+  "oldColors": [
+    17694,
+    66,
+    86
+  ],
+  "newColors": [
+    5838,
+    5838,
+    5910
+  ],
+  "name": "Duckling",
+  "modelIndices": [
+    2847
+  ]
+}

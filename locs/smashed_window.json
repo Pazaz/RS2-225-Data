@@ -1,0 +1,29 @@
+{
+  "id": 2666,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    45,
+    4762
+  ],
+  "modelIndices": [
+    2037
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Smashed window",
+  "description": "looks like the killer smashed this to leave the mansion."
+}

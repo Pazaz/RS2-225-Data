@@ -1,0 +1,17 @@
+{
+  "id": 612,
+  "level": 0,
+  "description": "An ugly green creature.",
+  "walkSeq": 308,
+  "standSeq": 311,
+  "name": "Greldo",
+  "modelIndices": [
+    2951,
+    2953,
+    2955,
+    2956
+  ],
+  "headModelIndices": [
+    144
+  ]
+}

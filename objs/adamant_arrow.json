@@ -1,0 +1,38 @@
+{
+  "id": 890,
+  "description": "Arrows with Adamantite heads.",
+  "members": true,
+  "value": 80,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    928,
+    927,
+    926,
+    929
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    21662,
+    21662
+  ],
+  "name": "Adamant arrow"
+}

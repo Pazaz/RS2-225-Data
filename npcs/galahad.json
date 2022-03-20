@@ -1,0 +1,42 @@
+{
+  "id": 218,
+  "level": 0,
+  "description": "A former Knight of the Round Table.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8090,
+    25238,
+    6798,
+    8741,
+    8090
+  ],
+  "newColors": [
+    7070,
+    7070,
+    6057,
+    7070,
+    7070
+  ],
+  "name": "Galahad",
+  "modelIndices": [
+    223,
+    295,
+    162,
+    176,
+    265,
+    185,
+    284,
+    249
+  ],
+  "headModelIndices": [
+    59,
+    81
+  ]
+}

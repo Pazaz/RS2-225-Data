@@ -1,0 +1,47 @@
+{
+  "id": 832,
+  "level": 0,
+  "description": "He's the leader of the Bedabin tribe.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    4626,
+    908,
+    43072,
+    4550
+  ],
+  "newColors": [
+    127,
+    127,
+    127,
+    127,
+    127,
+    4645
+  ],
+  "name": "Al Shabim.",
+  "modelIndices": [
+    215,
+    253,
+    188,
+    292,
+    170,
+    176,
+    265,
+    185,
+    534,
+    323
+  ],
+  "headModelIndices": [
+    53,
+    30,
+    85
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 784,
+  "description": "A book to translate the ancient gnome language into English.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2543,
+  "iconX": 1,
+  "iconY": -21,
+  "iconZoom": 830,
+  "iconYaw": 116,
+  "iconCameraPitch": 244,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    61,
+    11177
+  ],
+  "newColors": [
+    18721,
+    7952,
+    7952
+  ],
+  "name": "Translation book"
+}

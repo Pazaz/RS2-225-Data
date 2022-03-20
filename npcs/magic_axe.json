@@ -1,0 +1,15 @@
+{
+  "id": 127,
+  "walkSeq": 181,
+  "standSeq": 187,
+  "description": "A magic axe with a mind of it's own.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 42,
+  "name": "Magic axe",
+  "modelIndices": [
+    3000
+  ]
+}

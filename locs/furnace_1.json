@@ -1,0 +1,17 @@
+{
+  "id": 165,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1192
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Furnace",
+  "description": "Very hot."
+}

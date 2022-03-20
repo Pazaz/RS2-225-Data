@@ -1,0 +1,20 @@
+{
+  "id": 1452,
+  "value": 4,
+  "description": "A mysterious power emanates from the talisman...",
+  "modelIndex": 2563,
+  "members": true,
+  "iconX": 2,
+  "iconY": 20,
+  "iconZoom": 1160,
+  "iconYaw": 160,
+  "iconCameraPitch": 352,
+  "options": [
+    null,
+    null,
+    null,
+    "Locate"
+  ],
+  "name": "Chaos talisman",
+  "notedId": 1453
+}

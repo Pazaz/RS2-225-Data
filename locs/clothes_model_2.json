@@ -1,0 +1,16 @@
+{
+  "id": 695,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1142
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Clothes model",
+  "description": "Helps make human clothing."
+}

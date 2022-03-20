@@ -1,0 +1,22 @@
+{
+  "id": 2584,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "culls": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    830
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "A collection of rocks over what looks like a depression."
+}

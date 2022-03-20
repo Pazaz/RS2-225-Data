@@ -1,0 +1,9 @@
+{
+  "id": 20,
+  "description": "A cog from some machinery.",
+  "modelIndex": 2351,
+  "members": true,
+  "iconYaw": 2040,
+  "iconCameraPitch": 292,
+  "name": "Cog"
+}

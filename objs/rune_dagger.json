@@ -1,0 +1,32 @@
+{
+  "id": 1213,
+  "modelIndex": 2672,
+  "description": "A powerful dagger.",
+  "value": 8000,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 533,
+  "maleOffsetY": 0,
+  "femaleModel0": 533,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    37,
+    74,
+    103
+  ],
+  "newColors": [
+    36133,
+    36376,
+    36133,
+    36145
+  ],
+  "name": "Rune dagger",
+  "notedId": 1214
+}

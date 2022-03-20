@@ -1,0 +1,12 @@
+{
+  "id": 676,
+  "description": "Used for digging!",
+  "modelIndex": 2630,
+  "iconX": 1,
+  "iconY": -5,
+  "iconZoom": 1030,
+  "iconYaw": 1412,
+  "iconCameraPitch": 312,
+  "members": true,
+  "name": "Trowel"
+}

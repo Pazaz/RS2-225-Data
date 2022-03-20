@@ -1,0 +1,19 @@
+{
+  "id": 2514,
+  "description": "I should try cooking this.",
+  "modelIndex": 2590,
+  "iconZoom": 950,
+  "iconYaw": 552,
+  "iconCameraPitch": 272,
+  "value": 5,
+  "oldColors": [
+    6080,
+    4032
+  ],
+  "newColors": [
+    3299,
+    3546
+  ],
+  "name": "Raw shrimps",
+  "notedId": 2515
+}

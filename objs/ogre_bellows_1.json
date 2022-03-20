@@ -1,0 +1,17 @@
+{
+  "id": 2874,
+  "description": "A large pair of ogre bellows, it has one load of swamp gas in it.",
+  "members": true,
+  "modelIndex": 3440,
+  "iconY": -4,
+  "iconZoom": 970,
+  "iconYaw": 36,
+  "iconCameraPitch": 112,
+  "oldColors": [
+    6457
+  ],
+  "newColors": [
+    12591
+  ],
+  "name": "Ogre bellows (1)"
+}

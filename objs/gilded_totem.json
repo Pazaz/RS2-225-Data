@@ -1,0 +1,24 @@
+{
+  "id": 750,
+  "description": "A gilded totem pole from the Kharazi tribe.",
+  "modelIndex": 1759,
+  "iconX": -84,
+  "iconY": -51,
+  "iconZoom": 4070,
+  "iconYaw": 132,
+  "iconRoll": 1780,
+  "members": true,
+  "oldColors": [
+    6315,
+    8596,
+    127,
+    10126
+  ],
+  "newColors": [
+    62992,
+    10178,
+    670,
+    10178
+  ],
+  "name": "Gilded totem"
+}

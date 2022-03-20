@@ -1,0 +1,17 @@
+{
+  "id": 5558,
+  "parent": 5454,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 166,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Select skin colour and gender",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

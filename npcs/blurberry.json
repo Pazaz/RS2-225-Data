@@ -1,0 +1,29 @@
+{
+  "id": 848,
+  "level": 0,
+  "description": "He seems to run the cocktail bar.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    6038,
+    11162
+  ],
+  "newColors": [
+    37780,
+    37793,
+    12
+  ],
+  "name": "Blurberry",
+  "modelIndices": [
+    2909,
+    2900,
+    2917
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

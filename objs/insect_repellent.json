@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "description": "Drives away all known 6 legged creatures.",
+  "value": 3,
+  "modelIndex": 2684,
+  "members": true,
+  "iconY": -6,
+  "iconZoom": 1430,
+  "iconYaw": 1836,
+  "iconCameraPitch": 124,
+  "name": "Insect repellent",
+  "notedId": 29
+}

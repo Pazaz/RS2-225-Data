@@ -1,0 +1,29 @@
+{
+  "id": 29,
+  "description": "He's a lumberjack, and he's ok.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 1,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    10128
+  ],
+  "name": "Chuck",
+  "modelIndices": [
+    210,
+    250,
+    315,
+    173,
+    179,
+    271,
+    185,
+    196,
+    510,
+    280
+  ]
+}

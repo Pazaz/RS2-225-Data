@@ -1,0 +1,33 @@
+{
+  "id": 3223,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "actions": [
+    "Ascend"
+  ],
+  "oldColors": [
+    6689,
+    6808,
+    7056,
+    6028
+  ],
+  "newColors": [
+    7952,
+    8844,
+    7690,
+    8070
+  ],
+  "modelIndices": [
+    692
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave Stairs",
+  "description": "I can climb up these."
+}

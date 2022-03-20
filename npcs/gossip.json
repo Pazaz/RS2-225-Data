@@ -1,0 +1,37 @@
+{
+  "id": 813,
+  "level": 0,
+  "description": "One of those people who love to gossip!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    8741,
+    25238
+  ],
+  "newColors": [
+    4550,
+    8,
+    7070
+  ],
+  "name": "Gossip",
+  "modelIndices": [
+    217,
+    249,
+    292,
+    151,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    55,
+    81
+  ]
+}

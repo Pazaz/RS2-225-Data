@@ -1,0 +1,16 @@
+{
+  "id": 787,
+  "description": "An order from the Karamja shipyard.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "name": "Lumber order"
+}

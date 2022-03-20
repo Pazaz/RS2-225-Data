@@ -1,0 +1,21 @@
+{
+  "id": 117,
+  "description": "2 doses of strength potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 13,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    11080
+  ],
+  "name": "Strength potion(2)",
+  "notedId": 118
+}

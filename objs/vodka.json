@@ -1,0 +1,16 @@
+{
+  "id": 2015,
+  "description": "A strong spirit.",
+  "value": 5,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2830,
+  "iconY": -1,
+  "iconZoom": 970,
+  "iconYaw": 1888,
+  "iconCameraPitch": 104,
+  "name": "Vodka",
+  "notedId": 2016
+}

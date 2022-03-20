@@ -1,0 +1,26 @@
+{
+  "id": 971,
+  "level": 0,
+  "description": "Shop keeper.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "chadwell",
+  "modelIndices": [
+    230,
+    292,
+    254,
+    246,
+    173,
+    181,
+    176
+  ],
+  "headModelIndices": [
+    63
+  ]
+}

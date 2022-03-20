@@ -1,0 +1,19 @@
+{
+  "id": 235,
+  "description": "Finely ground horn of Unicorn.",
+  "modelIndex": 2742,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "members": true,
+  "value": 20,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    7741
+  ],
+  "name": "Unicorn horn dust",
+  "notedId": 236
+}

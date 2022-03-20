@@ -1,0 +1,19 @@
+{
+  "id": 2513,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Fire-at"
+  ],
+  "modelIndices": [
+    1451
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Target",
+  "description": "I wonder if I can hit a bullseye?"
+}

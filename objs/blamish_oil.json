@@ -1,0 +1,21 @@
+{
+  "id": 1582,
+  "description": "Made from the finest snail slime.",
+  "options": [
+    "Drink"
+  ],
+  "value": 10,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    42436
+  ],
+  "newColors": [
+    16495
+  ],
+  "name": "Blamish oil"
+}

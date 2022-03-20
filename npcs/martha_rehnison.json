@@ -1,0 +1,35 @@
+{
+  "id": 722,
+  "level": 0,
+  "description": "A fairly poor looking woman.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    25238,
+    8741
+  ],
+  "newColors": [
+    4550,
+    3980,
+    6449
+  ],
+  "name": "Martha Rehnison",
+  "modelIndices": [
+    378,
+    361,
+    474,
+    351,
+    353,
+    438
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

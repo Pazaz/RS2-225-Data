@@ -1,0 +1,32 @@
+{
+  "id": 4562,
+  "parent": 4461,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 139,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    1999
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      1464,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "20 Adamant Javelins",
+  "activeText": "20 Adamant Javelins",
+  "color": 8421504,
+  "colorEnabled": 65280,
+  "hoverColor": 0
+}

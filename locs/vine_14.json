@@ -1,0 +1,19 @@
+{
+  "id": 3208,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "animationIndex": 927,
+  "modelIndices": [
+    3347
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Vine",
+  "description": "It's covered in thorns!"
+}

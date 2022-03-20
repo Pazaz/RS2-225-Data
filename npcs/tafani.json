@@ -1,0 +1,44 @@
+{
+  "id": 961,
+  "description": "Looks after injured fighters.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "scaleX": 128,
+  "scaleY": 128,
+  "options": [
+    "Talk-to",
+    null,
+    "Heal"
+  ],
+  "level": 0,
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    4550
+  ],
+  "newColors": [
+    43228,
+    43228,
+    138,
+    6705
+  ],
+  "name": "Tafani",
+  "modelIndices": [
+    390,
+    467,
+    348,
+    353,
+    428,
+    358,
+    3193,
+    3191
+  ],
+  "headModelIndices": [
+    113,
+    3186
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 432,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1955
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "I dont think anyone's slept here for a long long time."
+}

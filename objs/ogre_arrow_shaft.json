@@ -1,0 +1,20 @@
+{
+  "id": 2864,
+  "description": "A wooden arrow shaft.",
+  "value": 1,
+  "stackable": true,
+  "members": true,
+  "modelIndex": 2616,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "oldColors": [
+    5012
+  ],
+  "newColors": [
+    7582
+  ],
+  "name": "Ogre arrow shaft"
+}

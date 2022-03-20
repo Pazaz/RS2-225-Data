@@ -1,0 +1,13 @@
+{
+  "id": 2840,
+  "description": "A key to some drawers.",
+  "members": true,
+  "value": 1,
+  "modelIndex": 2372,
+  "iconX": -3,
+  "iconY": 5,
+  "iconZoom": 700,
+  "iconYaw": 20,
+  "iconCameraPitch": 328,
+  "name": "Key"
+}

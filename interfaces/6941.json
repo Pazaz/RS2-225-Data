@@ -1,0 +1,17 @@
+{
+  "id": 6941,
+  "parent": 1908,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 423,
+  "height": 26,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "The further north you go the more dangerous it becomes, but there is more\\ntreasure to be found.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

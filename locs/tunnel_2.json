@@ -1,0 +1,28 @@
+{
+  "id": 3219,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Pass-through"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    832
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Tunnel",
+  "description": "Dark and intimidating."
+}

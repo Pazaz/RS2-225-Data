@@ -1,0 +1,28 @@
+{
+  "id": 644,
+  "description": "The ultimate in gnome design.",
+  "modelIndex": 2786,
+  "maleModel0": 170,
+  "maleOffsetY": 0,
+  "femaleModel0": 348,
+  "femaleOffsetY": 0,
+  "maleModel1": 292,
+  "femaleModel1": 456,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 180,
+  "iconY": 7,
+  "iconZoom": 1370,
+  "iconCameraPitch": 536,
+  "members": true,
+  "oldColors": [
+    8741
+  ],
+  "newColors": [
+    32984
+  ],
+  "name": "Robe top",
+  "notedId": 645
+}

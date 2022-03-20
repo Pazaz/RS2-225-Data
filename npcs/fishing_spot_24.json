@@ -1,0 +1,21 @@
+{
+  "id": 328,
+  "level": 0,
+  "standSeq": 447,
+  "walkSeq": 448,
+  "disposeAlpha": true,
+  "description": "I can see fish swimming in the water.",
+  "showOnMinimap": false,
+  "options": [
+    "Lure",
+    null,
+    "Bait",
+    "hidden",
+    "hidden"
+  ],
+  "name": "Fishing spot",
+  "modelIndices": [
+    1491
+  ],
+  "wander": 0
+}

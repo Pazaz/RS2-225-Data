@@ -1,0 +1,32 @@
+{
+  "id": 6843,
+  "parent": 962,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 57,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    1
+  ],
+  "script": [
+    [
+      13,
+      25,
+      7,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Harmony2",
+  "color": 16711680,
+  "colorEnabled": 65280,
+  "hoverColor": 0,
+  "option": "Ok"
+}

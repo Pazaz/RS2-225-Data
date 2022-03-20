@@ -1,0 +1,20 @@
+{
+  "id": 2560,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Steal from"
+  ],
+  "modelIndices": [
+    1485
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Silk stall",
+  "description": "Fine silk woven by experts."
+}

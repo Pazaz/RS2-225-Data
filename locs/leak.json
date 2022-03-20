@@ -1,0 +1,22 @@
+{
+  "id": 2167,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "disposeAlpha": true,
+  "animationIndex": 464,
+  "actions": [
+    "Fill"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    2216
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Leak",
+  "description": "Water is pouring in through the hole."
+}

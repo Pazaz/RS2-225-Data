@@ -1,0 +1,15 @@
+{
+  "id": 708,
+  "description": "A cheeky little imp.",
+  "walkSeq": 168,
+  "standSeq": 171,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Imp",
+  "modelIndices": [
+    2887
+  ]
+}

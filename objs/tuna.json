@@ -1,0 +1,23 @@
+{
+  "id": 361,
+  "description": "Wow, this is a big fish.",
+  "modelIndex": 2355,
+  "iconY": 3,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 464,
+  "value": 100,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    1211,
+    1226
+  ],
+  "name": "Tuna",
+  "notedId": 362
+}

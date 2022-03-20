@@ -1,0 +1,38 @@
+{
+  "id": 366,
+  "level": 0,
+  "description": "He looks friendly enough.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    25238,
+    43072,
+    8078
+  ],
+  "newColors": [
+    11169,
+    4550,
+    43111
+  ],
+  "name": "Jerico",
+  "modelIndices": [
+    214,
+    250,
+    315,
+    173,
+    176,
+    267,
+    185,
+    280
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

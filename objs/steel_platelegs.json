@@ -1,0 +1,25 @@
+{
+  "id": 1069,
+  "description": "These look pretty heavy.",
+  "value": 1000,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Steel platelegs",
+  "notedId": 1070
+}

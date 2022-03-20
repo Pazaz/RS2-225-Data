@@ -1,0 +1,33 @@
+{
+  "id": 238,
+  "description": "A scary looking spirit.",
+  "walkSeq": 119,
+  "standSeq": 125,
+  "disposeAlpha": true,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 92,
+  "oldColors": [
+    61,
+    33420,
+    908,
+    39025
+  ],
+  "newColors": [
+    20,
+    0,
+    0,
+    916
+  ],
+  "name": "Thrantax The Mighty",
+  "modelIndices": [
+    2961,
+    2964,
+    2965
+  ],
+  "headModelIndices": [
+    10
+  ]
+}

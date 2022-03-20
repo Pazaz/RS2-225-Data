@@ -1,0 +1,17 @@
+{
+  "id": 5606,
+  "parent": 5596,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 85,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "How to play:",
+  "color": 15056221,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

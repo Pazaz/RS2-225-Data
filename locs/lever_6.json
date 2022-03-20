@@ -1,0 +1,21 @@
+{
+  "id": 91,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Search for traps"
+  ],
+  "modelIndices": [
+    2108
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Lever",
+  "description": "I don't like the look of this!"
+}

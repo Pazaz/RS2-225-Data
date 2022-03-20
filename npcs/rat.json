@@ -1,0 +1,16 @@
+{
+  "id": 47,
+  "description": "A popular dwarven delicacy.",
+  "walkSeq": 239,
+  "standSeq": 242,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "showOnMinimap": false,
+  "level": 1,
+  "name": "Rat",
+  "modelIndices": [
+    2927
+  ]
+}

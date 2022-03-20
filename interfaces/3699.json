@@ -1,0 +1,13 @@
+{
+  "id": 3699,
+  "parent": 3559,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 325,
+  "width": 72,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "combatboxes,0",
+  "activeImage": "combatboxes,1",
+  "option": "Female"
+}

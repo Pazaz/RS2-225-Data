@@ -1,0 +1,23 @@
+{
+  "id": 1387,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "oldColors": [
+    6028
+  ],
+  "newColors": [
+    61985
+  ],
+  "modelIndices": [
+    2174
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "I hope I don't trip over any of these."
+}

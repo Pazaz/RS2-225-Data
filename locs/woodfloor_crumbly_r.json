@@ -1,0 +1,17 @@
+{
+  "id": 1819,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "delayShading": true,
+  "modelIndices": [
+    860
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "woodfloor_crumbly_r"
+}

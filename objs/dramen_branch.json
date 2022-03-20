@@ -1,0 +1,13 @@
+{
+  "id": 771,
+  "modelIndex": 2412,
+  "description": "A limb of the fabled Dramen tree.",
+  "value": 15,
+  "members": true,
+  "iconX": -8,
+  "iconY": -21,
+  "iconZoom": 940,
+  "iconYaw": 152,
+  "iconCameraPitch": 268,
+  "name": "Dramen branch"
+}

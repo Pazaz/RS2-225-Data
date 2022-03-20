@@ -1,0 +1,16 @@
+{
+  "id": 4660,
+  "parent": 4657,
+  "type": 6,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 64,
+  "height": 96,
+  "hoverParentIndex": -1,
+  "seqId": -1,
+  "activeSeqId": -1,
+  "modelZoom": 400,
+  "modelEyePitch": 0,
+  "modelYaw": 0,
+  "option": "Ok"
+}

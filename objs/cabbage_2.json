@@ -1,0 +1,15 @@
+{
+  "id": 1967,
+  "description": "Yuck I don't like cabbage.",
+  "modelIndex": 2739,
+  "iconX": 1,
+  "iconZoom": 1280,
+  "iconYaw": 348,
+  "iconCameraPitch": 304,
+  "options": [
+    "Eat"
+  ],
+  "value": 1,
+  "name": "Cabbage",
+  "notedId": 1968
+}

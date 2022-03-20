@@ -1,0 +1,30 @@
+{
+  "id": 656,
+  "description": "A silly pointed hat.",
+  "modelIndex": 2483,
+  "maleModel0": 202,
+  "maleOffsetY": 0,
+  "femaleModel0": 377,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 44,
+  "femaleHeadModelA": 102,
+  "value": 160,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "iconX": 5,
+  "iconY": -10,
+  "iconZoom": 800,
+  "iconYaw": 156,
+  "iconCameraPitch": 152,
+  "members": true,
+  "oldColors": [
+    38814
+  ],
+  "newColors": [
+    334
+  ],
+  "name": "Hat",
+  "notedId": 657
+}

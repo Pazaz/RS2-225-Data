@@ -1,0 +1,11 @@
+{
+  "id": 561,
+  "description": "Used for alchemy spells.",
+  "stackable": true,
+  "value": 20,
+  "modelIndex": 2734,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Nature rune"
+}

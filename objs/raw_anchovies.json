@@ -1,0 +1,19 @@
+{
+  "id": 321,
+  "description": "I should try cooking this.",
+  "modelIndex": 2590,
+  "iconZoom": 950,
+  "iconYaw": 552,
+  "iconCameraPitch": 272,
+  "value": 15,
+  "oldColors": [
+    6080,
+    4032
+  ],
+  "newColors": [
+    43206,
+    43082
+  ],
+  "name": "Raw anchovies",
+  "notedId": 322
+}

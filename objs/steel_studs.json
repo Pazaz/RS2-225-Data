@@ -1,0 +1,13 @@
+{
+  "id": 2370,
+  "description": "A set of studs for leather armour.",
+  "modelIndex": 2598,
+  "iconY": 15,
+  "iconZoom": 430,
+  "iconYaw": 24,
+  "iconCameraPitch": 288,
+  "value": 150,
+  "members": true,
+  "name": "Steel studs",
+  "notedId": 2371
+}

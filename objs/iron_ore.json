@@ -1,0 +1,21 @@
+{
+  "id": 440,
+  "value": 17,
+  "description": "This needs refining.",
+  "modelIndex": 2748,
+  "iconX": 1,
+  "iconY": 15,
+  "iconZoom": 1400,
+  "iconYaw": 1576,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    7062,
+    45
+  ],
+  "newColors": [
+    2576,
+    2576
+  ],
+  "name": "Iron ore",
+  "notedId": 441
+}

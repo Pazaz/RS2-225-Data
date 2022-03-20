@@ -1,0 +1,16 @@
+{
+  "id": 1108,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    931
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Throne",
+  "description": "A kingly seat for a royal behind."
+}

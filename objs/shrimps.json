@@ -1,0 +1,14 @@
+{
+  "id": 315,
+  "description": "Some nicely cooked fish.",
+  "modelIndex": 2590,
+  "iconZoom": 950,
+  "iconYaw": 552,
+  "iconCameraPitch": 272,
+  "value": 5,
+  "options": [
+    "Eat"
+  ],
+  "name": "Shrimps",
+  "notedId": 316
+}

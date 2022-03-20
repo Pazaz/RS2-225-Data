@@ -1,0 +1,30 @@
+{
+  "id": 5064,
+  "parent": 5063,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 7,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": true,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 10,
+  "inevntoryMarginY": 4,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    "Store 1",
+    "Store 5",
+    "Store10",
+    "StoreAll",
+    "Store X"
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

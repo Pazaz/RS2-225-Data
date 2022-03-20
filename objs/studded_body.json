@@ -1,0 +1,18 @@
+{
+  "id": 1133,
+  "value": 850,
+  "description": "Those studs should provide a bit more protection.",
+  "modelIndex": 2565,
+  "iconZoom": 910,
+  "iconCameraPitch": 580,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 303,
+  "maleOffsetY": 0,
+  "femaleModel0": 466,
+  "femaleOffsetY": 0,
+  "name": "Studded body",
+  "notedId": 1134
+}

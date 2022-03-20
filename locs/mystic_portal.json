@@ -1,0 +1,21 @@
+{
+  "id": 2880,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 100,
+  "specular": 100,
+  "interactable": true,
+  "actions": [
+    "Walk-through"
+  ],
+  "modelIndices": [
+    2161
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Mystic portal"
+}

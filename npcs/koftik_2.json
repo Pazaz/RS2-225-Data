@@ -1,0 +1,28 @@
+{
+  "id": 973,
+  "level": 0,
+  "description": "The cave guide.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Koftik",
+  "modelIndices": [
+    163,
+    185,
+    176,
+    208,
+    249,
+    274,
+    292,
+    326
+  ],
+  "headModelIndices": [
+    48,
+    81
+  ]
+}

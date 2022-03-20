@@ -1,0 +1,37 @@
+{
+  "id": 835,
+  "level": 0,
+  "description": "A resident of Al-Kharid.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    4626,
+    6798
+  ],
+  "newColors": [
+    57579,
+    45155,
+    57579,
+    43072
+  ],
+  "name": "Irena",
+  "modelIndices": [
+    390,
+    467,
+    346,
+    353,
+    429,
+    361
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

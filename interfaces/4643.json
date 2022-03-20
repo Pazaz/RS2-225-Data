@@ -1,0 +1,17 @@
+{
+  "id": 4643,
+  "parent": 4564,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 367,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Click Dump Items to close the window and discard remaining items.",
+  "color": 11184810,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

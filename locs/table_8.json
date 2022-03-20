@@ -1,0 +1,16 @@
+{
+  "id": 600,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1307
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "The napkins are made from real silk."
+}

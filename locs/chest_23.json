@@ -1,0 +1,22 @@
+{
+  "id": 2571,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Search for traps"
+  ],
+  "interactionSideFlags": 14,
+  "modelIndices": [
+    1249
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chest",
+  "description": "I wonder what's inside it."
+}

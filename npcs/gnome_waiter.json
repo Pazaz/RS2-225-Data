@@ -1,0 +1,31 @@
+{
+  "id": 851,
+  "description": "He can serve you gnome food.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "level": 1,
+  "oldColors": [
+    22426,
+    6038,
+    11162
+  ],
+  "newColors": [
+    24,
+    37,
+    12
+  ],
+  "name": "Gnome Waiter",
+  "modelIndices": [
+    2909,
+    2900,
+    2915
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

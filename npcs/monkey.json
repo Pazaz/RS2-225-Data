@@ -1,0 +1,15 @@
+{
+  "id": 132,
+  "description": "Perhaps our oldest relatives?",
+  "walkSeq": 219,
+  "standSeq": 222,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 3,
+  "name": "Monkey",
+  "modelIndices": [
+    3004
+  ]
+}

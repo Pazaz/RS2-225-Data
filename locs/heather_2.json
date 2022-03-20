@@ -1,0 +1,16 @@
+{
+  "id": 1179,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1615
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Heather",
+  "description": "Who is this heather girl?"
+}

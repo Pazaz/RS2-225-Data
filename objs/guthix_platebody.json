@@ -1,0 +1,33 @@
+{
+  "id": 2669,
+  "description": "Rune plate body in the colours of Guthix.",
+  "value": 65000,
+  "modelIndex": 3376,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "maleModel2": 3380,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "femaleModel2": 3380,
+  "oldColors": [
+    61,
+    41,
+    24
+  ],
+  "newColors": [
+    36133,
+    37270,
+    21939
+  ],
+  "name": "Guthix platebody",
+  "notedId": 2670
+}

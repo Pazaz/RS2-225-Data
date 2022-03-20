@@ -1,0 +1,22 @@
+{
+  "id": 1307,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 2,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1591
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Maple tree",
+  "description": "I bet this makes good syrup!"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1150,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2006
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fairy bank",
+  "description": "Fairies need money too!"
+}

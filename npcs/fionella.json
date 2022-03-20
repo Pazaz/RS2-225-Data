@@ -1,0 +1,46 @@
+{
+  "id": 932,
+  "level": 0,
+  "description": "She sells general items at the Legends Guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    15242,
+    9096,
+    8078,
+    61
+  ],
+  "newColors": [
+    43181,
+    43181,
+    127,
+    127,
+    127,
+    127
+  ],
+  "name": "Fionella",
+  "modelIndices": [
+    390,
+    470,
+    343,
+    484,
+    353,
+    437,
+    361,
+    376
+  ],
+  "headModelIndices": [
+    113,
+    101
+  ]
+}

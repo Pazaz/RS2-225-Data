@@ -1,0 +1,16 @@
+{
+  "id": 1113,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1261
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "stool",
+  "description": "park it here..."
+}

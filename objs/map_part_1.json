@@ -1,0 +1,14 @@
+{
+  "id": 1535,
+  "description": "An incomplete map piece.",
+  "modelIndex": 2686,
+  "iconX": 44,
+  "iconY": -21,
+  "iconZoom": 1110,
+  "iconYaw": 80,
+  "iconCameraPitch": 368,
+  "options": [
+    "Study"
+  ],
+  "name": "Map part"
+}

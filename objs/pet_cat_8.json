@@ -1,0 +1,25 @@
+{
+  "id": 1568,
+  "description": "This cat is so well fed it can hardly move.",
+  "modelIndex": 3007,
+  "iconX": 13,
+  "iconY": 21,
+  "iconZoom": 880,
+  "iconYaw": 152,
+  "iconRoll": 1940,
+  "iconCameraPitch": 32,
+  "members": true,
+  "oldColors": [
+    127,
+    16,
+    61,
+    123
+  ],
+  "newColors": [
+    16,
+    61,
+    127,
+    0
+  ],
+  "name": "Pet cat"
+}

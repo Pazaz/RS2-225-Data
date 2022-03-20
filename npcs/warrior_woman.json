@@ -1,0 +1,35 @@
+{
+  "id": 15,
+  "description": "Not very fashion conscious.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 19,
+  "oldColors": [
+    6798,
+    4626
+  ],
+  "newColors": [
+    6854,
+    24
+  ],
+  "name": "Warrior woman",
+  "modelIndices": [
+    390,
+    468,
+    337,
+    353,
+    432,
+    361,
+    376,
+    519,
+    541
+  ]
+}

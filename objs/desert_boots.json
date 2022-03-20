@@ -1,0 +1,30 @@
+{
+  "id": 1837,
+  "description": "Comfortable desert shoes.",
+  "value": 20,
+  "modelIndex": 2837,
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "members": true,
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    4626,
+    10128
+  ],
+  "newColors": [
+    127,
+    127
+  ],
+  "name": "Desert boots",
+  "notedId": 1838
+}

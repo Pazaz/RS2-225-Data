@@ -1,0 +1,17 @@
+{
+  "id": 2150,
+  "options": [
+    "Remove-legs"
+  ],
+  "description": "A slippery little blighter.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2622,
+  "iconX": -1,
+  "iconY": 3,
+  "iconZoom": 470,
+  "iconYaw": 128,
+  "iconCameraPitch": 352,
+  "name": "Swamp toad",
+  "notedId": 2151
+}

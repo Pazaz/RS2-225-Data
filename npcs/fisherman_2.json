@@ -1,0 +1,36 @@
+{
+  "id": 702,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He smells of salty fish.",
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    10654,
+    10508
+  ],
+  "name": "Fisherman",
+  "modelIndices": [
+    208,
+    250,
+    292,
+    162,
+    176,
+    265,
+    181,
+    562
+  ],
+  "headModelIndices": [
+    48,
+    82
+  ]
+}

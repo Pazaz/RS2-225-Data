@@ -1,0 +1,16 @@
+{
+  "id": 748,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    733
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave entrance",
+  "description": "The entrance to the cave."
+}

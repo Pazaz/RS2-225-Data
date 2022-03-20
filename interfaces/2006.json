@@ -1,0 +1,30 @@
+{
+  "id": 2006,
+  "parent": 2005,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 7,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": true,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 10,
+  "inevntoryMarginY": 4,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    "Deposit 1",
+    "Deposit 5",
+    "Deposit 10",
+    "Deposit All",
+    "Deposit X"
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

@@ -1,0 +1,35 @@
+{
+  "id": 264,
+  "level": 0,
+  "description": "She looks wealthy.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    8741
+  ],
+  "newColors": [
+    38699,
+    38464,
+    39029
+  ],
+  "name": "Lady Servil",
+  "modelIndices": [
+    378,
+    456,
+    348,
+    353,
+    428,
+    358
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

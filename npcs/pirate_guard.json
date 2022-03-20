@@ -1,0 +1,38 @@
+{
+  "id": 799,
+  "description": "A morally ambiguous guard.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    8741,
+    25238,
+    61
+  ],
+  "newColors": [
+    12,
+    12,
+    12
+  ],
+  "name": "Pirate Guard",
+  "modelIndices": [
+    219,
+    294,
+    151,
+    254,
+    185,
+    179,
+    246,
+    518
+  ],
+  "headModelIndices": [
+    57
+  ]
+}

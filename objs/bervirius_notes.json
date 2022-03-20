@@ -1,0 +1,22 @@
+{
+  "id": 624,
+  "description": "Notes taken from the tomb of Bervirius.",
+  "value": 1,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "oldColors": [
+    10351
+  ],
+  "newColors": [
+    43344
+  ],
+  "name": "Bervirius notes"
+}

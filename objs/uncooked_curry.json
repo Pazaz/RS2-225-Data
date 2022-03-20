@@ -1,0 +1,18 @@
+{
+  "id": 2009,
+  "description": "I need to cook this.",
+  "value": 10,
+  "modelIndex": 2367,
+  "iconZoom": 910,
+  "iconYaw": 1856,
+  "iconCameraPitch": 204,
+  "members": true,
+  "oldColors": [
+    44263
+  ],
+  "newColors": [
+    6080
+  ],
+  "name": "Uncooked curry",
+  "notedId": 2010
+}

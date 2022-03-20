@@ -1,0 +1,19 @@
+{
+  "id": 901,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "delayShading": true,
+  "interactable": true,
+  "modelIndices": [
+    2053
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Hanging banner",
+  "description": "I don't know art, but I like it!"
+}

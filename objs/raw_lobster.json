@@ -1,0 +1,19 @@
+{
+  "id": 377,
+  "description": "I should try cooking this.",
+  "modelIndex": 2804,
+  "iconX": 4,
+  "iconY": 16,
+  "iconZoom": 1020,
+  "iconYaw": 1704,
+  "iconCameraPitch": 324,
+  "value": 150,
+  "oldColors": [
+    4032
+  ],
+  "newColors": [
+    3875
+  ],
+  "name": "Raw lobster",
+  "notedId": 378
+}

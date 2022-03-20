@@ -1,0 +1,43 @@
+{
+  "id": 558,
+  "level": 0,
+  "description": "An expert on fishing.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072
+  ],
+  "newColors": [
+    5652,
+    16916,
+    10508,
+    4550
+  ],
+  "name": "Gerrant",
+  "modelIndices": [
+    217,
+    254,
+    246,
+    305,
+    151,
+    176,
+    181,
+    562,
+    186
+  ],
+  "headModelIndices": [
+    55,
+    28
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1100,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1161
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barstool",
+  "description": "The perfect way to sit at the bar."
+}

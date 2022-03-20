@@ -1,0 +1,31 @@
+{
+  "id": 895,
+  "level": 0,
+  "description": "A sad looking child...",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22424,
+    11162,
+    6550,
+    6798
+  ],
+  "newColors": [
+    39859,
+    5002,
+    7079,
+    7079
+  ],
+  "name": "Boy",
+  "modelIndices": [
+    2897,
+    2909,
+    2917
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

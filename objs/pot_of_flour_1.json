@@ -1,0 +1,13 @@
+{
+  "id": 1933,
+  "description": "There is flour in this pot.",
+  "modelIndex": 2406,
+  "iconX": -1,
+  "iconY": 2,
+  "iconZoom": 990,
+  "iconYaw": 8,
+  "iconCameraPitch": 112,
+  "value": 10,
+  "name": "Pot of flour",
+  "notedId": 1934
+}

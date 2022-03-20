@@ -1,0 +1,23 @@
+{
+  "id": 509,
+  "description": "A giant ghost of huge strength and devastating power.",
+  "disposeAlpha": true,
+  "walkSeq": 119,
+  "standSeq": 125,
+  "scaleY": 190,
+  "scaleX": 190,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 88,
+  "name": "Nazastarool",
+  "modelIndices": [
+    2961,
+    2964,
+    2965
+  ],
+  "headModelIndices": [
+    10
+  ]
+}

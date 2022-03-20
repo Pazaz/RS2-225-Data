@@ -1,0 +1,15 @@
+{
+  "id": 128,
+  "description": "A slithering serpent.",
+  "walkSeq": 274,
+  "standSeq": 277,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 5,
+  "name": "Snake",
+  "modelIndices": [
+    3002
+  ]
+}

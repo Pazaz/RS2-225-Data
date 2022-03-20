@@ -1,0 +1,22 @@
+{
+  "id": 292,
+  "level": 0,
+  "description": "Even from here you can see this sheep's not well.",
+  "walkSeq": 249,
+  "standSeq": 252,
+  "options": [
+    "Prod"
+  ],
+  "oldColors": [
+    10297,
+    10351
+  ],
+  "newColors": [
+    194,
+    11489
+  ],
+  "name": "Diseased sheep",
+  "modelIndices": [
+    2929
+  ]
+}

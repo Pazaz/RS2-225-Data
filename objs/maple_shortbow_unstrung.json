@@ -1,0 +1,20 @@
+{
+  "id": 64,
+  "value": 200,
+  "members": true,
+  "description": "An unstrung maple shortbow, I need a bowstring for this.",
+  "modelIndex": 2435,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    2250
+  ],
+  "name": "Maple shortbow",
+  "notedId": 65
+}

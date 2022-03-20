@@ -1,0 +1,17 @@
+{
+  "id": 1310,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 0,
+  "modelIndices": [
+    1576
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "This tree has vines hanging from it."
+}

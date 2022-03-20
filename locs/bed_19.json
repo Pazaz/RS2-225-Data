@@ -1,0 +1,20 @@
+{
+  "id": 2907,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1239
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "I guess I could sleep in it if I was really tired."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1805,
+  "description": "Elizabeths' shiny silver coated needle coated with a thin layer of flour.",
+  "members": true,
+  "modelIndex": 2770,
+  "iconX": 2,
+  "iconY": 4,
+  "iconZoom": 850,
+  "iconYaw": 868,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    74
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Silver needle"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 185,
+  "description": "A fine example of piracys' equal opportunities program.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 20,
+  "oldColors": [
+    8741,
+    6798,
+    39145
+  ],
+  "newColors": [
+    8078,
+    6854,
+    8078
+  ],
+  "name": "Pirate",
+  "modelIndices": [
+    388,
+    469,
+    348,
+    353,
+    434,
+    417,
+    410,
+    490
+  ],
+  "headModelIndices": [
+    111,
+    136,
+    126
+  ]
+}

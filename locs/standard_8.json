@@ -1,0 +1,26 @@
+{
+  "id": 858,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    39841,
+    127,
+    13239
+  ],
+  "newColors": [
+    127,
+    16949,
+    127
+  ],
+  "modelIndices": [
+    1536
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Standard",
+  "description": "A standard of the gnome race."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 630,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1445
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bakery stall",
+  "description": "Bread cakes and pastries."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 108,
+  "size": 2,
+  "walkSeq": 244,
+  "standSeq": 245,
+  "description": "It has a very vicious looking tail.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 20,
+  "name": "Poison Scorpion",
+  "modelIndices": [
+    2967
+  ]
+}

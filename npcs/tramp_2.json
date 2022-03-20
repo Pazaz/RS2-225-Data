@@ -1,0 +1,35 @@
+{
+  "id": 641,
+  "level": 0,
+  "description": "Looks down on his luck.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    6798
+  ],
+  "newColors": [
+    5652,
+    4913
+  ],
+  "name": "Tramp",
+  "modelIndices": [
+    214,
+    249,
+    310,
+    151,
+    176,
+    275,
+    181
+  ],
+  "headModelIndices": [
+    52,
+    81
+  ]
+}

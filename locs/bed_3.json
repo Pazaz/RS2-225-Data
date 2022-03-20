@@ -1,0 +1,24 @@
+{
+  "id": 419,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "oldColors": [
+    33,
+    8770
+  ],
+  "newColors": [
+    5921,
+    1218
+  ],
+  "modelIndices": [
+    1256
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "A drab looking bed."
+}

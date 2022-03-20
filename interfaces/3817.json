@@ -1,0 +1,17 @@
+{
+  "id": 3817,
+  "parent": 3796,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 58,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": false,
+  "text": "(Defensive)",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

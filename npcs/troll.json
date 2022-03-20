@@ -1,0 +1,15 @@
+{
+  "id": 72,
+  "description": "A hideously deformed creature.",
+  "walkSeq": 283,
+  "standSeq": 286,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 69,
+  "name": "Troll",
+  "modelIndices": [
+    2930
+  ]
+}

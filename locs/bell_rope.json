@@ -1,0 +1,16 @@
+{
+  "id": 709,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1280
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bell rope",
+  "description": "Suprisingly rope shaped."
+}

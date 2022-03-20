@@ -1,0 +1,30 @@
+{
+  "id": 2700,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Walk-through"
+  ],
+  "oldColors": [
+    1948,
+    1955
+  ],
+  "newColors": [
+    53,
+    5181
+  ],
+  "modelIndices": [
+    884,
+    885
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Tent door",
+  "description": "The entrance to the tent."
+}

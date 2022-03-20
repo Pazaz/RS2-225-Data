@@ -1,0 +1,20 @@
+{
+  "id": 2883,
+  "description": "More powerful than a normal bow, useful against large game birds.",
+  "value": 500,
+  "members": true,
+  "modelIndex": 3439,
+  "iconZoom": 2060,
+  "iconYaw": 544,
+  "iconCameraPitch": 280,
+  "maleModel0": 3443,
+  "maleOffsetY": 0,
+  "femaleModel0": 3443,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield",
+    "Check kills"
+  ],
+  "name": "Ogre bow"
+}

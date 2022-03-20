@@ -1,0 +1,17 @@
+{
+  "id": 187,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "interactable": true,
+  "modelIndices": [
+    1323
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gnome glider",
+  "description": "Fly Gnome Air."
+}

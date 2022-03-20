@@ -1,0 +1,31 @@
+{
+  "id": 119,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 498,
+  "brightness": 60,
+  "actions": [
+    "Burst"
+  ],
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    53184
+  ],
+  "modelIndices": [
+    2228,
+    2226,
+    2227
+  ],
+  "modelTypes": [
+    10,
+    1,
+    2
+  ],
+  "name": "Party Balloon",
+  "description": "A party balloon."
+}

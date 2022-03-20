@@ -1,0 +1,13 @@
+{
+  "id": 422,
+  "description": "Birds love this stuff!",
+  "value": 1,
+  "modelIndex": 2678,
+  "iconX": -2,
+  "iconY": -4,
+  "iconZoom": 550,
+  "iconYaw": 1844,
+  "iconCameraPitch": 116,
+  "members": true,
+  "name": "Bird feed"
+}

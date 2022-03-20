@@ -1,0 +1,21 @@
+{
+  "id": 194,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "interactable": true,
+  "actions": [
+    "Enter"
+  ],
+  "interactionSideFlags": 7,
+  "modelIndices": [
+    732
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hollowed rock",
+  "description": "The entrance to the cave."
+}

@@ -1,0 +1,14 @@
+{
+  "id": 781,
+  "renderPadding": true,
+  "delay": 1,
+  "primaryFrames": [
+    531
+  ],
+  "secondaryFrames": [
+    -1
+  ],
+  "frameDelay": [
+    0
+  ]
+}

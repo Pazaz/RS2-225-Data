@@ -1,0 +1,19 @@
+{
+  "id": 290,
+  "description": "This contains some vital research results.",
+  "value": 2,
+  "modelIndex": 2426,
+  "iconY": -14,
+  "iconZoom": 1180,
+  "iconYaw": 172,
+  "iconCameraPitch": 160,
+  "oldColors": [
+    2999,
+    22410
+  ],
+  "newColors": [
+    43325,
+    54558
+  ],
+  "name": "Research package"
+}

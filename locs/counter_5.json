@@ -1,0 +1,20 @@
+{
+  "id": 2793,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Steal-From"
+  ],
+  "modelIndices": [
+    711
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Counter",
+  "description": "An ogre is selling cakes here."
+}

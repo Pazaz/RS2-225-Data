@@ -1,0 +1,19 @@
+{
+  "id": 2533,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    1411
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mud pile",
+  "description": "A pile of what is hopefully mud."
+}

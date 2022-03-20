@@ -1,0 +1,13 @@
+{
+  "id": 1486,
+  "description": "A broken piece of railing.",
+  "value": 10,
+  "modelIndex": 2826,
+  "iconX": 1,
+  "iconY": -37,
+  "iconZoom": 1890,
+  "iconYaw": 1960,
+  "iconCameraPitch": 240,
+  "members": true,
+  "name": "Piece of railing"
+}

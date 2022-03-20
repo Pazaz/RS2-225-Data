@@ -1,0 +1,36 @@
+{
+  "id": 984,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "A wretched slave of Iban.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    4626,
+    4550
+  ],
+  "newColors": [
+    8741,
+    5347,
+    5347
+  ],
+  "name": "Slave",
+  "modelIndices": [
+    208,
+    310,
+    275,
+    249,
+    173,
+    181,
+    176
+  ],
+  "headModelIndices": [
+    48
+  ]
+}

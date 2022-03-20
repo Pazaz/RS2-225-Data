@@ -1,0 +1,13 @@
+{
+  "id": 594,
+  "value": 4,
+  "description": "A lit home-made torch.",
+  "modelIndex": 2671,
+  "iconY": -6,
+  "iconZoom": 1310,
+  "iconYaw": 1660,
+  "iconCameraPitch": 124,
+  "members": true,
+  "name": "Torch",
+  "notedId": 595
+}

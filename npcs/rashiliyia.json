@@ -1,0 +1,36 @@
+{
+  "id": 506,
+  "level": 0,
+  "description": "The animated spirit of Rashiliyia the Zombie Queen.",
+  "walkSeq": 119,
+  "standSeq": 125,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    908,
+    61,
+    4550,
+    6798,
+    4661,
+    1944
+  ],
+  "newColors": [
+    22040,
+    8741,
+    16701,
+    11705,
+    21809,
+    22040
+  ],
+  "name": "Rashiliyia",
+  "modelIndices": [
+    2960,
+    2963,
+    2965
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

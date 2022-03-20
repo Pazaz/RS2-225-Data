@@ -1,0 +1,16 @@
+{
+  "id": 583,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    918
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Vase",
+  "description": "An expertly crafted model of a vase."
+}

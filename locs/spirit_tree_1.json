@@ -1,0 +1,22 @@
+{
+  "id": 1293,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "animationIndex": 332,
+  "disposeAlpha": true,
+  "actions": [
+    "Talk-to"
+  ],
+  "mapscene": 0,
+  "modelIndices": [
+    2851
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spirit tree",
+  "description": "An ancient sentient tree."
+}

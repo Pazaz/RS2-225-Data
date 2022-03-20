@@ -1,0 +1,21 @@
+{
+  "id": 2451,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    "Push"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    2220
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "There's something behind these roots."
+}

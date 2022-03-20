@@ -1,0 +1,22 @@
+{
+  "id": 3361,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    null,
+    "Take"
+  ],
+  "modelIndices": [
+    3176
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Orb of Light",
+  "description": "A magical sphere that glimmers within."
+}

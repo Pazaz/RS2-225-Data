@@ -1,0 +1,36 @@
+{
+  "id": 803,
+  "labelGroups": [
+    15
+  ],
+  "shieldOverride": 0,
+  "weaponOverride": 0,
+  "priority": 6,
+  "primaryFrames": [
+    1776,
+    2074,
+    2374,
+    653,
+    942,
+    1226,
+    1509
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

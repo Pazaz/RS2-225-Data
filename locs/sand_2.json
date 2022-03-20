@@ -1,0 +1,29 @@
+{
+  "id": 2978,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "scaleX": 64,
+  "scaleY": 64,
+  "scaleZ": 64,
+  "adjustToTerrain": true,
+  "actions": [
+    "Look"
+  ],
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    8640
+  ],
+  "modelIndices": [
+    1465
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sand",
+  "description": "A medium pile of sand"
+}

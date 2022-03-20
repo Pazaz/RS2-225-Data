@@ -1,0 +1,23 @@
+{
+  "id": 990,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    5285
+  ],
+  "modelIndices": [
+    1022
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "poshwallgatetop_brown"
+}

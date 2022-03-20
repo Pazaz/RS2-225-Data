@@ -1,0 +1,17 @@
+{
+  "id": 1301,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "modelIndices": [
+    1701
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "Home to many unusual creatures."
+}

@@ -1,0 +1,14 @@
+{
+  "id": 46,
+  "description": "I can make bolts with these.",
+  "modelIndex": 2780,
+  "iconX": -1,
+  "iconY": 7,
+  "iconZoom": 490,
+  "iconYaw": 608,
+  "iconCameraPitch": 492,
+  "members": true,
+  "stackable": true,
+  "value": 56,
+  "name": "Pearl bolttips"
+}

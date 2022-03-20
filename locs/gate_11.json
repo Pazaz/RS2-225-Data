@@ -1,0 +1,23 @@
+{
+  "id": 90,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "rotateCounterClockwise": true,
+  "interactable": true,
+  "modelIndices": [
+    1509,
+    1511
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Gate",
+  "description": "A wrought iron gate."
+}

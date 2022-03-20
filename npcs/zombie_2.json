@@ -1,0 +1,15 @@
+{
+  "id": 74,
+  "description": "Dead man walking.",
+  "walkSeq": 298,
+  "standSeq": 301,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 18,
+  "name": "Zombie",
+  "modelIndices": [
+    2931
+  ]
+}

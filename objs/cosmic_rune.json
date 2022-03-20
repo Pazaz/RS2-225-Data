@@ -1,0 +1,11 @@
+{
+  "id": 564,
+  "description": "Used for enchant spells.",
+  "stackable": true,
+  "value": 15,
+  "modelIndex": 2735,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Cosmic rune"
+}

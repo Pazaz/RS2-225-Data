@@ -1,0 +1,36 @@
+{
+  "id": 456,
+  "level": 0,
+  "description": "Looks a bit holy.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508
+  ],
+  "name": "Father Aereck",
+  "modelIndices": [
+    223,
+    325,
+    248,
+    292,
+    170,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    59,
+    80
+  ]
+}

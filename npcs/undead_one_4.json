@@ -1,0 +1,30 @@
+{
+  "id": 505,
+  "description": "The animated dead, one of Rashiliyias' minions.",
+  "walkSeq": 298,
+  "standSeq": 301,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 62,
+  "oldColors": [
+    34341,
+    17938,
+    916,
+    10349,
+    262
+  ],
+  "newColors": [
+    17583,
+    10002,
+    14814,
+    13000,
+    8082
+  ],
+  "name": "Undead One",
+  "modelIndices": [
+    2931,
+    2932
+  ]
+}

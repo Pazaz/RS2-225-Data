@@ -1,0 +1,16 @@
+{
+  "id": 2118,
+  "description": "Exotic fruit.",
+  "value": 1,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2653,
+  "iconX": 1,
+  "iconZoom": 650,
+  "iconYaw": 416,
+  "iconCameraPitch": 248,
+  "name": "Pineapple ring",
+  "notedId": 2119
+}

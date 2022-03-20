@@ -1,0 +1,38 @@
+{
+  "id": 145,
+  "disposeAlpha": true,
+  "walkSeq": 841,
+  "standSeq": 842,
+  "description": "The Ice Queen's Royal Guard.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 53,
+  "oldColors": [
+    61,
+    41,
+    4550,
+    57,
+    12,
+    24
+  ],
+  "newColors": [
+    43484,
+    39386,
+    41193,
+    43484,
+    43484,
+    42209
+  ],
+  "name": "Ice warrior",
+  "modelIndices": [
+    213,
+    306,
+    164,
+    176,
+    268,
+    184,
+    511
+  ]
+}

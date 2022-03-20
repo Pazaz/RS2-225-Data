@@ -1,0 +1,20 @@
+{
+  "id": 1540,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Close"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    609
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door",
+  "description": "Solid bars of iron."
+}

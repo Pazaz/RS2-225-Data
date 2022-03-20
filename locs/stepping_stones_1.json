@@ -1,0 +1,20 @@
+{
+  "id": 2333,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Balance"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    1046
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Stepping stones",
+  "description": "A rocky outcrop from the running water."
+}

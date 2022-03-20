@@ -1,0 +1,16 @@
+{
+  "id": 1181,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1666
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Nettles",
+  "description": "I better not get stung."
+}

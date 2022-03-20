@@ -1,0 +1,12 @@
+{
+  "id": 384,
+  "parent": 381,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 201,
+  "width": 45,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "leftarrow,0",
+  "option": "Add friend"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 680,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1948
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Piano",
+  "description": "I was always forced to play this as a child."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 767,
+  "description": "Former property of the Phoenix Gang.",
+  "value": 4,
+  "modelIndex": 2523,
+  "iconX": -1,
+  "iconZoom": 1030,
+  "iconYaw": 1132,
+  "iconCameraPitch": 332,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 508,
+  "maleOffsetY": 0,
+  "femaleModel0": 508,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    6806
+  ],
+  "name": "Phoenix crossbow",
+  "notedId": 768
+}

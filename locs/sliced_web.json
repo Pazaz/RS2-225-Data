@@ -1,0 +1,22 @@
+{
+  "id": 1811,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    12
+  ],
+  "newColors": [
+    26
+  ],
+  "modelIndices": [
+    800
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sliced web",
+  "description": "I can walk through this tarrered web."
+}

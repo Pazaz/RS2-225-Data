@@ -1,0 +1,13 @@
+{
+  "id": 36,
+  "description": "A candle.",
+  "members": true,
+  "value": 3,
+  "modelIndex": 2467,
+  "iconY": -2,
+  "iconZoom": 570,
+  "iconYaw": 1864,
+  "iconCameraPitch": 168,
+  "name": "Candle",
+  "notedId": 37
+}

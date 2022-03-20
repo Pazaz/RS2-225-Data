@@ -1,0 +1,16 @@
+{
+  "id": 1011,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1177
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Shelves",
+  "description": "Full of lovely drinks!"
+}

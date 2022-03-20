@@ -1,0 +1,44 @@
+{
+  "id": 540,
+  "level": 0,
+  "description": "Makes his money selling rocks.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    25238,
+    6798,
+    8741
+  ],
+  "newColors": [
+    4647,
+    29506,
+    10508,
+    22049
+  ],
+  "name": "Gem trader",
+  "modelIndices": [
+    215,
+    254,
+    250,
+    170,
+    176,
+    181,
+    324,
+    292,
+    188
+  ],
+  "headModelIndices": [
+    53,
+    82,
+    30
+  ]
+}

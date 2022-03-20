@@ -1,0 +1,38 @@
+{
+  "id": 695,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He smells of fish...",
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    5805,
+    7855
+  ],
+  "name": "Bailey",
+  "modelIndices": [
+    230,
+    250,
+    292,
+    162,
+    176,
+    265,
+    181,
+    241,
+    323
+  ],
+  "headModelIndices": [
+    63,
+    82,
+    73
+  ]
+}

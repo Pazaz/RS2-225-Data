@@ -1,0 +1,44 @@
+{
+  "id": 740,
+  "level": 0,
+  "description": "A wise old witch doctor.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    43072,
+    25238,
+    908,
+    4550,
+    6817
+  ],
+  "newColors": [
+    82,
+    4645,
+    6040,
+    6040,
+    4645,
+    82
+  ],
+  "name": "Trufitus",
+  "modelIndices": [
+    210,
+    250,
+    309,
+    173,
+    176,
+    265,
+    181,
+    553
+  ],
+  "headModelIndices": [
+    49,
+    82
+  ]
+}

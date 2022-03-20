@@ -1,0 +1,16 @@
+{
+  "id": 296,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "modelIndices": [
+    1520
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Plough",
+  "description": "It's like a land rudder."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 3539,
+  "parent": 3443,
+  "type": 7,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 2,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "color": 16777215,
+  "inventoryMarginX": 0,
+  "inventoryMarginY": 2,
+  "inventoryHasOptions": false,
+  "inventoryOptions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

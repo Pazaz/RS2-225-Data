@@ -1,0 +1,18 @@
+{
+  "id": 1865,
+  "description": "Mmmm, I need to add some other ingredients yet.",
+  "value": 10,
+  "modelIndex": 2455,
+  "iconZoom": 980,
+  "iconYaw": 108,
+  "iconCameraPitch": 248,
+  "members": true,
+  "oldColors": [
+    10440
+  ],
+  "newColors": [
+    7395
+  ],
+  "name": "Pitta bread",
+  "notedId": 1866
+}

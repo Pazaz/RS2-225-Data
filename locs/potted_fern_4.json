@@ -1,0 +1,16 @@
+{
+  "id": 1155,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1590
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted fern",
+  "description": "Better than weeding."
+}

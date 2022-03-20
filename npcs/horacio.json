@@ -1,0 +1,36 @@
+{
+  "id": 845,
+  "level": 0,
+  "description": "Could do with losing a few pounds.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072
+  ],
+  "newColors": [
+    4550
+  ],
+  "name": "Horacio",
+  "modelIndices": [
+    214,
+    185,
+    250,
+    299,
+    159,
+    176,
+    271,
+    276,
+    329,
+    495
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1072,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "oldColors": [
+    6028
+  ],
+  "newColors": [
+    11200
+  ],
+  "modelIndices": [
+    2111
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Sign",
+  "description": "The Dead Man's Chest - Brews to maroon any pirate."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1193,
+  "description": "A large metal shield.",
+  "modelIndex": 2339,
+  "iconX": -6,
+  "iconY": -14,
+  "iconZoom": 1560,
+  "iconYaw": 1104,
+  "iconCameraPitch": 344,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 850,
+  "maleModel0": 486,
+  "maleOffsetY": 0,
+  "femaleModel0": 486,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    7054
+  ],
+  "name": "Steel kiteshield",
+  "notedId": 1194
+}

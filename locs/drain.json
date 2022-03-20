@@ -1,0 +1,20 @@
+{
+  "id": 2843,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    2027
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Drain",
+  "description": "This drain leads from the sink to the sewers below."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1986,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Search"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    2153
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Root",
+  "description": "A large root."
+}

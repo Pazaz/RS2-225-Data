@@ -1,0 +1,44 @@
+{
+  "id": 367,
+  "level": 0,
+  "description": "Smells very chemically...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    5652,
+    8741,
+    25238,
+    10128
+  ],
+  "newColors": [
+    43072,
+    43072,
+    41,
+    20,
+    906
+  ],
+  "name": "Chemist",
+  "modelIndices": [
+    230,
+    247,
+    245,
+    292,
+    327,
+    163,
+    179,
+    274,
+    181
+  ],
+  "headModelIndices": [
+    63,
+    79,
+    78
+  ]
+}

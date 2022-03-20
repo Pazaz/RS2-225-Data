@@ -1,0 +1,20 @@
+{
+  "id": 2409,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 1,
+  "actions": [
+    "Chop"
+  ],
+  "modelIndices": [
+    1637
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "A commonly found tree."
+}

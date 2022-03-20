@@ -1,0 +1,13 @@
+{
+  "id": 716,
+  "description": "It makes a loud but interesting sound when swung in the air.",
+  "modelIndex": 2741,
+  "members": true,
+  "iconZoom": 1000,
+  "iconYaw": 1984,
+  "iconCameraPitch": 176,
+  "options": [
+    "Swing"
+  ],
+  "name": "Bull roarer"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2540,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Walk-down"
+  ],
+  "modelIndices": [
+    1287
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stairs",
+  "description": "A flight of stairs."
+}

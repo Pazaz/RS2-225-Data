@@ -1,0 +1,13 @@
+{
+  "id": 1858,
+  "description": "It says 'To Lord Handelmort, Handelmort Mansion'.",
+  "value": 10,
+  "modelIndex": 2375,
+  "members": true,
+  "iconX": -3,
+  "iconY": -33,
+  "iconZoom": 760,
+  "iconYaw": 1116,
+  "iconCameraPitch": 244,
+  "name": "Address label"
+}

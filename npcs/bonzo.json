@@ -1,0 +1,42 @@
+{
+  "id": 225,
+  "level": 0,
+  "description": "The Fishing Contest Judge.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    44750,
+    8741,
+    25238,
+    4550,
+    7469
+  ],
+  "newColors": [
+    8,
+    8,
+    8472,
+    7062,
+    8
+  ],
+  "name": "Bonzo",
+  "modelIndices": [
+    230,
+    246,
+    311,
+    167,
+    176,
+    274,
+    185,
+    198
+  ],
+  "headModelIndices": [
+    63,
+    40
+  ]
+}

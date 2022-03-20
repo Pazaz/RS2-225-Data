@@ -1,0 +1,33 @@
+{
+  "id": 691,
+  "description": "Defender of the west tower.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 81,
+  "oldColors": [
+    6798,
+    43072
+  ],
+  "newColors": [
+    9135,
+    22416
+  ],
+  "name": "Tower Archer",
+  "modelIndices": [
+    220,
+    253,
+    314,
+    169,
+    176,
+    258,
+    185,
+    563
+  ]
+}

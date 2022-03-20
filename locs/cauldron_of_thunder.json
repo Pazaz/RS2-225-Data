@@ -1,0 +1,25 @@
+{
+  "id": 2142,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 479,
+  "oldColors": [
+    37,
+    22435
+  ],
+  "newColors": [
+    11187,
+    43237
+  ],
+  "modelIndices": [
+    2241
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cauldron of Thunder",
+  "description": "An eerie glow permeates the cauldron."
+}

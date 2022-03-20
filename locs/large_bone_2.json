@@ -1,0 +1,22 @@
+{
+  "id": 703,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    10361
+  ],
+  "newColors": [
+    33
+  ],
+  "modelIndices": [
+    1821
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Large bone",
+  "description": "A dog's idea of heaven."
+}

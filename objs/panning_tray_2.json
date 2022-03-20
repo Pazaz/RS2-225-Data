@@ -1,0 +1,15 @@
+{
+  "id": 678,
+  "description": "This tray contains gold.",
+  "modelIndex": 2513,
+  "iconY": 17,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 172,
+  "members": true,
+  "options": [
+    null,
+    "Search"
+  ],
+  "name": "Panning tray"
+}

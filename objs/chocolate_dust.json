@@ -1,0 +1,19 @@
+{
+  "id": 1975,
+  "value": 2,
+  "members": true,
+  "modelIndex": 2742,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "description": "It's ground up chocolate.",
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    3738
+  ],
+  "name": "Chocolate dust",
+  "notedId": 1976
+}

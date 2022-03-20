@@ -1,0 +1,25 @@
+{
+  "id": 1861,
+  "description": "Freshly cooked ugthanki meat.",
+  "value": 5,
+  "modelIndex": 2760,
+  "iconX": 1,
+  "iconY": 3,
+  "iconZoom": 560,
+  "iconYaw": 176,
+  "iconCameraPitch": 308,
+  "members": true,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    947,
+    127
+  ],
+  "newColors": [
+    5027,
+    2613
+  ],
+  "name": "Ugthanki meat",
+  "notedId": 1862
+}

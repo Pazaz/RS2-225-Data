@@ -1,0 +1,16 @@
+{
+  "id": 373,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1206
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dresser",
+  "description": "The perfect accompaniment to a bedroom."
+}

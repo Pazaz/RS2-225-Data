@@ -1,0 +1,33 @@
+{
+  "id": 888,
+  "level": 0,
+  "description": "The newest member of the Carnillean family.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 189,
+  "standSeq": 195,
+  "oldColors": [
+    22424,
+    6038,
+    54397,
+    6550,
+    11162
+  ],
+  "newColors": [
+    947,
+    43955,
+    11200,
+    6057,
+    43955
+  ],
+  "name": "Philipe Carnillean",
+  "modelIndices": [
+    2894,
+    2909,
+    2918
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

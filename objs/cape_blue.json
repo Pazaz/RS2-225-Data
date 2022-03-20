@@ -1,0 +1,31 @@
+{
+  "id": 1021,
+  "value": 32,
+  "description": "A thick blue cape.",
+  "modelIndex": 2603,
+  "iconX": 3,
+  "iconY": 6,
+  "iconZoom": 2140,
+  "iconYaw": 948,
+  "iconCameraPitch": 400,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 323,
+  "maleOffsetY": 0,
+  "femaleModel0": 481,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    7700,
+    11200,
+    926
+  ],
+  "newColors": [
+    43420,
+    28,
+    43420
+  ],
+  "name": "Cape",
+  "notedId": 1022
+}

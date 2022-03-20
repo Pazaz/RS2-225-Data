@@ -1,0 +1,19 @@
+{
+  "id": 2916,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 2,
+  "actions": [
+    "Enter"
+  ],
+  "modelIndices": [
+    731
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave Entrance",
+  "description": "A dark cave entrance leading to the surface."
+}

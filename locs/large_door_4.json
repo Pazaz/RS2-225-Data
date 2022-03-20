@@ -1,0 +1,21 @@
+{
+  "id": 74,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Large door",
+  "description": "Securely fastened shut."
+}

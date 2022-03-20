@@ -1,0 +1,31 @@
+{
+  "id": 1698,
+  "value": 2025,
+  "description": "I wonder if I can get this enchanted.",
+  "modelIndex": 2796,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 290,
+  "maleOffsetY": 0,
+  "femaleModel0": 454,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    127,
+    5916,
+    4882
+  ],
+  "newColors": [
+    960,
+    127,
+    127
+  ],
+  "name": "Ruby amulet",
+  "notedId": 1699
+}

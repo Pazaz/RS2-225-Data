@@ -1,0 +1,16 @@
+{
+  "id": 51,
+  "size": 2,
+  "walkSeq": 21,
+  "standSeq": 27,
+  "description": "Young but still dangerous.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 43,
+  "name": "Baby dragon",
+  "modelIndices": [
+    2998
+  ]
+}

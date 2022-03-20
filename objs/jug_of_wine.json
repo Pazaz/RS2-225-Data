@@ -1,0 +1,22 @@
+{
+  "id": 1993,
+  "value": 1,
+  "description": "It's full of wine.",
+  "options": [
+    "Drink"
+  ],
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    701
+  ],
+  "name": "Jug of wine",
+  "notedId": 1994
+}

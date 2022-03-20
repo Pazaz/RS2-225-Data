@@ -1,0 +1,39 @@
+{
+  "id": 203,
+  "description": "Has a fearsome posture.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 34,
+  "oldColors": [
+    25238,
+    8741,
+    7700,
+    11200
+  ],
+  "newColors": [
+    10508,
+    10508,
+    1950,
+    2749
+  ],
+  "name": "Donny the lad",
+  "modelIndices": [
+    235,
+    246,
+    292,
+    151,
+    176,
+    254,
+    185,
+    243,
+    323,
+    490
+  ]
+}

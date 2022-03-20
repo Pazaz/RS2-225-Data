@@ -1,0 +1,24 @@
+{
+  "id": 271,
+  "description": "A large angry scorpion.",
+  "size": 2,
+  "walkSeq": 244,
+  "standSeq": 245,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 44,
+  "oldColors": [
+    3627,
+    3738
+  ],
+  "newColors": [
+    41,
+    24
+  ],
+  "name": "Khazard Scorpion",
+  "modelIndices": [
+    2967
+  ]
+}

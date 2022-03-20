@@ -1,0 +1,12 @@
+{
+  "id": 565,
+  "description": "Used for high level missile spells.",
+  "stackable": true,
+  "value": 50,
+  "modelIndex": 2665,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "members": true,
+  "name": "Blood rune"
+}

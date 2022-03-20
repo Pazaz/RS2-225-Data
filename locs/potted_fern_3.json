@@ -1,0 +1,16 @@
+{
+  "id": 1154,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1620
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted fern",
+  "description": "A nicely potted fern."
+}

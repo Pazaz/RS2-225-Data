@@ -1,0 +1,14 @@
+{
+  "id": 1829,
+  "description": "A nearly empty waterskin with one portion of water.",
+  "value": 18,
+  "modelIndex": 2699,
+  "members": true,
+  "iconX": -4,
+  "iconY": 1,
+  "iconZoom": 780,
+  "iconYaw": 156,
+  "iconCameraPitch": 52,
+  "name": "Waterskin(1)",
+  "notedId": 1830
+}

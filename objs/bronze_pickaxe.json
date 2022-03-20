@@ -1,0 +1,27 @@
+{
+  "id": 1265,
+  "value": 1,
+  "description": "Used for mining.",
+  "modelIndex": 2529,
+  "maleModel0": 509,
+  "maleOffsetY": 0,
+  "femaleModel0": 509,
+  "femaleOffsetY": 6,
+  "iconX": -2,
+  "iconY": -19,
+  "iconZoom": 1070,
+  "iconYaw": 1056,
+  "iconCameraPitch": 224,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Bronze pickaxe",
+  "notedId": 1266
+}

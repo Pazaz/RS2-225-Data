@@ -1,0 +1,44 @@
+{
+  "id": 199,
+  "description": "A mighty warrior!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 29,
+  "oldColors": [
+    25238,
+    926,
+    6798,
+    8741
+  ],
+  "newColors": [
+    5652,
+    61,
+    6854,
+    4913
+  ],
+  "name": "Gunthor the brave",
+  "modelIndices": [
+    219,
+    251,
+    299,
+    173,
+    176,
+    274,
+    242,
+    185,
+    550,
+    523
+  ],
+  "headModelIndices": [
+    57,
+    83,
+    75
+  ]
+}

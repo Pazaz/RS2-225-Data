@@ -1,0 +1,19 @@
+{
+  "id": 2408,
+  "description": "A daily journal.",
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "oldColors": [
+    5018
+  ],
+  "newColors": [
+    334
+  ],
+  "name": "Diary"
+}

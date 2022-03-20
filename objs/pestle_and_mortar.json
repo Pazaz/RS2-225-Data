@@ -1,0 +1,14 @@
+{
+  "id": 233,
+  "value": 4,
+  "members": true,
+  "modelIndex": 2682,
+  "iconX": -3,
+  "iconY": -8,
+  "iconZoom": 680,
+  "iconYaw": 316,
+  "iconCameraPitch": 180,
+  "description": "I can grind things for potions in this.",
+  "name": "Pestle and mortar",
+  "notedId": 234
+}

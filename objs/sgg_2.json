@@ -1,0 +1,22 @@
+{
+  "id": 2080,
+  "description": "A Short Green Guy... looks good.",
+  "value": 30,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2738,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    18384
+  ],
+  "name": "Sgg",
+  "notedId": 2081
+}

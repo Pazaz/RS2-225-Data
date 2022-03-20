@@ -1,0 +1,24 @@
+{
+  "id": 895,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 20,
+  "interactable": true,
+  "oldColors": [
+    14
+  ],
+  "newColors": [
+    39
+  ],
+  "modelIndices": [
+    2107
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Painting",
+  "description": "Pretty good painting."
+}

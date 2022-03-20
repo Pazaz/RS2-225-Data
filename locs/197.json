@@ -1,0 +1,23 @@
+{
+  "id": 197,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 481,
+  "brightness": 20,
+  "disposeAlpha": true,
+  "oldColors": [
+    33
+  ],
+  "newColors": [
+    6550
+  ],
+  "modelIndices": [
+    2255
+  ],
+  "modelTypes": [
+    4
+  ]
+}

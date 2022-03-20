@@ -1,0 +1,40 @@
+{
+  "id": 379,
+  "level": 0,
+  "description": "The owner of the banana plantation.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    6798,
+    25238,
+    4550
+  ],
+  "newColors": [
+    12,
+    6028,
+    12,
+    7070
+  ],
+  "name": "Luthas",
+  "modelIndices": [
+    215,
+    250,
+    292,
+    167,
+    179,
+    254,
+    185,
+    324
+  ],
+  "headModelIndices": [
+    53,
+    82
+  ]
+}

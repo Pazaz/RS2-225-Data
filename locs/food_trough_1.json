@@ -1,0 +1,17 @@
+{
+  "id": 40,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1540
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Food trough",
+  "description": "Animals have no table manners."
+}

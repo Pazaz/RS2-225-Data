@@ -1,0 +1,33 @@
+{
+  "id": 887,
+  "level": 0,
+  "description": "On special duty to protect the Carnilleans.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    811,
+    43939
+  ],
+  "name": "Guard",
+  "modelIndices": [
+    225,
+    301,
+    162,
+    179,
+    274,
+    185
+  ],
+  "headModelIndices": [
+    60
+  ]
+}

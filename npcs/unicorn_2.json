@@ -1,0 +1,12 @@
+{
+  "id": 987,
+  "size": 2,
+  "walkSeq": 288,
+  "standSeq": 291,
+  "description": "The animal is caged here.",
+  "level": 15,
+  "name": "Unicorn",
+  "modelIndices": [
+    2933
+  ]
+}

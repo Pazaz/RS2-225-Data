@@ -1,0 +1,16 @@
+{
+  "id": 581,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    915
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue",
+  "description": "An expertly chiselled statue."
+}

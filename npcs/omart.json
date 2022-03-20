@@ -1,0 +1,39 @@
+{
+  "id": 350,
+  "level": 0,
+  "description": "A nervous looking fellow.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    926,
+    8741,
+    7073,
+    11200
+  ],
+  "newColors": [
+    43270,
+    6936,
+    6032,
+    43270
+  ],
+  "name": "Omart",
+  "modelIndices": [
+    207,
+    185,
+    252,
+    311,
+    163,
+    179,
+    274
+  ],
+  "headModelIndices": [
+    47,
+    84
+  ]
+}

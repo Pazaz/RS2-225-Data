@@ -1,0 +1,21 @@
+{
+  "id": 2237,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1593
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Palm tree",
+  "description": "An exotic looking tree."
+}

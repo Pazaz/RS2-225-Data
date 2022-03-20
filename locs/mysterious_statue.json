@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "modelIndices": [
+    1729
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mysterious statue",
+  "description": "Its' eyes stare off into the distance..."
+}

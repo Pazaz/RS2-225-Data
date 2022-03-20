@@ -1,0 +1,20 @@
+{
+  "id": 1528,
+  "description": "This herb is Ardrigal.",
+  "value": 5,
+  "modelIndex": 2364,
+  "members": true,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    8090,
+    7083
+  ],
+  "name": "Ardrigal"
+}

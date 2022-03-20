@@ -1,0 +1,18 @@
+{
+  "id": 4375,
+  "parent": 962,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 82,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Newbie Melody",
+  "color": 65280,
+  "colorEnabled": 65280,
+  "hoverColor": 0,
+  "option": "Ok"
+}

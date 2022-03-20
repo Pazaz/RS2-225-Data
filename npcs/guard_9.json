@@ -1,0 +1,40 @@
+{
+  "id": 812,
+  "level": 0,
+  "description": "An officer of the Law.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    926,
+    25238
+  ],
+  "newColors": [
+    43072,
+    43968,
+    43072
+  ],
+  "name": "Guard",
+  "modelIndices": [
+    219,
+    248,
+    301,
+    163,
+    176,
+    274,
+    185,
+    519,
+    517,
+    323
+  ],
+  "headModelIndices": [
+    57,
+    80
+  ]
+}

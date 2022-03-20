@@ -1,0 +1,19 @@
+{
+  "id": 2356,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1482
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sacks",
+  "description": "Yep, they're sacks!"
+}

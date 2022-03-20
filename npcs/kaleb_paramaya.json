@@ -1,0 +1,39 @@
+{
+  "id": 512,
+  "level": 0,
+  "description": "This is Kaleb Paramaya - a warm and friendly inn owner.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    43072,
+    25238
+  ],
+  "newColors": [
+    4785,
+    4785,
+    4785,
+    7070
+  ],
+  "name": "Kaleb Paramaya",
+  "modelIndices": [
+    217,
+    252,
+    305,
+    173,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    55,
+    84
+  ]
+}

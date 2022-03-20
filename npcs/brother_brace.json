@@ -1,0 +1,38 @@
+{
+  "id": 954,
+  "level": 0,
+  "description": "A holy man.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    4769,
+    4769,
+    9135
+  ],
+  "name": "Brother Brace",
+  "modelIndices": [
+    223,
+    181,
+    246,
+    292,
+    170,
+    176,
+    260,
+    280,
+    284
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

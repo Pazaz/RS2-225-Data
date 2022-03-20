@@ -1,0 +1,20 @@
+{
+  "id": 1015,
+  "description": "A large boisterous bird, a delicacy for ogres.",
+  "walkSeq": 1007,
+  "standSeq": 1008,
+  "scaleX": 180,
+  "scaleY": 180,
+  "options": [
+    null,
+    null,
+    null,
+    null,
+    "Attack"
+  ],
+  "level": 6,
+  "name": "Chompy bird",
+  "modelIndices": [
+    3445
+  ]
+}

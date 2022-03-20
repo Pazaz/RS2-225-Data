@@ -1,0 +1,46 @@
+{
+  "id": 606,
+  "level": 0,
+  "description": "Indentured servant of a Knight.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    9756,
+    9137,
+    10297,
+    4626,
+    10128
+  ],
+  "newColors": [
+    86,
+    99,
+    99,
+    86,
+    86,
+    86
+  ],
+  "name": "Squire",
+  "modelIndices": [
+    217,
+    253,
+    297,
+    254,
+    163,
+    181,
+    179,
+    191,
+    534
+  ],
+  "headModelIndices": [
+    55,
+    85,
+    34
+  ]
+}

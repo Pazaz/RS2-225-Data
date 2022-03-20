@@ -1,0 +1,16 @@
+{
+  "id": 587,
+  "description": "A strange glowing green orb.",
+  "members": true,
+  "modelIndex": 2336,
+  "iconZoom": 1260,
+  "iconCameraPitch": 48,
+  "opcode9": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    19410
+  ],
+  "name": "Orb of protection"
+}

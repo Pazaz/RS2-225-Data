@@ -1,0 +1,19 @@
+{
+  "id": 2640,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Pray-at"
+  ],
+  "modelIndices": [
+    1152
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Altar",
+  "description": "A shrine for the faithful to worship at."
+}

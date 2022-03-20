@@ -1,0 +1,22 @@
+{
+  "id": 1316,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 0,
+  "modelIndices": [
+    1688
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Evergreen",
+  "description": "A hardy evergreen tree."
+}

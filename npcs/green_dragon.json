@@ -1,0 +1,23 @@
+{
+  "id": 941,
+  "size": 4,
+  "walkSeq": 79,
+  "standSeq": 90,
+  "description": "Must be related to Elvarg.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 83,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22051
+  ],
+  "name": "Green dragon",
+  "modelIndices": [
+    2853,
+    2854
+  ]
+}

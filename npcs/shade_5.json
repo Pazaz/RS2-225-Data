@@ -1,0 +1,34 @@
+{
+  "id": 429,
+  "showOnMinimap": false,
+  "description": "The angry dead!",
+  "disposeAlpha": true,
+  "standSeq": 15,
+  "walkSeq": 13,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 120,
+  "oldColors": [
+    4550,
+    8741,
+    41,
+    61,
+    25238
+  ],
+  "newColors": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "name": "Shade",
+  "modelIndices": [
+    226,
+    306,
+    174,
+    265
+  ]
+}

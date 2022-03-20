@@ -1,0 +1,16 @@
+{
+  "id": 1973,
+  "options": [
+    "Eat"
+  ],
+  "value": 10,
+  "modelIndex": 2410,
+  "iconX": 1,
+  "iconY": 41,
+  "iconZoom": 950,
+  "iconYaw": 208,
+  "iconCameraPitch": 276,
+  "description": "Mmmmmmm chocolate.",
+  "name": "Chocolate bar",
+  "notedId": 1974
+}

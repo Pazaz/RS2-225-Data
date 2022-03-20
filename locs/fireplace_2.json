@@ -1,0 +1,18 @@
+{
+  "id": 2725,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "animationIndex": 478,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2251
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fireplace",
+  "description": "A grand old fireplace."
+}

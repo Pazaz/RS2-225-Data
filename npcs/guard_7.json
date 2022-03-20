@@ -1,0 +1,40 @@
+{
+  "id": 368,
+  "level": 0,
+  "description": "He tries to keep order around here.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    61,
+    926
+  ],
+  "newColors": [
+    10508,
+    6930,
+    5652,
+    5652
+  ],
+  "name": "Guard",
+  "modelIndices": [
+    233,
+    248,
+    294,
+    151,
+    176,
+    254,
+    185,
+    555
+  ],
+  "headModelIndices": [
+    66,
+    80
+  ]
+}

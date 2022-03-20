@@ -1,0 +1,19 @@
+{
+  "id": 918,
+  "stackable": true,
+  "modelIndex": 2421,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    43297,
+    43297
+  ],
+  "name": "Mithril arrow 4"
+}

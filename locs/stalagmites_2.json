@@ -1,0 +1,23 @@
+{
+  "id": 530,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    8
+  ],
+  "modelIndices": [
+    694
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalagmites",
+  "description": "Formed over many years of dripping limestone."
+}

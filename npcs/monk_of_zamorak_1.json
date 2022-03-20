@@ -1,0 +1,33 @@
+{
+  "id": 188,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "description": "An evil human cleric.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 22,
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    805,
+    805,
+    127
+  ],
+  "name": "Monk of Zamorak",
+  "modelIndices": [
+    230,
+    246,
+    292,
+    170,
+    176,
+    256
+  ]
+}

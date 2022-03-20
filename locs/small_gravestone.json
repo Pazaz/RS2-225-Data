@@ -1,0 +1,16 @@
+{
+  "id": 400,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1367
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Small gravestone",
+  "description": "A small simple gravestone."
+}

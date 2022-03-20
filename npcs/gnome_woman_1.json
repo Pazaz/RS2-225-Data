@@ -1,0 +1,29 @@
+{
+  "id": 168,
+  "description": "A female gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 1,
+  "oldColors": [
+    22422,
+    22418
+  ],
+  "newColors": [
+    51396,
+    51396
+  ],
+  "name": "Gnome woman",
+  "modelIndices": [
+    2911,
+    2907,
+    2917
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

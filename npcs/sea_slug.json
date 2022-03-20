@@ -1,0 +1,14 @@
+{
+  "id": 1006,
+  "level": 0,
+  "description": "A rather nasty looking crustacean.",
+  "walkSeq": 933,
+  "standSeq": 932,
+  "options": [
+    "Take"
+  ],
+  "name": "Sea slug",
+  "modelIndices": [
+    560
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1977,
+  "options": [
+    "Drink"
+  ],
+  "value": 2,
+  "members": true,
+  "modelIndex": 2504,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "description": "Milk with chocolate in it.",
+  "oldColors": [
+    39834
+  ],
+  "newColors": [
+    3619
+  ],
+  "name": "Chocolaty milk"
+}

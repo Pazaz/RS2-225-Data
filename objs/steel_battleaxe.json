@@ -1,0 +1,21 @@
+{
+  "id": 1365,
+  "description": "A vicious looking axe.",
+  "value": 650,
+  "modelIndex": 2778,
+  "iconX": -7,
+  "iconY": -2,
+  "iconZoom": 1180,
+  "iconYaw": 1128,
+  "iconCameraPitch": 420,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 550,
+  "maleOffsetY": 0,
+  "femaleModel0": 550,
+  "femaleOffsetY": 6,
+  "name": "Steel battleaxe",
+  "notedId": 1366
+}

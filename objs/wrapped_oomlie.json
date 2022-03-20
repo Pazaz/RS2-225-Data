@@ -1,0 +1,14 @@
+{
+  "id": 2341,
+  "description": "Oomlie meat in a palm leaf pouch.  It just needs to be cooked.",
+  "modelIndex": 2687,
+  "iconX": 2,
+  "iconY": -103,
+  "iconZoom": 1110,
+  "iconYaw": 176,
+  "iconCameraPitch": 236,
+  "value": 16,
+  "members": true,
+  "name": "Wrapped oomlie",
+  "notedId": 2342
+}

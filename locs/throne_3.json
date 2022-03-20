@@ -1,0 +1,24 @@
+{
+  "id": 1099,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    926,
+    9098
+  ],
+  "newColors": [
+    6080,
+    6080
+  ],
+  "modelIndices": [
+    1234
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Throne",
+  "description": "A kingly seat for a royal behind."
+}

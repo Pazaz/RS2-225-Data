@@ -1,0 +1,18 @@
+{
+  "id": 5973,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 603,
+  "width": 125,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "3: Password scamming",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

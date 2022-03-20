@@ -1,0 +1,12 @@
+{
+  "id": 3664,
+  "parent": 3559,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 310,
+  "width": 45,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "leftarrow,0",
+  "option": "Change legs"
+}

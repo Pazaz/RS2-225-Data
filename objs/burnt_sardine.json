@@ -1,0 +1,21 @@
+{
+  "id": 369,
+  "description": "Oops!",
+  "modelIndex": 2357,
+  "iconX": -1,
+  "iconY": 13,
+  "iconZoom": 820,
+  "iconYaw": 1756,
+  "iconRoll": 1964,
+  "iconCameraPitch": 320,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    28,
+    41
+  ],
+  "name": "Burnt fish",
+  "notedId": 370
+}

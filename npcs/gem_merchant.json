@@ -1,0 +1,46 @@
+{
+  "id": 570,
+  "level": 0,
+  "description": "Seems very well off.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    10128,
+    4550
+  ],
+  "newColors": [
+    6038,
+    7395,
+    7395,
+    5551
+  ],
+  "name": "Gem merchant",
+  "modelIndices": [
+    230,
+    292,
+    251,
+    151,
+    179,
+    254,
+    185,
+    283,
+    238,
+    186,
+    320
+  ],
+  "headModelIndices": [
+    63,
+    70,
+    28
+  ]
+}

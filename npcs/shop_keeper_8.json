@@ -1,0 +1,43 @@
+{
+  "id": 551,
+  "level": 0,
+  "description": "Ironically, makes a living from swords.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    54397,
+    43072
+  ],
+  "newColors": [
+    5652,
+    5652,
+    6854,
+    4769,
+    4550
+  ],
+  "name": "Shop keeper",
+  "modelIndices": [
+    215,
+    254,
+    248,
+    305,
+    159,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    80
+  ]
+}

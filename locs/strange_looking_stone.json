@@ -1,0 +1,21 @@
+{
+  "id": 2221,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "modelIndices": [
+    1799
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Strange looking stone",
+  "description": "A stone with some carvings on it."
+}

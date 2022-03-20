@@ -1,0 +1,34 @@
+{
+  "id": 172,
+  "description": "A practicer of dark arts.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 20,
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    10508,
+    10508,
+    10508
+  ],
+  "name": "Dark wizard",
+  "modelIndices": [
+    208,
+    181,
+    251,
+    292,
+    170,
+    176,
+    265
+  ]
+}

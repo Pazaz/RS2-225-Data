@@ -1,0 +1,22 @@
+{
+  "id": 3037,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 1,
+  "modelIndices": [
+    1571
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Oak",
+  "description": "A beautiful old oak."
+}

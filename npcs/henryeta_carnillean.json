@@ -1,0 +1,42 @@
+{
+  "id": 889,
+  "level": 0,
+  "description": "Ceril Carnilleans' wife.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    8741,
+    25238,
+    8741,
+    8078,
+    11183,
+    37
+  ],
+  "newColors": [
+    3990,
+    2855,
+    3990,
+    914,
+    78,
+    78
+  ],
+  "name": "Henryeta Carnillean",
+  "modelIndices": [
+    378,
+    361,
+    470,
+    343,
+    353,
+    421,
+    482,
+    447,
+    412
+  ],
+  "headModelIndices": [
+    103,
+    128
+  ]
+}

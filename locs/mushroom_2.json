@@ -1,0 +1,24 @@
+{
+  "id": 1164,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    8148,
+    7283
+  ],
+  "newColors": [
+    8732,
+    10541
+  ],
+  "modelIndices": [
+    1686
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mushroom",
+  "description": "Not good for eating."
+}

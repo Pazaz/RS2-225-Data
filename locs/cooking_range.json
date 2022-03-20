@@ -1,0 +1,17 @@
+{
+  "id": 114,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1219
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cooking range",
+  "description": "An appliance for cooking with."
+}

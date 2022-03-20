@@ -1,0 +1,16 @@
+{
+  "id": 1194,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1656
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tulips",
+  "description": "Can this talk?"
+}

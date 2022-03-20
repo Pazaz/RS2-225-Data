@@ -1,0 +1,21 @@
+{
+  "id": 1526,
+  "description": "This herb is Snake Weed.",
+  "value": 5,
+  "modelIndex": 2440,
+  "members": true,
+  "iconX": -1,
+  "iconY": 2,
+  "iconZoom": 1170,
+  "iconYaw": 48,
+  "iconCameraPitch": 484,
+  "oldColors": [
+    26535,
+    27548
+  ],
+  "newColors": [
+    14141,
+    21293
+  ],
+  "name": "Snake weed"
+}

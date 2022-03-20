@@ -1,0 +1,15 @@
+{
+  "id": 2108,
+  "description": "A fresh orange.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2640,
+  "iconZoom": 910,
+  "iconYaw": 120,
+  "iconCameraPitch": 308,
+  "name": "Orange",
+  "notedId": 2109
+}

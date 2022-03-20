@@ -1,0 +1,18 @@
+{
+  "id": 962,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "interactable": true,
+  "modelIndices": [
+    2040
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Noticeboard",
+  "description": "Some helpful people have placed notes on here, how nice."
+}

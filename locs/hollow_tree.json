@@ -1,0 +1,17 @@
+{
+  "id": 1322,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 2,
+  "modelIndices": [
+    1583
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hollow tree",
+  "description": "The trunk of this tree is hollow."
+}

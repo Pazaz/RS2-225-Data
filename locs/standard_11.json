@@ -1,0 +1,18 @@
+{
+  "id": 864,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 10,
+  "modelIndices": [
+    1471
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Standard",
+  "description": "A standard of Kandarin."
+}

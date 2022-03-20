@@ -1,0 +1,22 @@
+{
+  "id": 565,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    8103
+  ],
+  "modelIndices": [
+    1527
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue of a king",
+  "description": "A sculpture of a monarch."
+}

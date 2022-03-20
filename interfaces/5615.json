@@ -1,0 +1,26 @@
+{
+  "id": 5615,
+  "parent": 5608,
+  "type": 5,
+  "buttonType": 4,
+  "contentType": 0,
+  "width": 34,
+  "height": 34,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    1
+  ],
+  "script": [
+    [
+      5,
+      89,
+      0
+    ]
+  ],
+  "image": "",
+  "activeImage": "prayerglow,0",
+  "option": "Select"
+}

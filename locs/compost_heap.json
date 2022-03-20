@@ -1,0 +1,19 @@
+{
+  "id": 152,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1428
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Compost heap",
+  "description": "Smelly."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1011,
+  "value": 2,
+  "description": "Leg covering favoured by women and wizards.",
+  "modelIndex": 2521,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    38814
+  ],
+  "name": "Blue skirt",
+  "notedId": 1012
+}

@@ -1,0 +1,16 @@
+{
+  "id": 609,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    2147
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Workbench",
+  "description": "A handy workbench for a handy person."
+}

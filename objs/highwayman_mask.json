@@ -1,0 +1,23 @@
+{
+  "id": 2631,
+  "description": "Your money or your life!",
+  "value": 40,
+  "members": true,
+  "modelIndex": 2500,
+  "iconX": 3,
+  "iconZoom": 290,
+  "iconYaw": 224,
+  "iconCameraPitch": 488,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 243,
+  "maleOffsetY": 0,
+  "femaleModel0": 416,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 76,
+  "femaleHeadModelA": 134,
+  "name": "Highwayman mask",
+  "notedId": 2632
+}

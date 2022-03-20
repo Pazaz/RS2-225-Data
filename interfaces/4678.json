@@ -1,0 +1,17 @@
+{
+  "id": 4678,
+  "parent": 4667,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 464,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 3,
+  "shadow": false,
+  "text": "Select an Option",
+  "color": 8388608,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

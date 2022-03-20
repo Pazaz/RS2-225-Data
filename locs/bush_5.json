@@ -1,0 +1,17 @@
+{
+  "id": 1122,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 6,
+  "modelIndices": [
+    1640
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "All the leaves have fallen off."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 2405,
+  "description": "Decorative armour; an heirloom of the Carnillean family.",
+  "value": 65,
+  "modelIndex": 2605,
+  "members": true,
+  "iconX": 1,
+  "iconY": 12,
+  "iconZoom": 1320,
+  "iconRoll": 52,
+  "iconCameraPitch": 464,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 306,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "femaleModel0": 468,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "oldColors": [
+    61,
+    41
+  ],
+  "newColors": [
+    937,
+    43945
+  ],
+  "name": "Carnillean armour"
+}

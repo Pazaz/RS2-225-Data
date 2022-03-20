@@ -1,0 +1,16 @@
+{
+  "id": 404,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1368
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gravestone",
+  "description": "The inscription is worn away and unreadable."
+}

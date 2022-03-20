@@ -1,0 +1,38 @@
+{
+  "id": 711,
+  "level": 0,
+  "description": "The city warder of West Ardougne.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    5580,
+    6742,
+    4550
+  ],
+  "name": "Bravek",
+  "modelIndices": [
+    206,
+    299,
+    159,
+    274,
+    185,
+    323,
+    252,
+    176
+  ],
+  "headModelIndices": [
+    46,
+    84
+  ]
+}

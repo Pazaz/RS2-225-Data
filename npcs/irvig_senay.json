@@ -1,0 +1,31 @@
+{
+  "id": 937,
+  "description": "The spirit of a long dead warrior.",
+  "walkSeq": 264,
+  "standSeq": 267,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 100,
+  "oldColors": [
+    61,
+    7054,
+    9152
+  ],
+  "newColors": [
+    10572,
+    9655,
+    4
+  ],
+  "name": "Irvig Senay",
+  "modelIndices": [
+    2944,
+    2947
+  ],
+  "headModelIndices": [
+    54,
+    38
+  ]
+}

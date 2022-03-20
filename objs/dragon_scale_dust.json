@@ -1,0 +1,19 @@
+{
+  "id": 241,
+  "modelIndex": 2742,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "description": "Finely ground scale of Dragon.",
+  "value": 52,
+  "members": true,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    40487
+  ],
+  "name": "Dragon scale dust",
+  "notedId": 242
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2811,
+  "description": "Perhaps someone at the observatory can teach me to navigate?",
+  "value": 1,
+  "members": true,
+  "modelIndex": 3374,
+  "iconX": 1,
+  "iconZoom": 1010,
+  "iconYaw": 672,
+  "iconCameraPitch": 360,
+  "options": [
+    "Read"
+  ],
+  "name": "Clue scroll"
+}

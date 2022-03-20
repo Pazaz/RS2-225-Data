@@ -1,0 +1,20 @@
+{
+  "id": 2698,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "actions": [
+    "Walk through"
+  ],
+  "modelIndices": [
+    832
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Mine cave"
+}

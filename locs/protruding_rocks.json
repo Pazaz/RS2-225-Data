@@ -1,0 +1,19 @@
+{
+  "id": 3365,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    2056
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Protruding rocks",
+  "description": "Looks like I can climb these."
+}

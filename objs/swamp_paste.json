@@ -1,0 +1,14 @@
+{
+  "id": 1941,
+  "description": "A tar like substance mixed with flour and warmed.",
+  "value": 30,
+  "modelIndex": 2386,
+  "iconX": 1,
+  "iconY": -22,
+  "iconZoom": 710,
+  "iconYaw": 148,
+  "iconCameraPitch": 224,
+  "members": true,
+  "stackable": true,
+  "name": "Swamp paste"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 247,
+  "description": "They don't look very ripe.",
+  "options": [
+    "eat"
+  ],
+  "modelIndex": 2358,
+  "iconX": 1,
+  "iconY": 4,
+  "iconZoom": 970,
+  "iconYaw": 668,
+  "iconCameraPitch": 404,
+  "members": true,
+  "oldColors": [
+    960,
+    6040
+  ],
+  "newColors": [
+    13223,
+    10136
+  ],
+  "name": "Jangerberries",
+  "notedId": 248
+}

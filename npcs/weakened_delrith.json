@@ -1,0 +1,21 @@
+{
+  "id": 880,
+  "size": 2,
+  "description": "The demon doesn't look so strong now.",
+  "scaleX": 100,
+  "scaleY": 100,
+  "standSeq": 70,
+  "disposeAlpha": true,
+  "level": 1,
+  "oldColors": [
+    918
+  ],
+  "newColors": [
+    3486
+  ],
+  "name": "Weakened Delrith",
+  "modelIndices": [
+    2943,
+    3019
+  ]
+}

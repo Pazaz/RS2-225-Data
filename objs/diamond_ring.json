@@ -1,0 +1,18 @@
+{
+  "id": 1643,
+  "description": "A valuable ring.",
+  "value": 3525,
+  "modelIndex": 2677,
+  "iconX": 3,
+  "iconY": -35,
+  "iconZoom": 830,
+  "iconYaw": 180,
+  "iconRoll": 2024,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "name": "Diamond ring",
+  "notedId": 1644
+}

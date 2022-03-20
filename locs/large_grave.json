@@ -1,0 +1,16 @@
+{
+  "id": 406,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1370
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Large grave",
+  "description": "Whoever bought this must have really cared for the inhabitant."
+}

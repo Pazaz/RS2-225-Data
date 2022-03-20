@@ -1,0 +1,26 @@
+{
+  "id": 1655,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "oldColors": [
+    61,
+    2
+  ],
+  "newColors": [
+    7952,
+    23
+  ],
+  "modelIndices": [
+    653,
+    644
+  ],
+  "modelTypes": [
+    10,
+    0
+  ],
+  "name": "oldstone_arched_doorbase_r"
+}

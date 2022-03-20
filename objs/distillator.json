@@ -1,0 +1,13 @@
+{
+  "id": 420,
+  "members": true,
+  "description": "Apparently it distills.",
+  "value": 1,
+  "modelIndex": 2613,
+  "iconX": 3,
+  "iconY": 3,
+  "iconZoom": 720,
+  "iconYaw": 684,
+  "iconCameraPitch": 304,
+  "name": "Distillator"
+}

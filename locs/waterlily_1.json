@@ -1,0 +1,18 @@
+{
+  "id": 1175,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "brightness": 50,
+  "modelIndices": [
+    1703
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Waterlily",
+  "description": "A home for frogs."
+}

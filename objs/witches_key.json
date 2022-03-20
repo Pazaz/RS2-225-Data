@@ -1,0 +1,18 @@
+{
+  "id": 2411,
+  "description": "A key to the Witches' shed.",
+  "members": true,
+  "modelIndex": 2372,
+  "iconX": -3,
+  "iconY": 5,
+  "iconZoom": 700,
+  "iconYaw": 20,
+  "iconCameraPitch": 328,
+  "oldColors": [
+    8128
+  ],
+  "newColors": [
+    66
+  ],
+  "name": "Key"
+}

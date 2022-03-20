@@ -1,0 +1,17 @@
+{
+  "id": 925,
+  "parent": 904,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 22,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "One",
+  "color": 16776960,
+  "colorEnabled": 16744448,
+  "hoverColor": 0
+}

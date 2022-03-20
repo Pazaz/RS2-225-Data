@@ -1,0 +1,20 @@
+{
+  "id": 2171,
+  "description": "It's made from a secret recipe.",
+  "modelIndex": 2756,
+  "iconX": 1,
+  "iconY": 129,
+  "iconZoom": 440,
+  "iconYaw": 92,
+  "iconCameraPitch": 264,
+  "value": 2,
+  "members": true,
+  "oldColors": [
+    10440
+  ],
+  "newColors": [
+    8642
+  ],
+  "name": "Gianne dough",
+  "notedId": 2172
+}

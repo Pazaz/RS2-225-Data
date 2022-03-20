@@ -1,0 +1,11 @@
+{
+  "id": 42,
+  "level": 0,
+  "description": "Freshly sheared.",
+  "walkSeq": 249,
+  "standSeq": 252,
+  "name": "Sheep",
+  "modelIndices": [
+    2928
+  ]
+}

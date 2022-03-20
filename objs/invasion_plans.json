@@ -1,0 +1,16 @@
+{
+  "id": 794,
+  "description": "This is plans for an invasion!",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "name": "Invasion plans"
+}

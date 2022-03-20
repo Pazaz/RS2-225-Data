@@ -1,0 +1,32 @@
+{
+  "id": 1196,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    910,
+    712,
+    935,
+    695,
+    840,
+    842
+  ],
+  "newColors": [
+    12224,
+    37091,
+    40268,
+    39485,
+    39498,
+    38738
+  ],
+  "modelIndices": [
+    1623
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowers",
+  "description": "I wonder what these are?"
+}

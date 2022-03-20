@@ -1,0 +1,12 @@
+{
+  "id": 14,
+  "description": "A metal railing replacement.",
+  "modelIndex": 969,
+  "iconX": 39,
+  "iconY": 296,
+  "iconZoom": 3500,
+  "iconYaw": 280,
+  "iconCameraPitch": 236,
+  "members": true,
+  "name": "Railing"
+}

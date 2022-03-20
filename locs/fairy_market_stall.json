@@ -1,0 +1,16 @@
+{
+  "id": 1151,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2018
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fairy market stall",
+  "description": "A fairy is selling items here."
+}

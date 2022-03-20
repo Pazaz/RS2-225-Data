@@ -1,0 +1,24 @@
+{
+  "id": 773,
+  "description": "A perfect ruby ring.",
+  "value": 2025,
+  "modelIndex": 2677,
+  "iconX": 3,
+  "iconY": -35,
+  "iconZoom": 830,
+  "iconYaw": 180,
+  "iconRoll": 2024,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "members": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "'perfect' ring"
+}

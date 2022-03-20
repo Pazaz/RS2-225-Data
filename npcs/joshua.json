@@ -1,0 +1,42 @@
+{
+  "id": 229,
+  "level": 0,
+  "description": "He loves to fish!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    4550,
+    25238,
+    4626,
+    6798
+  ],
+  "newColors": [
+    4550,
+    4645,
+    64448,
+    4645,
+    60312
+  ],
+  "name": "Joshua",
+  "modelIndices": [
+    235,
+    246,
+    308,
+    173,
+    179,
+    271,
+    181,
+    290,
+    562
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

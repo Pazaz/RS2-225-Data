@@ -1,0 +1,18 @@
+{
+  "id": 152,
+  "level": 0,
+  "description": "It's bark is worse than its swipe.",
+  "showOnMinimap": false,
+  "oldColors": [
+    7054,
+    6028
+  ],
+  "newColors": [
+    5388,
+    5388
+  ],
+  "name": "Tree",
+  "modelIndices": [
+    3014
+  ]
+}

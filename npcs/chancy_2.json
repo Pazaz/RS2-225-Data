@@ -1,0 +1,37 @@
+{
+  "id": 339,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He's ready for a bet.",
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    38439,
+    677,
+    5652
+  ],
+  "name": "Chancy",
+  "modelIndices": [
+    206,
+    181,
+    246,
+    292,
+    170,
+    176,
+    254,
+    320
+  ],
+  "headModelIndices": [
+    46
+  ]
+}

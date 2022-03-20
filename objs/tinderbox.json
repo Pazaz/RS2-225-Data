@@ -1,0 +1,22 @@
+{
+  "id": 590,
+  "description": "Useful for lighting a fire.",
+  "modelIndex": 2348,
+  "maleModel0": 488,
+  "maleOffsetY": 0,
+  "femaleModel0": 488,
+  "femaleOffsetY": 0,
+  "iconX": 1,
+  "iconY": -10,
+  "iconZoom": 660,
+  "iconYaw": 1968,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Tinderbox",
+  "notedId": 591
+}

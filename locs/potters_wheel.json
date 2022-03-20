@@ -1,0 +1,17 @@
+{
+  "id": 2642,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1179
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potter's Wheel",
+  "description": "Used for fashioning clay items."
+}

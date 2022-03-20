@@ -1,0 +1,21 @@
+{
+  "id": 1059,
+  "description": "These will keep my hands warm!",
+  "value": 6,
+  "modelIndex": 2649,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 179,
+  "maleOffsetY": 0,
+  "femaleModel0": 356,
+  "femaleOffsetY": 0,
+  "iconX": 8,
+  "iconY": -8,
+  "iconZoom": 930,
+  "iconYaw": 828,
+  "iconCameraPitch": 420,
+  "name": "Leather gloves",
+  "notedId": 1060
+}

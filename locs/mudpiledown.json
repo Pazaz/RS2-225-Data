@@ -1,0 +1,15 @@
+{
+  "id": 183,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1481
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "mudpiledown"
+}

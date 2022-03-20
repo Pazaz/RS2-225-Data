@@ -1,0 +1,18 @@
+{
+  "id": 5985,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 613,
+  "width": 284,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Moderator option: Mute player for 48 hours: <OFF>",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

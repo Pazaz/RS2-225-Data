@@ -1,0 +1,28 @@
+{
+  "id": 3127,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "interactable": false,
+  "rotateCounterClockwise": true,
+  "oldColors": [
+    6932,
+    6684,
+    6930
+  ],
+  "newColors": [
+    6689,
+    6569,
+    6565
+  ],
+  "modelIndices": [
+    3198
+  ],
+  "modelTypes": [
+    0
+  ]
+}

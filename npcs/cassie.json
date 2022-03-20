@@ -1,0 +1,44 @@
+{
+  "id": 577,
+  "level": 0,
+  "description": "Nice eyes.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    6024,
+    10138,
+    5532,
+    43072,
+    6798
+  ],
+  "newColors": [
+    60762,
+    8,
+    8,
+    8,
+    8,
+    6852
+  ],
+  "name": "Cassie",
+  "modelIndices": [
+    393,
+    469,
+    351,
+    356,
+    435,
+    414
+  ],
+  "headModelIndices": [
+    115,
+    131
+  ]
+}

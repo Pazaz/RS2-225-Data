@@ -1,0 +1,25 @@
+{
+  "id": 2630,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 525,
+  "disposeAlpha": true,
+  "brightness": 100,
+  "specular": 100,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    2331
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fishing spot",
+  "description": "I can see eels swimming in the water."
+}

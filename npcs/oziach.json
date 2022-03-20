@@ -1,0 +1,42 @@
+{
+  "id": 747,
+  "level": 0,
+  "description": "A strange little man.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    61,
+    41,
+    6798,
+    25238
+  ],
+  "newColors": [
+    35241,
+    36133,
+    7054,
+    58522
+  ],
+  "name": "Oziach",
+  "modelIndices": [
+    203,
+    247,
+    312,
+    164,
+    176,
+    254,
+    181,
+    323
+  ],
+  "headModelIndices": [
+    45,
+    79
+  ]
+}

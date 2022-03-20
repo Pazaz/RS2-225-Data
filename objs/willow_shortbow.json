@@ -1,0 +1,28 @@
+{
+  "id": 849,
+  "members": true,
+  "value": 200,
+  "description": "A shortbow made out of willow, still effective.",
+  "modelIndex": 2562,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 512,
+  "maleOffsetY": 0,
+  "femaleModel0": 512,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    9903
+  ],
+  "name": "Willow shortbow",
+  "notedId": 850
+}

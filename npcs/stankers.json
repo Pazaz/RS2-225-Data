@@ -1,0 +1,32 @@
+{
+  "id": 383,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "He's in control of the coal trucks.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803,
+    11200
+  ],
+  "newColors": [
+    5652,
+    414
+  ],
+  "name": "Stankers",
+  "modelIndices": [
+    2970,
+    2981,
+    2979,
+    2983,
+    2985,
+    2990,
+    2988
+  ],
+  "headModelIndices": [
+    0,
+    8
+  ]
+}

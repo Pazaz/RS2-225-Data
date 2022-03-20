@@ -1,0 +1,20 @@
+{
+  "id": 2216,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1500
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken cart",
+  "description": "This looks like it's being used to block entrance to the village."
+}

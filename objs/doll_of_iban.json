@@ -1,0 +1,16 @@
+{
+  "id": 1492,
+  "description": "A simple doll with Iban's likeness.",
+  "value": 2,
+  "modelIndex": 2730,
+  "members": true,
+  "options": [
+    "Search"
+  ],
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1040,
+  "iconYaw": 1736,
+  "iconCameraPitch": 364,
+  "name": "Doll of iban"
+}

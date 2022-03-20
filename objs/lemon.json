@@ -1,0 +1,15 @@
+{
+  "id": 2102,
+  "description": "A fresh lemon.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2501,
+  "iconZoom": 1080,
+  "iconYaw": 716,
+  "iconCameraPitch": 700,
+  "name": "Lemon",
+  "notedId": 2103
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4967,
+  "parent": 4958,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 33,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Shoot",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

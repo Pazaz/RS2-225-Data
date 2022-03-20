@@ -1,0 +1,23 @@
+{
+  "id": 897,
+  "description": "Looks unnatural.",
+  "walkSeq": 254,
+  "standSeq": 257,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    9647,
+    127
+  ],
+  "newColors": [
+    52120,
+    23506
+  ],
+  "name": "Witches experiment",
+  "modelIndices": [
+    2999
+  ]
+}

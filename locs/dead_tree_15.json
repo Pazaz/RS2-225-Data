@@ -1,0 +1,28 @@
+{
+  "id": 2020,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "actions": [
+    "Climb"
+  ],
+  "oldColors": [
+    7054,
+    6028
+  ],
+  "newColors": [
+    5388,
+    5388
+  ],
+  "modelIndices": [
+    1716
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dead tree",
+  "description": "It's to wet for firewood."
+}

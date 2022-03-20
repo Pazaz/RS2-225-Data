@@ -1,0 +1,20 @@
+{
+  "id": 2448,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Climb-down"
+  ],
+  "modelIndices": [
+    2024
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "I reckon I could climb that!"
+}

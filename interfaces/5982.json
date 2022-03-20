@@ -1,0 +1,18 @@
+{
+  "id": 5982,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 612,
+  "width": 147,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "12: Real world item trading",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

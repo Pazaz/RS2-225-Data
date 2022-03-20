@@ -1,0 +1,17 @@
+{
+  "id": 2578,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "modelIndices": [
+    1612
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Palm tree",
+  "description": "A tall palm tree."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 2996,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    11173
+  ],
+  "modelIndices": [
+    1249
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Closed chest",
+  "description": "I wonder what's inside."
+}

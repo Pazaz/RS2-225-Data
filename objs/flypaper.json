@@ -1,0 +1,12 @@
+{
+  "id": 1811,
+  "description": "A piece of fly paper. It's sticky.",
+  "modelIndex": 2350,
+  "iconX": 2,
+  "iconY": 28,
+  "iconZoom": 1380,
+  "iconYaw": 84,
+  "iconCameraPitch": 320,
+  "members": true,
+  "name": "Flypaper"
+}

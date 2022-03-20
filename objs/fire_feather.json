@@ -1,0 +1,19 @@
+{
+  "id": 1583,
+  "description": "Firebird feather.",
+  "value": 2,
+  "modelIndex": 2476,
+  "iconX": 4,
+  "iconY": 10,
+  "iconZoom": 700,
+  "iconYaw": 692,
+  "iconCameraPitch": 428,
+  "members": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    4032
+  ],
+  "name": "Fire feather"
+}

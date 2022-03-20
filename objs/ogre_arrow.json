@@ -1,0 +1,44 @@
+{
+  "id": 2866,
+  "description": "A large ogre arrow with a bone tip.",
+  "value": 25,
+  "stackable": true,
+  "members": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    2870,
+    2869,
+    2868,
+    2867
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    5012,
+    926,
+    61,
+    57,
+    74
+  ],
+  "newColors": [
+    7582,
+    127,
+    10326,
+    13790,
+    9329
+  ],
+  "name": "Ogre arrow"
+}

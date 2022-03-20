@@ -1,0 +1,21 @@
+{
+  "id": 263,
+  "value": 54,
+  "members": true,
+  "description": "A powerful herb.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    13204,
+    14224
+  ],
+  "name": "Kwuarm",
+  "notedId": 264
+}

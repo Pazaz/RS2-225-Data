@@ -1,0 +1,17 @@
+{
+  "id": 466,
+  "description": "Useless without the head.",
+  "modelIndex": 2597,
+  "iconX": -2,
+  "iconY": -19,
+  "iconZoom": 1070,
+  "iconYaw": 1056,
+  "iconCameraPitch": 224,
+  "maleModel0": 558,
+  "maleOffsetY": 0,
+  "femaleModel0": 558,
+  "femaleOffsetY": 6,
+  "value": 1,
+  "name": "Pickaxe handle",
+  "notedId": 467
+}

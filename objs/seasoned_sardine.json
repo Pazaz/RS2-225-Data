@@ -1,0 +1,23 @@
+{
+  "id": 1552,
+  "description": "Sardine flavoured with doogle leaves.",
+  "value": 10,
+  "modelIndex": 2357,
+  "members": true,
+  "iconX": -1,
+  "iconY": 13,
+  "iconZoom": 820,
+  "iconYaw": 1756,
+  "iconRoll": 1964,
+  "iconCameraPitch": 320,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    21962,
+    21731
+  ],
+  "name": "Seasoned sardine",
+  "notedId": 1553
+}

@@ -1,0 +1,20 @@
+{
+  "id": 70,
+  "value": 1280,
+  "members": true,
+  "description": "An unstrung magic longbow, I need a bowstring for this.",
+  "modelIndex": 2401,
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1820,
+  "iconYaw": 1004,
+  "iconCameraPitch": 460,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    31516
+  ],
+  "name": "Magic longbow",
+  "notedId": 71
+}

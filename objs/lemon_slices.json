@@ -1,0 +1,23 @@
+{
+  "id": 2106,
+  "description": "Fresh lemon slices.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2772,
+  "iconZoom": 1090,
+  "iconYaw": 336,
+  "iconCameraPitch": 284,
+  "oldColors": [
+    6080,
+    10473
+  ],
+  "newColors": [
+    8128,
+    8425
+  ],
+  "name": "Lemon slices",
+  "notedId": 2107
+}

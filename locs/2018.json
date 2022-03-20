@@ -1,0 +1,22 @@
+{
+  "id": 2018,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "scaleX": 64,
+  "scaleY": 64,
+  "scaleZ": 64,
+  "brightness": 80,
+  "specular": 80,
+  "animationIndex": 522,
+  "disposeAlpha": true,
+  "interactable": false,
+  "modelIndices": [
+    2329
+  ],
+  "modelTypes": [
+    10
+  ]
+}

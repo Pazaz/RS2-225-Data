@@ -1,0 +1,22 @@
+{
+  "id": 874,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "oldColors": [
+    22
+  ],
+  "newColors": [
+    16
+  ],
+  "modelIndices": [
+    1182
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sink",
+  "description": "Ideal for washing things in."
+}

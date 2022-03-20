@@ -1,0 +1,30 @@
+{
+  "id": 2249,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    900,
+    898,
+    902
+  ],
+  "newColors": [
+    5231,
+    5231,
+    5231
+  ],
+  "modelIndices": [
+    1762
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Tomb doors",
+  "description": "Large carved tomb doors, they look terrifying."
+}

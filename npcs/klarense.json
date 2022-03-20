@@ -1,0 +1,43 @@
+{
+  "id": 744,
+  "level": 0,
+  "description": "A young sailor.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072,
+    6798,
+    43569
+  ],
+  "newColors": [
+    2475,
+    40485,
+    4550,
+    11144,
+    2475
+  ],
+  "name": "Klarense",
+  "modelIndices": [
+    215,
+    253,
+    299,
+    151,
+    176,
+    254,
+    181,
+    194
+  ],
+  "headModelIndices": [
+    53,
+    85,
+    37
+  ]
+}

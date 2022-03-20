@@ -1,0 +1,19 @@
+{
+  "id": 670,
+  "description": "An important looking gnome.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "King Narnode Shareen",
+  "modelIndices": [
+    2909,
+    2891,
+    2916
+  ],
+  "headModelIndices": [
+    20
+  ]
+}

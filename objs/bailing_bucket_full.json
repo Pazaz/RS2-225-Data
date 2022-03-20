@@ -1,0 +1,20 @@
+{
+  "id": 585,
+  "description": "It's a bailing bucket full of salty water.",
+  "value": 10,
+  "modelIndex": 2504,
+  "maleModel0": 543,
+  "maleOffsetY": 0,
+  "femaleModel0": 543,
+  "femaleOffsetY": 6,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "options": [
+    "Empty"
+  ],
+  "members": true,
+  "name": "Bailing bucket",
+  "notedId": 586
+}

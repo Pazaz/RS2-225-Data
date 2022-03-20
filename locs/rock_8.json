@@ -1,0 +1,19 @@
+{
+  "id": 1996,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Swim to"
+  ],
+  "modelIndices": [
+    1805
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "Looks rock solid."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1160,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1632
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted plant",
+  "description": "A plant in a bamboo pot."
+}

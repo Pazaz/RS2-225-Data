@@ -1,0 +1,17 @@
+{
+  "id": 969,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2124
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Fishing net",
+  "description": "Complete with authentic seaweed!"
+}

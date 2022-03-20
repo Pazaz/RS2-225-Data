@@ -1,0 +1,28 @@
+{
+  "id": 211,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    127,
+    6695,
+    7104,
+    6695
+  ],
+  "newColors": [
+    43270,
+    43270,
+    43270,
+    43270
+  ],
+  "modelIndices": [
+    1204
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Candles",
+  "description": "It's amazing what bees produce!"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 3352,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "interactable": true,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1822
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cage",
+  "description": "I'm glad I'm on this side of those bars."
+}

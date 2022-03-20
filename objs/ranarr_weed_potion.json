@@ -1,0 +1,19 @@
+{
+  "id": 99,
+  "description": "I need another ingredient to finish this Ranarr potion.",
+  "value": 25,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    21716
+  ],
+  "name": "Unfinished potion",
+  "notedId": 100
+}

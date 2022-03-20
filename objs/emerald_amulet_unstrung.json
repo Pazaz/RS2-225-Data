@@ -1,0 +1,19 @@
+{
+  "id": 1677,
+  "value": 1275,
+  "description": "It needs a string so I can wear it.",
+  "modelIndex": 2550,
+  "iconX": 8,
+  "iconY": 106,
+  "iconZoom": 370,
+  "iconYaw": 100,
+  "iconCameraPitch": 304,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    22443
+  ],
+  "name": "Emerald amulet",
+  "notedId": 1678
+}

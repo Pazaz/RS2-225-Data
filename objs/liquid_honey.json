@@ -1,0 +1,18 @@
+{
+  "id": 416,
+  "value": 0,
+  "modelIndex": 2789,
+  "members": true,
+  "description": "This isn't worth much.",
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    8111
+  ],
+  "name": "Liquid honey"
+}

@@ -1,0 +1,34 @@
+{
+  "id": 279,
+  "level": 3,
+  "description": "An old monk.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    4769,
+    4769
+  ],
+  "name": "Brother Omad",
+  "modelIndices": [
+    223,
+    181,
+    246,
+    299,
+    170,
+    176,
+    260
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

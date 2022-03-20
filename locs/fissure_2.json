@@ -1,0 +1,40 @@
+{
+  "id": 2219,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "adjustToTerrain": true,
+  "scaleX": 192,
+  "scaleZ": 192,
+  "culls": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    5425,
+    61,
+    45,
+    57,
+    28,
+    16156
+  ],
+  "newColors": [
+    6798,
+    5908,
+    5772,
+    8086,
+    5388,
+    6798
+  ],
+  "modelIndices": [
+    831
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fissure",
+  "description": "A narrow fissure in the ground."
+}

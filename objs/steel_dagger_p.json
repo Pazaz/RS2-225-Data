@@ -1,0 +1,27 @@
+{
+  "id": 1223,
+  "members": true,
+  "modelIndex": 2478,
+  "description": "The blade has been poisoned.",
+  "value": 125,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 504,
+  "maleOffsetY": 0,
+  "femaleModel0": 504,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    22459
+  ],
+  "newColors": [
+    13221
+  ],
+  "name": "Steel dagger(p)",
+  "notedId": 1224
+}

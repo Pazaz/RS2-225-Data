@@ -1,0 +1,17 @@
+{
+  "id": 407,
+  "description": "It's a rare oyster.",
+  "modelIndex": 2363,
+  "iconX": -1,
+  "iconY": 6,
+  "iconZoom": 700,
+  "iconYaw": 1840,
+  "iconCameraPitch": 360,
+  "value": 200,
+  "options": [
+    "Open"
+  ],
+  "members": true,
+  "name": "Oyster",
+  "notedId": 408
+}

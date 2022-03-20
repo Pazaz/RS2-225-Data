@@ -1,0 +1,16 @@
+{
+  "id": 1082,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1403
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Signpost",
+  "description": "North to Draynor Manor :: East to Lumbridge."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2364,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2143
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crate",
+  "description": "A wooden container."
+}

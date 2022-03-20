@@ -1,0 +1,16 @@
+{
+  "id": 2304,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1731
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spikes",
+  "description": "Pointy!"
+}

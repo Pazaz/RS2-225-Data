@@ -1,0 +1,16 @@
+{
+  "id": 1189,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1699
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Daisies",
+  "description": "Commonly found in grassy areas."
+}

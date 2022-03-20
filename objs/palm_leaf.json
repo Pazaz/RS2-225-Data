@@ -1,0 +1,14 @@
+{
+  "id": 2339,
+  "description": "A thick green palm leaf used by natives to cook meat in.",
+  "value": 5,
+  "modelIndex": 2651,
+  "iconX": 2,
+  "iconY": 11,
+  "iconZoom": 1290,
+  "iconYaw": 156,
+  "iconCameraPitch": 292,
+  "members": true,
+  "name": "Palm leaf",
+  "notedId": 2340
+}

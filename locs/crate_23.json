@@ -1,0 +1,28 @@
+{
+  "id": 2905,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    5,
+    22
+  ],
+  "newColors": [
+    16,
+    16
+  ],
+  "modelIndices": [
+    2143
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crate",
+  "description": "An old crate for storage."
+}

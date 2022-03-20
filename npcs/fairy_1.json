@@ -1,0 +1,11 @@
+{
+  "id": 57,
+  "level": 0,
+  "description": "A delicate creature from this strange realm.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "name": "Fairy",
+  "modelIndices": [
+    2857
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 839,
+  "description": "A vicious Desert wolf",
+  "walkSeq": 74,
+  "standSeq": 77,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 27,
+  "oldColors": [
+    61,
+    90
+  ],
+  "newColors": [
+    8633,
+    8633
+  ],
+  "name": "Desert Wolf",
+  "modelIndices": [
+    2937
+  ]
+}

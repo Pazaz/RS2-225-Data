@@ -1,0 +1,19 @@
+{
+  "id": 410,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Pray-at"
+  ],
+  "modelIndices": [
+    1470
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Altar of Guthix",
+  "description": "An ancient altar to the glory of Guthix."
+}

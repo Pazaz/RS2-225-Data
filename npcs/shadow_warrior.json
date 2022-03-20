@@ -1,0 +1,39 @@
+{
+  "id": 158,
+  "description": "A fighter from the supernatural world, he's a shadow of his former self.",
+  "walkSeq": 841,
+  "standSeq": 842,
+  "disposeAlpha": true,
+  "showOnMinimap": false,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 48,
+  "oldColors": [
+    61,
+    41,
+    57,
+    7073,
+    4550,
+    10004
+  ],
+  "newColors": [
+    10258,
+    10382,
+    10382,
+    10382,
+    11138,
+    11138
+  ],
+  "name": "Shadow warrior",
+  "modelIndices": [
+    213,
+    306,
+    164,
+    179,
+    268,
+    184,
+    550
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1297,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "mapscene": 6,
+  "oldColors": [
+    5029
+  ],
+  "newColors": [
+    3470
+  ],
+  "modelIndices": [
+    1633
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fallen tree",
+  "description": "This tree was either the victim of weather or mankind."
+}

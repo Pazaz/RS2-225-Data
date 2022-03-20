@@ -1,0 +1,23 @@
+{
+  "id": 2217,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "scaleX": 256,
+  "scaleZ": 256,
+  "mapscene": 11,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1465
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mound of earth",
+  "description": "Something seems to be buried under this."
+}

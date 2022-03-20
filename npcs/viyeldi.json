@@ -1,0 +1,33 @@
+{
+  "id": 935,
+  "description": "The spirit of a long dead wizard.",
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 79,
+  "oldColors": [
+    8741,
+    8078,
+    25238
+  ],
+  "newColors": [
+    38814,
+    38814,
+    38814
+  ],
+  "name": "Viyeldi",
+  "modelIndices": [
+    202,
+    292,
+    170,
+    256,
+    534,
+    209
+  ],
+  "headModelIndices": [
+    54,
+    44
+  ]
+}

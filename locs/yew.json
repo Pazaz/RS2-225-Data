@@ -1,0 +1,22 @@
+{
+  "id": 1309,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 3,
+  "modelIndices": [
+    1595
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Yew",
+  "description": "A splendid tree."
+}

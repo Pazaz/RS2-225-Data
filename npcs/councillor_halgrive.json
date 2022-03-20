@@ -1,0 +1,46 @@
+{
+  "id": 289,
+  "level": 0,
+  "description": "Important looking.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    11183,
+    8741,
+    25238,
+    9104,
+    54397,
+    4626
+  ],
+  "newColors": [
+    37,
+    43674,
+    43662,
+    43662,
+    584,
+    0
+  ],
+  "name": "Councillor Halgrive",
+  "modelIndices": [
+    215,
+    238,
+    247,
+    292,
+    170,
+    176,
+    254,
+    181,
+    320
+  ],
+  "headModelIndices": [
+    53,
+    70,
+    79
+  ]
+}

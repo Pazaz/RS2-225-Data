@@ -1,0 +1,41 @@
+{
+  "id": 308,
+  "level": 0,
+  "description": "The man in charge of the fishing guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    8078,
+    25238,
+    8090
+  ],
+  "newColors": [
+    9131,
+    8128,
+    8092,
+    9131
+  ],
+  "name": "Master fisher",
+  "modelIndices": [
+    230,
+    244,
+    248,
+    295,
+    162,
+    176,
+    274,
+    185
+  ],
+  "headModelIndices": [
+    63,
+    77,
+    80
+  ]
+}

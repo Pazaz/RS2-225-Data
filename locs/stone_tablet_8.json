@@ -1,0 +1,19 @@
+{
+  "id": 3302,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Read"
+  ],
+  "modelIndices": [
+    759
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stone tablet",
+  "description": "It's covered in strange writing."
+}

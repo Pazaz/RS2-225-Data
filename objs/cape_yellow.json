@@ -1,0 +1,31 @@
+{
+  "id": 1023,
+  "value": 32,
+  "description": "A thick yellow cape.",
+  "modelIndex": 2603,
+  "iconX": 3,
+  "iconY": 6,
+  "iconZoom": 2140,
+  "iconYaw": 948,
+  "iconCameraPitch": 400,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 323,
+  "maleOffsetY": 0,
+  "femaleModel0": 481,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    11200,
+    7700,
+    926
+  ],
+  "newColors": [
+    11183,
+    11200,
+    10043
+  ],
+  "name": "Cape",
+  "notedId": 1024
+}

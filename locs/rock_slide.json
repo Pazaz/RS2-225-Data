@@ -1,0 +1,21 @@
+{
+  "id": 2634,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Mine"
+  ],
+  "mapscene": 12,
+  "modelIndices": [
+    818
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock slide",
+  "description": "Rocks that contain nothing interesting, but block the way."
+}

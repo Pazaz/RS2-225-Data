@@ -1,0 +1,19 @@
+{
+  "id": 154,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Chop down"
+  ],
+  "modelIndices": [
+    1715
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "Eerie looking..."
+}

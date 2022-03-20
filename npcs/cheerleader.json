@@ -1,0 +1,19 @@
+{
+  "id": 636,
+  "description": "Cheerleading is a real sport!",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Cheerleader",
+  "modelIndices": [
+    2913,
+    2904,
+    2923
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

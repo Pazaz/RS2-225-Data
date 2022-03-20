@@ -1,0 +1,18 @@
+{
+  "id": 1799,
+  "description": "Bobs' shiny silver coated tea cup coated with a thin layer of flour.",
+  "members": true,
+  "modelIndex": 2347,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 500,
+  "iconYaw": 1980,
+  "iconCameraPitch": 156,
+  "oldColors": [
+    5173
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Silver cup"
+}

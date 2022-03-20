@@ -1,0 +1,41 @@
+{
+  "id": 537,
+  "level": 0,
+  "description": "He's got the best armour around!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072
+  ],
+  "newColors": [
+    5652,
+    4769,
+    45,
+    4550
+  ],
+  "name": "Scavvo",
+  "modelIndices": [
+    206,
+    254,
+    253,
+    292,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    46,
+    85
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 497,
+  "level": 0,
+  "description": "Looks after your money.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    8741,
+    4550
+  ],
+  "newColors": [
+    45,
+    45,
+    41,
+    45,
+    4647
+  ],
+  "name": "Banker",
+  "modelIndices": [
+    378,
+    470,
+    343,
+    353,
+    419,
+    358
+  ],
+  "headModelIndices": [
+    103
+  ],
+  "wander": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 299,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1454
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hay Bails",
+  "description": "I bet there's a needle in it somewhere."
+}

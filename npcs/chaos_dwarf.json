@@ -1,0 +1,30 @@
+{
+  "id": 119,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A dwarf gone bad.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 48,
+  "oldColors": [
+    7473,
+    4550
+  ],
+  "newColors": [
+    61,
+    2619
+  ],
+  "name": "Chaos dwarf",
+  "modelIndices": [
+    2970,
+    2982,
+    2977,
+    2983,
+    2985,
+    2989,
+    2993,
+    2991
+  ]
+}

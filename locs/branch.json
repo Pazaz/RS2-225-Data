@@ -1,0 +1,17 @@
+{
+  "id": 2326,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 6,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2273
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Branch",
+  "description": "A branch protrudes here."
+}

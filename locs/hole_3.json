@@ -1,0 +1,17 @@
+{
+  "id": 2336,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1464
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hole",
+  "description": "You can see a cauldron directly below."
+}

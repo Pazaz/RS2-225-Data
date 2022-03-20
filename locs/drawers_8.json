@@ -1,0 +1,38 @@
+{
+  "id": 3191,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "Shut"
+  ],
+  "interactionSideFlags": 13,
+  "brightness": 15,
+  "specular": 15,
+  "scaleX": 100,
+  "scaleY": 100,
+  "scaleZ": 100,
+  "interactable": true,
+  "oldColors": [
+    5786,
+    7954,
+    2452
+  ],
+  "newColors": [
+    99,
+    86,
+    70
+  ],
+  "modelIndices": [
+    1236
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Drawers",
+  "description": "This may be worth searching."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 622,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 5,
+  "sizeZ": 5,
+  "oldColors": [
+    12,
+    796
+  ],
+  "newColors": [
+    5543,
+    38073
+  ],
+  "modelIndices": [
+    1212
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "It's a banquet table."
+}

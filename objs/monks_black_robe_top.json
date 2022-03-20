@@ -1,0 +1,27 @@
+{
+  "id": 546,
+  "modelIndex": 2786,
+  "iconY": 7,
+  "iconZoom": 1370,
+  "iconCameraPitch": 536,
+  "value": 40,
+  "description": "I feel closer to the Gods when I am wearing this.",
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 170,
+  "maleOffsetY": 0,
+  "femaleModel0": 348,
+  "femaleOffsetY": 0,
+  "maleModel1": 292,
+  "femaleModel1": 456,
+  "oldColors": [
+    8741
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Black robe",
+  "notedId": 547
+}

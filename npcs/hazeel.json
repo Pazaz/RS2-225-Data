@@ -1,0 +1,43 @@
+{
+  "id": 892,
+  "level": 296,
+  "description": "An evil being raised from the dead.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    4550,
+    25238,
+    926,
+    43072,
+    4626
+  ],
+  "newColors": [
+    4205,
+    0,
+    20,
+    4205,
+    4205
+  ],
+  "name": "Hazeel",
+  "modelIndices": [
+    231,
+    246,
+    315,
+    168,
+    176,
+    275,
+    181,
+    328,
+    239
+  ],
+  "headModelIndices": [
+    64,
+    71
+  ]
+}

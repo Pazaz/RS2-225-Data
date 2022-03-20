@@ -1,0 +1,16 @@
+{
+  "id": 1089,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1242
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Smashed chair",
+  "description": "Not so good for sitting on."
+}

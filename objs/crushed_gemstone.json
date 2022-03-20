@@ -1,0 +1,19 @@
+{
+  "id": 1633,
+  "description": "A gemstone that has been smashed.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2742,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Crushed gemstone",
+  "notedId": 1634
+}

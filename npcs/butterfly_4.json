@@ -1,0 +1,22 @@
+{
+  "id": 156,
+  "description": "It's a Tiger Swallowtail Butterfly.",
+  "walkSeq": 362,
+  "standSeq": 362,
+  "showOnMinimap": false,
+  "level": 0,
+  "oldColors": [
+    39892,
+    39386,
+    32889
+  ],
+  "newColors": [
+    24,
+    11204,
+    24
+  ],
+  "name": "Butterfly",
+  "modelIndices": [
+    3023
+  ]
+}

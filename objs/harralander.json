@@ -1,0 +1,21 @@
+{
+  "id": 255,
+  "value": 20,
+  "members": true,
+  "description": "A useful herb.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    16289,
+    13204
+  ],
+  "name": "Harralander",
+  "notedId": 256
+}

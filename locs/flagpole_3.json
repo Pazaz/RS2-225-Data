@@ -1,0 +1,17 @@
+{
+  "id": 862,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 471,
+  "modelIndices": [
+    2283
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flagpole",
+  "description": "The flag of Ardougne."
+}

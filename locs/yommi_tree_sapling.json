@@ -1,0 +1,19 @@
+{
+  "id": 2946,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "scaleX": 64,
+  "scaleY": 64,
+  "scaleZ": 64,
+  "modelIndices": [
+    1818
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Yommi tree sapling",
+  "description": "An adolescent looking Yommi tree, it has a mystical aura."
+}

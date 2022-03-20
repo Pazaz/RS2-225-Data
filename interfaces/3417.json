@@ -1,0 +1,17 @@
+{
+  "id": 3417,
+  "parent": 3323,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 84,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "Trading With:",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

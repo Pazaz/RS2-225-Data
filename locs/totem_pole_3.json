@@ -1,0 +1,31 @@
+{
+  "id": 2937,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Look"
+  ],
+  "oldColors": [
+    6315,
+    8596,
+    127,
+    10126
+  ],
+  "newColors": [
+    7068,
+    5576,
+    5904,
+    7068
+  ],
+  "modelIndices": [
+    1759
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Totem Pole",
+  "description": "A sculpted trunk of wood."
+}

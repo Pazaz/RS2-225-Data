@@ -1,0 +1,27 @@
+{
+  "id": 2245,
+  "description": "This batta doesn't look very appetising.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    926,
+    15283,
+    7070
+  ],
+  "newColors": [
+    8094,
+    11169,
+    9118
+  ],
+  "name": "Odd batta",
+  "notedId": 2246
+}

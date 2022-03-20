@@ -1,0 +1,14 @@
+{
+  "id": 1831,
+  "description": "A totaly empty waterskin - you'll need to fill it up.",
+  "value": 15,
+  "members": true,
+  "modelIndex": 2699,
+  "iconX": -4,
+  "iconY": 1,
+  "iconZoom": 780,
+  "iconYaw": 156,
+  "iconCameraPitch": 52,
+  "name": "Waterskin(0)",
+  "notedId": 1832
+}

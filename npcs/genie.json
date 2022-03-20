@@ -1,0 +1,43 @@
+{
+  "id": 409,
+  "level": 0,
+  "description": "Maybe he'll grant me a wish...",
+  "walkSeq": 792,
+  "standSeq": 792,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    6798,
+    926,
+    43072,
+    0,
+    25238
+  ],
+  "newColors": [
+    39888,
+    40627,
+    43924,
+    13243,
+    957,
+    54177
+  ],
+  "name": "Genie",
+  "modelIndices": [
+    231,
+    241,
+    252,
+    315,
+    173,
+    176,
+    264,
+    270
+  ],
+  "headModelIndices": [
+    64,
+    73,
+    84
+  ]
+}

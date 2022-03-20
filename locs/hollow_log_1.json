@@ -1,0 +1,17 @@
+{
+  "id": 1334,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "modelIndices": [
+    1634
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hollow log",
+  "description": "This old tree is rotting away."
+}

@@ -1,0 +1,12 @@
+{
+  "id": 153,
+  "description": "These look much better in the wild.",
+  "walkSeq": 362,
+  "standSeq": 362,
+  "showOnMinimap": false,
+  "level": 0,
+  "name": "Butterfly",
+  "modelIndices": [
+    3022
+  ]
+}

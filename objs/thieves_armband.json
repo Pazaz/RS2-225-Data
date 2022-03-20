@@ -1,0 +1,13 @@
+{
+  "id": 1579,
+  "description": "This denotes a Master Thief.",
+  "value": 2,
+  "modelIndex": 2820,
+  "iconX": 1,
+  "iconY": 17,
+  "iconZoom": 450,
+  "iconYaw": 1924,
+  "iconCameraPitch": 296,
+  "members": true,
+  "name": "Thieves' armband"
+}

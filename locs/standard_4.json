@@ -1,0 +1,16 @@
+{
+  "id": 854,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1536
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Standard",
+  "description": "A blue standard."
+}

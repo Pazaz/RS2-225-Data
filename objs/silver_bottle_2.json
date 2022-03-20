@@ -1,0 +1,16 @@
+{
+  "id": 1801,
+  "description": "Carols' shiny silver coated bottle coated with a thin layer of flour.",
+  "members": true,
+  "modelIndex": 2836,
+  "iconZoom": 1030,
+  "iconYaw": 1808,
+  "iconCameraPitch": 76,
+  "oldColors": [
+    5012
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Silver bottle"
+}

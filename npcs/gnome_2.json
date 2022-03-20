@@ -1,0 +1,27 @@
+{
+  "id": 67,
+  "description": "Like a mini man!",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 1,
+  "oldColors": [
+    22422
+  ],
+  "newColors": [
+    6942
+  ],
+  "name": "Gnome",
+  "modelIndices": [
+    2909,
+    2890,
+    2915
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

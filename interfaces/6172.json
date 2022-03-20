@@ -1,0 +1,17 @@
+{
+  "id": 6172,
+  "parent": 2302,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 76,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Quest points.",
+  "color": 49152,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

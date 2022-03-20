@@ -1,0 +1,16 @@
+{
+  "id": 1889,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    2194
+  ],
+  "modelTypes": [
+    22
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2160,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-on"
+  ],
+  "modelIndices": [
+    1885
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barrel",
+  "description": "It's a floating barrel."
+}

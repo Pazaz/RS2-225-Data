@@ -1,0 +1,15 @@
+{
+  "id": 1982,
+  "description": "This would make good ketchup.",
+  "value": 4,
+  "options": [
+    "Eat"
+  ],
+  "modelIndex": 2632,
+  "iconY": -4,
+  "iconZoom": 550,
+  "iconYaw": 1900,
+  "iconCameraPitch": 208,
+  "name": "Tomato",
+  "notedId": 1983
+}

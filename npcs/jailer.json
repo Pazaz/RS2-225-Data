@@ -1,0 +1,36 @@
+{
+  "id": 201,
+  "description": "Guards prisoners for the black knights.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 42,
+  "oldColors": [
+    61,
+    41,
+    926,
+    57
+  ],
+  "newColors": [
+    20,
+    12,
+    20,
+    20
+  ],
+  "name": "Jailer",
+  "modelIndices": [
+    230,
+    306,
+    268,
+    253,
+    185,
+    156,
+    179
+  ]
+}

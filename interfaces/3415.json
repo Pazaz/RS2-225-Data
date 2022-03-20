@@ -1,0 +1,30 @@
+{
+  "id": 3415,
+  "parent": 3323,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 7,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": false,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 10,
+  "inevntoryMarginY": 1,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    "Remove 1",
+    "Remove 5",
+    "Remove 10",
+    "Remove All",
+    "Remove X"
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

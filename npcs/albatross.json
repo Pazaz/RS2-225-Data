@@ -1,0 +1,13 @@
+{
+  "id": 148,
+  "description": "A sea bird.",
+  "size": 2,
+  "walkSeq": 341,
+  "standSeq": 342,
+  "showOnMinimap": false,
+  "level": 26,
+  "name": "Albatross",
+  "modelIndices": [
+    2850
+  ]
+}

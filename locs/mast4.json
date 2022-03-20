@@ -1,0 +1,15 @@
+{
+  "id": 264,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1871
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "mast4"
+}

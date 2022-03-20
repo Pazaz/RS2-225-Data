@@ -1,0 +1,22 @@
+{
+  "id": 2313,
+  "description": "Deceptively pie shaped.",
+  "modelIndex": 2567,
+  "iconY": -9,
+  "iconZoom": 950,
+  "iconYaw": 104,
+  "iconCameraPitch": 192,
+  "value": 3,
+  "oldColors": [
+    28,
+    41,
+    61
+  ],
+  "newColors": [
+    5683,
+    4409,
+    4416
+  ],
+  "name": "Pie dish",
+  "notedId": 2314
+}

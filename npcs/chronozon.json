@@ -1,0 +1,26 @@
+{
+  "id": 667,
+  "size": 3,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "description": "Chronozon the blood demon.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "scaleX": 110,
+  "scaleY": 110,
+  "level": 139,
+  "oldColors": [
+    115,
+    929
+  ],
+  "newColors": [
+    559,
+    559
+  ],
+  "name": "Chronozon",
+  "modelIndices": [
+    2942
+  ]
+}

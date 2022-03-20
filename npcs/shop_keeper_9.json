@@ -1,0 +1,40 @@
+{
+  "id": 555,
+  "level": 0,
+  "description": "Has a fine moustache!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    10508,
+    10345,
+    4550
+  ],
+  "name": "Shop keeper",
+  "modelIndices": [
+    230,
+    247,
+    292,
+    151,
+    176,
+    254,
+    181,
+    326
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 618,
+  "level": 0,
+  "description": "Upon examining the examiner you examine it is indeed an examiner!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238
+  ],
+  "newColors": [
+    7085,
+    46631,
+    12
+  ],
+  "name": "Examiner",
+  "modelIndices": [
+    378,
+    418,
+    470,
+    421,
+    358,
+    348,
+    353
+  ],
+  "headModelIndices": [
+    103,
+    137
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 5,
+  "description": "An old note book.",
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "options": [
+    "Read"
+  ],
+  "value": 10,
+  "members": true,
+  "name": "Instruction manual"
+}

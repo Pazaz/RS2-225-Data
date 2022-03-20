@@ -1,0 +1,14 @@
+{
+  "id": 526,
+  "description": "Bones are for burying!",
+  "modelIndex": 2674,
+  "iconX": 2,
+  "iconZoom": 1410,
+  "iconYaw": 368,
+  "iconCameraPitch": 400,
+  "options": [
+    "Bury"
+  ],
+  "name": "Bones",
+  "notedId": 527
+}

@@ -1,0 +1,16 @@
+{
+  "id": 297,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1443
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Scarecrow",
+  "description": "Disturbingly man like."
+}

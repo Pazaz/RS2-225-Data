@@ -1,0 +1,19 @@
+{
+  "id": 187,
+  "description": "For use on daggers and projectiles.",
+  "value": 144,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    39876
+  ],
+  "name": "Weapon poison",
+  "notedId": 188
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2271,
+  "description": "This batta is just missing those little finishing touches.",
+  "members": true,
+  "iconZoom": 780,
+  "iconCameraPitch": 236,
+  "iconYaw": 136,
+  "iconY": 32,
+  "iconX": 1,
+  "modelIndex": 2803,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    926,
+    15283
+  ],
+  "newColors": [
+    22453,
+    8128
+  ],
+  "name": "Unfinished batta",
+  "notedId": 2272
+}

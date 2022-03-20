@@ -1,0 +1,25 @@
+{
+  "id": 1314,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "oldColors": [
+    6028,
+    22455
+  ],
+  "newColors": [
+    6579,
+    15919
+  ],
+  "modelIndices": [
+    1593
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Plant",
+  "description": "An unusual tree grows here."
+}

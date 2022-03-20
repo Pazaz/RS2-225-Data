@@ -1,0 +1,19 @@
+{
+  "id": 80,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    609
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Prison Door",
+  "description": "Looks secure."
+}

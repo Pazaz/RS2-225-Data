@@ -1,0 +1,24 @@
+{
+  "id": 2006,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    61,
+    10363
+  ],
+  "newColors": [
+    43053,
+    6587
+  ],
+  "modelIndices": [
+    1523
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue of Glarial",
+  "description": "A statue of Glarial chiselled in stone."
+}

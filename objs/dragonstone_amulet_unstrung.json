@@ -1,0 +1,20 @@
+{
+  "id": 1683,
+  "value": 17625,
+  "description": "It needs a string so I can wear it.",
+  "modelIndex": 2550,
+  "iconX": 8,
+  "iconY": 106,
+  "iconZoom": 370,
+  "iconYaw": 100,
+  "iconCameraPitch": 304,
+  "members": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    51111
+  ],
+  "name": "Dragonstoneamulet",
+  "notedId": 1684
+}

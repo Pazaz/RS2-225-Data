@@ -1,0 +1,37 @@
+{
+  "id": 228,
+  "level": 0,
+  "description": "I can see how he got his name.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    7070,
+    7070
+  ],
+  "name": "Big Dave",
+  "modelIndices": [
+    203,
+    252,
+    299,
+    167,
+    179,
+    271,
+    185,
+    321,
+    562
+  ],
+  "headModelIndices": [
+    45,
+    84
+  ]
+}

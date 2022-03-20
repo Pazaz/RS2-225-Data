@@ -1,0 +1,22 @@
+{
+  "id": 352,
+  "delay": 4,
+  "primaryFrames": [
+    3730,
+    3742,
+    3753,
+    3762
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0,
+    0
+  ]
+}

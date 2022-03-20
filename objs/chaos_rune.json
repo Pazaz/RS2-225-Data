@@ -1,0 +1,11 @@
+{
+  "id": 562,
+  "description": "Used for mid level missile spells.",
+  "stackable": true,
+  "value": 15,
+  "modelIndex": 2707,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Chaos rune"
+}

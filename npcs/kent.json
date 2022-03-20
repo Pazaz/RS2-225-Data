@@ -1,0 +1,37 @@
+{
+  "id": 701,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He looks very tired and hungry.",
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    5805,
+    7855
+  ],
+  "name": "Kent",
+  "modelIndices": [
+    215,
+    249,
+    310,
+    173,
+    176,
+    267,
+    181,
+    534,
+    326
+  ],
+  "headModelIndices": [
+    53,
+    81
+  ]
+}

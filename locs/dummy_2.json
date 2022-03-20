@@ -1,0 +1,20 @@
+{
+  "id": 2038,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Hit"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1286
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dummy",
+  "description": "I've met less intelligent conversationalists."
+}

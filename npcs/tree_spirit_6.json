@@ -1,0 +1,29 @@
+{
+  "id": 443,
+  "description": "A very angry nymph.",
+  "standSeq": 96,
+  "walkSeq": 93,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "disposeAlpha": true,
+  "showOnMinimap": false,
+  "level": 159,
+  "oldColors": [
+    7717,
+    4550,
+    4680,
+    127
+  ],
+  "newColors": [
+    3470,
+    10638,
+    7566,
+    22430
+  ],
+  "name": "Tree spirit",
+  "modelIndices": [
+    2856
+  ]
+}

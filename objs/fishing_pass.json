@@ -1,0 +1,12 @@
+{
+  "id": 27,
+  "description": "Pass to the Hemenster fishing contest.",
+  "modelIndex": 2600,
+  "members": true,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "name": "Fishing pass"
+}

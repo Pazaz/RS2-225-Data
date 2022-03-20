@@ -1,0 +1,13 @@
+{
+  "id": 623,
+  "description": "An ivory sword pommel.",
+  "modelIndex": 2547,
+  "value": 1,
+  "iconX": -2,
+  "iconY": -2,
+  "iconZoom": 1040,
+  "iconYaw": 144,
+  "iconCameraPitch": 604,
+  "members": true,
+  "name": "Sword pommel"
+}

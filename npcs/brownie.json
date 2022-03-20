@@ -1,0 +1,24 @@
+{
+  "id": 437,
+  "walkSeq": 168,
+  "standSeq": 171,
+  "scaleX": 60,
+  "scaleY": 60,
+  "level": 1,
+  "oldColors": [
+    937,
+    926,
+    4550,
+    18316
+  ],
+  "newColors": [
+    7056,
+    7056,
+    7056,
+    7056
+  ],
+  "name": "Brownie",
+  "modelIndices": [
+    2887
+  ]
+}

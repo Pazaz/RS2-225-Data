@@ -1,0 +1,16 @@
+{
+  "id": 2214,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1153
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bank booth",
+  "description": "This booth is for private customers only."
+}

@@ -1,0 +1,43 @@
+{
+  "id": 878,
+  "description": "A military man.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 37,
+  "oldColors": [
+    6798,
+    10128,
+    4626
+  ],
+  "newColors": [
+    7073,
+    41,
+    61
+  ],
+  "name": "Colonel Radick",
+  "modelIndices": [
+    214,
+    244,
+    250,
+    313,
+    164,
+    179,
+    268,
+    185,
+    323,
+    550,
+    3330
+  ],
+  "headModelIndices": [
+    52,
+    77,
+    82
+  ]
+}

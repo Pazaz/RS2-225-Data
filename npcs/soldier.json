@@ -1,0 +1,33 @@
+{
+  "id": 35,
+  "description": "A soldier of the town of Yanille.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 25,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    811,
+    43939
+  ],
+  "name": "Soldier",
+  "modelIndices": [
+    219,
+    301,
+    167,
+    179,
+    274,
+    185,
+    249,
+    518
+  ]
+}

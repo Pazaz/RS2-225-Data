@@ -1,0 +1,17 @@
+{
+  "id": 1470,
+  "value": 4,
+  "description": "A small round red bead.",
+  "modelIndex": 2456,
+  "iconZoom": 1020,
+  "iconYaw": 68,
+  "iconCameraPitch": 68,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "Red bead",
+  "notedId": 1471
+}

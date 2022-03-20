@@ -1,0 +1,20 @@
+{
+  "id": 3263,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 480,
+  "actions": [
+    "Cross"
+  ],
+  "modelIndices": [
+    2259
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Swamp",
+  "description": "This area may not be safe..."
+}

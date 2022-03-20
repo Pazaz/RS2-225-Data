@@ -1,0 +1,22 @@
+{
+  "id": 2319,
+  "description": "This would be much healthier cooked.",
+  "modelIndex": 2767,
+  "iconY": -9,
+  "iconZoom": 950,
+  "iconYaw": 104,
+  "iconCameraPitch": 192,
+  "value": 8,
+  "oldColors": [
+    8670,
+    5006,
+    61
+  ],
+  "newColors": [
+    5720,
+    4407,
+    4416
+  ],
+  "name": "Uncooked meat pie",
+  "notedId": 2320
+}

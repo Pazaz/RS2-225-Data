@@ -1,0 +1,17 @@
+{
+  "id": 4642,
+  "parent": 4564,
+  "type": 4,
+  "buttonType": 3,
+  "contentType": 0,
+  "width": 55,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Dump Items",
+  "color": 11158596,
+  "colorEnabled": 0,
+  "hoverColor": 16777215
+}

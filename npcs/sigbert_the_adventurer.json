@@ -1,0 +1,44 @@
+{
+  "id": 37,
+  "level": 0,
+  "description": "A bold knight famed for his travels.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    11187,
+    11200,
+    11187,
+    926
+  ],
+  "newColors": [
+    7700,
+    61,
+    41,
+    41,
+    43934
+  ],
+  "name": "Sigbert the Adventurer",
+  "modelIndices": [
+    313,
+    208,
+    167,
+    268,
+    185,
+    179,
+    250,
+    323,
+    553,
+    3330
+  ],
+  "headModelIndices": [
+    48,
+    82
+  ]
+}

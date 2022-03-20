@@ -1,0 +1,31 @@
+{
+  "id": 6983,
+  "parent": 6976,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 2,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    0
+  ],
+  "script": [
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": false,
+  "text": "",
+  "activeText": "Finished",
+  "color": 16439170,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

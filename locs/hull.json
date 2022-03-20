@@ -1,0 +1,17 @@
+{
+  "id": 2177,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1913
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hull",
+  "description": "This old trawler has seen better days."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 385,
+  "description": "I'd better be careful eating this.",
+  "modelIndex": 2594,
+  "iconX": 5,
+  "iconY": 12,
+  "iconZoom": 1860,
+  "iconYaw": 12,
+  "iconCameraPitch": 344,
+  "value": 300,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    4418,
+    4517
+  ],
+  "name": "Shark",
+  "notedId": 386
+}

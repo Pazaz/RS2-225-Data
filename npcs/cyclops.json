@@ -1,0 +1,17 @@
+{
+  "id": 116,
+  "size": 2,
+  "walkSeq": 127,
+  "standSeq": 130,
+  "description": "A one-eyed man eater.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 56,
+  "name": "Cyclops",
+  "modelIndices": [
+    2870,
+    2867
+  ]
+}

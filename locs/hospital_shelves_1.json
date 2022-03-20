@@ -1,0 +1,25 @@
+{
+  "id": 3183,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "brightness": 15,
+  "specular": 15,
+  "oldColors": [
+    8076
+  ],
+  "newColors": [
+    99
+  ],
+  "modelIndices": [
+    2133
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hospital shelves",
+  "description": "Storage for drugs and bandages."
+}

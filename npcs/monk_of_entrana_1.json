@@ -1,0 +1,37 @@
+{
+  "id": 657,
+  "level": 0,
+  "description": "Holy looking.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    4769,
+    4769,
+    6854
+  ],
+  "name": "Monk of Entrana",
+  "modelIndices": [
+    223,
+    181,
+    251,
+    292,
+    170,
+    176,
+    260
+  ],
+  "headModelIndices": [
+    59,
+    83
+  ]
+}

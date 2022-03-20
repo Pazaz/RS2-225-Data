@@ -1,0 +1,13 @@
+{
+  "id": 1487,
+  "description": "A withered unicorn horn.",
+  "modelIndex": 2495,
+  "iconX": 4,
+  "iconY": -8,
+  "iconZoom": 840,
+  "iconYaw": 132,
+  "iconCameraPitch": 248,
+  "members": true,
+  "value": 20,
+  "name": "Unicorn horn"
+}

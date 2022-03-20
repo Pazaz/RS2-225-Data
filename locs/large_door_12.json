@@ -1,0 +1,19 @@
+{
+  "id": 1513,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    616
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Large door",
+  "description": "A sturdy wooden door."
+}

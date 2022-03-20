@@ -1,0 +1,37 @@
+{
+  "id": 598,
+  "level": 0,
+  "description": "Anyone fancy a trim?",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8090,
+    8741,
+    25238
+  ],
+  "newColors": [
+    8741,
+    54503,
+    906
+  ],
+  "name": "Hairdresser",
+  "modelIndices": [
+    235,
+    181,
+    246,
+    295,
+    162,
+    176,
+    274,
+    244
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

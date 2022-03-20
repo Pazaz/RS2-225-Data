@@ -1,0 +1,19 @@
+{
+  "id": 850,
+  "description": "It's a tree gnome chef.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 1,
+  "name": "Aluft Gianne",
+  "modelIndices": [
+    2909,
+    2889,
+    2917
+  ],
+  "headModelIndices": [
+    15
+  ]
+}

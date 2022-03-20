@@ -1,0 +1,22 @@
+{
+  "id": 159,
+  "description": "2 doses of super strength potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 165,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    119
+  ],
+  "name": "Super strength(2)",
+  "notedId": 160
+}

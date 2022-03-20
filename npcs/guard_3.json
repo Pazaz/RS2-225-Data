@@ -1,0 +1,33 @@
+{
+  "id": 32,
+  "description": "Keeps the peace... kind of.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 20,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    811,
+    43939
+  ],
+  "name": "Guard",
+  "modelIndices": [
+    225,
+    301,
+    162,
+    179,
+    274,
+    185,
+    502
+  ]
+}

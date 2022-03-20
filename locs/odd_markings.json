@@ -1,0 +1,20 @@
+{
+  "id": 3234,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    2323
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Odd markings",
+  "description": "Looks suspicious."
+}

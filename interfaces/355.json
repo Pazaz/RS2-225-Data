@@ -1,0 +1,30 @@
+{
+  "id": 355,
+  "parent": 328,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 25,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    2
+  ],
+  "scriptCompareValue": [
+    2
+  ],
+  "script": [
+    [
+      5,
+      108,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Spell",
+  "color": 11576210,
+  "colorEnabled": 16776960,
+  "hoverColor": 0
+}

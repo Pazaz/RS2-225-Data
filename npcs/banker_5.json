@@ -1,0 +1,17 @@
+{
+  "id": 498,
+  "level": 0,
+  "description": "Manages money momentarily.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Banker",
+  "modelIndices": [
+    2860
+  ],
+  "headModelIndices": [
+    14
+  ]
+}

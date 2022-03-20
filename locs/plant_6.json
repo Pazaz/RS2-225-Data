@@ -1,0 +1,16 @@
+{
+  "id": 1393,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1643
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Plant",
+  "description": "A small bushy plant."
+}

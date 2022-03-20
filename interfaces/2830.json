@@ -1,0 +1,26 @@
+{
+  "id": 2830,
+  "parent": 2808,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 25,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    19
+  ],
+  "script": [
+    [
+      5,
+      79,
+      0
+    ]
+  ],
+  "image": "miscgraphics3,0",
+  "activeImage": "miscgraphics3,1",
+  "option": "Advance Fletching"
+}

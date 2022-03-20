@@ -1,0 +1,27 @@
+{
+  "id": 1009,
+  "value": 30,
+  "description": "I'd prefer a gold one.",
+  "modelIndex": 2506,
+  "iconX": 5,
+  "iconY": 44,
+  "iconZoom": 600,
+  "iconYaw": 160,
+  "iconCameraPitch": 304,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 281,
+  "maleOffsetY": 0,
+  "femaleModel0": 445,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    9152
+  ],
+  "newColors": [
+    7085
+  ],
+  "name": "Brass necklace",
+  "notedId": 1010
+}

@@ -1,0 +1,40 @@
+{
+  "id": 649,
+  "level": 0,
+  "description": "She looks quite experienced.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    6798,
+    39145,
+    5532
+  ],
+  "newColors": [
+    11206,
+    6854,
+    10508,
+    10508
+  ],
+  "name": "Archer",
+  "modelIndices": [
+    390,
+    456,
+    332,
+    356,
+    422,
+    414,
+    483,
+    563
+  ],
+  "headModelIndices": [
+    113,
+    131
+  ]
+}

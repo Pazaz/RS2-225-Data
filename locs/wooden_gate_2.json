@@ -1,0 +1,25 @@
+{
+  "id": 2262,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    966,
+    967,
+    968
+  ],
+  "modelTypes": [
+    0,
+    1,
+    9
+  ],
+  "name": "Wooden gate",
+  "description": "The gate is closed."
+}

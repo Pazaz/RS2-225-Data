@@ -1,0 +1,16 @@
+{
+  "id": 618,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1252
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chemistry Table",
+  "description": "There are some strange chemicals here."
+}

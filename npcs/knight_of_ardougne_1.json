@@ -1,0 +1,38 @@
+{
+  "id": 23,
+  "description": "A member of Ardougne's militia.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "standSeq": 808,
+  "level": 46,
+  "oldColors": [
+    11187,
+    5532,
+    54397,
+    6798
+  ],
+  "newColors": [
+    54185,
+    82,
+    48064,
+    48064
+  ],
+  "name": "Knight of Ardougne",
+  "modelIndices": [
+    218,
+    313,
+    164,
+    179,
+    268,
+    185,
+    518,
+    3330
+  ]
+}

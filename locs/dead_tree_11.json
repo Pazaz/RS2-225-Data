@@ -1,0 +1,18 @@
+{
+  "id": 1333,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "mapscene": 6,
+  "modelIndices": [
+    1607
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dead tree",
+  "description": "This old tree has been taken over by parasitic plants."
+}

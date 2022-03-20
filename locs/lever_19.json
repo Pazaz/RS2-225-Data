@@ -1,0 +1,20 @@
+{
+  "id": 2794,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Pull"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    2108
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Lever",
+  "description": "A lever for activating something."
+}

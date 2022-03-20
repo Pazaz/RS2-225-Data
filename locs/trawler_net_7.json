@@ -1,0 +1,20 @@
+{
+  "id": 2173,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 6,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Inspect"
+  ],
+  "modelIndices": [
+    1901
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trawler net",
+  "description": "A huge net to catch little fish."
+}

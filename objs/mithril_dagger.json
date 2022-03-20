@@ -1,0 +1,32 @@
+{
+  "id": 1209,
+  "modelIndex": 2672,
+  "description": "A dangerous dagger.",
+  "value": 325,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 533,
+  "maleOffsetY": 0,
+  "femaleModel0": 533,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    37,
+    74,
+    103
+  ],
+  "newColors": [
+    43297,
+    43412,
+    43297,
+    43181
+  ],
+  "name": "Mithril dagger",
+  "notedId": 1210
+}

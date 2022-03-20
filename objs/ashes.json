@@ -1,0 +1,18 @@
+{
+  "id": 592,
+  "description": "A heap of ashes.",
+  "value": 2,
+  "modelIndex": 2742,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    111
+  ],
+  "name": "Ashes",
+  "notedId": 593
+}

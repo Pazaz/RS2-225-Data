@@ -1,0 +1,16 @@
+{
+  "id": 269,
+  "size": 2,
+  "walkSeq": 157,
+  "standSeq": 160,
+  "description": "Nice doggy.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 132,
+  "name": "Bouncer",
+  "modelIndices": [
+    2997
+  ]
+}

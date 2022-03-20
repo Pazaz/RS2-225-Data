@@ -1,0 +1,23 @@
+{
+  "id": 1386,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "oldColors": [
+    6028
+  ],
+  "newColors": [
+    61985
+  ],
+  "modelIndices": [
+    2173
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "The roots of this tree are exposed."
+}

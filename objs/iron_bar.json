@@ -1,0 +1,19 @@
+{
+  "id": 2351,
+  "description": "It's a bar of iron.",
+  "value": 28,
+  "modelIndex": 2408,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 820,
+  "iconYaw": 1180,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Iron bar",
+  "notedId": 2352
+}

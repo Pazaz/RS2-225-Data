@@ -1,0 +1,28 @@
+{
+  "id": 1389,
+  "description": "A Magical staff.",
+  "value": 200,
+  "modelIndex": 2648,
+  "iconY": -23,
+  "iconZoom": 1460,
+  "iconYaw": 1416,
+  "iconCameraPitch": 196,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 534,
+  "maleOffsetY": 0,
+  "maleModel1": 567,
+  "femaleModel0": 534,
+  "femaleOffsetY": 6,
+  "femaleModel1": 567,
+  "oldColors": [
+    43117
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Magic staff",
+  "notedId": 1390
+}

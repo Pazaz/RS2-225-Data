@@ -1,0 +1,30 @@
+{
+  "id": 2854,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "thickness": 8,
+  "culls": true,
+  "interactable": true,
+  "actions": [
+    "Knock-at"
+  ],
+  "modelIndices": [
+    2212,
+    2213,
+    2176,
+    2177,
+    2178
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Wall",
+  "description": "Made of wood."
+}

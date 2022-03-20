@@ -1,0 +1,17 @@
+{
+  "id": 1312,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "modelIndices": [
+    1575
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Palm",
+  "description": "An essential for tropical islands."
+}

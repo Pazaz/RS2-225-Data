@@ -1,0 +1,35 @@
+{
+  "id": 566,
+  "level": 0,
+  "description": "Is he invisible or just a set of floating clothing?",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    38814,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508,
+    10508
+  ],
+  "name": "Irksol",
+  "modelIndices": [
+    292,
+    170,
+    260,
+    202
+  ],
+  "headModelIndices": [
+    44
+  ]
+}

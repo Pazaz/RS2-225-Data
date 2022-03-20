@@ -1,0 +1,20 @@
+{
+  "id": 1940,
+  "description": "A thick tar like substance mixed with flour.",
+  "value": 1,
+  "modelIndex": 2499,
+  "iconX": 1,
+  "iconY": -22,
+  "iconZoom": 710,
+  "iconYaw": 148,
+  "iconCameraPitch": 224,
+  "members": true,
+  "stackable": true,
+  "oldColors": [
+    16
+  ],
+  "newColors": [
+    28
+  ],
+  "name": "Raw swamp paste"
+}

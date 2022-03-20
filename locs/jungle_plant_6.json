@@ -1,0 +1,16 @@
+{
+  "id": 1401,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1678
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "A type of jungle fern."
+}

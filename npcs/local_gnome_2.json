@@ -1,0 +1,19 @@
+{
+  "id": 485,
+  "level": 0,
+  "description": "It's a young tree gnome.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Local Gnome",
+  "modelIndices": [
+    2909,
+    2890,
+    2917
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

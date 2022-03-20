@@ -1,0 +1,20 @@
+{
+  "id": 2732,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 475,
+  "disposeAlpha": true,
+  "brightness": 75,
+  "specular": 75,
+  "modelIndices": [
+    2260
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fire",
+  "description": "Hot!"
+}

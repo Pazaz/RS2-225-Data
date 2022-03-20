@@ -1,0 +1,17 @@
+{
+  "id": 2450,
+  "parent": 2449,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 179,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "When you have finished playing",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

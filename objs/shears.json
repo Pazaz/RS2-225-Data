@@ -1,0 +1,15 @@
+{
+  "id": 1735,
+  "description": "For shearing sheep.",
+  "modelIndex": 2620,
+  "maleModel0": 525,
+  "maleOffsetY": 0,
+  "femaleModel0": 525,
+  "femaleOffsetY": 6,
+  "iconY": 15,
+  "iconZoom": 710,
+  "iconYaw": 136,
+  "iconCameraPitch": 300,
+  "name": "Shears",
+  "notedId": 1736
+}

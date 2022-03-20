@@ -1,0 +1,16 @@
+{
+  "id": 1156,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1680
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted flower",
+  "description": "I bet bees like this."
+}

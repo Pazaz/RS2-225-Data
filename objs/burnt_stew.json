@@ -1,0 +1,20 @@
+{
+  "id": 2005,
+  "description": "Eew, it's horribly burnt.",
+  "value": 1,
+  "modelIndex": 2367,
+  "iconZoom": 910,
+  "iconYaw": 1856,
+  "iconCameraPitch": 204,
+  "options": [
+    "Empty Bowl"
+  ],
+  "oldColors": [
+    44263
+  ],
+  "newColors": [
+    16
+  ],
+  "name": "Burnt stew",
+  "notedId": 2006
+}

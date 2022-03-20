@@ -1,0 +1,23 @@
+{
+  "id": 2894,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 5,
+  "oldColors": [
+    17304
+  ],
+  "newColors": [
+    22447
+  ],
+  "modelIndices": [
+    1613
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Slashed bush",
+  "description": "A jungle bush that has been chopped down."
+}

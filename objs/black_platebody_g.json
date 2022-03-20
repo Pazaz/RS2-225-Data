@@ -1,0 +1,31 @@
+{
+  "id": 2591,
+  "description": "Black platebody with gold trim.",
+  "value": 3840,
+  "modelIndex": 2378,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "oldColors": [
+    24,
+    61,
+    41
+  ],
+  "newColors": [
+    7114,
+    8,
+    0
+  ],
+  "name": "Black platebody (g)",
+  "notedId": 2592
+}

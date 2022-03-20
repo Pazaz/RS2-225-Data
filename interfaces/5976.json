@@ -1,0 +1,18 @@
+{
+  "id": 5976,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 606,
+  "width": 153,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "6: Account sharing/trading",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

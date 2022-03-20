@@ -1,0 +1,27 @@
+{
+  "id": 737,
+  "level": 0,
+  "description": "I could get a beer from him.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Bartender",
+  "modelIndices": [
+    214,
+    248,
+    305,
+    151,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    52,
+    80
+  ]
+}

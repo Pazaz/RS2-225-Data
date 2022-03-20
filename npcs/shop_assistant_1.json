@@ -1,0 +1,42 @@
+{
+  "id": 521,
+  "level": 0,
+  "description": "Helps sell stuff.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    54397
+  ],
+  "newColors": [
+    5652,
+    4769,
+    10508,
+    4550,
+    4391
+  ],
+  "name": "Shop assistant",
+  "modelIndices": [
+    235,
+    254,
+    246,
+    305,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

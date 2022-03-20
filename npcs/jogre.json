@@ -1,0 +1,27 @@
+{
+  "id": 113,
+  "size": 2,
+  "walkSeq": 127,
+  "standSeq": 130,
+  "description": "An aggressive humanoid.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 48,
+  "oldColors": [
+    4550,
+    39145,
+    9649
+  ],
+  "newColors": [
+    14236,
+    16916,
+    14236
+  ],
+  "name": "Jogre",
+  "modelIndices": [
+    2870,
+    2866
+  ]
+}

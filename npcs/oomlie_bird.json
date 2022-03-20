@@ -1,0 +1,29 @@
+{
+  "id": 48,
+  "description": "A jungle version of the chicken, but more vicious.",
+  "walkSeq": 53,
+  "standSeq": 54,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "scaleX": 180,
+  "scaleY": 180,
+  "level": 28,
+  "oldColors": [
+    127,
+    926,
+    61,
+    8394
+  ],
+  "newColors": [
+    2332,
+    947,
+    926,
+    926
+  ],
+  "name": "Oomlie Bird",
+  "modelIndices": [
+    2849
+  ]
+}

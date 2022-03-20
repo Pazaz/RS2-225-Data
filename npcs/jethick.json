@@ -1,0 +1,39 @@
+{
+  "id": 725,
+  "level": 0,
+  "description": "A cynical old man.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    43072
+  ],
+  "newColors": [
+    6449,
+    10913,
+    10299,
+    4550
+  ],
+  "name": "Jethick",
+  "modelIndices": [
+    235,
+    252,
+    299,
+    173,
+    176,
+    263,
+    185
+  ],
+  "headModelIndices": [
+    67,
+    84
+  ]
+}

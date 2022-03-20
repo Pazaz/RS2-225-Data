@@ -1,0 +1,19 @@
+{
+  "id": 2322,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 6,
+  "actions": [
+    "Swing-on"
+  ],
+  "modelIndices": [
+    2277
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ropeswing",
+  "description": "Use this to swing across gaps."
+}

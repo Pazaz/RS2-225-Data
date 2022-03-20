@@ -1,0 +1,34 @@
+{
+  "id": 582,
+  "level": 0,
+  "description": "I wonder if he wants to buy my junk?",
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    43072,
+    7473,
+    61
+  ],
+  "newColors": [
+    4550,
+    803,
+    36133
+  ],
+  "name": "Dwarf",
+  "modelIndices": [
+    2971,
+    2981,
+    2979,
+    2983,
+    2985,
+    2990
+  ],
+  "headModelIndices": [
+    1
+  ]
+}

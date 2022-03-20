@@ -1,0 +1,24 @@
+{
+  "id": 3349,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    4888,
+    5916
+  ],
+  "newColors": [
+    7952,
+    8076
+  ],
+  "modelIndices": [
+    702
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "iban_temple_throne_top"
+}

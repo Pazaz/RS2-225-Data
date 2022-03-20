@@ -1,0 +1,12 @@
+{
+  "id": 1410,
+  "description": "The staff is unusable in this state.",
+  "modelIndex": 2835,
+  "iconX": 8,
+  "iconZoom": 1410,
+  "iconYaw": 1896,
+  "iconCameraPitch": 216,
+  "members": true,
+  "value": 20,
+  "name": "Broken iban staff"
+}

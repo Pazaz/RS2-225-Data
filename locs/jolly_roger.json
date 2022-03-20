@@ -1,0 +1,19 @@
+{
+  "id": 966,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 10,
+  "interactable": true,
+  "modelIndices": [
+    2094
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Jolly Roger",
+  "description": "He dosen't look too jolly to me!"
+}

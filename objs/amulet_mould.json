@@ -1,0 +1,13 @@
+{
+  "id": 1595,
+  "description": "Used to make gold amulets",
+  "value": 5,
+  "modelIndex": 2368,
+  "iconX": 4,
+  "iconY": 3,
+  "iconZoom": 620,
+  "iconYaw": 96,
+  "iconCameraPitch": 340,
+  "name": "Amulet mould",
+  "notedId": 1596
+}

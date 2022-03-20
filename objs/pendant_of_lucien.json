@@ -1,0 +1,27 @@
+{
+  "id": 86,
+  "description": "The amulet that Lucien gave you.",
+  "modelIndex": 2508,
+  "members": true,
+  "maleModel0": 282,
+  "maleOffsetY": 0,
+  "femaleModel0": 446,
+  "femaleOffsetY": 0,
+  "value": 12,
+  "iconX": -1,
+  "iconY": -5,
+  "iconZoom": 420,
+  "iconYaw": 80,
+  "iconCameraPitch": 224,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    22193
+  ],
+  "name": "Pendant of lucien"
+}

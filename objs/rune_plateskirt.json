@@ -1,0 +1,28 @@
+{
+  "id": 1093,
+  "description": "Designer leg protection.",
+  "value": 64000,
+  "modelIndex": 2542,
+  "iconX": 5,
+  "iconY": 5,
+  "iconZoom": 1100,
+  "iconCameraPitch": 620,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 266,
+  "maleOffsetY": 0,
+  "femaleModel0": 430,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    36133,
+    37270
+  ],
+  "name": "Rune plateskirt",
+  "notedId": 1094
+}

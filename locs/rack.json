@@ -1,0 +1,16 @@
+{
+  "id": 647,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "modelIndices": [
+    1191
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rack",
+  "description": "Makes you taller."
+}

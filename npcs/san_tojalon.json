@@ -1,0 +1,31 @@
+{
+  "id": 936,
+  "description": "The spirit of a long dead warrior.",
+  "walkSeq": 264,
+  "standSeq": 267,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 106,
+  "oldColors": [
+    61,
+    7054,
+    9152
+  ],
+  "newColors": [
+    21570,
+    12705,
+    4
+  ],
+  "name": "San Tojalon",
+  "modelIndices": [
+    2944,
+    2945
+  ],
+  "headModelIndices": [
+    54,
+    38
+  ]
+}

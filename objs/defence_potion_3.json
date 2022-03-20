@@ -1,0 +1,22 @@
+{
+  "id": 133,
+  "description": "3 doses of defence potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 120,
+  "modelIndex": 2697,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22344
+  ],
+  "name": "Defence potion(3)",
+  "notedId": 134
+}

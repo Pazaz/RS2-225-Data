@@ -1,0 +1,22 @@
+{
+  "id": 2788,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    1509,
+    1511
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "City gate",
+  "description": "An entrance to Gu'Tanoth."
+}

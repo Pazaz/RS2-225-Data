@@ -1,0 +1,28 @@
+{
+  "id": 859,
+  "members": true,
+  "value": 2560,
+  "description": "A nice sturdy magical bow.",
+  "modelIndex": 2832,
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1820,
+  "iconYaw": 1004,
+  "iconCameraPitch": 460,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 563,
+  "maleOffsetY": 0,
+  "femaleModel0": 563,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    31516
+  ],
+  "name": "Magic longbow",
+  "notedId": 860
+}

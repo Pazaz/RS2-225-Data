@@ -1,0 +1,11 @@
+{
+  "id": 1013,
+  "level": 0,
+  "description": "A green skinned croaker, loves the swamp.",
+  "standSeq": 1018,
+  "walkSeq": 1021,
+  "name": "Swamp toad",
+  "modelIndices": [
+    3447
+  ]
+}

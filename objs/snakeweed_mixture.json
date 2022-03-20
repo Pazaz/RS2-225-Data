@@ -1,0 +1,17 @@
+{
+  "id": 737,
+  "description": "It's a mixture of Snakeweed and water, I need another ingredient to finish this potion.",
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    17344
+  ],
+  "name": "Snakeweed mixture"
+}

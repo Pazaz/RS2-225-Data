@@ -1,0 +1,40 @@
+{
+  "id": 992,
+  "level": 0,
+  "description": "A dark and evil crone.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    4550,
+    27548,
+    38814,
+    25238
+  ],
+  "newColors": [
+    10419,
+    10419,
+    10419,
+    59274,
+    59274
+  ],
+  "name": "Kardia",
+  "modelIndices": [
+    405,
+    474,
+    347,
+    421,
+    353,
+    361,
+    479,
+    447,
+    534,
+    377
+  ]
+}

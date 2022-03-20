@@ -1,0 +1,16 @@
+{
+  "id": 1192,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1658
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowers",
+  "description": "A rare flower."
+}

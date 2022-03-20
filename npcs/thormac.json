@@ -1,0 +1,47 @@
+{
+  "id": 389,
+  "level": 0,
+  "description": "Nice hat.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "oldColors": [
+    8741,
+    25238,
+    43072,
+    6798,
+    7073,
+    43117
+  ],
+  "newColors": [
+    38814,
+    38814,
+    4550,
+    43100,
+    43914,
+    50130
+  ],
+  "name": "Thormac",
+  "modelIndices": [
+    202,
+    214,
+    250,
+    292,
+    170,
+    176,
+    256,
+    283,
+    553,
+    567
+  ],
+  "headModelIndices": [
+    44,
+    52,
+    82
+  ]
+}

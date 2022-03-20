@@ -1,0 +1,18 @@
+{
+  "id": 5981,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 611,
+  "width": 139,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "11: Advertising / website",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

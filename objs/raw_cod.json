@@ -1,0 +1,21 @@
+{
+  "id": 341,
+  "description": "I should try cooking this.",
+  "modelIndex": 2354,
+  "iconY": 3,
+  "iconZoom": 1370,
+  "iconYaw": 1840,
+  "iconCameraPitch": 532,
+  "value": 25,
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    43206,
+    43082
+  ],
+  "name": "Raw cod",
+  "notedId": 342
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1037,
+  "description": "A rabbit-like adornment.",
+  "modelIndex": 2553,
+  "iconZoom": 550,
+  "iconYaw": 4,
+  "iconCameraPitch": 360,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3352,
+  "maleOffsetY": 0,
+  "femaleModel0": 3353,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 33,
+  "femaleHeadModelA": 91,
+  "name": "Bunny ears"
+}

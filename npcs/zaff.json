@@ -1,0 +1,42 @@
+{
+  "id": 546,
+  "level": 0,
+  "description": "Sells superior staffs.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    4550
+  ],
+  "newColors": [
+    38852,
+    38852,
+    10508,
+    6806
+  ],
+  "name": "Zaff",
+  "modelIndices": [
+    215,
+    181,
+    251,
+    292,
+    170,
+    176,
+    265,
+    553
+  ],
+  "headModelIndices": [
+    53,
+    83
+  ]
+}

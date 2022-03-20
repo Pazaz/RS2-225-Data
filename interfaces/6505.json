@@ -1,0 +1,17 @@
+{
+  "id": 6505,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 232,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Are you sure you want to fight this duel?",
+  "color": 16755268,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

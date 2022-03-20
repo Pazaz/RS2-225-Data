@@ -1,0 +1,38 @@
+{
+  "id": 809,
+  "level": 0,
+  "description": "She looks like she enjoys her job.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238,
+    43072
+  ],
+  "newColors": [
+    46278,
+    8,
+    8,
+    4550
+  ],
+  "name": "Louisa",
+  "modelIndices": [
+    378,
+    465,
+    332,
+    353,
+    419,
+    358,
+    483
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

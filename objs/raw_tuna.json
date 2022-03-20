@@ -1,0 +1,20 @@
+{
+  "id": 359,
+  "description": "I should try cooking this.",
+  "modelIndex": 2355,
+  "iconY": 3,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 464,
+  "value": 100,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    111,
+    127
+  ],
+  "name": "Raw tuna",
+  "notedId": 360
+}

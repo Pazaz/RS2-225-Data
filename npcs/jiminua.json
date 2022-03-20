@@ -1,0 +1,44 @@
+{
+  "id": 560,
+  "level": 0,
+  "description": "Goods for sale and trade!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    43072,
+    25238,
+    926,
+    908,
+    4626
+  ],
+  "newColors": [
+    4645,
+    4645,
+    6040,
+    16809,
+    6040,
+    4645
+  ],
+  "name": "Jiminua",
+  "modelIndices": [
+    404,
+    473,
+    351,
+    353,
+    429,
+    358,
+    453
+  ],
+  "headModelIndices": [
+    121
+  ]
+}

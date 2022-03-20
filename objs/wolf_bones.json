@@ -1,0 +1,22 @@
+{
+  "id": 2859,
+  "description": "Bones of a recently slain wolf.",
+  "modelIndex": 2674,
+  "value": 1,
+  "members": true,
+  "iconX": 2,
+  "iconZoom": 1410,
+  "iconYaw": 368,
+  "iconCameraPitch": 400,
+  "options": [
+    "Bury"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    10326
+  ],
+  "name": "Wolf bones",
+  "notedId": 2860
+}

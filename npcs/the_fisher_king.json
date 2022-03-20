@@ -1,0 +1,47 @@
+{
+  "id": 220,
+  "level": 0,
+  "description": "He doesn't look very well...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4626,
+    61,
+    41,
+    4550,
+    9104,
+    57
+  ],
+  "newColors": [
+    107,
+    107,
+    82,
+    5442,
+    107,
+    107
+  ],
+  "name": "The Fisher King",
+  "modelIndices": [
+    215,
+    301,
+    165,
+    179,
+    268,
+    185,
+    534,
+    252,
+    192,
+    323
+  ],
+  "headModelIndices": [
+    53,
+    35,
+    84
+  ]
+}

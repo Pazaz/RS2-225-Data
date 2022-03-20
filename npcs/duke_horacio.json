@@ -1,0 +1,37 @@
+{
+  "id": 741,
+  "level": 0,
+  "description": "Duke Horacio of Lumbridge.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    567,
+    10508
+  ],
+  "name": "Duke Horacio",
+  "modelIndices": [
+    235,
+    281,
+    251,
+    292,
+    151,
+    176,
+    254,
+    181,
+    323
+  ],
+  "headModelIndices": [
+    67,
+    83
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 288,
+  "level": 0,
+  "description": "Yep, definitely a chicken.",
+  "walkSeq": 53,
+  "standSeq": 54,
+  "name": "Chicken",
+  "modelIndices": [
+    2849
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

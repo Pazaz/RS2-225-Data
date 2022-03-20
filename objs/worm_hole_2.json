@@ -1,0 +1,16 @@
+{
+  "id": 2233,
+  "description": "It actually smells quite good.",
+  "modelIndex": 2609,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "value": 150,
+  "name": "Worm hole",
+  "notedId": 2234
+}

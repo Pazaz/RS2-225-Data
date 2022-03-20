@@ -1,0 +1,28 @@
+{
+  "id": 2418,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "Shut"
+  ],
+  "interactionSideFlags": 14,
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    11173
+  ],
+  "modelIndices": [
+    1226
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Open chest",
+  "description": "Place party drop items here."
+}

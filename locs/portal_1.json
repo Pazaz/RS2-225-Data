@@ -1,0 +1,18 @@
+{
+  "id": 1812,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "animationIndex": 491,
+  "modelIndices": [
+    2253
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Portal",
+  "description": "A magical border of teleportation."
+}

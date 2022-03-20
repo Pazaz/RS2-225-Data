@@ -1,0 +1,21 @@
+{
+  "id": 2175,
+  "description": "This gnome bowl has been burnt to a cinder.",
+  "value": 1,
+  "members": true,
+  "modelIndex": 2728,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "oldColors": [
+    7081,
+    7075
+  ],
+  "newColors": [
+    20,
+    41
+  ],
+  "name": "Burnt gnomebowl",
+  "notedId": 2176
+}

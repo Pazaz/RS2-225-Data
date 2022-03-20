@@ -1,0 +1,29 @@
+{
+  "id": 1580,
+  "description": "These will keep my hands cold!",
+  "value": 6,
+  "modelIndex": 2649,
+  "iconX": 8,
+  "iconY": -8,
+  "iconZoom": 930,
+  "iconYaw": 828,
+  "iconCameraPitch": 420,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 179,
+  "maleOffsetY": 0,
+  "femaleModel0": 356,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    10004,
+    5532
+  ],
+  "newColors": [
+    35290,
+    35290
+  ],
+  "name": "Ice gloves"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 636,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1389
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Buffers",
+  "description": "Keeps mine carts from rolling away."
+}

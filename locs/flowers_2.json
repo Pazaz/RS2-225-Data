@@ -1,0 +1,16 @@
+{
+  "id": 1193,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1623
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowers",
+  "description": "Don't flowers make you feel better?"
+}

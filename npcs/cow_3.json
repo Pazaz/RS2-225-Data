@@ -1,0 +1,27 @@
+{
+  "id": 955,
+  "size": 2,
+  "walkSeq": 58,
+  "standSeq": 61,
+  "description": "It's a dairy cow.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "oldColors": [
+    10363,
+    26,
+    4446
+  ],
+  "newColors": [
+    5784,
+    5784,
+    5289
+  ],
+  "name": "Cow",
+  "modelIndices": [
+    3341,
+    3342
+  ]
+}

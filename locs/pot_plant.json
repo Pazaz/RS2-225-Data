@@ -1,0 +1,19 @@
+{
+  "id": 2867,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Look-under"
+  ],
+  "modelIndices": [
+    1590
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pot plant"
+}

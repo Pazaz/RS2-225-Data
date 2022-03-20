@@ -1,0 +1,20 @@
+{
+  "id": 72,
+  "value": 800,
+  "members": true,
+  "description": "An unstrung magic shortbow, I need a bowstring for this.",
+  "modelIndex": 2435,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    31516
+  ],
+  "name": "Magic shortbow",
+  "notedId": 73
+}

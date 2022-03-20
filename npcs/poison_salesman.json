@@ -1,0 +1,37 @@
+{
+  "id": 820,
+  "level": 0,
+  "description": "He sure likes to sell stuff!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    8078,
+    25238
+  ],
+  "newColors": [
+    943,
+    7073,
+    7075,
+    7073
+  ],
+  "name": "Poison Salesman",
+  "modelIndices": [
+    217,
+    246,
+    292,
+    162,
+    176,
+    261
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

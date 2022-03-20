@@ -1,0 +1,22 @@
+{
+  "id": 665,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A short angry guy.",
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Boot",
+  "modelIndices": [
+    2971,
+    2981,
+    2979,
+    2983,
+    2985,
+    2990
+  ],
+  "headModelIndices": [
+    1
+  ]
+}

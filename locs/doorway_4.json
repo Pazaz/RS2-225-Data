@@ -1,0 +1,19 @@
+{
+  "id": 1580,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "modelIndices": [
+    653,
+    644
+  ],
+  "modelTypes": [
+    10,
+    0
+  ],
+  "name": "Doorway",
+  "description": "The base of the archway."
+}

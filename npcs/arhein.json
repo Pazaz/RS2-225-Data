@@ -1,0 +1,44 @@
+{
+  "id": 563,
+  "level": 0,
+  "description": "He looks fairly well-to-do.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    6798,
+    43072,
+    8741,
+    25238,
+    4626,
+    54397
+  ],
+  "newColors": [
+    8,
+    4550,
+    7070,
+    8,
+    8,
+    4391
+  ],
+  "name": "Arhein",
+  "modelIndices": [
+    215,
+    305,
+    167,
+    176,
+    254,
+    185,
+    246
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

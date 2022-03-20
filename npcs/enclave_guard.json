@@ -1,0 +1,20 @@
+{
+  "id": 870,
+  "description": "Big and ugly looking.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 74,
+  "name": "Enclave guard",
+  "modelIndices": [
+    2880,
+    2876
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

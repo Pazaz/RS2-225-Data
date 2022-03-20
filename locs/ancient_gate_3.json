@@ -1,0 +1,31 @@
+{
+  "id": 2922,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    41,
+    61,
+    24,
+    10275
+  ],
+  "newColors": [
+    4,
+    33,
+    4,
+    1942
+  ],
+  "modelIndices": [
+    1727
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Ancient Gate"
+}

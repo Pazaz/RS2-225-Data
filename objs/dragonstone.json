@@ -1,0 +1,31 @@
+{
+  "id": 1615,
+  "value": 10000,
+  "description": "This looks valuable.",
+  "modelIndex": 2586,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "members": true,
+  "maleModel0": 516,
+  "maleOffsetY": 0,
+  "femaleModel0": 516,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    478,
+    931,
+    918,
+    127
+  ],
+  "newColors": [
+    50752,
+    51111,
+    50074,
+    50752
+  ],
+  "name": "Dragonstone",
+  "notedId": 1616
+}

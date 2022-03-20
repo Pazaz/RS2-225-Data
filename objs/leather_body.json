@@ -1,0 +1,19 @@
+{
+  "id": 1129,
+  "description": "Better than no armour!",
+  "value": 21,
+  "modelIndex": 2540,
+  "iconY": 2,
+  "iconZoom": 750,
+  "iconCameraPitch": 528,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 311,
+  "maleOffsetY": 0,
+  "femaleModel0": 475,
+  "femaleOffsetY": 0,
+  "name": "Leather body",
+  "notedId": 1130
+}

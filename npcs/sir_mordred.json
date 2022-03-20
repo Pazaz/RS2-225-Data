@@ -1,0 +1,46 @@
+{
+  "id": 247,
+  "description": "Leader of the Renegade Knights.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 37,
+  "oldColors": [
+    61,
+    41,
+    57,
+    4626,
+    11218,
+    47168
+  ],
+  "newColors": [
+    0,
+    8,
+    0,
+    0,
+    55188,
+    20
+  ],
+  "name": "Sir Mordred",
+  "modelIndices": [
+    225,
+    306,
+    164,
+    179,
+    268,
+    185,
+    513,
+    246,
+    541,
+    240
+  ],
+  "headModelIndices": [
+    60
+  ]
+}

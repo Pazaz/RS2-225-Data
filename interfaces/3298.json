@@ -1,0 +1,17 @@
+{
+  "id": 3298,
+  "parent": 3281,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 33,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "Yard",
+  "color": 15977625,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

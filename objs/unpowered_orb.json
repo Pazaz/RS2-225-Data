@@ -1,0 +1,20 @@
+{
+  "id": 567,
+  "modelIndex": 2428,
+  "iconX": 3,
+  "iconY": 3,
+  "iconZoom": 790,
+  "iconYaw": 96,
+  "iconCameraPitch": 316,
+  "value": 100,
+  "members": true,
+  "description": "I'd prefer it if it was powered.",
+  "oldColors": [
+    43117
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Unpowered orb",
+  "notedId": 568
+}

@@ -1,0 +1,44 @@
+{
+  "id": 931,
+  "description": "An aggresive native of the Kharazi jungle.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 84,
+  "oldColors": [
+    4550,
+    43072,
+    61,
+    25238,
+    908,
+    4626
+  ],
+  "newColors": [
+    5681,
+    5681,
+    6044,
+    6044,
+    6044,
+    5681
+  ],
+  "name": "Jungle Savage",
+  "modelIndices": [
+    231,
+    246,
+    309,
+    173,
+    176,
+    266,
+    181,
+    540
+  ],
+  "headModelIndices": [
+    64
+  ]
+}

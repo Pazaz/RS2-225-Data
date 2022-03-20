@@ -1,0 +1,23 @@
+{
+  "id": 510,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": false,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    119
+  ],
+  "modelIndices": [
+    821
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rockslide",
+  "description": "A deposit of rocks."
+}

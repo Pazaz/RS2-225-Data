@@ -1,0 +1,19 @@
+{
+  "id": 2310,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-up"
+  ],
+  "modelIndices": [
+    2103
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Climbing rocks",
+  "description": "I can climb out of here using these rocks."
+}

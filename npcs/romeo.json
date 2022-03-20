@@ -1,0 +1,38 @@
+{
+  "id": 639,
+  "description": "Rather dense and soppy looking.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "oldColors": [
+    25238,
+    8741,
+    6798
+  ],
+  "newColors": [
+    36789,
+    43588,
+    6854
+  ],
+  "name": "Romeo",
+  "modelIndices": [
+    217,
+    246,
+    292,
+    170,
+    176,
+    254,
+    181,
+    201
+  ],
+  "headModelIndices": [
+    53,
+    43
+  ]
+}

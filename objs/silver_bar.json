@@ -1,0 +1,19 @@
+{
+  "id": 2355,
+  "description": "It's a bar of silver.",
+  "value": 150,
+  "modelIndex": 2408,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 820,
+  "iconYaw": 1180,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    43096
+  ],
+  "name": "Silver bar",
+  "notedId": 2356
+}

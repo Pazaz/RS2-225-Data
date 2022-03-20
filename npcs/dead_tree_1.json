@@ -1,0 +1,24 @@
+{
+  "id": 446,
+  "level": 0,
+  "description": "It's only useful for firewood now.",
+  "standSeq": 334,
+  "size": 2,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    5388
+  ],
+  "name": "Dead tree",
+  "modelIndices": [
+    2851
+  ]
+}

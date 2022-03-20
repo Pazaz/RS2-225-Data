@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "description": "Useful for catching lots of fish.",
+  "modelIndex": 2626,
+  "iconX": 6,
+  "iconY": 19,
+  "iconZoom": 1700,
+  "iconYaw": 140,
+  "iconCameraPitch": 340,
+  "value": 20,
+  "members": true,
+  "maleModel0": 489,
+  "maleOffsetY": 0,
+  "femaleModel0": 489,
+  "femaleOffsetY": 6,
+  "name": "Big fishing net",
+  "notedId": 306
+}

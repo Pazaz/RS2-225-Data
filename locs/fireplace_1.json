@@ -1,0 +1,18 @@
+{
+  "id": 2724,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 477,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2249
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fireplace",
+  "description": "A fire burns brightly here."
+}

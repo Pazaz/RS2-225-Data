@@ -1,0 +1,25 @@
+{
+  "id": 491,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    4892,
+    4899,
+    5921
+  ],
+  "newColors": [
+    61,
+    61,
+    61
+  ],
+  "modelIndices": [
+    1032
+  ],
+  "modelTypes": [
+    22
+  ]
+}

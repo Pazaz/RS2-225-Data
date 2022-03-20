@@ -1,0 +1,24 @@
+{
+  "id": 2951,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "oldColors": [
+    6315,
+    8497
+  ],
+  "newColors": [
+    11045,
+    11045
+  ],
+  "modelIndices": [
+    1770
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rotten Yommi",
+  "description": "A rotten felled Yommi tree, it was left too long in the damp jungle."
+}

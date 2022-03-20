@@ -1,0 +1,11 @@
+{
+  "id": 43,
+  "level": 0,
+  "description": "White and fluffy.",
+  "walkSeq": 249,
+  "standSeq": 252,
+  "name": "Sheep",
+  "modelIndices": [
+    2929
+  ]
+}

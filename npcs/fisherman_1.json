@@ -1,0 +1,49 @@
+{
+  "id": 219,
+  "level": 0,
+  "description": "Its a fisherman!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    43569,
+    6798,
+    4550,
+    54397
+  ],
+  "newColors": [
+    4626,
+    8472,
+    4626,
+    103,
+    6709,
+    33694
+  ],
+  "name": "Fisherman",
+  "modelIndices": [
+    230,
+    299,
+    151,
+    179,
+    267,
+    185,
+    194,
+    251,
+    562,
+    236,
+    320
+  ],
+  "headModelIndices": [
+    63,
+    37,
+    68,
+    83
+  ]
+}

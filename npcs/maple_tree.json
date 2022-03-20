@@ -1,0 +1,24 @@
+{
+  "id": 451,
+  "level": 0,
+  "description": "I bet this makes good syrup!",
+  "standSeq": 334,
+  "size": 2,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    6814
+  ],
+  "name": "Maple tree",
+  "modelIndices": [
+    2851
+  ]
+}

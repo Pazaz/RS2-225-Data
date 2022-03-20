@@ -1,0 +1,18 @@
+{
+  "id": 2283,
+  "description": "I need to add some tomato next.",
+  "value": 4,
+  "modelIndex": 2455,
+  "iconY": 1,
+  "iconZoom": 990,
+  "iconYaw": 176,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    10665
+  ],
+  "newColors": [
+    6371
+  ],
+  "name": "Pizza base",
+  "notedId": 2284
+}

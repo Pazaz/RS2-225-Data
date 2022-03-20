@@ -1,0 +1,17 @@
+{
+  "id": 1919,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "rotateCounterClockwise": true,
+  "interactable": false,
+  "modelIndices": [
+    663
+  ],
+  "modelTypes": [
+    10
+  ]
+}

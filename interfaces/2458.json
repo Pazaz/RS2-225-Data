@@ -1,0 +1,18 @@
+{
+  "id": 2458,
+  "parent": 2449,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 205,
+  "width": 128,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "Click here to logout",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 16711680,
+  "option": "Ok"
+}

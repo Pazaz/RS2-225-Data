@@ -1,0 +1,16 @@
+{
+  "id": 2152,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1742
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obelisk of Air",
+  "description": "A column of elemental power."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 125,
+  "description": "1 dose of attack potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 6,
+  "modelIndex": 2621,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33608
+  ],
+  "name": "Attack potion(1)",
+  "notedId": 126
+}

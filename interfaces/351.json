@@ -1,0 +1,31 @@
+{
+  "id": 351,
+  "parent": 328,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 54,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    2
+  ],
+  "scriptCompareValue": [
+    2
+  ],
+  "script": [
+    [
+      5,
+      108,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Attack with",
+  "activeText": "Attack with",
+  "color": 16776960,
+  "colorEnabled": 11576210,
+  "hoverColor": 0
+}

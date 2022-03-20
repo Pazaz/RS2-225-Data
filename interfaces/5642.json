@@ -1,0 +1,25 @@
+{
+  "id": 5642,
+  "parent": 5608,
+  "type": 5,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 30,
+  "height": 30,
+  "hoverParentIndex": 5698,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    39
+  ],
+  "script": [
+    [
+      2,
+      5,
+      0
+    ]
+  ],
+  "image": "prayeroff,13",
+  "activeImage": "prayeron,13"
+}

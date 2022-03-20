@@ -1,0 +1,41 @@
+{
+  "id": 347,
+  "description": "A mourner, or plague healer.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 15,
+  "oldColors": [
+    926,
+    8741,
+    7073,
+    11200,
+    8090
+  ],
+  "newColors": [
+    43270,
+    6936,
+    6032,
+    43270,
+    6936
+  ],
+  "name": "Mourner",
+  "modelIndices": [
+    212,
+    295,
+    150,
+    273,
+    185,
+    323,
+    553
+  ],
+  "headModelIndices": [
+    51
+  ]
+}

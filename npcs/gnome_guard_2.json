@@ -1,0 +1,26 @@
+{
+  "id": 164,
+  "description": "A tree gnome guard.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    22422
+  ],
+  "newColors": [
+    64427
+  ],
+  "name": "Gnome guard",
+  "modelIndices": [
+    2909,
+    2892,
+    2922
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

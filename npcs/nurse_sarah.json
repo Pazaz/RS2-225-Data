@@ -1,0 +1,37 @@
+{
+  "id": 373,
+  "level": 0,
+  "description": "She's quite a looker!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    43072
+  ],
+  "newColors": [
+    5231,
+    5231,
+    5805,
+    5805
+  ],
+  "name": "Nurse Sarah",
+  "modelIndices": [
+    390,
+    456,
+    332,
+    353,
+    429,
+    358
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

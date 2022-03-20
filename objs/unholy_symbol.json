@@ -1,0 +1,34 @@
+{
+  "id": 1724,
+  "description": "An unholy symbol of Zamorak.",
+  "value": 200,
+  "members": true,
+  "modelIndex": 2670,
+  "iconY": -5,
+  "iconZoom": 630,
+  "iconYaw": 120,
+  "iconCameraPitch": 412,
+  "maleModel0": 280,
+  "maleOffsetY": 0,
+  "maleModel1": 286,
+  "femaleModel0": 444,
+  "femaleOffsetY": 0,
+  "femaleModel1": 450,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    10163,
+    5916,
+    4882,
+    11200
+  ],
+  "newColors": [
+    94,
+    127,
+    127,
+    94
+  ],
+  "name": "Unholy symbol"
+}

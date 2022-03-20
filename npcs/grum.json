@@ -1,0 +1,40 @@
+{
+  "id": 556,
+  "level": 0,
+  "description": "Loves his gold!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    43072,
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    4550,
+    51111,
+    8720,
+    70
+  ],
+  "name": "Grum",
+  "modelIndices": [
+    215,
+    257,
+    247,
+    292,
+    151,
+    176
+  ],
+  "headModelIndices": [
+    53,
+    79
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 459,
+  "description": "It rattles when it walks.",
+  "walkSeq": 259,
+  "standSeq": 262,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 13,
+  "name": "Skeleton",
+  "modelIndices": [
+    2944
+  ]
+}

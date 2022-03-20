@@ -1,0 +1,19 @@
+{
+  "id": 1791,
+  "description": "I need to put this in a pottery oven.",
+  "value": 2,
+  "modelIndex": 2807,
+  "iconZoom": 910,
+  "iconYaw": 1856,
+  "iconCameraPitch": 204,
+  "oldColors": [
+    7075,
+    7081
+  ],
+  "newColors": [
+    7062,
+    7062
+  ],
+  "name": "Unfired bowl",
+  "notedId": 1792
+}

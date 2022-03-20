@@ -1,0 +1,26 @@
+{
+  "id": 1361,
+  "description": "A sinister looking axe.",
+  "modelIndex": 2544,
+  "iconX": -15,
+  "iconZoom": 1060,
+  "iconYaw": 1196,
+  "iconCameraPitch": 520,
+  "maleModel0": 510,
+  "maleOffsetY": 0,
+  "femaleModel0": 510,
+  "femaleOffsetY": 6,
+  "value": 384,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Black axe",
+  "notedId": 1362
+}

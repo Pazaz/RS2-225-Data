@@ -1,0 +1,18 @@
+{
+  "id": 2956,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "modelIndices": [
+    1076
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fertile Soil",
+  "description": "This earth is particularly fertile."
+}

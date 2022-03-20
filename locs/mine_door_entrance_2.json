@@ -1,0 +1,21 @@
+{
+  "id": 2676,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "actions": [
+    null,
+    "Watch"
+  ],
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Mine door entrance",
+  "description": "Large solid, thick set oak doors."
+}

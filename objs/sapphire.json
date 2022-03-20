@@ -1,0 +1,30 @@
+{
+  "id": 1607,
+  "value": 250,
+  "description": "This looks valuable.",
+  "modelIndex": 2586,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "maleModel0": 516,
+  "maleOffsetY": 0,
+  "femaleModel0": 516,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    478,
+    931,
+    918,
+    127
+  ],
+  "newColors": [
+    43237,
+    43951,
+    43932,
+    42964
+  ],
+  "name": "Sapphire",
+  "notedId": 1608
+}

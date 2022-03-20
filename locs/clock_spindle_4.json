@@ -1,0 +1,17 @@
+{
+  "id": 28,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1793
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Clock spindle",
+  "description": "Seems to be some kind of clock part."
+}

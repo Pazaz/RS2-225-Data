@@ -1,0 +1,16 @@
+{
+  "id": 449,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 4,
+  "modelIndices": [
+    724
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Overhanging rock",
+  "description": "A rocky ledge."
+}

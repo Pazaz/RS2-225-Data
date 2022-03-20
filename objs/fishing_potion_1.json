@@ -1,0 +1,22 @@
+{
+  "id": 155,
+  "description": "1 dose of fishing potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 100,
+  "modelIndex": 2621,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    24
+  ],
+  "name": "Fishing potion(1)",
+  "notedId": 156
+}

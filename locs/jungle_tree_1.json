@@ -1,0 +1,25 @@
+{
+  "id": 2887,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "scaleX": 164,
+  "scaleY": 164,
+  "scaleZ": 164,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1701
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle Tree",
+  "description": "Looks good for logging."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 396,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2182
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pots",
+  "description": "bamboo storage!"
+}

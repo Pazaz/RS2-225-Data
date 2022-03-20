@@ -1,0 +1,40 @@
+{
+  "id": 20,
+  "description": "A holy warrior.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 53,
+  "oldColors": [
+    4626,
+    6798,
+    55198,
+    43072
+  ],
+  "newColors": [
+    24,
+    6854,
+    35026,
+    4550
+  ],
+  "name": "Paladin",
+  "modelIndices": [
+    217,
+    248,
+    313,
+    156,
+    176,
+    268,
+    185,
+    518,
+    541,
+    3330
+  ]
+}

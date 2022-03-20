@@ -1,0 +1,17 @@
+{
+  "id": 1124,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 9,
+  "modelIndices": [
+    1565
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "A commonly found bush."
+}

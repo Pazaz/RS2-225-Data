@@ -1,0 +1,33 @@
+{
+  "id": 900,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "delayShading": true,
+  "interactable": true,
+  "oldColors": [
+    16,
+    10176,
+    43930,
+    127,
+    9145
+  ],
+  "newColors": [
+    19,
+    43105,
+    40483,
+    70,
+    43105
+  ],
+  "modelIndices": [
+    2065
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Hanging banner",
+  "description": "Brightens up the room a bit."
+}

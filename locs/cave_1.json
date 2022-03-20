@@ -1,0 +1,33 @@
+{
+  "id": 3217,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Enter"
+  ],
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6689,
+    6808,
+    7056,
+    6028
+  ],
+  "newColors": [
+    7952,
+    8844,
+    7690,
+    8070
+  ],
+  "modelIndices": [
+    833
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave",
+  "description": "I can go through here."
+}

@@ -1,0 +1,37 @@
+{
+  "id": 516,
+  "level": 0,
+  "description": "An intelligent looking shop owner.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    25238
+  ],
+  "newColors": [
+    4785,
+    8741
+  ],
+  "name": "Obli",
+  "modelIndices": [
+    223,
+    247,
+    302,
+    170,
+    176,
+    274,
+    181
+  ],
+  "headModelIndices": [
+    59,
+    79
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1951,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    841
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bricks",
+  "description": "A pile of bricks."
+}

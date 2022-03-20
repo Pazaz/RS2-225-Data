@@ -1,0 +1,14 @@
+{
+  "id": 621,
+  "description": "Allows you passage on the 'Lady of the waves' ship.",
+  "value": 5,
+  "modelIndex": 2560,
+  "iconX": 6,
+  "iconY": -2,
+  "iconZoom": 830,
+  "iconYaw": 132,
+  "iconCameraPitch": 320,
+  "members": true,
+  "name": "Ship ticket",
+  "notedId": 622
+}

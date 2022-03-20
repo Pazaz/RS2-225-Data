@@ -1,0 +1,16 @@
+{
+  "id": 629,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1485
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Silk stall",
+  "description": "Garments for the discerning."
+}

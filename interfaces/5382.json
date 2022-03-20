@@ -1,0 +1,30 @@
+{
+  "id": 5382,
+  "parent": 5292,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 8,
+  "height": 30,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": true,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 15,
+  "inevntoryMarginY": 6,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    "Withdraw 1",
+    "Withdraw 5",
+    "Withdraw 10",
+    "Withdraw All",
+    "Withdraw X"
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

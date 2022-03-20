@@ -1,0 +1,17 @@
+{
+  "id": 5966,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 343,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "This form is for reporting players who are breaking our rules.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

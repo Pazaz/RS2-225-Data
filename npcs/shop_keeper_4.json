@@ -1,0 +1,44 @@
+{
+  "id": 526,
+  "level": 0,
+  "description": "A product of consumerist society.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    4550,
+    54397
+  ],
+  "newColors": [
+    5652,
+    4769,
+    10508,
+    4647,
+    4647,
+    4391
+  ],
+  "name": "Shop keeper",
+  "modelIndices": [
+    215,
+    254,
+    246,
+    305,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

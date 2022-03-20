@@ -1,0 +1,17 @@
+{
+  "id": 1339,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "mapscene": 6,
+  "modelIndices": [
+    2152
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "They're just waiting to trip someone up."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1113,
+  "value": 50000,
+  "modelIndex": 2558,
+  "iconY": 2,
+  "iconZoom": 1100,
+  "iconCameraPitch": 568,
+  "maleModel0": 301,
+  "maleOffsetY": 0,
+  "femaleModel0": 464,
+  "femaleOffsetY": 0,
+  "description": "A series of connected metal rings.",
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Rune chainbody",
+  "notedId": 1114
+}

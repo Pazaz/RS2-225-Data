@@ -1,0 +1,24 @@
+{
+  "id": 839,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "oldColors": [
+    5772,
+    8860
+  ],
+  "newColors": [
+    70,
+    43105
+  ],
+  "modelIndices": [
+    1243
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bow cabinet",
+  "description": "An attractively laid out collection of ranging weapons."
+}

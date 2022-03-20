@@ -1,0 +1,25 @@
+{
+  "id": 2325,
+  "description": "Looks tasty.",
+  "options": [
+    "Eat"
+  ],
+  "value": 12,
+  "modelIndex": 2767,
+  "iconY": -9,
+  "iconZoom": 950,
+  "iconYaw": 104,
+  "iconCameraPitch": 192,
+  "oldColors": [
+    8670,
+    5006,
+    61
+  ],
+  "newColors": [
+    5689,
+    3623,
+    4416
+  ],
+  "name": "Redberry pie",
+  "notedId": 2326
+}

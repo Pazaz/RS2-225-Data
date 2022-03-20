@@ -1,0 +1,19 @@
+{
+  "id": 2614,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1365
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Coffin",
+  "description": "Spooky!"
+}

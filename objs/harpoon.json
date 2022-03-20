@@ -1,0 +1,17 @@
+{
+  "id": 311,
+  "description": "Useful for catching really big fish.",
+  "modelIndex": 2469,
+  "iconX": 2,
+  "iconY": -85,
+  "iconZoom": 1030,
+  "iconYaw": 416,
+  "iconCameraPitch": 244,
+  "value": 5,
+  "maleModel0": 503,
+  "maleOffsetY": 0,
+  "femaleModel0": 503,
+  "femaleOffsetY": 6,
+  "name": "Harpoon",
+  "notedId": 312
+}

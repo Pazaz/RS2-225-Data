@@ -1,0 +1,37 @@
+{
+  "id": 643,
+  "description": "Looks kind of obsessive...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 17,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    10508,
+    6930
+  ],
+  "name": "Weaponsmaster",
+  "modelIndices": [
+    230,
+    249,
+    306,
+    156,
+    176,
+    254,
+    185,
+    518
+  ],
+  "headModelIndices": [
+    63,
+    81
+  ]
+}

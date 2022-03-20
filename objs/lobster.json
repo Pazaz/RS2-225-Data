@@ -1,0 +1,16 @@
+{
+  "id": 379,
+  "description": "This looks tricky to eat.",
+  "modelIndex": 2804,
+  "iconX": 4,
+  "iconY": 16,
+  "iconZoom": 1020,
+  "iconYaw": 1704,
+  "iconCameraPitch": 324,
+  "value": 150,
+  "options": [
+    "Eat"
+  ],
+  "name": "Lobster",
+  "notedId": 380
+}

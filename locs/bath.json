@@ -1,0 +1,16 @@
+{
+  "id": 875,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1284
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bath",
+  "description": "Wash here."
+}

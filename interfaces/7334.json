@@ -1,0 +1,18 @@
+{
+  "id": 7334,
+  "parent": 638,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 76,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Demon Slayer",
+  "color": 16711680,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

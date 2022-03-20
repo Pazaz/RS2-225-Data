@@ -1,0 +1,17 @@
+{
+  "id": 1999,
+  "description": "I need to add some potato too.",
+  "value": 4,
+  "modelIndex": 2367,
+  "iconZoom": 910,
+  "iconYaw": 1856,
+  "iconCameraPitch": 204,
+  "oldColors": [
+    44263
+  ],
+  "newColors": [
+    43069
+  ],
+  "name": "Incomplete stew",
+  "notedId": 2000
+}

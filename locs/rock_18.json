@@ -1,0 +1,25 @@
+{
+  "id": 2696,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Climb-to"
+  ],
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    7721
+  ],
+  "modelIndices": [
+    1391
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock"
+}

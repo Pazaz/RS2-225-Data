@@ -1,0 +1,40 @@
+{
+  "id": 814,
+  "level": 0,
+  "description": "She's dressed in a red top and green trousers.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    5056,
+    960,
+    22464,
+    960,
+    4550
+  ],
+  "name": "Anna",
+  "modelIndices": [
+    390,
+    471,
+    332,
+    353,
+    419,
+    358,
+    417
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 997,
+  "description": "A giant spider.",
+  "walkSeq": 142,
+  "standSeq": 145,
+  "scaleX": 352,
+  "scaleY": 352,
+  "size": 3,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 78,
+  "name": "Kalrag",
+  "modelIndices": [
+    2884
+  ]
+}

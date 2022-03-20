@@ -1,0 +1,15 @@
+{
+  "id": 2798,
+  "description": "I need to solve this!",
+  "value": 100,
+  "members": true,
+  "modelIndex": 3372,
+  "iconY": 4,
+  "iconZoom": 900,
+  "iconYaw": 80,
+  "iconCameraPitch": 420,
+  "options": [
+    "Open"
+  ],
+  "name": "Puzzle box"
+}

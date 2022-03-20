@@ -1,0 +1,43 @@
+{
+  "id": 513,
+  "level": 0,
+  "description": "This is Yohnus - he runs the local blacksmiths.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    6798,
+    8741,
+    43072,
+    25238,
+    54397
+  ],
+  "newColors": [
+    4785,
+    61,
+    4785,
+    4785,
+    0,
+    7070
+  ],
+  "name": "Yohnus",
+  "modelIndices": [
+    214,
+    251,
+    305,
+    173,
+    176,
+    274,
+    181
+  ],
+  "headModelIndices": [
+    52,
+    83
+  ]
+}

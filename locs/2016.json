@@ -1,0 +1,19 @@
+{
+  "id": 2016,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "brightness": 80,
+  "specular": 80,
+  "animationIndex": 522,
+  "disposeAlpha": true,
+  "interactable": false,
+  "modelIndices": [
+    2329
+  ],
+  "modelTypes": [
+    10
+  ]
+}

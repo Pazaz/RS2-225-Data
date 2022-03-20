@@ -1,0 +1,20 @@
+{
+  "id": 525,
+  "description": "I don't fancy eating this now.",
+  "members": true,
+  "modelIndex": 2498,
+  "iconX": -3,
+  "iconZoom": 870,
+  "iconYaw": 1748,
+  "iconCameraPitch": 88,
+  "value": 1,
+  "oldColors": [
+    4773,
+    127
+  ],
+  "newColors": [
+    44508,
+    43239
+  ],
+  "name": "Enchanted chicken"
+}

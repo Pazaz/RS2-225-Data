@@ -1,0 +1,22 @@
+{
+  "id": 2229,
+  "description": "Looks great!",
+  "modelIndex": 2647,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "value": 160,
+  "oldColors": [
+    3980
+  ],
+  "newColors": [
+    3738
+  ],
+  "name": "Chocolate bomb",
+  "notedId": 2230
+}

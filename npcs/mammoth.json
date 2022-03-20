@@ -1,0 +1,16 @@
+{
+  "id": 135,
+  "size": 3,
+  "description": "A wooly elephantlike monster.",
+  "walkSeq": 303,
+  "standSeq": 306,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 41,
+  "name": "Mammoth",
+  "modelIndices": [
+    3005
+  ]
+}

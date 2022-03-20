@@ -1,0 +1,17 @@
+{
+  "id": 1735,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "mapscene": 7,
+  "modelIndices": [
+    891
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "A rickety old staircase."
+}

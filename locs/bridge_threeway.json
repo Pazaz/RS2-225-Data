@@ -1,0 +1,22 @@
+{
+  "id": 3253,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    754
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "bridge_threeway"
+}

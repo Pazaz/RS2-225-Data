@@ -1,0 +1,19 @@
+{
+  "id": 2012,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1813
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ledge"
+}

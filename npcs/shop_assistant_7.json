@@ -1,0 +1,44 @@
+{
+  "id": 533,
+  "level": 0,
+  "description": "Needs a haircut.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    4550,
+    54397
+  ],
+  "newColors": [
+    5652,
+    4769,
+    10508,
+    4645,
+    4645,
+    4391
+  ],
+  "name": "Shop assistant",
+  "modelIndices": [
+    217,
+    254,
+    246,
+    305,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

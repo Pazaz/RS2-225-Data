@@ -1,0 +1,29 @@
+{
+  "id": 565,
+  "level": 0,
+  "description": "Smells strangely of cabbage.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    9447,
+    22753,
+    908
+  ],
+  "newColors": [
+    6057,
+    528,
+    4023,
+    11191
+  ],
+  "name": "Lunderwin",
+  "modelIndices": [
+    2857
+  ],
+  "headModelIndices": [
+    14
+  ]
+}

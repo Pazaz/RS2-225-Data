@@ -1,0 +1,15 @@
+{
+  "id": 1548,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    665
+  ],
+  "modelTypes": [
+    0
+  ]
+}

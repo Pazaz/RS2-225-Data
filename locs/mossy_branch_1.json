@@ -1,0 +1,17 @@
+{
+  "id": 1320,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 4,
+  "mapscene": 1,
+  "modelIndices": [
+    1343
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mossy branch",
+  "description": "The branch is infested with moss."
+}

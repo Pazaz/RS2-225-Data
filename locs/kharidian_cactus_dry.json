@@ -1,0 +1,23 @@
+{
+  "id": 2671,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 4,
+  "oldColors": [
+    22420
+  ],
+  "newColors": [
+    22424
+  ],
+  "modelIndices": [
+    1604
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Kharidian cactus (Dry)",
+  "description": "A less than succulent succulent."
+}

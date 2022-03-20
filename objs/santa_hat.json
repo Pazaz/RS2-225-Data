@@ -1,0 +1,21 @@
+{
+  "id": 1050,
+  "value": 160,
+  "modelIndex": 2537,
+  "iconY": -3,
+  "iconZoom": 540,
+  "iconYaw": 136,
+  "iconCameraPitch": 72,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 189,
+  "maleOffsetY": 0,
+  "femaleModel0": 366,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 69,
+  "femaleHeadModelA": 127,
+  "name": "Santa hat",
+  "notedId": 1051
+}

@@ -1,0 +1,33 @@
+{
+  "id": 690,
+  "description": "Defender of the south tower.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 61,
+  "oldColors": [
+    6798,
+    43072
+  ],
+  "newColors": [
+    2250,
+    22416
+  ],
+  "name": "Tower Archer",
+  "modelIndices": [
+    220,
+    253,
+    303,
+    169,
+    176,
+    277,
+    185,
+    563
+  ]
+}

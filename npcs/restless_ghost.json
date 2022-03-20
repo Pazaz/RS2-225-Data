@@ -1,0 +1,42 @@
+{
+  "id": 457,
+  "level": 0,
+  "description": "Eek! A ghost!",
+  "walkSeq": 13,
+  "standSeq": 15,
+  "disposeAlpha": true,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    908,
+    7073,
+    5652
+  ],
+  "newColors": [
+    24,
+    37,
+    61,
+    0,
+    24,
+    37
+  ],
+  "name": "Restless ghost",
+  "modelIndices": [
+    224,
+    310,
+    275,
+    168,
+    179,
+    181,
+    186,
+    245
+  ],
+  "headModelIndices": [
+    28,
+    78
+  ]
+}

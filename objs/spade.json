@@ -1,0 +1,20 @@
+{
+  "id": 952,
+  "description": "A slightly muddy spade.",
+  "value": 3,
+  "modelIndex": 2418,
+  "maleModel0": 496,
+  "maleOffsetY": 0,
+  "femaleModel0": 496,
+  "femaleOffsetY": 0,
+  "iconX": 4,
+  "iconY": 4,
+  "iconZoom": 2030,
+  "iconYaw": 1512,
+  "iconCameraPitch": 332,
+  "options": [
+    "Dig"
+  ],
+  "name": "Spade",
+  "notedId": 953
+}

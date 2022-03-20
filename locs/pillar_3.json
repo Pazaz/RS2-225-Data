@@ -1,0 +1,17 @@
+{
+  "id": 2441,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    1310
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pillar",
+  "description": "Wonder what this pillar is for?"
+}

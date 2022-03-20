@@ -1,0 +1,24 @@
+{
+  "id": 3357,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 476,
+  "disposeAlpha": true,
+  "brightness": 100,
+  "specular": 100,
+  "scaleY": 512,
+  "mapscene": 22,
+  "modelIndices": [
+    2263,
+    2264,
+    2265
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2
+  ]
+}

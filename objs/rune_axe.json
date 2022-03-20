@@ -1,0 +1,26 @@
+{
+  "id": 1359,
+  "description": "A powerful axe.",
+  "modelIndex": 2544,
+  "iconX": -15,
+  "iconZoom": 1060,
+  "iconYaw": 1196,
+  "iconCameraPitch": 520,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 510,
+  "maleOffsetY": 0,
+  "femaleModel0": 510,
+  "femaleOffsetY": 6,
+  "value": 12800,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Rune axe",
+  "notedId": 1360
+}

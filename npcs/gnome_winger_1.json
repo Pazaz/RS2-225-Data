@@ -1,0 +1,25 @@
+{
+  "id": 633,
+  "description": "A professional gnome baller.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    37
+  ],
+  "newColors": [
+    22445
+  ],
+  "name": "Gnome winger",
+  "modelIndices": [
+    2914,
+    2905,
+    2924
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

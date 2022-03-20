@@ -1,0 +1,24 @@
+{
+  "id": 2953,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "oldColors": [
+    6315,
+    8497
+  ],
+  "newColors": [
+    11045,
+    11045
+  ],
+  "modelIndices": [
+    1741
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rotten Yommi tree",
+  "description": "A rotten Yommi tree log, it was left too long in the damp jungle air."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "description": "I need to find a string for this.",
+  "value": 60,
+  "members": true,
+  "modelIndex": 2401,
+  "iconX": 2,
+  "iconY": 15,
+  "iconZoom": 1820,
+  "iconYaw": 1004,
+  "iconCameraPitch": 460,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    8109
+  ],
+  "name": "Longbow",
+  "notedId": 49
+}

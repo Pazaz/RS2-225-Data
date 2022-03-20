@@ -1,0 +1,12 @@
+{
+  "id": 682,
+  "modelIndex": 2600,
+  "description": "A scroll waiting to be stamped.",
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "members": true,
+  "name": "Unstamped letter"
+}

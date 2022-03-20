@@ -1,0 +1,24 @@
+{
+  "id": 2149,
+  "description": "Strange, it looks cooler now it's been cooked.",
+  "value": 150,
+  "members": true,
+  "modelIndex": 2427,
+  "iconX": 17,
+  "iconY": 25,
+  "iconZoom": 1270,
+  "iconYaw": 1936,
+  "iconCameraPitch": 312,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    43055
+  ],
+  "newColors": [
+    6046,
+    7079
+  ],
+  "name": "Lava eel"
+}

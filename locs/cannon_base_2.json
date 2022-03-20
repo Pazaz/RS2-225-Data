@@ -1,0 +1,19 @@
+{
+  "id": 9,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Pick-up"
+  ],
+  "modelIndices": [
+    1802
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cannon base",
+  "description": "The barrels of the multicannon."
+}

@@ -1,0 +1,17 @@
+{
+  "id": 974,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2042
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Studded Leather",
+  "description": "Improved Leather armour for archers."
+}

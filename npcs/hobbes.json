@@ -1,0 +1,44 @@
+{
+  "id": 808,
+  "level": 0,
+  "description": "He looks kind of stuck up...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    7070,
+    10667,
+    25238,
+    43072
+  ],
+  "newColors": [
+    127,
+    8,
+    11200,
+    127,
+    8,
+    8
+  ],
+  "name": "Hobbes",
+  "modelIndices": [
+    215,
+    247,
+    292,
+    163,
+    176,
+    267,
+    185,
+    327
+  ],
+  "headModelIndices": [
+    53,
+    79
+  ]
+}

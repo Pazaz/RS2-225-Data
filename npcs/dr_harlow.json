@@ -1,0 +1,42 @@
+{
+  "id": 756,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "A few too many drinks perhaps...",
+  "oldColors": [
+    25238,
+    8741,
+    4550,
+    43072,
+    6798
+  ],
+  "newColors": [
+    5784,
+    55194,
+    3550,
+    3550,
+    33
+  ],
+  "name": "Dr Harlow",
+  "modelIndices": [
+    217,
+    246,
+    299,
+    159,
+    176,
+    254,
+    181,
+    245
+  ],
+  "headModelIndices": [
+    55,
+    78
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 33,
+  "description": "A lit candle.",
+  "members": true,
+  "value": 3,
+  "modelIndex": 2575,
+  "iconY": -2,
+  "iconZoom": 570,
+  "iconYaw": 1864,
+  "iconCameraPitch": 168,
+  "name": "Lit candle",
+  "notedId": 34
+}

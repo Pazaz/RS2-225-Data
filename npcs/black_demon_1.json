@@ -1,0 +1,26 @@
+{
+  "id": 84,
+  "size": 3,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "description": "A big, scary, jet-black demon.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 172,
+  "oldColors": [
+    918,
+    929,
+    0
+  ],
+  "newColors": [
+    4,
+    4,
+    931
+  ],
+  "name": "Black Demon",
+  "modelIndices": [
+    2942
+  ]
+}

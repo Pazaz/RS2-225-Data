@@ -1,0 +1,17 @@
+{
+  "id": 6684,
+  "parent": 6575,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 130,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 0,
+  "shadow": true,
+  "text": "Waiting for other player...",
+  "color": 11184810,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

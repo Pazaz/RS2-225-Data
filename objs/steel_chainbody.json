@@ -1,0 +1,18 @@
+{
+  "id": 1105,
+  "description": "A series of connected metal rings.",
+  "value": 750,
+  "modelIndex": 2439,
+  "iconZoom": 1100,
+  "iconCameraPitch": 576,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 294,
+  "maleOffsetY": 0,
+  "femaleModel0": 458,
+  "femaleOffsetY": 0,
+  "name": "Steel chainbody",
+  "notedId": 1106
+}

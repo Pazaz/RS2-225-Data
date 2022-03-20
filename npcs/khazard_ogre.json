@@ -1,0 +1,17 @@
+{
+  "id": 270,
+  "description": "Khazard's strongest ogre warrior.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 55,
+  "name": "Khazard Ogre",
+  "modelIndices": [
+    2880,
+    2876
+  ]
+}

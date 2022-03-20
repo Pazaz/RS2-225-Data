@@ -1,0 +1,25 @@
+{
+  "id": 823,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    25238,
+    908
+  ],
+  "newColors": [
+    11187,
+    8741,
+    8741
+  ],
+  "name": "anabarrel",
+  "modelIndices": [
+    361
+  ],
+  "headModelIndices": [
+    118,
+    135
+  ]
+}

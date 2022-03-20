@@ -1,0 +1,18 @@
+{
+  "id": 684,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 480,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2259
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Swamp bubbles",
+  "description": "The noxious liquid bubbles horribly."
+}

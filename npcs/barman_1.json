@@ -1,0 +1,31 @@
+{
+  "id": 30,
+  "level": 0,
+  "description": "Doesn't water down the beer too much.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    24,
+    10378,
+    4550
+  ],
+  "name": "Barman",
+  "modelIndices": [
+    230,
+    247,
+    299,
+    159,
+    176,
+    254,
+    185,
+    321
+  ]
+}

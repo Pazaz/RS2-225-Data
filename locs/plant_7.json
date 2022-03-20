@@ -1,0 +1,16 @@
+{
+  "id": 1394,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1645
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Plant",
+  "description": "A leafy shrub."
+}

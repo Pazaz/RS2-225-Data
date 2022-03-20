@@ -1,0 +1,19 @@
+{
+  "id": 2014,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Take treasure"
+  ],
+  "modelIndices": [
+    1814
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chalice of eternity",
+  "description": "A magically elevated chalice full of tears."
+}

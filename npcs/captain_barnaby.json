@@ -1,0 +1,44 @@
+{
+  "id": 381,
+  "level": 0,
+  "description": "An old sailor.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238,
+    43072,
+    4550,
+    906
+  ],
+  "newColors": [
+    115,
+    38821,
+    38821,
+    6709,
+    6709,
+    7104
+  ],
+  "name": "Captain Barnaby",
+  "modelIndices": [
+    214,
+    250,
+    299,
+    159,
+    263,
+    176,
+    185,
+    326
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

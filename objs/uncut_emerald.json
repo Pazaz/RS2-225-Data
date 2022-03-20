@@ -1,0 +1,20 @@
+{
+  "id": 1621,
+  "value": 50,
+  "description": "This would be worth more cut.",
+  "modelIndex": 2528,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22443
+  ],
+  "name": "Uncut emerald",
+  "notedId": 1622
+}

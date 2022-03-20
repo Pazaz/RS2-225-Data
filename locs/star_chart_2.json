@@ -1,0 +1,18 @@
+{
+  "id": 897,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 100,
+  "interactable": true,
+  "modelIndices": [
+    2031
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Star chart",
+  "description": "A picture of the stars with funny diagrams and things on."
+}

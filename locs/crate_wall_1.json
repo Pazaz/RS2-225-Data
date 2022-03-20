@@ -1,0 +1,37 @@
+{
+  "id": 65,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "culls": true,
+  "actions": [
+    "Climb-out"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    22,
+    3398
+  ],
+  "modelIndices": [
+    634,
+    635,
+    574,
+    575,
+    576
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Crate wall",
+  "description": "Surprisingly sturdy looking."
+}

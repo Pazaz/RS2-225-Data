@@ -1,0 +1,20 @@
+{
+  "id": 2661,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1460
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Franks' barrel",
+  "description": "looks like this is where Frank keeps his stuff."
+}

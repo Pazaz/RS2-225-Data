@@ -1,0 +1,17 @@
+{
+  "id": 416,
+  "parent": 381,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 39,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "part2a",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

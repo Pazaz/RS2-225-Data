@@ -1,0 +1,46 @@
+{
+  "id": 384,
+  "level": 0,
+  "description": "Not very civilised looking.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    926,
+    6798,
+    8741,
+    43072,
+    4550
+  ],
+  "newColors": [
+    5652,
+    61,
+    6854,
+    4769,
+    33,
+    6709
+  ],
+  "name": "Barbarian guard",
+  "modelIndices": [
+    219,
+    252,
+    301,
+    159,
+    176,
+    274,
+    242,
+    185,
+    550
+  ],
+  "headModelIndices": [
+    57,
+    84,
+    75
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 654,
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "description": "A funny little man who lives in a tree.",
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Shamus",
+  "modelIndices": [
+    2909,
+    2896,
+    2915
+  ],
+  "headModelIndices": [
+    24
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 41,
+  "description": "I can make an arrow with these.",
+  "modelIndex": 2551,
+  "iconX": 4,
+  "iconY": 4,
+  "iconZoom": 780,
+  "iconYaw": 176,
+  "iconCameraPitch": 440,
+  "members": true,
+  "stackable": true,
+  "value": 6,
+  "name": "Steel arrowtips"
+}

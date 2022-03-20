@@ -1,0 +1,17 @@
+{
+  "id": 2153,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "brightness": 50,
+  "modelIndices": [
+    1777
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obelisk of Fire",
+  "description": "A column of elemental power."
+}

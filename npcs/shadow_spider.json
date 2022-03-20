@@ -1,0 +1,17 @@
+{
+  "id": 58,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "showOnMinimap": false,
+  "disposeAlpha": true,
+  "description": "Is it a spider or is it a shadow?",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 49,
+  "name": "Shadow spider",
+  "modelIndices": [
+    2884
+  ]
+}

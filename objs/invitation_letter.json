@@ -1,0 +1,16 @@
+{
+  "id": 696,
+  "modelIndex": 2600,
+  "description": "A letter inviting me to use the private digshafts.",
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "members": true,
+  "options": [
+    null,
+    "Read"
+  ],
+  "name": "Invitation letter"
+}

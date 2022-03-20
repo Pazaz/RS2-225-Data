@@ -1,0 +1,39 @@
+{
+  "id": 335,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "She looks concerned.",
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    43072,
+    41
+  ],
+  "newColors": [
+    32962,
+    21838,
+    4502,
+    4550,
+    59350
+  ],
+  "name": "Elena",
+  "modelIndices": [
+    390,
+    456,
+    332,
+    353,
+    440,
+    445
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

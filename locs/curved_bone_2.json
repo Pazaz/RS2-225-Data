@@ -1,0 +1,22 @@
+{
+  "id": 701,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    33
+  ],
+  "modelIndices": [
+    1776
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Curved bone",
+  "description": "Spooky!"
+}

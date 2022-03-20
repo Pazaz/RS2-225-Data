@@ -1,0 +1,21 @@
+{
+  "id": 1325,
+  "description": "A vicious curved sword.",
+  "value": 400,
+  "modelIndex": 2373,
+  "iconX": -6,
+  "iconY": 4,
+  "iconZoom": 1180,
+  "iconYaw": 1120,
+  "iconCameraPitch": 300,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 490,
+  "maleOffsetY": 0,
+  "femaleModel0": 490,
+  "femaleOffsetY": 6,
+  "name": "Steel scimitar",
+  "notedId": 1326
+}

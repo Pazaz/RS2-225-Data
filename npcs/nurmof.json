@@ -1,0 +1,35 @@
+{
+  "id": 594,
+  "level": 0,
+  "description": "He runs a pickaxe store.",
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    61,
+    803,
+    7473,
+    33
+  ],
+  "newColors": [
+    4550,
+    36756,
+    36756,
+    127
+  ],
+  "name": "Nurmof",
+  "modelIndices": [
+    2970,
+    2983,
+    2979,
+    2981,
+    2985
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

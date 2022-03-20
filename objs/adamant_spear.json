@@ -1,0 +1,31 @@
+{
+  "id": 1245,
+  "members": true,
+  "description": "An adamantite tipped spear.",
+  "value": 2080,
+  "modelIndex": 2719,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 540,
+  "maleOffsetY": 0,
+  "femaleModel0": 540,
+  "femaleOffsetY": 6,
+  "iconX": 7,
+  "iconY": -4,
+  "iconZoom": 1490,
+  "iconYaw": 112,
+  "iconRoll": 144,
+  "iconCameraPitch": 1960,
+  "oldColors": [
+    33,
+    28
+  ],
+  "newColors": [
+    21662,
+    21662
+  ],
+  "name": "Adamant spear",
+  "notedId": 1246
+}

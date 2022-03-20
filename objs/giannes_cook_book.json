@@ -1,0 +1,15 @@
+{
+  "id": 2167,
+  "description": "Aluft Gianne's favorite dishes.",
+  "value": 2,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "name": "Gianne's cook book",
+  "notedId": 2168
+}

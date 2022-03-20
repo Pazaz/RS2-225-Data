@@ -1,0 +1,38 @@
+{
+  "id": 178,
+  "description": "A dark-hearted knight.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 31,
+  "oldColors": [
+    70,
+    5532,
+    41,
+    61,
+    57
+  ],
+  "newColors": [
+    24,
+    10508,
+    10508,
+    24,
+    24
+  ],
+  "name": "Black Knight",
+  "modelIndices": [
+    218,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518
+  ]
+}

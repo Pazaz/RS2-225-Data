@@ -1,0 +1,61 @@
+{
+  "id": 1184,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1485,
+  "scriptCompareType": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    29,
+    2,
+    0,
+    62
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      554,
+      10,
+      1688,
+      1387,
+      10,
+      1688,
+      1393,
+      10,
+      1688,
+      1401,
+      0
+    ],
+    [
+      4,
+      3214,
+      564,
+      0
+    ],
+    [
+      4,
+      3214,
+      567,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,32",
+  "activeImage": "magicon,32",
+  "optionCircumfix": "Cast on",
+  "optionSuffix": "Charge fire orb",
+  "optionFlags": 4
+}

@@ -1,0 +1,24 @@
+{
+  "id": 339,
+  "description": "Some nicely cooked fish.",
+  "modelIndex": 2354,
+  "iconY": 3,
+  "iconZoom": 1370,
+  "iconYaw": 1840,
+  "iconCameraPitch": 532,
+  "value": 25,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    42419,
+    42304
+  ],
+  "name": "Cod",
+  "notedId": 340
+}

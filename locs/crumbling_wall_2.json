@@ -1,0 +1,29 @@
+{
+  "id": 1948,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-over"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    23,
+    9098
+  ],
+  "modelIndices": [
+    662,
+    656
+  ],
+  "modelTypes": [
+    10,
+    0
+  ],
+  "name": "Crumbling wall",
+  "description": "It looks like I might be able to climb over this piece of the wall..."
+}

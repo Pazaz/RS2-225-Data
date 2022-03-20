@@ -1,0 +1,25 @@
+{
+  "id": 671,
+  "description": "A rough looking gnome.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    8
+  ],
+  "name": "Glough",
+  "modelIndices": [
+    2909,
+    2903,
+    2919
+  ],
+  "headModelIndices": [
+    22
+  ]
+}

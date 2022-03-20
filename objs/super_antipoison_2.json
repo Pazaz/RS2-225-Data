@@ -1,0 +1,22 @@
+{
+  "id": 183,
+  "description": "2 doses of super antipoison potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 216,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    62404
+  ],
+  "name": "Superantipoison(2)",
+  "notedId": 184
+}

@@ -1,0 +1,39 @@
+{
+  "id": 692,
+  "level": 0,
+  "description": "Supplier of authentic throwing weapons.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    43072
+  ],
+  "newColors": [
+    6806,
+    6806
+  ],
+  "name": "Tribal Weapon Salesman",
+  "modelIndices": [
+    231,
+    181,
+    246,
+    315,
+    173,
+    176,
+    279,
+    323,
+    201
+  ],
+  "headModelIndices": [
+    64,
+    43
+  ]
+}

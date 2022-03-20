@@ -1,0 +1,20 @@
+{
+  "id": 2174,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-up"
+  ],
+  "delayShading": true,
+  "modelIndices": [
+    1895
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ship's ladder",
+  "description": "The upper deck can be accessed with this ladder."
+}

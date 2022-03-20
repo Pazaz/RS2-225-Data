@@ -1,0 +1,19 @@
+{
+  "id": 2483,
+  "description": "I need another ingredient to finish this Lantadyme potion.",
+  "value": 68,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    4316
+  ],
+  "name": "Unfinished potion",
+  "notedId": 2484
+}

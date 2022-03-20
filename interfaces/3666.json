@@ -1,0 +1,12 @@
+{
+  "id": 3666,
+  "parent": 3559,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 301,
+  "width": 45,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "rightarrow,0",
+  "option": "Change head"
+}

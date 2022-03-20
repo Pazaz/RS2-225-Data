@@ -1,0 +1,16 @@
+{
+  "id": 305,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1505
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Beehive",
+  "description": "Where bees live."
+}

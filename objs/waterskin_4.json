@@ -1,0 +1,14 @@
+{
+  "id": 1823,
+  "description": "A full waterskin with four portions of water.",
+  "value": 30,
+  "modelIndex": 2699,
+  "iconX": -4,
+  "iconY": 1,
+  "iconZoom": 780,
+  "iconYaw": 156,
+  "iconCameraPitch": 52,
+  "members": true,
+  "name": "Waterskin(4)",
+  "notedId": 1824
+}

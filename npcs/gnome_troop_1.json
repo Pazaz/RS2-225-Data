@@ -1,0 +1,20 @@
+{
+  "id": 479,
+  "description": "It's a tree gnome trooper.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 1,
+  "name": "Gnome troop",
+  "modelIndices": [
+    2914,
+    2903,
+    2919
+  ],
+  "headModelIndices": [
+    22
+  ]
+}

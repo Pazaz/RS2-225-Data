@@ -1,0 +1,20 @@
+{
+  "id": 273,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-down"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1909
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ship's ladder",
+  "description": "I can go below decks with this ladder."
+}

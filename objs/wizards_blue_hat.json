@@ -1,0 +1,23 @@
+{
+  "id": 579,
+  "value": 2,
+  "description": "A silly pointed hat.",
+  "modelIndex": 2483,
+  "iconX": 5,
+  "iconY": -10,
+  "iconZoom": 800,
+  "iconYaw": 156,
+  "iconCameraPitch": 152,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 202,
+  "maleOffsetY": 0,
+  "femaleModel0": 377,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 44,
+  "femaleHeadModelA": 102,
+  "name": "Wizards hat",
+  "notedId": 580
+}

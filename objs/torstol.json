@@ -1,0 +1,21 @@
+{
+  "id": 269,
+  "value": 75,
+  "members": true,
+  "description": "A powerful herb.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    22422,
+    22416
+  ],
+  "name": "Torstol",
+  "notedId": 270
+}

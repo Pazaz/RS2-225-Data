@@ -1,0 +1,16 @@
+{
+  "id": 403,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1363
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Large grave stone",
+  "description": "A monument to a special person."
+}

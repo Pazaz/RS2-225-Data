@@ -1,0 +1,16 @@
+{
+  "id": 424,
+  "value": 1,
+  "description": "It's full of pigeons.",
+  "modelIndex": 2479,
+  "iconX": -9,
+  "iconY": -21,
+  "iconZoom": 1590,
+  "iconYaw": 1708,
+  "iconCameraPitch": 192,
+  "options": [
+    "Open"
+  ],
+  "members": true,
+  "name": "Pigeon cage"
+}

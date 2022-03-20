@@ -1,0 +1,28 @@
+{
+  "id": 2404,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Close"
+  ],
+  "interactionSideFlags": 14,
+  "oldColors": [
+    41
+  ],
+  "newColors": [
+    11173
+  ],
+  "modelIndices": [
+    1226
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chest",
+  "description": "Might be worth searching."
+}

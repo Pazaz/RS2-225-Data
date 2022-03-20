@@ -1,0 +1,16 @@
+{
+  "id": 631,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1524
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gem stall",
+  "description": "Finest precious stones."
+}

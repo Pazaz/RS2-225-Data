@@ -1,0 +1,18 @@
+{
+  "id": 3046,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1528
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Timber defence",
+  "description": "These obviously mean keep out!"
+}

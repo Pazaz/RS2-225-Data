@@ -1,0 +1,18 @@
+{
+  "id": 3161,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "brightness": 15,
+  "specular": 15,
+  "interactable": false,
+  "modelIndices": [
+    3315
+  ],
+  "modelTypes": [
+    0
+  ]
+}

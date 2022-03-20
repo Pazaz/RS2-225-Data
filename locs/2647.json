@@ -1,0 +1,36 @@
+{
+  "id": 2647,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    0,
+    4762
+  ],
+  "modelIndices": [
+    634,
+    635,
+    574,
+    575,
+    576
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Guild Door",
+  "description": "The door to the Crafting Guild."
+}

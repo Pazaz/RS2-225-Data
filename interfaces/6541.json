@@ -1,0 +1,17 @@
+{
+  "id": 6541,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 45,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "No Food",
+  "color": 11175970,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

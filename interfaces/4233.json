@@ -1,0 +1,30 @@
+{
+  "id": 4233,
+  "parent": 4161,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 6,
+  "height": 1,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": false,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 15,
+  "inevntoryMarginY": 0,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    "Make",
+    "Make 5",
+    "Make 10",
+    null,
+    null
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

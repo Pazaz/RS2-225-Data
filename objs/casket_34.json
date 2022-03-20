@@ -1,0 +1,16 @@
+{
+  "id": 2812,
+  "description": "I hope there's treasure in it.",
+  "modelIndex": 2450,
+  "iconX": 3,
+  "iconY": -6,
+  "iconZoom": 1410,
+  "iconYaw": 1592,
+  "iconCameraPitch": 164,
+  "value": 50,
+  "options": [
+    "Open"
+  ],
+  "members": true,
+  "name": "Casket"
+}

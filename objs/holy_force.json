@@ -1,0 +1,14 @@
+{
+  "id": 748,
+  "description": "A powerful spell for good.",
+  "modelIndex": 2583,
+  "members": true,
+  "iconY": 17,
+  "iconZoom": 1460,
+  "iconYaw": 112,
+  "iconCameraPitch": 272,
+  "options": [
+    "Cast Spell"
+  ],
+  "name": "Holy force"
+}

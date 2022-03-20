@@ -1,0 +1,15 @@
+{
+  "id": 2025,
+  "description": "Used for mixing cocktails.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2771,
+  "iconY": -1,
+  "iconZoom": 1000,
+  "iconYaw": 116,
+  "iconCameraPitch": 92,
+  "options": [
+    "Inspect"
+  ],
+  "name": "Cocktail shaker"
+}

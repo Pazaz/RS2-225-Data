@@ -1,0 +1,16 @@
+{
+  "id": 1963,
+  "description": "Mmm this looks tasty.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "modelIndex": 2387,
+  "iconX": 9,
+  "iconY": 10,
+  "iconZoom": 930,
+  "iconYaw": 1944,
+  "iconCameraPitch": 280,
+  "name": "Banana",
+  "notedId": 1964
+}

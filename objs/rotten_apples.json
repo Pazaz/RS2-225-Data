@@ -1,0 +1,22 @@
+{
+  "id": 1984,
+  "description": "Rotten!",
+  "modelIndex": 2404,
+  "iconZoom": 940,
+  "iconYaw": 80,
+  "iconCameraPitch": 212,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "value": 1,
+  "oldColors": [
+    17331,
+    22422
+  ],
+  "newColors": [
+    9761,
+    3350
+  ],
+  "name": "Rotten apples"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1235,
+  "members": true,
+  "modelIndex": 2478,
+  "description": "The blade is covered with poison.",
+  "value": 565,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 504,
+  "maleOffsetY": 0,
+  "femaleModel0": 504,
+  "femaleOffsetY": 6,
+  "name": "Poisoned dagger(p)",
+  "notedId": 1236
+}

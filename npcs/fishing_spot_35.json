@@ -1,0 +1,19 @@
+{
+  "id": 800,
+  "level": 0,
+  "standSeq": 525,
+  "walkSeq": 525,
+  "disposeAlpha": true,
+  "description": "I can see eels swimming in the water.",
+  "showOnMinimap": false,
+  "options": [
+    "Bait",
+    null,
+    "hidden"
+  ],
+  "name": "Fishing spot",
+  "modelIndices": [
+    2331
+  ],
+  "wander": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 46,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Fish"
+  ],
+  "modelIndices": [
+    1491
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fishing spot",
+  "description": "I can fish here."
+}

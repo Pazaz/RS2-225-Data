@@ -1,0 +1,12 @@
+{
+  "id": 83,
+  "description": "A lever to open something perhaps?",
+  "members": true,
+  "value": 15,
+  "modelIndex": 2615,
+  "iconY": 25,
+  "iconZoom": 830,
+  "iconYaw": 1704,
+  "iconCameraPitch": 264,
+  "name": "Lever"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1897,
+  "options": [
+    "Eat"
+  ],
+  "description": "This looks very tasty.",
+  "value": 70,
+  "modelIndex": 2531,
+  "iconY": -8,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 164,
+  "oldColors": [
+    127,
+    8094,
+    937
+  ],
+  "newColors": [
+    7060,
+    5008,
+    7060
+  ],
+  "name": "Chocolate cake",
+  "notedId": 1898
+}

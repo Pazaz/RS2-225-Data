@@ -1,0 +1,27 @@
+{
+  "id": 265,
+  "level": 0,
+  "description": "A young squire. He looks worse for wear.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    8741
+  ],
+  "newColors": [
+    53155,
+    53155
+  ],
+  "name": "Jeremy Servil",
+  "modelIndices": [
+    2918,
+    2910,
+    2906
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

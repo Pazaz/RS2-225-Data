@@ -1,0 +1,18 @@
+{
+  "id": 1741,
+  "description": "It's a piece of leather.",
+  "modelIndex": 2338,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 1190,
+  "iconYaw": 116,
+  "iconCameraPitch": 440,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    10128
+  ],
+  "name": "Leather",
+  "notedId": 1742
+}

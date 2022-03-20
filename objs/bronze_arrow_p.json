@@ -1,0 +1,38 @@
+{
+  "id": 883,
+  "description": "Venomous looking arrows.",
+  "members": true,
+  "value": 1,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    900,
+    899,
+    898,
+    901
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    5652,
+    13221
+  ],
+  "name": "Bronze arrow(p)"
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4966,
+  "parent": 4958,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 25,
+  "height": 39,
+  "hoverParentIndex": -1,
+  "image": "gnomeball_buttons,0",
+  "optionCircumfix": "Pass to",
+  "optionSuffix": "",
+  "optionFlags": 10
+}

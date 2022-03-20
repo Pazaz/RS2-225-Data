@@ -1,0 +1,25 @@
+{
+  "id": 2638,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 8,
+  "oldColors": [
+    28,
+    61
+  ],
+  "newColors": [
+    8103,
+    9129
+  ],
+  "modelIndices": [
+    1497
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fountain of Heroes",
+  "description": "A source of pure water."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 940,
+  "description": "A spirit of the underworld.",
+  "disposeAlpha": true,
+  "walkSeq": 119,
+  "standSeq": 125,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 187,
+  "name": "Echned Zekin",
+  "modelIndices": [
+    2961,
+    2964,
+    2965
+  ],
+  "headModelIndices": [
+    10
+  ]
+}

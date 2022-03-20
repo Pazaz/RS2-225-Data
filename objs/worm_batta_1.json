@@ -1,0 +1,25 @@
+{
+  "id": 2219,
+  "description": "It actually smells quite good.",
+  "value": 120,
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    926,
+    15283
+  ],
+  "newColors": [
+    5698,
+    3550
+  ],
+  "name": "Worm batta",
+  "notedId": 2220
+}

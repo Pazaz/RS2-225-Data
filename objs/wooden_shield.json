@@ -1,0 +1,27 @@
+{
+  "id": 1171,
+  "description": "A solid wooden shield.",
+  "value": 20,
+  "modelIndex": 2601,
+  "iconX": 3,
+  "iconY": 40,
+  "iconZoom": 1390,
+  "iconYaw": 32,
+  "iconCameraPitch": 328,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 517,
+  "maleOffsetY": 0,
+  "femaleModel0": 517,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    5784
+  ],
+  "name": "Wooden shield",
+  "notedId": 1172
+}

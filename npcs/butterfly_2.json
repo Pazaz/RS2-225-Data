@@ -1,0 +1,12 @@
+{
+  "id": 154,
+  "description": "I love butterflies.",
+  "walkSeq": 362,
+  "standSeq": 362,
+  "showOnMinimap": false,
+  "level": 0,
+  "name": "Butterfly",
+  "modelIndices": [
+    3023
+  ]
+}

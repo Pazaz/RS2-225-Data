@@ -1,0 +1,18 @@
+{
+  "id": 1467,
+  "description": "Some damp wooden sticks.",
+  "members": true,
+  "modelIndex": 2402,
+  "iconX": 4,
+  "iconY": 20,
+  "iconZoom": 1020,
+  "iconYaw": 188,
+  "iconCameraPitch": 316,
+  "oldColors": [
+    5010
+  ],
+  "newColors": [
+    5392
+  ],
+  "name": "Damp sticks"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5968,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 242,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "If you misuse this form, you will be banned.",
+  "color": 16744448,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

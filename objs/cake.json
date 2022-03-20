@@ -1,0 +1,15 @@
+{
+  "id": 1891,
+  "options": [
+    "Eat"
+  ],
+  "description": "A plain sponge cake.",
+  "value": 50,
+  "modelIndex": 2531,
+  "iconY": -8,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 164,
+  "name": "Cake",
+  "notedId": 1892
+}

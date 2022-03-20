@@ -1,0 +1,31 @@
+{
+  "id": 1609,
+  "value": 100,
+  "description": "A semi precious stone.",
+  "modelIndex": 2586,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "members": true,
+  "maleModel0": 516,
+  "maleOffsetY": 0,
+  "femaleModel0": 516,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    478,
+    931,
+    918,
+    127
+  ],
+  "newColors": [
+    10363,
+    10465,
+    11852,
+    10363
+  ],
+  "name": "Opal",
+  "notedId": 1610
+}

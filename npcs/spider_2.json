@@ -1,0 +1,20 @@
+{
+  "id": 1004,
+  "walkSeq": 279,
+  "description": "Incey wincey.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 1,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    10258
+  ],
+  "name": "Spider",
+  "modelIndices": [
+    2996
+  ]
+}

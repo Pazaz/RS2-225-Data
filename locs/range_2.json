@@ -1,0 +1,16 @@
+{
+  "id": 2729,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1219
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Range",
+  "description": "Ideal for cooking on."
+}

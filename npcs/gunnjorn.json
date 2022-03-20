@@ -1,0 +1,42 @@
+{
+  "id": 607,
+  "level": 0,
+  "description": "He maintains this agility course",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    926,
+    6798,
+    8741
+  ],
+  "newColors": [
+    5652,
+    61,
+    6854,
+    4769
+  ],
+  "name": "Gunnjorn",
+  "modelIndices": [
+    219,
+    248,
+    299,
+    173,
+    176,
+    274,
+    242,
+    185,
+    550
+  ],
+  "headModelIndices": [
+    57,
+    75,
+    80
+  ]
+}

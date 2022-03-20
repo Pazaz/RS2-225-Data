@@ -1,0 +1,29 @@
+{
+  "id": 6981,
+  "parent": 6976,
+  "type": 6,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 32,
+  "height": 32,
+  "hoverParentIndex": 6977,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    0
+  ],
+  "script": [
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "seqId": -1,
+  "activeSeqId": -1,
+  "modelZoom": 2486,
+  "modelEyePitch": 288,
+  "modelYaw": 2046,
+  "option": "Ok"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2971,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Look"
+  ],
+  "modelIndices": [
+    584
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Shimmering field",
+  "description": "This looks like some sort of shimering surface."
+}

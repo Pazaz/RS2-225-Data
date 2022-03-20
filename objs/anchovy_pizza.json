@@ -1,0 +1,25 @@
+{
+  "id": 2297,
+  "options": [
+    "Eat"
+  ],
+  "description": "A pizza with anchovies.",
+  "value": 60,
+  "modelIndex": 2802,
+  "iconY": 1,
+  "iconZoom": 990,
+  "iconYaw": 176,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    103,
+    937
+  ],
+  "name": "Anchovy pizza",
+  "notedId": 2298
+}

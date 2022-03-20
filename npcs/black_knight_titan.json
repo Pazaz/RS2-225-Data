@@ -1,0 +1,32 @@
+{
+  "id": 221,
+  "description": "He looks mean and powerful.",
+  "walkSeq": 127,
+  "standSeq": 130,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 126,
+  "oldColors": [
+    920,
+    11200,
+    960,
+    4550,
+    39145,
+    61
+  ],
+  "newColors": [
+    0,
+    50105,
+    41,
+    41,
+    0,
+    0
+  ],
+  "name": "Black Knight Titan",
+  "modelIndices": [
+    2864,
+    2872
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1188,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    43968
+  ],
+  "newColors": [
+    939
+  ],
+  "modelIndices": [
+    1610
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flower",
+  "description": "Blooming!"
+}

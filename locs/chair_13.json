@@ -1,0 +1,25 @@
+{
+  "id": 3182,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 15,
+  "specular": 15,
+  "interactable": true,
+  "oldColors": [
+    4886
+  ],
+  "newColors": [
+    99
+  ],
+  "modelIndices": [
+    1170
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "Wait here for a nurse."
+}

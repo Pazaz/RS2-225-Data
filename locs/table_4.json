@@ -1,0 +1,16 @@
+{
+  "id": 596,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 1,
+  "modelIndices": [
+    1276
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "A banquet could be eaten from this."
+}

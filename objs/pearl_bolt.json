@@ -1,0 +1,26 @@
+{
+  "id": 880,
+  "stackable": true,
+  "value": 110,
+  "members": true,
+  "description": "Great if you have a crossbow!",
+  "modelIndex": 2664,
+  "iconX": -6,
+  "iconY": 145,
+  "iconZoom": 580,
+  "iconYaw": 104,
+  "iconCameraPitch": 232,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    57,
+    61
+  ],
+  "newColors": [
+    127,
+    127
+  ],
+  "name": "Pearl bolt"
+}

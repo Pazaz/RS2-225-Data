@@ -1,0 +1,23 @@
+{
+  "id": 1472,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    812
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "cavewall_slopefill_dark"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 359,
+  "level": 0,
+  "description": "One of RuneScapes' many citizens.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    43072,
+    25238,
+    8741,
+    4550
+  ],
+  "newColors": [
+    5662,
+    3980,
+    6449,
+    5662
+  ],
+  "name": "Man",
+  "modelIndices": [
+    230,
+    185,
+    250,
+    299,
+    159,
+    179,
+    275
+  ],
+  "headModelIndices": [
+    63,
+    82
+  ]
+}

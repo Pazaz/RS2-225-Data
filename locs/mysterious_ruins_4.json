@@ -1,0 +1,16 @@
+{
+  "id": 2455,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    2305
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mysterious ruins",
+  "description": "There is a powerful presence about these ruins..."
+}

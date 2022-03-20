@@ -1,0 +1,15 @@
+{
+  "id": 99,
+  "description": "He doesn't seem pleased to see me.",
+  "walkSeq": 74,
+  "standSeq": 77,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 44,
+  "name": "Guard dog",
+  "modelIndices": [
+    2936
+  ]
+}

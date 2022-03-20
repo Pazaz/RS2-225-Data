@@ -1,0 +1,17 @@
+{
+  "id": 903,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2073
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Unicorn's head",
+  "description": "Alas poor unicorn, I knew him well."
+}

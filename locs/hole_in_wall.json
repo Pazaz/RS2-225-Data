@@ -1,0 +1,16 @@
+{
+  "id": 710,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2083
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hole in wall",
+  "description": "Suspiciously hole shaped."
+}

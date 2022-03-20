@@ -1,0 +1,26 @@
+{
+  "id": 2295,
+  "options": [
+    "Eat"
+  ],
+  "description": "Half of this pizza has been eaten.",
+  "value": 25,
+  "modelIndex": 2717,
+  "iconX": 8,
+  "iconY": 14,
+  "iconZoom": 880,
+  "iconYaw": 1848,
+  "iconCameraPitch": 272,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    6069,
+    937
+  ],
+  "name": "1/2 meat pizza",
+  "notedId": 2296
+}

@@ -1,0 +1,32 @@
+{
+  "id": 991,
+  "size": 2,
+  "description": "A creature empty of emotion.",
+  "walkSeq": 800,
+  "standSeq": 800,
+  "level": 1,
+  "oldColors": [
+    25238,
+    4626,
+    4550,
+    8741,
+    43072
+  ],
+  "newColors": [
+    8629,
+    8286,
+    8286,
+    8629,
+    8286
+  ],
+  "name": "Half-Souless",
+  "modelIndices": [
+    230,
+    310,
+    275,
+    246,
+    168,
+    181,
+    176
+  ]
+}

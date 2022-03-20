@@ -1,0 +1,16 @@
+{
+  "id": 1153,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1619
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted fern",
+  "description": "Someone has planted this."
+}

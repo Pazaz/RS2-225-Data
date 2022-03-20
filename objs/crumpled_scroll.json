@@ -1,0 +1,21 @@
+{
+  "id": 608,
+  "description": "An ancient crumpled scroll.",
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "oldColors": [
+    10351
+  ],
+  "newColors": [
+    21704
+  ],
+  "name": "Crumpled scroll"
+}

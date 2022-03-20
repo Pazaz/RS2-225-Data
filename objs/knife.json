@@ -1,0 +1,13 @@
+{
+  "id": 946,
+  "description": "A dangerous looking knife.",
+  "value": 6,
+  "modelIndex": 2559,
+  "iconX": -11,
+  "iconY": -4,
+  "iconZoom": 580,
+  "iconYaw": 1260,
+  "iconCameraPitch": 444,
+  "name": "Knife",
+  "notedId": 947
+}

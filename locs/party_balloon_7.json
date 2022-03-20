@@ -1,0 +1,21 @@
+{
+  "id": 121,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 498,
+  "brightness": 60,
+  "actions": [
+    "Burst"
+  ],
+  "modelIndices": [
+    2226
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Party Balloon",
+  "description": "Aren't they pretty?"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 1014,
+  "level": 0,
+  "description": "A green skinned croaker.",
+  "standSeq": 1020,
+  "walkSeq": 1020,
+  "name": "Bloated Toad",
+  "modelIndices": [
+    3447
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1170,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1609
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fungus",
+  "description": "I doubt that's edible."
+}

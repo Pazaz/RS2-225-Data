@@ -1,0 +1,30 @@
+{
+  "id": 296,
+  "level": 0,
+  "description": "An ugly green creature.",
+  "walkSeq": 308,
+  "standSeq": 311,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    916,
+    61,
+    14238
+  ],
+  "newColors": [
+    933,
+    933,
+    11158
+  ],
+  "name": "General Bentnoze",
+  "modelIndices": [
+    2952,
+    2953,
+    2955,
+    2956
+  ],
+  "headModelIndices": [
+    145
+  ]
+}

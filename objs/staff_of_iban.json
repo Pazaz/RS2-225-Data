@@ -1,0 +1,20 @@
+{
+  "id": 1409,
+  "members": true,
+  "modelIndex": 2569,
+  "iconY": -15,
+  "iconZoom": 1640,
+  "iconYaw": 1464,
+  "iconCameraPitch": 196,
+  "description": "A highly magical staff.",
+  "value": 42500,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 514,
+  "maleOffsetY": 0,
+  "femaleModel0": 514,
+  "femaleOffsetY": 6,
+  "name": "Staff of iban"
+}

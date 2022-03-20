@@ -1,0 +1,21 @@
+{
+  "id": 363,
+  "description": "I should try cooking this.",
+  "modelIndex": 2355,
+  "iconY": 3,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 464,
+  "value": 120,
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    1488,
+    1249
+  ],
+  "name": "Raw bass",
+  "notedId": 364
+}

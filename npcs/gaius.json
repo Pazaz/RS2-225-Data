@@ -1,0 +1,42 @@
+{
+  "id": 586,
+  "level": 0,
+  "description": "Ironically, makes a living from swords.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072
+  ],
+  "newColors": [
+    5652,
+    5652,
+    6854,
+    4550
+  ],
+  "name": "Gaius",
+  "modelIndices": [
+    214,
+    250,
+    254,
+    294,
+    159,
+    176,
+    181,
+    491
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

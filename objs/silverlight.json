@@ -1,0 +1,27 @@
+{
+  "id": 2402,
+  "description": "The magical sword 'Silverlight'.",
+  "value": 50,
+  "modelIndex": 2566,
+  "iconX": -2,
+  "iconY": -4,
+  "iconZoom": 980,
+  "iconYaw": 864,
+  "iconRoll": 84,
+  "iconCameraPitch": 196,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 513,
+  "maleOffsetY": 0,
+  "femaleModel0": 513,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Silverlight"
+}

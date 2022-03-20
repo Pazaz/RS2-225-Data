@@ -1,0 +1,13 @@
+{
+  "id": 419,
+  "description": "A special kind of paper.",
+  "value": 1,
+  "modelIndex": 2781,
+  "iconX": -1,
+  "iconY": 30,
+  "iconZoom": 1050,
+  "iconYaw": 1672,
+  "iconCameraPitch": 288,
+  "members": true,
+  "name": "Touch paper"
+}

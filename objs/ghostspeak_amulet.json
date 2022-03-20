@@ -1,0 +1,26 @@
+{
+  "id": 552,
+  "description": "It lets me talk to ghosts.",
+  "value": 35,
+  "modelIndex": 2576,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 280,
+  "maleOffsetY": 0,
+  "femaleModel0": 444,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    28
+  ],
+  "newColors": [
+    4032
+  ],
+  "name": "Ghostspeak amulet"
+}

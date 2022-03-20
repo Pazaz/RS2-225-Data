@@ -1,0 +1,16 @@
+{
+  "id": 75,
+  "description": "The walking dead.",
+  "walkSeq": 298,
+  "standSeq": 301,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 24,
+  "name": "Zombie",
+  "modelIndices": [
+    2931,
+    2932
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 54,
+  "value": 50,
+  "members": true,
+  "description": "An unstrung oak shortbow, I need a bowstring for this.",
+  "modelIndex": 2435,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    8111
+  ],
+  "name": "Oak shortbow",
+  "notedId": 55
+}

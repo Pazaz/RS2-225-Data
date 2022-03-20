@@ -1,0 +1,45 @@
+{
+  "id": 575,
+  "level": 0,
+  "description": "A master fletcher.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    5442,
+    926,
+    25238,
+    43072,
+    6798
+  ],
+  "newColors": [
+    65441,
+    25238,
+    25379,
+    6798,
+    900
+  ],
+  "name": "Hickton",
+  "modelIndices": [
+    230,
+    274,
+    247,
+    173,
+    179,
+    185,
+    307,
+    323,
+    322
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

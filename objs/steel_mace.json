@@ -1,0 +1,20 @@
+{
+  "id": 1424,
+  "description": "A spiky mace.",
+  "value": 225,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 502,
+  "maleOffsetY": 0,
+  "femaleModel0": 502,
+  "femaleOffsetY": 6,
+  "modelIndex": 2464,
+  "iconY": -1,
+  "iconZoom": 1030,
+  "iconYaw": 1188,
+  "iconCameraPitch": 392,
+  "name": "Steel mace",
+  "notedId": 1425
+}

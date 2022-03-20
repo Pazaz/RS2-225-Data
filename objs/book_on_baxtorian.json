@@ -1,0 +1,20 @@
+{
+  "id": 292,
+  "value": 2,
+  "description": "A book on elven history in north runescape.",
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "members": true,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018
+  ],
+  "newColors": [
+    14226
+  ],
+  "name": "Book on baxtorian"
+}

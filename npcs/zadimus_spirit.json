@@ -1,0 +1,20 @@
+{
+  "id": 501,
+  "level": 0,
+  "description": "The animated spirit of a soul not at rest.",
+  "disposeAlpha": true,
+  "walkSeq": 119,
+  "standSeq": 125,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Zadimus' spirit.",
+  "modelIndices": [
+    2962,
+    2964,
+    2965
+  ],
+  "headModelIndices": [
+    27
+  ]
+}

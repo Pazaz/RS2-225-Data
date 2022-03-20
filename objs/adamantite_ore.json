@@ -1,0 +1,19 @@
+{
+  "id": 449,
+  "value": 400,
+  "description": "This needs refining.",
+  "modelIndex": 2748,
+  "iconX": 1,
+  "iconY": 15,
+  "iconZoom": 1400,
+  "iconYaw": 1576,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    21662
+  ],
+  "name": "Adamantite ore",
+  "notedId": 450
+}

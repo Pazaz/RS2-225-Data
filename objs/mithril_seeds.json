@@ -1,0 +1,23 @@
+{
+  "id": 299,
+  "description": "Magical seeds in a mithril case.",
+  "value": 200,
+  "modelIndex": 2381,
+  "iconX": 7,
+  "iconY": 39,
+  "iconZoom": 920,
+  "iconYaw": 676,
+  "iconCameraPitch": 240,
+  "members": true,
+  "stackable": true,
+  "options": [
+    "Plant"
+  ],
+  "oldColors": [
+    43288
+  ],
+  "newColors": [
+    22433
+  ],
+  "name": "Mithril seeds"
+}

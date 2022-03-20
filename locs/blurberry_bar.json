@@ -1,0 +1,17 @@
+{
+  "id": 189,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "interactable": true,
+  "modelIndices": [
+    1333
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Blurberry bar",
+  "description": "The Blurberry bar - cocktails extraordinaire!"
+}

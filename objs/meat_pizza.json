@@ -1,0 +1,25 @@
+{
+  "id": 2293,
+  "options": [
+    "Eat"
+  ],
+  "description": "A pizza with bits of meat on it.",
+  "value": 50,
+  "modelIndex": 2802,
+  "iconY": 1,
+  "iconZoom": 990,
+  "iconYaw": 176,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    6069,
+    937
+  ],
+  "name": "Meat pizza",
+  "notedId": 2294
+}

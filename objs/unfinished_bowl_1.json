@@ -1,0 +1,25 @@
+{
+  "id": 2179,
+  "description": "This dish is just missing those little finishing touches.",
+  "modelIndex": 2647,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "members": true,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    3980,
+    10357,
+    3974
+  ],
+  "newColors": [
+    3738,
+    3738,
+    3738
+  ],
+  "name": "Unfinished bowl",
+  "notedId": 2180
+}

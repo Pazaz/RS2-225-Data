@@ -1,0 +1,24 @@
+{
+  "id": 396,
+  "description": "Likes fish... hates people.",
+  "scaleY": 96,
+  "scaleX": 160,
+  "walkSeq": 283,
+  "standSeq": 286,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "disposeAlpha": true,
+  "level": 159,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    26925
+  ],
+  "name": "River troll",
+  "modelIndices": [
+    2930
+  ]
+}

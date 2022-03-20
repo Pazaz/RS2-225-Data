@@ -1,0 +1,23 @@
+{
+  "id": 1344,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 6,
+  "oldColors": [
+    5388
+  ],
+  "newColors": [
+    5786
+  ],
+  "modelIndices": [
+    1695
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree stump",
+  "description": "This tree has been cut down."
+}

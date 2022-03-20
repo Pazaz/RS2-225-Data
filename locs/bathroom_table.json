@@ -1,0 +1,16 @@
+{
+  "id": 592,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1189
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bathroom table",
+  "description": "Contains washing items."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 724,
+  "level": 0,
+  "description": "She doesn't seem very happy.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    22418,
+    11162
+  ],
+  "newColors": [
+    6449,
+    908,
+    3980
+  ],
+  "name": "Milli Rehnison",
+  "modelIndices": [
+    2902,
+    2911,
+    2918
+  ],
+  "headModelIndices": [
+    118
+  ]
+}

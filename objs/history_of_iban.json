@@ -1,0 +1,14 @@
+{
+  "id": 1494,
+  "description": "The tale of Iban.",
+  "value": 1,
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "members": true,
+  "options": [
+    "Read"
+  ],
+  "name": "History of iban"
+}

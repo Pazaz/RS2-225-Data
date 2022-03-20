@@ -1,0 +1,27 @@
+{
+  "id": 208,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "He guards the mines.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Dwarf Commander",
+  "modelIndices": [
+    2970,
+    2981,
+    2979,
+    2983,
+    2985
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

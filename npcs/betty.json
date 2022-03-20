@@ -1,0 +1,45 @@
+{
+  "id": 583,
+  "level": 0,
+  "description": "She seems like a nice sort of person.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    43072,
+    6798,
+    8741,
+    25238,
+    9104,
+    4626
+  ],
+  "newColors": [
+    4550,
+    0,
+    0,
+    0,
+    127,
+    0
+  ],
+  "name": "Betty",
+  "modelIndices": [
+    378,
+    469,
+    332,
+    353,
+    428,
+    361,
+    482,
+    446
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

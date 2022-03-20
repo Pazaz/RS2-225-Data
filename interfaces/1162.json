@@ -1,0 +1,53 @@
+{
+  "id": 1162,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1283,
+  "scriptCompareType": [
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    2,
+    0,
+    20
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      554,
+      10,
+      1688,
+      1387,
+      10,
+      1688,
+      1393,
+      10,
+      1688,
+      1401,
+      0
+    ],
+    [
+      4,
+      3214,
+      561,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,10",
+  "activeImage": "magicon,10",
+  "optionCircumfix": "Cast on",
+  "optionSuffix": "Low level alchemy",
+  "optionFlags": 16
+}

@@ -1,0 +1,16 @@
+{
+  "id": 608,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1291
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Study desk",
+  "description": "The ideal place to study."
+}

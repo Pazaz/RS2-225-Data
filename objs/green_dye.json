@@ -1,0 +1,18 @@
+{
+  "id": 1771,
+  "description": "A little bottle of green dye.",
+  "value": 5,
+  "modelIndex": 2705,
+  "iconY": -2,
+  "iconZoom": 760,
+  "iconYaw": 1920,
+  "iconCameraPitch": 124,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22449
+  ],
+  "name": "Green dye",
+  "notedId": 1772
+}

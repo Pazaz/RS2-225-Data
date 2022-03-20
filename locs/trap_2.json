@@ -1,0 +1,16 @@
+{
+  "id": 3228,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "modelIndices": [
+    2325
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trap",
+  "description": "Best avoided."
+}

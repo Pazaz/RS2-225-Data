@@ -1,0 +1,30 @@
+{
+  "id": 1106,
+  "parent": 994,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 88,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3
+  ],
+  "scriptCompareValue": [
+    7
+  ],
+  "script": [
+    [
+      5,
+      211,
+      0
+    ]
+  ],
+  "center": true,
+  "font": 1,
+  "shadow": false,
+  "text": "Throwing knives",
+  "color": 0,
+  "colorEnabled": 16777215,
+  "hoverColor": 0
+}

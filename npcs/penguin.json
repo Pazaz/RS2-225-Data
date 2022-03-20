@@ -1,0 +1,15 @@
+{
+  "id": 131,
+  "description": "An inhabitant of icy regions.",
+  "walkSeq": 234,
+  "standSeq": 235,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Penguin",
+  "modelIndices": [
+    3003
+  ]
+}

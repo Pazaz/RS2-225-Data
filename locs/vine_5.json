@@ -1,0 +1,17 @@
+{
+  "id": 1208,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1608
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Vine",
+  "description": "The flower of a nasty creeping plant."
+}

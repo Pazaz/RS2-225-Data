@@ -1,0 +1,17 @@
+{
+  "id": 303,
+  "modelIndex": 2403,
+  "description": "Useful for catching small fish.",
+  "iconX": 3,
+  "iconY": 5,
+  "iconZoom": 840,
+  "iconYaw": 132,
+  "iconCameraPitch": 380,
+  "value": 5,
+  "maleModel0": 551,
+  "maleOffsetY": 0,
+  "femaleModel0": 551,
+  "femaleOffsetY": 6,
+  "name": "Small fishing net",
+  "notedId": 304
+}

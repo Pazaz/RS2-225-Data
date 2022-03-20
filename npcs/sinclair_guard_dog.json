@@ -1,0 +1,11 @@
+{
+  "id": 821,
+  "description": "Big, noisy, and scary looking!",
+  "walkSeq": 74,
+  "standSeq": 77,
+  "level": 1,
+  "name": "Sinclair Guard dog",
+  "modelIndices": [
+    2936
+  ]
+}

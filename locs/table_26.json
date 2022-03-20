@@ -1,0 +1,24 @@
+{
+  "id": 2940,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "oldColors": [
+    5,
+    22
+  ],
+  "newColors": [
+    16,
+    16
+  ],
+  "modelIndices": [
+    1210
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "A wonderfully dressed table."
+}

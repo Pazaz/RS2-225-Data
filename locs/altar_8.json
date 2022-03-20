@@ -1,0 +1,21 @@
+{
+  "id": 2484,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Craft-rune"
+  ],
+  "animationIndex": 503,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2314
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Altar",
+  "description": "A mysterious power emanates from this shrine."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1183,
+  "description": "A medium square shield.",
+  "value": 3840,
+  "modelIndex": 2720,
+  "iconX": 2,
+  "iconY": 174,
+  "iconZoom": 1410,
+  "iconYaw": 60,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 541,
+  "maleOffsetY": 0,
+  "femaleModel0": 541,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    21662
+  ],
+  "name": "Adamant sq shield",
+  "notedId": 1184
+}

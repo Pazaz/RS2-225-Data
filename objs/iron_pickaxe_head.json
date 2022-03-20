@@ -1,0 +1,19 @@
+{
+  "id": 482,
+  "description": "It's missing a handle.",
+  "modelIndex": 2732,
+  "iconX": -2,
+  "iconY": -19,
+  "iconZoom": 1070,
+  "iconYaw": 1056,
+  "iconCameraPitch": 224,
+  "value": 139,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Pickaxe head",
+  "notedId": 483
+}

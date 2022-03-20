@@ -1,0 +1,36 @@
+{
+  "id": 8,
+  "description": "Known for his lightfingered qualities.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 16,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    47399,
+    6930
+  ],
+  "name": "Thief",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    151,
+    179,
+    254,
+    185,
+    320
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

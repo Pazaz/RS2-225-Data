@@ -1,0 +1,17 @@
+{
+  "id": 812,
+  "parent": 802,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 53,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": false,
+  "text": "Gandius",
+  "color": 2825231,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

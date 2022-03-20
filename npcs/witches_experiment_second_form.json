@@ -1,0 +1,23 @@
+{
+  "id": 898,
+  "description": "Looks unnatural.",
+  "walkSeq": 142,
+  "standSeq": 145,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 30,
+  "oldColors": [
+    10258,
+    8128
+  ],
+  "newColors": [
+    52120,
+    23506
+  ],
+  "name": "Witches experiment second form",
+  "modelIndices": [
+    2884
+  ]
+}

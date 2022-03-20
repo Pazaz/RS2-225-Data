@@ -1,0 +1,13 @@
+{
+  "id": 407,
+  "level": 0,
+  "description": "A very strange plant.",
+  "standSeq": 349,
+  "options": [
+    "Pick"
+  ],
+  "name": "Strange plant",
+  "modelIndices": [
+    3371
+  ]
+}

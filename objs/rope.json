@@ -1,0 +1,19 @@
+{
+  "id": 954,
+  "description": "A coil of rope.",
+  "value": 18,
+  "modelIndex": 1842,
+  "iconX": -2,
+  "iconY": -30,
+  "iconZoom": 1240,
+  "iconYaw": 1976,
+  "iconCameraPitch": 188,
+  "oldColors": [
+    6558
+  ],
+  "newColors": [
+    7054
+  ],
+  "name": "Rope",
+  "notedId": 955
+}

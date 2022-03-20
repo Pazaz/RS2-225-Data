@@ -1,0 +1,29 @@
+{
+  "id": 1383,
+  "description": "A Magical staff.",
+  "value": 1500,
+  "modelIndex": 2810,
+  "iconX": -5,
+  "iconY": 2,
+  "iconZoom": 1490,
+  "iconYaw": 1400,
+  "iconCameraPitch": 148,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 534,
+  "maleOffsetY": 0,
+  "maleModel1": 567,
+  "femaleModel0": 534,
+  "femaleOffsetY": 6,
+  "femaleModel1": 567,
+  "oldColors": [
+    43117
+  ],
+  "newColors": [
+    43968
+  ],
+  "name": "Staff of water",
+  "notedId": 1384
+}

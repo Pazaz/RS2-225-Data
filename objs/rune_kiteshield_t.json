@@ -1,0 +1,31 @@
+{
+  "id": 2629,
+  "description": "Rune kiteshield with trim.",
+  "modelIndex": 2339,
+  "iconX": -6,
+  "iconY": -14,
+  "iconZoom": 1560,
+  "iconYaw": 1104,
+  "iconCameraPitch": 344,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 54400,
+  "maleModel0": 486,
+  "maleOffsetY": 0,
+  "femaleModel0": 486,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    57,
+    61,
+    7054
+  ],
+  "newColors": [
+    7054,
+    36133,
+    38226
+  ],
+  "name": "Rune kiteshield (t)",
+  "notedId": 2630
+}

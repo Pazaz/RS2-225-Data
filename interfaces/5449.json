@@ -1,0 +1,17 @@
+{
+  "id": 5449,
+  "parent": 962,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 93,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Green=Unlocked",
+  "color": 65280,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

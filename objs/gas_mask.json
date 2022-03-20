@@ -1,0 +1,23 @@
+{
+  "id": 1506,
+  "members": true,
+  "value": 2,
+  "modelIndex": 2442,
+  "iconX": -9,
+  "iconY": -7,
+  "iconZoom": 720,
+  "iconYaw": 1676,
+  "iconCameraPitch": 208,
+  "description": "Stops me from breathing nasty stuff!",
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 212,
+  "maleOffsetY": 0,
+  "femaleModel0": 389,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 51,
+  "femaleHeadModelA": 112,
+  "name": "Gas mask"
+}

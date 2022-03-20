@@ -1,0 +1,17 @@
+{
+  "id": 6521,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 39,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Accept",
+  "color": 32768,
+  "colorEnabled": 0,
+  "hoverColor": 65280
+}

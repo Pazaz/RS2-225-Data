@@ -1,0 +1,18 @@
+{
+  "id": 1779,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 4,
+  "delayShading": true,
+  "animationIndex": 472,
+  "modelIndices": [
+    2287
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sails",
+  "description": "These sails use the wind to drive the windmill."
+}

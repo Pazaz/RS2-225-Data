@@ -1,0 +1,20 @@
+{
+  "id": 1619,
+  "value": 100,
+  "description": "This would be worth more cut.",
+  "modelIndex": 2528,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    931
+  ],
+  "name": "Uncut ruby",
+  "notedId": 1620
+}

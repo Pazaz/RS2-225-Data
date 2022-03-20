@@ -1,0 +1,17 @@
+{
+  "id": 950,
+  "description": "It's a sheet of silk.",
+  "value": 30,
+  "modelIndex": 2725,
+  "iconY": -15,
+  "iconZoom": 1360,
+  "iconCameraPitch": 368,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    54722
+  ],
+  "name": "Silk",
+  "notedId": 951
+}

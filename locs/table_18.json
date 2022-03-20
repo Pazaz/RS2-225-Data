@@ -1,0 +1,16 @@
+{
+  "id": 616,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1945
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "A creepy looking table."
+}

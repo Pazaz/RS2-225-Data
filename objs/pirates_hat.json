@@ -1,0 +1,23 @@
+{
+  "id": 2651,
+  "description": "Shiver me timbers!",
+  "value": 180,
+  "members": true,
+  "modelIndex": 3215,
+  "iconX": -3,
+  "iconZoom": 600,
+  "iconYaw": 1836,
+  "iconCameraPitch": 136,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 190,
+  "maleOffsetY": 0,
+  "femaleModel0": 367,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 31,
+  "femaleHeadModelA": 89,
+  "name": "Pirate's hat",
+  "notedId": 2652
+}

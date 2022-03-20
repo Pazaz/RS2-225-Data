@@ -1,0 +1,28 @@
+{
+  "id": 2534,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    0,
+    4762
+  ],
+  "modelIndices": [
+    3197
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door",
+  "description": "There's black cross on the door."
+}

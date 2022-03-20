@@ -1,0 +1,12 @@
+{
+  "id": 76,
+  "members": true,
+  "description": "These keys open the cells at the Khazard fight arena.",
+  "modelIndex": 2424,
+  "iconX": 6,
+  "iconY": 7,
+  "iconZoom": 890,
+  "iconYaw": 228,
+  "iconCameraPitch": 508,
+  "name": "Khazard cell keys"
+}

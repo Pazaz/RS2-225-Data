@@ -1,0 +1,13 @@
+{
+  "id": 314,
+  "description": "Used for fly fishing.",
+  "modelIndex": 2476,
+  "iconX": 4,
+  "iconY": 10,
+  "iconZoom": 700,
+  "iconYaw": 692,
+  "iconCameraPitch": 428,
+  "stackable": true,
+  "value": 2,
+  "name": "Feather"
+}

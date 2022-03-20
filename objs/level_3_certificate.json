@@ -1,0 +1,12 @@
+{
+  "id": 693,
+  "modelIndex": 2600,
+  "description": "The owner has passed earth sciences level 3 exam.",
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "members": true,
+  "name": "Level 3 certificate"
+}

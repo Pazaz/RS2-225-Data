@@ -1,0 +1,21 @@
+{
+  "id": 2581,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 12,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1388
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock",
+  "description": "A rock with green moss growing on it."
+}

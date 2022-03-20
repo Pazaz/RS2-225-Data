@@ -1,0 +1,25 @@
+{
+  "id": 914,
+  "description": "He kills in the name of Guthix.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 54,
+  "oldColors": [
+    22426,
+    926
+  ],
+  "newColors": [
+    8090,
+    22426
+  ],
+  "name": "Battle mage",
+  "modelIndices": [
+    2909,
+    2898,
+    2920
+  ]
+}

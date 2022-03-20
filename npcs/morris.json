@@ -1,0 +1,36 @@
+{
+  "id": 227,
+  "level": 0,
+  "description": "He checks the entrants to the fishing contest.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    127,
+    6798
+  ],
+  "name": "Morris",
+  "modelIndices": [
+    215,
+    247,
+    292,
+    163,
+    176,
+    267,
+    185,
+    327
+  ],
+  "headModelIndices": [
+    53,
+    79
+  ]
+}

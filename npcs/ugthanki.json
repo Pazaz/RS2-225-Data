@@ -1,0 +1,24 @@
+{
+  "id": 840,
+  "description": "A vicious attaking camel.",
+  "size": 2,
+  "walkSeq": 45,
+  "standSeq": 51,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 42,
+  "oldColors": [
+    5974,
+    127
+  ],
+  "newColors": [
+    8111,
+    953
+  ],
+  "name": "Ugthanki",
+  "modelIndices": [
+    2939
+  ]
+}

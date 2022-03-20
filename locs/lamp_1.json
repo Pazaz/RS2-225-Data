@@ -1,0 +1,16 @@
+{
+  "id": 200,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1324
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Lamp",
+  "description": "A quirky gnome lamp."
+}

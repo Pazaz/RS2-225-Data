@@ -1,0 +1,37 @@
+{
+  "id": 7,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "description": "He grows the crops in this area.",
+  "level": 7,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    47399,
+    6930
+  ],
+  "name": "Farmer",
+  "modelIndices": [
+    217,
+    246,
+    292,
+    151,
+    176,
+    254,
+    185,
+    495
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

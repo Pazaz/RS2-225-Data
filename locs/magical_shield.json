@@ -1,0 +1,17 @@
+{
+  "id": 2842,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "animationIndex": 446,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2222
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Magical shield"
+}

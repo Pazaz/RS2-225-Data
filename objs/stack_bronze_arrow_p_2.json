@@ -1,0 +1,19 @@
+{
+  "id": 900,
+  "stackable": true,
+  "modelIndex": 2419,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    5652,
+    13221
+  ],
+  "name": "Bronze arrow p 2"
+}

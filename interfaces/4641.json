@@ -1,0 +1,17 @@
+{
+  "id": 4641,
+  "parent": 4564,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 88,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 2,
+  "shadow": true,
+  "text": "Trawler Catch",
+  "color": 11184810,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

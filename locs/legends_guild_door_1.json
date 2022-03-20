@@ -1,0 +1,30 @@
+{
+  "id": 2896,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    10167,
+    9643,
+    9137
+  ],
+  "newColors": [
+    43486,
+    41,
+    41191
+  ],
+  "modelIndices": [
+    593
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Legends Guild door",
+  "description": "A door to the Legends Guild."
+}

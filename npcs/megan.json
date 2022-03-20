@@ -1,0 +1,35 @@
+{
+  "id": 661,
+  "description": "Pretty barmaid.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    8741,
+    25238
+  ],
+  "newColors": [
+    41682,
+    43162
+  ],
+  "name": "Megan",
+  "modelIndices": [
+    390,
+    363,
+    467,
+    348,
+    353,
+    429,
+    358
+  ],
+  "headModelIndices": [
+    113,
+    87
+  ]
+}

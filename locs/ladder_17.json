@@ -1,0 +1,22 @@
+{
+  "id": 1753,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Climb-up"
+  ],
+  "mapscene": 7,
+  "modelIndices": [
+    1183
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ladder",
+  "description": "It's useless."
+}

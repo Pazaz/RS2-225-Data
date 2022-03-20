@@ -1,0 +1,17 @@
+{
+  "id": 1375,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 0,
+  "modelIndices": [
+    1721
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bamboo tree",
+  "description": "This tree contains dangerous insects no doubt."
+}

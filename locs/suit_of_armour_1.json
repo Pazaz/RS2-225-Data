@@ -1,0 +1,16 @@
+{
+  "id": 817,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1214
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Suit of armour",
+  "description": "I always wonder if someone's hiding inside when I see these."
+}

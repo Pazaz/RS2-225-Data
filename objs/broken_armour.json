@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "description": "No use to me...",
+  "modelIndex": 1314,
+  "iconX": 5,
+  "iconY": 8,
+  "iconZoom": 1510,
+  "iconYaw": 60,
+  "iconCameraPitch": 496,
+  "members": true,
+  "oldColors": [
+    45
+  ],
+  "newColors": [
+    8472
+  ],
+  "name": "Broken armour"
+}

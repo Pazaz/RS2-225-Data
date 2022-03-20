@@ -1,0 +1,27 @@
+{
+  "id": 1055,
+  "description": "Aaaarrrghhh ... i'm a monster.",
+  "value": 15,
+  "modelIndex": 2438,
+  "maleModel0": 3188,
+  "maleOffsetY": 0,
+  "femaleModel0": 3192,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 1755,
+  "femaleHeadModelA": 3187,
+  "iconY": -10,
+  "iconZoom": 730,
+  "iconCameraPitch": 516,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    43934
+  ],
+  "name": "Halloween mask",
+  "notedId": 1056
+}

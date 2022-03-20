@@ -1,0 +1,24 @@
+{
+  "id": 2861,
+  "description": "I can make an ogre arrow with these.",
+  "members": true,
+  "stackable": true,
+  "value": 3,
+  "modelIndex": 2551,
+  "iconX": 4,
+  "iconY": 4,
+  "iconZoom": 780,
+  "iconYaw": 176,
+  "iconCameraPitch": 440,
+  "oldColors": [
+    61,
+    57,
+    74
+  ],
+  "newColors": [
+    10473,
+    13790,
+    10326
+  ],
+  "name": "Wolfbone arrowtips"
+}

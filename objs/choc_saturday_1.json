@@ -1,0 +1,22 @@
+{
+  "id": 2030,
+  "description": "A warm creamy alcoholic beverage.",
+  "value": 30,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2661,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    37811
+  ],
+  "newColors": [
+    7075
+  ],
+  "name": "Choc saturday",
+  "notedId": 2031
+}

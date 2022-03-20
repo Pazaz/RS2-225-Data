@@ -1,0 +1,41 @@
+{
+  "id": 1003,
+  "level": 0,
+  "size": 2,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 346,
+  "description": "The great and dreadful Lord Iban",
+  "oldColors": [
+    61,
+    7952,
+    8741,
+    25238,
+    926,
+    23442
+  ],
+  "newColors": [
+    24,
+    20,
+    20,
+    20,
+    55198,
+    20
+  ],
+  "name": "Lord Iban",
+  "modelIndices": [
+    221,
+    292,
+    179,
+    170,
+    325,
+    286,
+    251,
+    265
+  ],
+  "headModelIndices": [
+    83
+  ]
+}

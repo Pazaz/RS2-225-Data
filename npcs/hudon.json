@@ -1,0 +1,25 @@
+{
+  "id": 305,
+  "description": "Looks young.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    22426
+  ],
+  "newColors": [
+    941
+  ],
+  "name": "Hudon",
+  "modelIndices": [
+    2897,
+    2910,
+    2918
+  ],
+  "headModelIndices": [
+    139
+  ]
+}

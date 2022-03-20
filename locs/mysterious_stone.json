@@ -1,0 +1,16 @@
+{
+  "id": 2497,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2315
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mysterious stone",
+  "description": "Unusual energy is gathered here."
+}

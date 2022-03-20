@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "members": true,
+  "value": 5,
+  "description": "A bottle of Khazard's worst brew.",
+  "modelIndex": 2660,
+  "iconY": -1,
+  "iconZoom": 970,
+  "iconYaw": 1888,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    1942
+  ],
+  "newColors": [
+    22424
+  ],
+  "name": "Khali brew"
+}

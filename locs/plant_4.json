@@ -1,0 +1,16 @@
+{
+  "id": 1391,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1641
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Plant",
+  "description": "A leafy plant."
+}

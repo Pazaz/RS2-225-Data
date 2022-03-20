@@ -1,0 +1,20 @@
+{
+  "id": 2178,
+  "description": "This gnome bowl needs cooking.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2797,
+  "iconX": 1,
+  "iconZoom": 850,
+  "iconYaw": 1888,
+  "iconCameraPitch": 192,
+  "oldColors": [
+    7081,
+    7075
+  ],
+  "newColors": [
+    8637,
+    8778
+  ],
+  "name": "Raw gnomebowl"
+}

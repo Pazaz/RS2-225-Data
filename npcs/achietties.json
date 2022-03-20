@@ -1,0 +1,41 @@
+{
+  "id": 796,
+  "level": 0,
+  "description": "Distinctly heroic.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    5532,
+    25238
+  ],
+  "newColors": [
+    6620,
+    61,
+    926
+  ],
+  "name": "Achietties",
+  "modelIndices": [
+    393,
+    376,
+    468,
+    430,
+    356,
+    360,
+    339,
+    417,
+    541,
+    518
+  ],
+  "headModelIndices": [
+    115,
+    136,
+    101
+  ]
+}

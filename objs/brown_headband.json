@@ -1,0 +1,31 @@
+{
+  "id": 2649,
+  "description": "A minimilist's hat.",
+  "value": 40,
+  "members": true,
+  "modelIndex": 3377,
+  "iconX": -1,
+  "iconZoom": 380,
+  "iconYaw": 56,
+  "iconCameraPitch": 108,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 201,
+  "maleOffsetY": 0,
+  "femaleModel0": 376,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 43,
+  "femaleHeadModelA": 101,
+  "oldColors": [
+    61,
+    41
+  ],
+  "newColors": [
+    4886,
+    1932
+  ],
+  "name": "Headband",
+  "notedId": 2650
+}

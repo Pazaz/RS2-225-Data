@@ -1,0 +1,20 @@
+{
+  "id": 2423,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Pull"
+  ],
+  "modelIndices": [
+    2077
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Lever",
+  "description": "This lever is down."
+}

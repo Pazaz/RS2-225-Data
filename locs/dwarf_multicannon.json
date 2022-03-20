@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    "Pick-up"
+  ],
+  "modelIndices": [
+    2328
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Dwarf MultiCannon",
+  "description": "A powerful ranging device that fires metal balls."
+}

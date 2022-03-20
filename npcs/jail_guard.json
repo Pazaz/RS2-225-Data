@@ -1,0 +1,39 @@
+{
+  "id": 917,
+  "description": "I wonder who he's guarding?",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 26,
+  "oldColors": [
+    25238,
+    5532,
+    6798,
+    8741
+  ],
+  "newColors": [
+    5652,
+    10508,
+    6854,
+    1950
+  ],
+  "name": "Jail guard",
+  "modelIndices": [
+    217,
+    246,
+    311,
+    151,
+    179,
+    257,
+    502
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

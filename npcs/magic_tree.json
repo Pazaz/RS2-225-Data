@@ -1,0 +1,24 @@
+{
+  "id": 452,
+  "level": 0,
+  "description": "The tree shimmers with a magical force.",
+  "standSeq": 334,
+  "size": 2,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    3470
+  ],
+  "name": "Magic tree",
+  "modelIndices": [
+    2851
+  ]
+}

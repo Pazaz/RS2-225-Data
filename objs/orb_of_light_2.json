@@ -1,0 +1,11 @@
+{
+  "id": 1482,
+  "description": "A magical sphere that glimmers within.",
+  "value": 10,
+  "modelIndex": 3176,
+  "iconZoom": 1390,
+  "iconYaw": 1700,
+  "iconCameraPitch": 100,
+  "members": true,
+  "name": "Orb of light"
+}

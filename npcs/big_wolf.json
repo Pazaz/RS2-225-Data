@@ -1,0 +1,26 @@
+{
+  "id": 141,
+  "size": 2,
+  "walkSeq": 74,
+  "standSeq": 77,
+  "scaleX": 170,
+  "scaleY": 170,
+  "description": "Must be the pack leader.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 73,
+  "oldColors": [
+    61,
+    61
+  ],
+  "newColors": [
+    127,
+    127
+  ],
+  "name": "Big Wolf",
+  "modelIndices": [
+    2937
+  ]
+}

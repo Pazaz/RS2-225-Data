@@ -1,0 +1,16 @@
+{
+  "id": 303,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1428
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Compost",
+  "description": "In the city we would call this mouldy rubbish."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1411,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Pick"
+  ],
+  "modelIndices": [
+    1627
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pineapple Plant",
+  "description": "Looks spikey."
+}

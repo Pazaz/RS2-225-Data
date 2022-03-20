@@ -1,0 +1,43 @@
+{
+  "id": 21,
+  "description": "Heroic!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 63,
+  "oldColors": [
+    70,
+    5532,
+    41,
+    61,
+    57,
+    4550
+  ],
+  "newColors": [
+    36133,
+    39234,
+    39234,
+    36133,
+    36133,
+    4657
+  ],
+  "name": "Hero",
+  "modelIndices": [
+    217,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518,
+    246,
+    541
+  ]
+}

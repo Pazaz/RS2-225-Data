@@ -1,0 +1,16 @@
+{
+  "id": 1112,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1233
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pew",
+  "description": "Church seating."
+}

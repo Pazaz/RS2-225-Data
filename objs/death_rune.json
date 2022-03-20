@@ -1,0 +1,11 @@
+{
+  "id": 560,
+  "description": "Used for high level missile spells.",
+  "stackable": true,
+  "value": 30,
+  "modelIndex": 2645,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Death rune"
+}

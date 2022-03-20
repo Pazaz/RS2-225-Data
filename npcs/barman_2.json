@@ -1,0 +1,21 @@
+{
+  "id": 849,
+  "level": 0,
+  "description": "He serves cocktails.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "name": "Barman",
+  "modelIndices": [
+    2909,
+    2900,
+    2915
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

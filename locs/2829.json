@@ -1,0 +1,19 @@
+{
+  "id": 2829,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": false,
+  "actions": [
+    "Close"
+  ],
+  "interactionSideFlags": 14,
+  "modelIndices": [
+    1226
+  ],
+  "modelTypes": [
+    10
+  ]
+}

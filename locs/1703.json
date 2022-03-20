@@ -1,0 +1,17 @@
+{
+  "id": 1703,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "interactable": false,
+  "obstructsGround": true,
+  "modelIndices": [
+    1312
+  ],
+  "modelTypes": [
+    22
+  ]
+}

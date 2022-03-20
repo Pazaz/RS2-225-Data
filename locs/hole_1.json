@@ -1,0 +1,17 @@
+{
+  "id": 696,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "modelIndices": [
+    1464
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hole",
+  "description": "A hole."
+}

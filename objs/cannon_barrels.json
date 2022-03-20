@@ -1,0 +1,12 @@
+{
+  "id": 10,
+  "description": "The barrels of the multicannon.",
+  "modelIndex": 2361,
+  "iconY": -3,
+  "iconYaw": 1872,
+  "iconCameraPitch": 188,
+  "value": 187500,
+  "members": true,
+  "name": "Cannon barrels",
+  "notedId": 11
+}

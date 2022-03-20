@@ -1,0 +1,15 @@
+{
+  "id": 749,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 16,
+  "sizeZ": 1,
+  "modelIndices": [
+    1831
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "lineofsight_ruler"
+}

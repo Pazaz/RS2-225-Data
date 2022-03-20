@@ -1,0 +1,19 @@
+{
+  "id": 747,
+  "modelIndex": 2733,
+  "iconX": 1,
+  "iconZoom": 1000,
+  "iconYaw": 248,
+  "iconCameraPitch": 412,
+  "description": "A black obsidian dagger, it has a strange aura about it - it seems to be glowing.",
+  "members": true,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 524,
+  "maleOffsetY": 0,
+  "femaleModel0": 524,
+  "femaleOffsetY": 6,
+  "name": "Glowing dagger"
+}

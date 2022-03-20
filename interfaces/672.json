@@ -1,0 +1,30 @@
+{
+  "id": 672,
+  "parent": 6575,
+  "type": 2,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 4,
+  "height": 3,
+  "hoverParentIndex": -1,
+  "inventoryIndices": [],
+  "inventoryAmount": [],
+  "inventoryDummy": false,
+  "inventoryHasOptions": false,
+  "inventoryIsUsable": false,
+  "inventoryMarginX": 0,
+  "inevntoryMarginY": 0,
+  "inventoryOffsetX": [],
+  "inventoryOffsetY": [],
+  "inventorySprite": [],
+  "inventoryOptions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "optionCircumfix": "",
+  "optionSuffix": "",
+  "optionFlags": 0
+}

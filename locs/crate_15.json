@@ -1,0 +1,19 @@
+{
+  "id": 2071,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    2143
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crate",
+  "description": "Used for storage."
+}

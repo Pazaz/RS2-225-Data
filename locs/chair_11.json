@@ -1,0 +1,16 @@
+{
+  "id": 1898,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1558
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "This needs dusting before I'll sit on it."
+}

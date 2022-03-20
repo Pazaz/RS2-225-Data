@@ -1,0 +1,30 @@
+{
+  "id": 579,
+  "level": 0,
+  "description": "He runs a mining store.",
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    803
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Drogo dwarf",
+  "modelIndices": [
+    2970,
+    2981,
+    2979,
+    2983,
+    2985,
+    2990
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

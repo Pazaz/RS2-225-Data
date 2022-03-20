@@ -1,0 +1,24 @@
+{
+  "id": 428,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "oldColors": [
+    8770,
+    924
+  ],
+  "newColors": [
+    21283,
+    6080
+  ],
+  "modelIndices": [
+    1196
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "A bed fit for a king."
+}

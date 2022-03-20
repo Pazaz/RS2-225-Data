@@ -1,0 +1,19 @@
+{
+  "id": 723,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1102
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Buried skeleton",
+  "description": "I'm glad this isn't around anymore!"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 134,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "description": "I think this spider has been genetically modified.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 64,
+  "name": "Poison spider",
+  "modelIndices": [
+    2883
+  ]
+}

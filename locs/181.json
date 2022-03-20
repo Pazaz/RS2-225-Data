@@ -1,0 +1,15 @@
+{
+  "id": 181,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1116
+  ],
+  "modelTypes": [
+    22
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 956,
+  "description": "Get your axes from Bob's Axes.",
+  "value": 1,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "name": "Flier",
+  "notedId": 957
+}

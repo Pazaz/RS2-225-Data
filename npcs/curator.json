@@ -1,0 +1,42 @@
+{
+  "id": 646,
+  "level": 0,
+  "description": "He runs the museum.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    43072,
+    25238,
+    11183
+  ],
+  "newColors": [
+    61,
+    45,
+    4550,
+    33,
+    61
+  ],
+  "name": "Curator",
+  "modelIndices": [
+    215,
+    181,
+    246,
+    292,
+    151,
+    176,
+    254,
+    238
+  ],
+  "headModelIndices": [
+    53,
+    70
+  ]
+}

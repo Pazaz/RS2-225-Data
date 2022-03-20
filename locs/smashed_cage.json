@@ -1,0 +1,19 @@
+{
+  "id": 3308,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 3,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    710
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Smashed cage",
+  "description": "The boulder has smashed through the cage."
+}

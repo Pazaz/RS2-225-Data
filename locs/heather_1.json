@@ -1,0 +1,22 @@
+{
+  "id": 1178,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    31628
+  ],
+  "newColors": [
+    29586
+  ],
+  "modelIndices": [
+    1690
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Heather",
+  "description": "Smells lovely!"
+}

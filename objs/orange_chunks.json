@@ -1,0 +1,18 @@
+{
+  "id": 2110,
+  "description": "Fresh chunks of orange.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2573,
+  "iconX": 1,
+  "iconY": 96,
+  "iconZoom": 870,
+  "iconYaw": 2004,
+  "iconRoll": 36,
+  "iconCameraPitch": 244,
+  "name": "Orange chunks",
+  "notedId": 2111
+}

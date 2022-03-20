@@ -1,0 +1,61 @@
+{
+  "id": 1539,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1404,
+  "scriptCompareType": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    4,
+    0,
+    49,
+    0
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      554,
+      10,
+      1688,
+      1387,
+      10,
+      1688,
+      1393,
+      10,
+      1688,
+      1401,
+      0
+    ],
+    [
+      4,
+      3214,
+      560,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ],
+    [
+      4,
+      1688,
+      1409,
+      0
+    ]
+  ],
+  "image": "magicoff,38",
+  "activeImage": "magicon,38",
+  "optionCircumfix": "Cast on",
+  "optionSuffix": "Iban blast",
+  "optionFlags": 10
+}

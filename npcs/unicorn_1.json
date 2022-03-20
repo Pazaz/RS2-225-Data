@@ -1,0 +1,16 @@
+{
+  "id": 89,
+  "size": 2,
+  "walkSeq": 288,
+  "standSeq": 291,
+  "description": "Horse with a horn.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 15,
+  "name": "Unicorn",
+  "modelIndices": [
+    2933
+  ]
+}

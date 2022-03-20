@@ -1,0 +1,19 @@
+{
+  "id": 907,
+  "stackable": true,
+  "modelIndex": 2420,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    33,
+    13221
+  ],
+  "name": "Iron arrow p 3"
+}

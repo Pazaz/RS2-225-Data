@@ -1,0 +1,22 @@
+{
+  "id": 1332,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "mapscene": 0,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1683
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "It's thick with snow."
+}

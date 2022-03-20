@@ -1,0 +1,24 @@
+{
+  "id": 2918,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    789,
+    790
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Crevice",
+  "description": "A large crack in the wall."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 54,
+  "size": 4,
+  "walkSeq": 79,
+  "standSeq": 90,
+  "description": "A fierce dragon with black scales!",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 199,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    16
+  ],
+  "name": "Black dragon",
+  "modelIndices": [
+    2853,
+    2854
+  ]
+}

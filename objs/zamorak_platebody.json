@@ -1,0 +1,33 @@
+{
+  "id": 2653,
+  "description": "Rune platebody in the colours of Zamorak.",
+  "value": 65000,
+  "modelIndex": 3375,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "maleModel2": 3381,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "femaleModel2": 3381,
+  "oldColors": [
+    61,
+    41,
+    24
+  ],
+  "newColors": [
+    36133,
+    37270,
+    937
+  ],
+  "name": "Zamorak platebody",
+  "notedId": 2654
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2651,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "modelIndices": [
+    1505
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sinclair family beehive",
+  "description": "A sturdily constructed home for bees."
+}

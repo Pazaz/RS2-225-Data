@@ -1,0 +1,22 @@
+{
+  "id": 2019,
+  "description": "A strong spirit.",
+  "value": 5,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2660,
+  "iconY": -1,
+  "iconZoom": 970,
+  "iconYaw": 1888,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    1942
+  ],
+  "newColors": [
+    22422
+  ],
+  "name": "Gin",
+  "notedId": 2020
+}

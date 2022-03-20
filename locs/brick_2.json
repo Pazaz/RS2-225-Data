@@ -1,0 +1,16 @@
+{
+  "id": 2344,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 1,
+  "modelIndices": [
+    1478
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Brick",
+  "description": "A large stone block."
+}

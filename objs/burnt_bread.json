@@ -1,0 +1,20 @@
+{
+  "id": 2311,
+  "description": "Nice crispy bread.  Possibly too crispy.",
+  "modelIndex": 2409,
+  "iconY": 5,
+  "iconZoom": 830,
+  "iconYaw": 268,
+  "iconCameraPitch": 392,
+  "value": 1,
+  "oldColors": [
+    8107,
+    7876
+  ],
+  "newColors": [
+    12,
+    20
+  ],
+  "name": "Burnt bread",
+  "notedId": 2312
+}

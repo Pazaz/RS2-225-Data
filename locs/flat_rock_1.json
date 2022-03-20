@@ -1,0 +1,26 @@
+{
+  "id": 3230,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    "Search"
+  ],
+  "oldColors": [
+    53
+  ],
+  "newColors": [
+    6798
+  ],
+  "modelIndices": [
+    3177
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flat rock",
+  "description": "Looks suspicious."
+}

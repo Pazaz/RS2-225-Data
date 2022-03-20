@@ -1,0 +1,48 @@
+{
+  "id": 619,
+  "shieldOverride": 0,
+  "weaponOverride": 813,
+  "renderPadding": true,
+  "priority": 0,
+  "delay": 11,
+  "replays": 3,
+  "primaryFrames": [
+    1594,
+    1887,
+    2185,
+    472,
+    772,
+    1058,
+    772,
+    472,
+    2185,
+    1887,
+    1594
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

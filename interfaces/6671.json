@@ -1,0 +1,17 @@
+{
+  "id": 6671,
+  "parent": 6575,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 69,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Dueling with:",
+  "color": 16755268,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

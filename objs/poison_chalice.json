@@ -1,0 +1,22 @@
+{
+  "id": 197,
+  "description": "A cup of a strange brew...",
+  "modelIndex": 2639,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "value": 20,
+  "oldColors": [
+    37811
+  ],
+  "newColors": [
+    21460
+  ],
+  "name": "Poison chalice",
+  "notedId": 198
+}

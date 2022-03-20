@@ -1,0 +1,17 @@
+{
+  "id": 5967,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 357,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Using it sends a snapshot of the last 60 secs of activity to us.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

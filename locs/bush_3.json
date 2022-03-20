@@ -1,0 +1,17 @@
+{
+  "id": 1120,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 9,
+  "modelIndices": [
+    1671
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "An unusual bush."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2618,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    "Climb-over"
+  ],
+  "modelIndices": [
+    971
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken fence",
+  "description": "The fence is broken at this point."
+}

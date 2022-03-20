@@ -1,0 +1,25 @@
+{
+  "id": 1517,
+  "description": "Logs cut from a maple tree.",
+  "value": 80,
+  "modelIndex": 2800,
+  "iconX": 3,
+  "iconY": 66,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 280,
+  "groundOptions": [
+    null,
+    null,
+    null,
+    "Light"
+  ],
+  "oldColors": [
+    6049
+  ],
+  "newColors": [
+    6044
+  ],
+  "name": "Maple logs",
+  "notedId": 1518
+}

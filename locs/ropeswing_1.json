@@ -1,0 +1,15 @@
+{
+  "id": 2279,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    2275
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ropeswing"
+}

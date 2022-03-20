@@ -1,0 +1,20 @@
+{
+  "id": 2415,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Cross"
+  ],
+  "modelIndices": [
+    1844
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gangplank",
+  "description": "Handy for boarding the ship."
+}

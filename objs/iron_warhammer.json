@@ -1,0 +1,27 @@
+{
+  "id": 1335,
+  "value": 173,
+  "description": "I don't think it's intended for joinery.",
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 542,
+  "maleOffsetY": 0,
+  "femaleModel0": 542,
+  "femaleOffsetY": 6,
+  "modelIndex": 2731,
+  "iconX": 3,
+  "iconY": 3,
+  "iconZoom": 1050,
+  "iconYaw": 456,
+  "iconCameraPitch": 344,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Iron warhammer",
+  "notedId": 1336
+}

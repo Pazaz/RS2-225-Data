@@ -1,0 +1,16 @@
+{
+  "id": 455,
+  "members": true,
+  "description": "The official Alfred Grimhand bar crawl card.",
+  "value": 10,
+  "modelIndex": 2430,
+  "iconX": 5,
+  "iconY": 8,
+  "iconZoom": 830,
+  "iconYaw": 1644,
+  "iconCameraPitch": 404,
+  "options": [
+    "Read"
+  ],
+  "name": "Barcrawl card"
+}

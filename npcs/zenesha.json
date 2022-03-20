@@ -1,0 +1,37 @@
+{
+  "id": 589,
+  "level": 0,
+  "description": "Sells top quality plate mail armour.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    6798
+  ],
+  "newColors": [
+    103,
+    6852
+  ],
+  "name": "Zenesha",
+  "modelIndices": [
+    393,
+    468,
+    352,
+    356,
+    432,
+    414,
+    361
+  ],
+  "headModelIndices": [
+    115,
+    131
+  ]
+}

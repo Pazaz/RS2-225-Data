@@ -1,0 +1,17 @@
+{
+  "id": 154,
+  "parent": 147,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 101,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "Player controls",
+  "color": 65535,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

@@ -1,0 +1,10 @@
+{
+  "id": 151,
+  "level": 0,
+  "description": "No flies on me.",
+  "showOnMinimap": false,
+  "name": "Fly trap",
+  "modelIndices": [
+    2295
+  ]
+}

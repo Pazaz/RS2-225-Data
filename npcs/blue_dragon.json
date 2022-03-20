@@ -1,0 +1,23 @@
+{
+  "id": 55,
+  "size": 4,
+  "walkSeq": 79,
+  "standSeq": 90,
+  "description": "A mother dragon.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 99,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    40487
+  ],
+  "name": "Blue dragon",
+  "modelIndices": [
+    2853,
+    2854
+  ]
+}

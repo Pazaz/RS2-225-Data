@@ -1,0 +1,48 @@
+{
+  "id": 274,
+  "description": "A guard who has devoted their life to Armadyl.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 40,
+  "oldColors": [
+    57,
+    41,
+    61,
+    8741,
+    8078,
+    926
+  ],
+  "newColors": [
+    36133,
+    37270,
+    36133,
+    127,
+    103,
+    35051
+  ],
+  "name": "Guardian of Armadyl",
+  "modelIndices": [
+    214,
+    313,
+    268,
+    162,
+    176,
+    323,
+    185,
+    250,
+    518,
+    523,
+    3330
+  ],
+  "headModelIndices": [
+    52,
+    82
+  ]
+}

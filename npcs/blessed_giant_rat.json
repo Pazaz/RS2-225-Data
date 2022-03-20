@@ -1,0 +1,16 @@
+{
+  "id": 978,
+  "size": 2,
+  "walkSeq": 137,
+  "standSeq": 140,
+  "description": "It's one of Ibans' pet vermin.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 9,
+  "name": "Blessed Giant rat",
+  "modelIndices": [
+    2959
+  ]
+}

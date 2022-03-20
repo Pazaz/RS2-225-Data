@@ -1,0 +1,29 @@
+{
+  "id": 209,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "The Dwarven armoury engineer.",
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    803
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Nulodion",
+  "modelIndices": [
+    2970,
+    2981,
+    2979,
+    2983,
+    2985
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

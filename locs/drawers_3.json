@@ -1,0 +1,20 @@
+{
+  "id": 350,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1155
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Drawers",
+  "description": "These open and close!"
+}

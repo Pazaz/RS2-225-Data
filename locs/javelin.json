@@ -1,0 +1,17 @@
+{
+  "id": 973,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2099
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Javelin",
+  "description": "A powerful throwing weapon."
+}

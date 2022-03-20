@@ -1,0 +1,31 @@
+{
+  "id": 74,
+  "members": true,
+  "description": "A helmet, as worn by the minions of General Khazard.",
+  "value": 10,
+  "modelIndex": 2833,
+  "iconX": 1,
+  "iconY": -4,
+  "iconZoom": 640,
+  "iconYaw": 156,
+  "iconCameraPitch": 108,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 219,
+  "maleOffsetY": 0,
+  "femaleModel0": 395,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 57,
+  "femaleHeadModelA": 117,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    20,
+    3974
+  ],
+  "name": "Khazard helmet"
+}

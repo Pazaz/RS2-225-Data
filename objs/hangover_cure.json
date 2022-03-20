@@ -1,0 +1,18 @@
+{
+  "id": 1504,
+  "members": true,
+  "value": 2,
+  "modelIndex": 2504,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "description": "It doesn't look very tasty.",
+  "oldColors": [
+    39834
+  ],
+  "newColors": [
+    21706
+  ],
+  "name": "Hangover cure"
+}

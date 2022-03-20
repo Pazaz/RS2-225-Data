@@ -1,0 +1,17 @@
+{
+  "id": 3371,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 0,
+  "modelIndices": [
+    3451
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Achey Tree stump",
+  "description": "An Achey tree stump."
+}

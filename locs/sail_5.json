@@ -1,0 +1,16 @@
+{
+  "id": 265,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "modelIndices": [
+    1858
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sail",
+  "description": "Useful if there is any wind."
+}

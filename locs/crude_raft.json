@@ -1,0 +1,20 @@
+{
+  "id": 2227,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    "Disembark"
+  ],
+  "modelIndices": [
+    1461
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crude raft",
+  "description": "A crudely constructed raft."
+}

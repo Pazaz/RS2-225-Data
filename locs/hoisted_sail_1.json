@@ -1,0 +1,16 @@
+{
+  "id": 274,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "modelIndices": [
+    1900
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hoisted sail",
+  "description": "A conveniently rolled sail."
+}

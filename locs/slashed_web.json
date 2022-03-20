@@ -1,0 +1,17 @@
+{
+  "id": 734,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "modelIndices": [
+    2112
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Slashed web",
+  "description": "A huge web, cruelly slashed in half."
+}

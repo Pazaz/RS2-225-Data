@@ -1,0 +1,36 @@
+{
+  "id": 177,
+  "description": "The hat's a dead give away.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 20,
+  "oldColors": [
+    25238,
+    8741,
+    38814,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508,
+    10508,
+    10508
+  ],
+  "name": "Witch",
+  "modelIndices": [
+    405,
+    470,
+    348,
+    353,
+    428,
+    361,
+    377
+  ]
+}

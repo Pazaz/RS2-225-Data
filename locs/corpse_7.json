@@ -1,0 +1,24 @@
+{
+  "id": 666,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "oldColors": [
+    6241,
+    61
+  ],
+  "newColors": [
+    28,
+    20
+  ],
+  "modelIndices": [
+    1080
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Corpse",
+  "description": "Now he's just too thin."
+}

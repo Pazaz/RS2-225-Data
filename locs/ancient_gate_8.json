@@ -1,0 +1,17 @@
+{
+  "id": 2931,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "interactable": true,
+  "modelIndices": [
+    1780
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ancient Gate",
+  "description": "It looks like a magical portal of somekind, who knows where it leads to?"
+}

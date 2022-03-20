@@ -1,0 +1,19 @@
+{
+  "id": 3377,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Unlock"
+  ],
+  "modelIndices": [
+    3450
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Locked Ogre chest",
+  "description": "Hmmm, a rock for a lock...."
+}

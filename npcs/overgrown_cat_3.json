@@ -1,0 +1,31 @@
+{
+  "id": 776,
+  "level": 0,
+  "description": "A friendly not-so little pet.",
+  "walkSeq": 314,
+  "standSeq": 317,
+  "options": [
+    "Pick-up",
+    null,
+    "Stroke",
+    "Shoo-away",
+    "Chase vermin"
+  ],
+  "scaleX": 80,
+  "scaleY": 65,
+  "oldColors": [
+    61,
+    16,
+    127
+  ],
+  "newColors": [
+    8105,
+    5916,
+    5673
+  ],
+  "name": "Overgrown cat",
+  "modelIndices": [
+    3010,
+    3006
+  ]
+}

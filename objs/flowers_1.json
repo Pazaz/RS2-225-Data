@@ -1,0 +1,21 @@
+{
+  "id": 2460,
+  "description": "A posy of flowers.",
+  "value": 100,
+  "modelIndex": 1781,
+  "members": true,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 677,
+  "maleOffsetY": 0,
+  "femaleModel0": 677,
+  "femaleOffsetY": 6,
+  "iconY": -2,
+  "iconZoom": 840,
+  "iconYaw": 816,
+  "iconCameraPitch": 612,
+  "name": "Flowers",
+  "notedId": 2461
+}

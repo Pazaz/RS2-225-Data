@@ -1,0 +1,16 @@
+{
+  "id": 44,
+  "description": "Quackers.",
+  "walkSeq": 7,
+  "standSeq": 7,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "showOnMinimap": false,
+  "level": 1,
+  "name": "Duck",
+  "modelIndices": [
+    2847
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1110,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    903
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chair",
+  "description": "Used for sitting on."
+}

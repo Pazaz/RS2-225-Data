@@ -1,0 +1,15 @@
+{
+  "id": 939,
+  "description": "I wonder what this is doing here.",
+  "size": 2,
+  "walkSeq": 6,
+  "options": [
+    "Push"
+  ],
+  "level": 0,
+  "showOnMinimap": false,
+  "name": "Boulder",
+  "modelIndices": [
+    2846
+  ]
+}

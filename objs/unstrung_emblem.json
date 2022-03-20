@@ -1,0 +1,20 @@
+{
+  "id": 1720,
+  "description": "It needs a string so I can wear it.",
+  "value": 200,
+  "modelIndex": 2490,
+  "iconX": 1,
+  "iconY": 3,
+  "iconZoom": 600,
+  "iconYaw": 172,
+  "iconCameraPitch": 336,
+  "members": true,
+  "oldColors": [
+    10163
+  ],
+  "newColors": [
+    94
+  ],
+  "name": "Unstrung emblem",
+  "notedId": 1721
+}

@@ -1,0 +1,16 @@
+{
+  "id": 43,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1491
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Water",
+  "description": "It seems to sparkle."
+}

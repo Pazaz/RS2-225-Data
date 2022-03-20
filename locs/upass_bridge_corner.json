@@ -1,0 +1,23 @@
+{
+  "id": 3325,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "delayShading": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    688
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "upass_bridge_corner"
+}

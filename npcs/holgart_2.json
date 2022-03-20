@@ -1,0 +1,37 @@
+{
+  "id": 699,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "A very good sailor.",
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    5805,
+    7855
+  ],
+  "name": "Holgart",
+  "modelIndices": [
+    221,
+    250,
+    299,
+    170,
+    176,
+    267,
+    181,
+    534,
+    326
+  ],
+  "headModelIndices": [
+    58,
+    82
+  ]
+}

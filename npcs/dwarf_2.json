@@ -1,0 +1,20 @@
+{
+  "id": 120,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A mountain dwelling short angry guy.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 20,
+  "name": "Dwarf",
+  "modelIndices": [
+    2970,
+    2980,
+    2978,
+    2984,
+    2985,
+    2993
+  ]
+}

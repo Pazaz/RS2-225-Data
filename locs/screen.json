@@ -1,0 +1,16 @@
+{
+  "id": 691,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1149
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "screen",
+  "description": "Use this to get changed behind and retain modesty."
+}

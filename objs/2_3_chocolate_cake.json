@@ -1,0 +1,25 @@
+{
+  "id": 1899,
+  "options": [
+    "Eat"
+  ],
+  "description": "Someone has eaten a big chunk of this cake.",
+  "modelIndex": 2535,
+  "iconY": -7,
+  "iconZoom": 690,
+  "iconYaw": 1840,
+  "iconCameraPitch": 180,
+  "value": 50,
+  "oldColors": [
+    127,
+    8094,
+    937
+  ],
+  "newColors": [
+    7060,
+    5008,
+    7060
+  ],
+  "name": "2/3 chocolate cake",
+  "notedId": 1900
+}

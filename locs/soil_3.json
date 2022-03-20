@@ -1,0 +1,18 @@
+{
+  "id": 2378,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "interactable": true,
+  "modelIndices": [
+    1032
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Soil",
+  "description": "Soil - dug up!"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 602,
+  "description": "He sells weapons.",
+  "standSeq": 195,
+  "walkSeq": 189,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "level": 0,
+  "oldColors": [
+    22426,
+    22424
+  ],
+  "newColors": [
+    8472,
+    10378
+  ],
+  "name": "Gulluck",
+  "modelIndices": [
+    2892,
+    2909,
+    2915
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

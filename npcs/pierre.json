@@ -1,0 +1,41 @@
+{
+  "id": 807,
+  "level": 0,
+  "description": "His job doesn't look very fun...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    908,
+    8090
+  ],
+  "newColors": [
+    8,
+    8,
+    8,
+    8
+  ],
+  "name": "Pierre",
+  "modelIndices": [
+    230,
+    246,
+    295,
+    150,
+    179,
+    275,
+    185,
+    236,
+    322
+  ],
+  "headModelIndices": [
+    63,
+    68
+  ]
+}

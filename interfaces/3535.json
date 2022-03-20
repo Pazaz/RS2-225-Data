@@ -1,0 +1,17 @@
+{
+  "id": 3535,
+  "parent": 3443,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 240,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Are you sure you want to make this trade?",
+  "color": 65535,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

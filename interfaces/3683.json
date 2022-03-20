@@ -1,0 +1,12 @@
+{
+  "id": 3683,
+  "parent": 3559,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 322,
+  "width": 45,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "leftarrow,0",
+  "option": "Recolour skin"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 662,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1080
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Corpse",
+  "description": "Now he's just too thin."
+}

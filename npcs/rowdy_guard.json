@@ -1,0 +1,39 @@
+{
+  "id": 842,
+  "description": "He looks a bit aggressive and rowdy.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 40,
+  "oldColors": [
+    25238,
+    8741,
+    4550
+  ],
+  "newColors": [
+    11187,
+    11187,
+    4645
+  ],
+  "name": "Rowdy Guard",
+  "modelIndices": [
+    219,
+    246,
+    294,
+    167,
+    179,
+    254,
+    185,
+    490,
+    517
+  ],
+  "headModelIndices": [
+    57
+  ]
+}

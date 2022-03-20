@@ -1,0 +1,17 @@
+{
+  "id": 986,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1022
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "poshwallgatetop"
+}

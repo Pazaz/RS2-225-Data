@@ -1,0 +1,17 @@
+{
+  "id": 493,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 5,
+  "sizeZ": 5,
+  "delayShading": true,
+  "culls": true,
+  "modelIndices": [
+    863
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "greatrunestone"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1189,
+  "description": "A large metal shield.",
+  "modelIndex": 2339,
+  "iconX": -6,
+  "iconY": -14,
+  "iconZoom": 1560,
+  "iconYaw": 1104,
+  "iconCameraPitch": 344,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 68,
+  "maleModel0": 486,
+  "maleOffsetY": 0,
+  "femaleModel0": 486,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    5652,
+    7054
+  ],
+  "name": "Bronze kiteshield",
+  "notedId": 1190
+}

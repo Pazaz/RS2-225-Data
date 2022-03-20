@@ -1,0 +1,22 @@
+{
+  "id": 3227,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    8076
+  ],
+  "modelIndices": [
+    722
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Trap",
+  "description": "Best not to get caught!"
+}

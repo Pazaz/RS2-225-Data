@@ -1,0 +1,32 @@
+{
+  "id": 4401,
+  "parent": 962,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 82,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    1
+  ],
+  "script": [
+    [
+      13,
+      23,
+      19,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Spooky Jungle",
+  "color": 16711680,
+  "colorEnabled": 65280,
+  "hoverColor": 0,
+  "option": "Ok"
+}

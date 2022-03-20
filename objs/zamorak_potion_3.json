@@ -1,0 +1,22 @@
+{
+  "id": 189,
+  "description": "3 doses of a potion of Zamorak.",
+  "options": [
+    "Drink"
+  ],
+  "value": 25,
+  "modelIndex": 2697,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    7099
+  ],
+  "name": "Zamorak potion(3)",
+  "notedId": 190
+}

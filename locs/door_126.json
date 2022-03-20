@@ -1,0 +1,26 @@
+{
+  "id": 3221,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    750
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Door",
+  "description": "That skull's looking at me...."
+}

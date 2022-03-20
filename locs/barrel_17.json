@@ -1,0 +1,17 @@
+{
+  "id": 3344,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1495
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barrel",
+  "description": "It's got dwarf brew in it."
+}

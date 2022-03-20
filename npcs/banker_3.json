@@ -1,0 +1,42 @@
+{
+  "id": 496,
+  "level": 0,
+  "description": "A financial expert.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    61,
+    6798,
+    4550
+  ],
+  "newColors": [
+    45,
+    45,
+    4550,
+    41,
+    4647
+  ],
+  "name": "Banker",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    162,
+    176,
+    254,
+    181,
+    320
+  ],
+  "headModelIndices": [
+    53
+  ],
+  "wander": 0
+}

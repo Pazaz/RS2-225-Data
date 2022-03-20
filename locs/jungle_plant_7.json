@@ -1,0 +1,22 @@
+{
+  "id": 1402,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "oldColors": [
+    22439
+  ],
+  "newColors": [
+    16955
+  ],
+  "modelIndices": [
+    1677
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle plant",
+  "description": "A large waxy jungle plant."
+}

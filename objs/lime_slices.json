@@ -1,0 +1,23 @@
+{
+  "id": 2124,
+  "description": "Fresh lime slices.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2772,
+  "iconZoom": 1090,
+  "iconYaw": 336,
+  "iconCameraPitch": 284,
+  "oldColors": [
+    10473,
+    6080
+  ],
+  "newColors": [
+    22757,
+    22435
+  ],
+  "name": "Lime slices",
+  "notedId": 2125
+}

@@ -1,0 +1,40 @@
+{
+  "id": 841,
+  "level": 0,
+  "description": "He looks busy attending to his cart.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    4626,
+    908,
+    7073
+  ],
+  "newColors": [
+    127,
+    127,
+    127,
+    127,
+    127
+  ],
+  "name": "Mine cart driver",
+  "modelIndices": [
+    217,
+    246,
+    292,
+    170,
+    176,
+    265,
+    185
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

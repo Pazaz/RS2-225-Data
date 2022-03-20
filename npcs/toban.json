@@ -1,0 +1,19 @@
+{
+  "id": 855,
+  "level": 0,
+  "description": "Ogre-ish.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Toban",
+  "modelIndices": [
+    2880,
+    2874
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

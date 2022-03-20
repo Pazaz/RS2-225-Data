@@ -1,0 +1,17 @@
+{
+  "id": 1485,
+  "description": "A damp, wet cloth.",
+  "value": 10,
+  "modelIndex": 2725,
+  "iconY": -15,
+  "iconZoom": 1360,
+  "iconCameraPitch": 368,
+  "members": true,
+  "oldColors": [
+    7390
+  ],
+  "newColors": [
+    5400
+  ],
+  "name": "Damp cloth"
+}

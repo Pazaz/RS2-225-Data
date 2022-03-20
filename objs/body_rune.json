@@ -1,0 +1,11 @@
+{
+  "id": 559,
+  "description": "Used for curse spells.",
+  "stackable": true,
+  "value": 3,
+  "modelIndex": 2340,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Body rune"
+}

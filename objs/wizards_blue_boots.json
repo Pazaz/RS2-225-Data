@@ -1,0 +1,28 @@
+{
+  "id": 2579,
+  "description": "Slightly magical boots.",
+  "value": 200,
+  "members": true,
+  "modelIndex": 2837,
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "oldColors": [
+    4626
+  ],
+  "newColors": [
+    38814
+  ],
+  "name": "Wizard's boots",
+  "notedId": 2580
+}

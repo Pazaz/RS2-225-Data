@@ -1,0 +1,27 @@
+{
+  "id": 3082,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "obstructsGround": true,
+  "brightness": 30,
+  "specular": 30,
+  "delayShading": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Lean against"
+  ],
+  "modelIndices": [
+    3257
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Wall",
+  "description": "Lean against the wall to get a better view!"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2349,
+  "description": "It's a bar of bronze.",
+  "value": 8,
+  "modelIndex": 2408,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 820,
+  "iconYaw": 1180,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Bronze bar",
+  "notedId": 2350
+}

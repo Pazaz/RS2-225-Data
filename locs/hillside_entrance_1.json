@@ -1,0 +1,19 @@
+{
+  "id": 2238,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Enter"
+  ],
+  "modelIndices": [
+    627
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hillside entrance",
+  "description": "Large doors set into the hillside."
+}

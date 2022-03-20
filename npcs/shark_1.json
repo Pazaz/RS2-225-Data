@@ -1,0 +1,10 @@
+{
+  "id": 40,
+  "description": "Let's not go skinny dipping eh?",
+  "walkSeq": 10,
+  "level": 1,
+  "name": "Shark",
+  "modelIndices": [
+    2848
+  ]
+}

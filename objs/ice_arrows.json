@@ -1,0 +1,44 @@
+{
+  "id": 78,
+  "description": "Can only be fired with yew or magic bows.",
+  "members": true,
+  "value": 2,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    81,
+    80,
+    79,
+    82
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    57,
+    61,
+    5012,
+    926,
+    5012
+  ],
+  "newColors": [
+    37340,
+    37340,
+    37444,
+    37340,
+    37340
+  ],
+  "name": "Ice arrows"
+}

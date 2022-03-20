@@ -1,0 +1,29 @@
+{
+  "id": 720,
+  "level": 0,
+  "description": "A member of the Ardougne Royal Army.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Recruiter",
+  "modelIndices": [
+    230,
+    181,
+    253,
+    306,
+    164,
+    176,
+    268,
+    201,
+    553
+  ],
+  "headModelIndices": [
+    63,
+    85
+  ]
+}

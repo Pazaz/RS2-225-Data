@@ -1,0 +1,17 @@
+{
+  "id": 653,
+  "level": 0,
+  "description": "Looks otherworldy...",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Fairy Queen",
+  "modelIndices": [
+    2858
+  ],
+  "headModelIndices": [
+    12
+  ]
+}

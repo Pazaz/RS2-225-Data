@@ -1,0 +1,25 @@
+{
+  "id": 2943,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Look"
+  ],
+  "oldColors": [
+    1
+  ],
+  "newColors": [
+    32
+  ],
+  "modelIndices": [
+    1435
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Polluted water",
+  "description": "Disgusting filthy quagmire that oozes from the ground."
+}

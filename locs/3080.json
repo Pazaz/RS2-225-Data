@@ -1,0 +1,19 @@
+{
+  "id": 3080,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "obstructsGround": true,
+  "brightness": 30,
+  "specular": 30,
+  "delayShading": true,
+  "interactable": false,
+  "modelIndices": [
+    3236
+  ],
+  "modelTypes": [
+    0
+  ]
+}

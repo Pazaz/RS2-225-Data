@@ -1,0 +1,20 @@
+{
+  "id": 901,
+  "level": 0,
+  "description": "Deceptively mouse shaped.",
+  "walkSeq": 239,
+  "standSeq": 242,
+  "options": [
+    "Feed"
+  ],
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    21588
+  ],
+  "name": "Mouse",
+  "modelIndices": [
+    2927
+  ]
+}

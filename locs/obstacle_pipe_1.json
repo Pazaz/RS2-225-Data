@@ -1,0 +1,27 @@
+{
+  "id": 2287,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Squeeze-through"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    23,
+    9098
+  ],
+  "modelIndices": [
+    1475
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obstacle pipe",
+  "description": "A pipe I can squeeze through."
+}

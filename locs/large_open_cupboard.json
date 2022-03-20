@@ -1,0 +1,22 @@
+{
+  "id": 372,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    null,
+    "Close"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    2242
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Large open cupboard",
+  "description": "This may be worth searching."
+}

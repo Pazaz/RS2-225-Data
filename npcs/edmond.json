@@ -1,0 +1,42 @@
+{
+  "id": 714,
+  "level": 0,
+  "description": "A local civilian.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    25238,
+    43072,
+    8741
+  ],
+  "newColors": [
+    5662,
+    10913,
+    5662,
+    5592
+  ],
+  "name": "Edmond",
+  "modelIndices": [
+    230,
+    185,
+    250,
+    299,
+    159,
+    176,
+    263,
+    276,
+    329,
+    495
+  ],
+  "headModelIndices": [
+    63,
+    82
+  ]
+}

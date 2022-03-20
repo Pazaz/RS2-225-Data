@@ -1,0 +1,17 @@
+{
+  "id": 772,
+  "parent": 716,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 147,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 2,
+  "shadow": true,
+  "text": "Combination Lock Door",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

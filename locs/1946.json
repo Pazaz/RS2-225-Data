@@ -1,0 +1,22 @@
+{
+  "id": 1946,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "rotateCounterClockwise": true,
+  "oldColors": [
+    2
+  ],
+  "newColors": [
+    23
+  ],
+  "modelIndices": [
+    666
+  ],
+  "modelTypes": [
+    0
+  ]
+}

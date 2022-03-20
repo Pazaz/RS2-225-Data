@@ -1,0 +1,22 @@
+{
+  "id": 2236,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "obstructsGround": true,
+  "interactable": true,
+  "adjustToTerrain": true,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    1494
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Climbing rocks",
+  "description": "I can climb the rocky outcrop."
+}

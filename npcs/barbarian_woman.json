@@ -1,0 +1,40 @@
+{
+  "id": 17,
+  "description": "Scary in an argument!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 8,
+  "oldColors": [
+    926,
+    8741,
+    6798
+  ],
+  "newColors": [
+    8078,
+    8078,
+    6854
+  ],
+  "name": "Barbarian woman",
+  "modelIndices": [
+    390,
+    469,
+    332,
+    353,
+    443,
+    361,
+    376,
+    540,
+    414
+  ],
+  "headModelIndices": [
+    113,
+    101
+  ]
+}

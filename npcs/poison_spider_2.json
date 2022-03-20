@@ -1,0 +1,15 @@
+{
+  "id": 1009,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "description": "A nasty poisonous arachnid.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 29,
+  "name": "Poison spider",
+  "modelIndices": [
+    2883
+  ]
+}

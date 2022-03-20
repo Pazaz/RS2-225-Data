@@ -1,0 +1,16 @@
+{
+  "id": 1505,
+  "members": true,
+  "value": 1,
+  "modelIndex": 2600,
+  "iconX": 1,
+  "iconY": 7,
+  "iconZoom": 1040,
+  "iconYaw": 120,
+  "iconCameraPitch": 380,
+  "description": "Maybe I should read it...",
+  "options": [
+    "Read"
+  ],
+  "name": "A magic scroll"
+}

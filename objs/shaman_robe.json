@@ -1,0 +1,17 @@
+{
+  "id": 2397,
+  "description": "A tattered old robe.",
+  "value": 40,
+  "iconX": 1,
+  "iconY": 8,
+  "iconZoom": 1210,
+  "iconYaw": 2036,
+  "iconRoll": 164,
+  "iconCameraPitch": 544,
+  "modelIndex": 2786,
+  "options": [
+    "Search"
+  ],
+  "members": true,
+  "name": "Shaman robe"
+}

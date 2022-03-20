@@ -1,0 +1,25 @@
+{
+  "id": 1912,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "thickness": 32,
+  "culls": true,
+  "modelIndices": [
+    646,
+    647,
+    648,
+    649,
+    650
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ]
+}

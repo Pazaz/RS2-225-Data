@@ -1,0 +1,16 @@
+{
+  "id": 575,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1165
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue",
+  "description": "A carving of a figure from the history of RuneScape."
+}

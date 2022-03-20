@@ -1,0 +1,35 @@
+{
+  "id": 281,
+  "description": "An Ardougne Monk.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 3,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    4769,
+    4769
+  ],
+  "name": "Monk",
+  "modelIndices": [
+    223,
+    181,
+    246,
+    299,
+    170,
+    176,
+    260
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

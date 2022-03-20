@@ -1,0 +1,21 @@
+{
+  "id": 1506,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    633
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Large door",
+  "description": "A sturdy wooden door."
+}

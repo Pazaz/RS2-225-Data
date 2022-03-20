@@ -1,0 +1,16 @@
+{
+  "id": 683,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1947
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Grandfather clock",
+  "description": "Tick-tock, it's a clock."
+}

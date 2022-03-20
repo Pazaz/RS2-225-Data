@@ -1,0 +1,16 @@
+{
+  "id": 1191,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1720
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sunflowers",
+  "description": "These are huge!"
+}

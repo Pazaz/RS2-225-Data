@@ -1,0 +1,24 @@
+{
+  "id": 2536,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    0,
+    4762
+  ],
+  "modelIndices": [
+    3197
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door"
+}

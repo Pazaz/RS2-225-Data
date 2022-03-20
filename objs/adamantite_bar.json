@@ -1,0 +1,19 @@
+{
+  "id": 2361,
+  "description": "It's a bar of adamantite.",
+  "value": 640,
+  "modelIndex": 2408,
+  "iconX": 1,
+  "iconY": -8,
+  "iconZoom": 820,
+  "iconYaw": 1180,
+  "iconCameraPitch": 196,
+  "oldColors": [
+    7062
+  ],
+  "newColors": [
+    21662
+  ],
+  "name": "Adamantite bar",
+  "notedId": 2362
+}

@@ -1,0 +1,28 @@
+{
+  "id": 827,
+  "description": "A steel tipped javelin.",
+  "value": 24,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 547,
+  "maleOffsetY": 0,
+  "femaleModel0": 547,
+  "femaleOffsetY": 6,
+  "modelIndex": 2763,
+  "iconX": -2,
+  "iconY": 63,
+  "iconZoom": 1470,
+  "iconYaw": 1964,
+  "iconCameraPitch": 268,
+  "stackable": true,
+  "members": true,
+  "oldColors": [
+    22451
+  ],
+  "newColors": [
+    61
+  ],
+  "name": "Steel javelin"
+}

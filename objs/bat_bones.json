@@ -1,0 +1,15 @@
+{
+  "id": 530,
+  "description": "Bones are for burying!",
+  "modelIndex": 2674,
+  "iconX": 2,
+  "iconZoom": 1410,
+  "iconYaw": 368,
+  "iconCameraPitch": 400,
+  "options": [
+    "Bury"
+  ],
+  "members": true,
+  "name": "Bat bones",
+  "notedId": 531
+}

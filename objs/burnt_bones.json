@@ -1,0 +1,20 @@
+{
+  "id": 528,
+  "description": "Bones are for burying!",
+  "modelIndex": 2674,
+  "iconX": 2,
+  "iconZoom": 1410,
+  "iconYaw": 368,
+  "iconCameraPitch": 400,
+  "options": [
+    "Bury"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    28
+  ],
+  "name": "Burnt bones",
+  "notedId": 529
+}

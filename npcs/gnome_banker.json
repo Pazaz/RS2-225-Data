@@ -1,0 +1,25 @@
+{
+  "id": 166,
+  "description": "Banks gnomish things.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426
+  ],
+  "newColors": [
+    8
+  ],
+  "name": "Gnome banker",
+  "modelIndices": [
+    2909,
+    2900,
+    2915
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

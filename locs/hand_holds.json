@@ -1,0 +1,22 @@
+{
+  "id": 2585,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 50,
+  "interactable": true,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    2078
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Hand holds",
+  "description": "Rocky walls, you may be able to climb it."
+}

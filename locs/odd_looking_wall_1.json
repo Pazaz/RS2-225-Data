@@ -1,0 +1,30 @@
+{
+  "id": 1592,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Push"
+  ],
+  "interactable": true,
+  "oldColors": [
+    2,
+    24,
+    20
+  ],
+  "newColors": [
+    23,
+    9098,
+    7050
+  ],
+  "modelIndices": [
+    598
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Odd looking wall",
+  "description": "Something is strange about this panel."
+}

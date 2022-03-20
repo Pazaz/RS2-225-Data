@@ -1,0 +1,21 @@
+{
+  "id": 2234,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1390
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Well stacked rocks",
+  "description": "Rocks that have been stacked at regular intervals."
+}

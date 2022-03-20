@@ -1,0 +1,30 @@
+{
+  "id": 1198,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    910,
+    712,
+    695,
+    840,
+    842
+  ],
+  "newColors": [
+    7101,
+    10176,
+    7093,
+    8128,
+    10176
+  ],
+  "modelIndices": [
+    1623
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowers",
+  "description": "Very rare flowers."
+}

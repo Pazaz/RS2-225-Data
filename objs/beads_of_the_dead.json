@@ -1,0 +1,26 @@
+{
+  "id": 616,
+  "description": "A curious looking neck ornament.",
+  "value": 1,
+  "modelIndex": 2713,
+  "iconY": -16,
+  "iconZoom": 1020,
+  "iconYaw": 2020,
+  "iconCameraPitch": 332,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 285,
+  "maleOffsetY": 0,
+  "femaleModel0": 449,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    28
+  ],
+  "newColors": [
+    4032
+  ],
+  "name": "Beads of the dead"
+}

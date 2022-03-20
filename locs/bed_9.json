@@ -1,0 +1,24 @@
+{
+  "id": 425,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "oldColors": [
+    924,
+    8770
+  ],
+  "newColors": [
+    6080,
+    21283
+  ],
+  "modelIndices": [
+    1288
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "Lovely comfy looking big bed."
+}

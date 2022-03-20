@@ -1,0 +1,12 @@
+{
+  "id": 670,
+  "description": "A small brush used to clean rock samples.",
+  "modelIndex": 2385,
+  "iconX": 2,
+  "iconY": -12,
+  "iconZoom": 790,
+  "iconYaw": 116,
+  "iconCameraPitch": 272,
+  "members": true,
+  "name": "Specimen brush"
+}

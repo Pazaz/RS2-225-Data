@@ -1,0 +1,47 @@
+{
+  "id": 946,
+  "level": 0,
+  "description": "A Master of Magics.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8090,
+    8741,
+    8078,
+    25238,
+    8596,
+    6798
+  ],
+  "newColors": [
+    38814,
+    38814,
+    43937,
+    38814,
+    5173,
+    5173
+  ],
+  "name": "Magic Instructor",
+  "modelIndices": [
+    214,
+    250,
+    295,
+    162,
+    567,
+    265,
+    185,
+    534,
+    202,
+    176
+  ],
+  "headModelIndices": [
+    52,
+    82,
+    44
+  ]
+}

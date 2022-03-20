@@ -1,0 +1,19 @@
+{
+  "id": 740,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 504,
+  "brightness": 100,
+  "specular": 100,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2318
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "glowing_circle"
+}

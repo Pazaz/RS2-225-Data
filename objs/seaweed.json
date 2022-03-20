@@ -1,0 +1,14 @@
+{
+  "id": 401,
+  "description": "Slightly damp seaweed.",
+  "modelIndex": 2370,
+  "iconX": 7,
+  "iconY": -13,
+  "iconZoom": 1360,
+  "iconYaw": 304,
+  "iconCameraPitch": 272,
+  "value": 2,
+  "members": true,
+  "name": "Seaweed",
+  "notedId": 402
+}

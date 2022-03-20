@@ -1,0 +1,18 @@
+{
+  "id": 210,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 50,
+  "specular": 50,
+  "modelIndices": [
+    1531
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ice Light",
+  "description": "A mysterious glowing ice crystal."
+}

@@ -1,0 +1,36 @@
+{
+  "id": 755,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He looks scared.",
+  "oldColors": [
+    25238,
+    8741,
+    4550
+  ],
+  "newColors": [
+    43420,
+    55194,
+    3550
+  ],
+  "name": "Morgan",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    151,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

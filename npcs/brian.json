@@ -1,0 +1,39 @@
+{
+  "id": 559,
+  "level": 0,
+  "description": "An expert on axes.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    13601,
+    13601,
+    4550
+  ],
+  "name": "Brian",
+  "modelIndices": [
+    230,
+    254,
+    247,
+    299,
+    173,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 1403,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 4,
+  "modelIndices": [
+    1597
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cactus",
+  "description": "How do these things manage to grow?"
+}

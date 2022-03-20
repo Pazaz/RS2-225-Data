@@ -1,0 +1,29 @@
+{
+  "id": 75,
+  "members": true,
+  "description": "Armour, as worn by the minions of General Khazard.",
+  "value": 12,
+  "modelIndex": 2605,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 306,
+  "maleOffsetY": 0,
+  "maleModel1": 157,
+  "femaleModel0": 468,
+  "femaleOffsetY": 0,
+  "femaleModel1": 339,
+  "oldColors": [
+    61,
+    25238
+  ],
+  "newColors": [
+    20,
+    3974
+  ],
+  "name": "Khazard armour"
+}

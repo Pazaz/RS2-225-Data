@@ -1,0 +1,21 @@
+{
+  "id": 2864,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 8,
+  "actions": [
+    null,
+    "Check"
+  ],
+  "modelIndices": [
+    1497
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fountain",
+  "description": "A water feature."
+}

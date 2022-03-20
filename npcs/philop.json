@@ -1,0 +1,27 @@
+{
+  "id": 782,
+  "level": 0,
+  "description": "One of Gertrude's Sons.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    22424
+  ],
+  "newColors": [
+    43934,
+    43914
+  ],
+  "name": "Philop",
+  "modelIndices": [
+    2897,
+    2909,
+    2918
+  ],
+  "headModelIndices": [
+    139
+  ]
+}

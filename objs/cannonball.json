@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "description": "Ammo for the Dwarf Cannon.",
+  "modelIndex": 2413,
+  "iconX": 1,
+  "iconZoom": 1400,
+  "iconYaw": 1852,
+  "iconCameraPitch": 156,
+  "stackable": true,
+  "members": true,
+  "value": 5,
+  "name": "Cannonball"
+}

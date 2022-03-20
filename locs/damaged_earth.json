@@ -1,0 +1,17 @@
+{
+  "id": 2957,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1076
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Damaged Earth",
+  "description": "This earth is damaged by cultivation, time will return the fertility."
+}

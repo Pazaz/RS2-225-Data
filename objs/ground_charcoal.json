@@ -1,0 +1,17 @@
+{
+  "id": 704,
+  "description": "Charcoal, crushed to small pieces!",
+  "modelIndex": 2742,
+  "members": true,
+  "iconX": -6,
+  "iconZoom": 1210,
+  "iconYaw": 1892,
+  "iconCameraPitch": 264,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    12
+  ],
+  "name": "Ground charcoal"
+}

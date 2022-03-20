@@ -1,0 +1,21 @@
+{
+  "id": 399,
+  "description": "Oops!",
+  "modelIndex": 2619,
+  "value": 1,
+  "members": true,
+  "iconY": -103,
+  "iconZoom": 1810,
+  "iconYaw": 1740,
+  "iconCameraPitch": 236,
+  "oldColors": [
+    8860,
+    17967
+  ],
+  "newColors": [
+    12,
+    28
+  ],
+  "name": "Burnt sea turtle",
+  "notedId": 400
+}

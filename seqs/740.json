@@ -1,0 +1,36 @@
+{
+  "id": 740,
+  "delay": 8,
+  "shieldOverride": 0,
+  "weaponOverride": 0,
+  "primaryFrames": [
+    2347,
+    2044,
+    1745,
+    1446,
+    1159,
+    879,
+    586,
+    2306
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

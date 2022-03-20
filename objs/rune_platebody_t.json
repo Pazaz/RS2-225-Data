@@ -1,0 +1,31 @@
+{
+  "id": 2623,
+  "description": "Rune platebody with trim.",
+  "value": 65000,
+  "modelIndex": 2378,
+  "iconY": 14,
+  "iconZoom": 1290,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3379,
+  "maleOffsetY": 0,
+  "maleModel1": 164,
+  "femaleModel0": 3383,
+  "femaleOffsetY": 0,
+  "femaleModel1": 344,
+  "oldColors": [
+    61,
+    41,
+    24
+  ],
+  "newColors": [
+    36133,
+    37270,
+    38226
+  ],
+  "name": "Rune platebody (t)",
+  "notedId": 2624
+}

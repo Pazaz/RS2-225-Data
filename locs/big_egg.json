@@ -1,0 +1,16 @@
+{
+  "id": 698,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1758
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Big egg",
+  "description": "Must have been laid by a huge bird."
+}

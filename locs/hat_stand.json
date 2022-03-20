@@ -1,0 +1,16 @@
+{
+  "id": 374,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1185
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hat stand",
+  "description": "A stand for hats!"
+}

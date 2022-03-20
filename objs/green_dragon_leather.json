@@ -1,0 +1,19 @@
+{
+  "id": 1745,
+  "description": "It's a piece of prepared dragonhide.",
+  "modelIndex": 2338,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 1190,
+  "iconYaw": 116,
+  "iconCameraPitch": 440,
+  "members": true,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    22416
+  ],
+  "name": "Dragon leather",
+  "notedId": 1746
+}

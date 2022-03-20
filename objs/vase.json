@@ -1,0 +1,17 @@
+{
+  "id": 710,
+  "description": "A vessel for holding plants.",
+  "modelIndex": 2704,
+  "iconY": -3,
+  "iconZoom": 1070,
+  "iconYaw": 104,
+  "iconCameraPitch": 68,
+  "members": true,
+  "oldColors": [
+    37093
+  ],
+  "newColors": [
+    5541
+  ],
+  "name": "Vase"
+}

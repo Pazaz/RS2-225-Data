@@ -1,0 +1,21 @@
+{
+  "id": 2878,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Step-into"
+  ],
+  "scaleX": 196,
+  "scaleZ": 196,
+  "modelIndices": [
+    691
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sparkling pool",
+  "description": "Patterns of light dance hypnotically across the pool's surface."
+}

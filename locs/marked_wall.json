@@ -1,0 +1,22 @@
+{
+  "id": 2927,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "culls": true,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1816
+  ],
+  "modelTypes": [
+    9
+  ],
+  "name": "Marked wall",
+  "description": "It looks like ancient graffiti."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 309,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1468
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Log pile",
+  "description": "Dead tree parts piled together neatly."
+}

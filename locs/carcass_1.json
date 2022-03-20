@@ -1,0 +1,16 @@
+{
+  "id": 699,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1792
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Carcass",
+  "description": "Whatever it was I'm glad its not alive."
+}

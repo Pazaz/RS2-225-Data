@@ -1,0 +1,21 @@
+{
+  "id": 2332,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Balance"
+  ],
+  "delayShading": true,
+  "mapscene": 13,
+  "modelIndices": [
+    1115
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "A wooden log",
+  "description": "A nearly rotten wooden log that crosses the river."
+}

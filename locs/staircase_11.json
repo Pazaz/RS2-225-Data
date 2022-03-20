@@ -1,0 +1,21 @@
+{
+  "id": 1732,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    "Climb-down"
+  ],
+  "interactionSideFlags": 14,
+  "mapscene": 7,
+  "modelIndices": [
+    1952
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "These stairs look spooky!"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2521,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 4,
+  "modelIndices": [
+    1820
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crane",
+  "description": "It's used for loading and unloading fishing boats."
+}

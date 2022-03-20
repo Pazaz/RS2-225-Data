@@ -1,0 +1,12 @@
+{
+  "id": 603,
+  "description": "A perfectly circular disc of glass.",
+  "modelIndex": 2545,
+  "iconX": 6,
+  "iconY": 28,
+  "iconZoom": 890,
+  "iconYaw": 84,
+  "iconCameraPitch": 388,
+  "members": true,
+  "name": "Lens"
+}

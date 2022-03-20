@@ -1,0 +1,12 @@
+{
+  "id": 1000,
+  "primaryFrames": [
+    3930
+  ],
+  "secondaryFrames": [
+    -1
+  ],
+  "frameDelay": [
+    20000
+  ]
+}

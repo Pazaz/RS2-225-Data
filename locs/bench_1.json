@@ -1,0 +1,16 @@
+{
+  "id": 1104,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1297
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bench",
+  "description": "Gnomes are found sitting here."
+}

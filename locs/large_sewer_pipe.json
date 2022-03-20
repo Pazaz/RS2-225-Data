@@ -1,0 +1,16 @@
+{
+  "id": 872,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1476
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Large sewer pipe",
+  "description": "It smells horrible in there."
+}

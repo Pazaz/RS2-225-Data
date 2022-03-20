@@ -1,0 +1,16 @@
+{
+  "id": 1407,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    2296
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Whipping Plant",
+  "description": "Leaves a nasty mark."
+}

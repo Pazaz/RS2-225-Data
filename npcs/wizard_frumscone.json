@@ -1,0 +1,39 @@
+{
+  "id": 460,
+  "description": "A Wizard of the Magic Guild.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    38814,
+    38814,
+    127
+  ],
+  "name": "Wizard Frumscone",
+  "modelIndices": [
+    214,
+    181,
+    249,
+    292,
+    170,
+    176,
+    265,
+    202
+  ],
+  "headModelIndices": [
+    52,
+    44,
+    81
+  ]
+}

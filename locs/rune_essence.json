@@ -1,0 +1,23 @@
+{
+  "id": 2491,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 5,
+  "sizeZ": 5,
+  "interactable": true,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "delayShading": true,
+  "modelIndices": [
+    863
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rune Essence",
+  "description": "The source of all Rune Stones."
+}

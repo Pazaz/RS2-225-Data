@@ -1,0 +1,27 @@
+{
+  "id": 1844,
+  "description": "A filthy, smelly, flea infested shirt.",
+  "value": 40,
+  "modelIndex": 2786,
+  "iconY": 7,
+  "iconZoom": 1370,
+  "iconCameraPitch": 536,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 292,
+  "maleOffsetY": 0,
+  "maleModel1": 170,
+  "femaleModel0": 456,
+  "femaleOffsetY": 0,
+  "femaleModel1": 348,
+  "members": true,
+  "oldColors": [
+    8741
+  ],
+  "newColors": [
+    8615
+  ],
+  "name": "Slaves' shirt"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1233,
+  "members": true,
+  "modelIndex": 2478,
+  "description": "This dagger is poisoned.",
+  "value": 240,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 504,
+  "maleOffsetY": 0,
+  "femaleModel0": 504,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    37,
+    74,
+    103,
+    22459
+  ],
+  "newColors": [
+    8,
+    11140,
+    0,
+    10388,
+    13221
+  ],
+  "name": "Black dagger(p)",
+  "notedId": 1234
+}

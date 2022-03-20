@@ -1,0 +1,17 @@
+{
+  "id": 4550,
+  "parent": 4461,
+  "type": 6,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 32,
+  "height": 32,
+  "hoverParentIndex": -1,
+  "modelDisabled": 2445,
+  "seqId": -1,
+  "activeSeqId": -1,
+  "modelZoom": 311,
+  "modelEyePitch": 258,
+  "modelYaw": 206,
+  "option": "Buy for 140 tickets:"
+}

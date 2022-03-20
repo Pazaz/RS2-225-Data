@@ -1,0 +1,12 @@
+{
+  "id": 0,
+  "description": "The body of a Dwarf savaged by Goblins.",
+  "modelIndex": 2595,
+  "iconX": -4,
+  "iconY": 12,
+  "iconZoom": 1780,
+  "iconYaw": 436,
+  "iconCameraPitch": 320,
+  "members": true,
+  "name": "Dwarf remains"
+}

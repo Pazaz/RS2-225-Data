@@ -1,0 +1,46 @@
+{
+  "id": 364,
+  "level": 0,
+  "description": "King Lathas of East Ardougne.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8078,
+    8741,
+    25238,
+    4626,
+    7700,
+    11200
+  ],
+  "newColors": [
+    926,
+    127,
+    926,
+    127,
+    926,
+    127
+  ],
+  "name": "King Lathas",
+  "modelIndices": [
+    230,
+    185,
+    251,
+    313,
+    160,
+    176,
+    267,
+    1808,
+    323
+  ],
+  "headModelIndices": [
+    63,
+    83,
+    2938
+  ]
+}

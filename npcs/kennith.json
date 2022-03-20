@@ -1,0 +1,27 @@
+{
+  "id": 697,
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He looks very scared.",
+  "oldColors": [
+    22426,
+    11162
+  ],
+  "newColors": [
+    5805,
+    4626
+  ],
+  "name": "Kennith",
+  "modelIndices": [
+    2897,
+    2918,
+    2909
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

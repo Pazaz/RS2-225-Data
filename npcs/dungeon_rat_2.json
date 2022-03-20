@@ -1,0 +1,23 @@
+{
+  "id": 224,
+  "scaleX": 64,
+  "scaleY": 64,
+  "walkSeq": 137,
+  "standSeq": 140,
+  "description": "A dirty rat.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 10,
+  "oldColors": [
+    43299
+  ],
+  "newColors": [
+    70
+  ],
+  "name": "Dungeon rat",
+  "modelIndices": [
+    2959
+  ]
+}

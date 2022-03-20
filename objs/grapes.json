@@ -1,0 +1,19 @@
+{
+  "id": 1987,
+  "description": "Good grapes for wine making.",
+  "modelIndex": 2358,
+  "iconX": 1,
+  "iconY": 4,
+  "iconZoom": 970,
+  "iconYaw": 668,
+  "iconCameraPitch": 404,
+  "value": 1,
+  "oldColors": [
+    960
+  ],
+  "newColors": [
+    59301
+  ],
+  "name": "Grapes",
+  "notedId": 1988
+}

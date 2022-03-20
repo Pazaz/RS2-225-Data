@@ -1,0 +1,39 @@
+{
+  "id": 550,
+  "level": 0,
+  "description": "Sells arrows.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    5532,
+    6798,
+    8741
+  ],
+  "newColors": [
+    5652,
+    10508,
+    6854,
+    1950
+  ],
+  "name": "Lowe",
+  "modelIndices": [
+    235,
+    246,
+    311,
+    173,
+    176,
+    257
+  ],
+  "headModelIndices": [
+    67
+  ]
+}

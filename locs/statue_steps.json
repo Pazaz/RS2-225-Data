@@ -1,0 +1,16 @@
+{
+  "id": 588,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1452
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue steps.",
+  "description": " A base for the statue to sit on."
+}

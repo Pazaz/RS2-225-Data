@@ -1,0 +1,24 @@
+{
+  "id": 878,
+  "stackable": true,
+  "value": 3,
+  "members": true,
+  "description": "Vicious poisoned bolts.",
+  "modelIndex": 2664,
+  "iconX": -6,
+  "iconY": 145,
+  "iconZoom": 580,
+  "iconYaw": 104,
+  "iconCameraPitch": 232,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    57
+  ],
+  "newColors": [
+    13221
+  ],
+  "name": "Bolt(p)"
+}

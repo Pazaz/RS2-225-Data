@@ -1,0 +1,34 @@
+{
+  "id": 1149,
+  "description": "Makes the wearer pretty intimidating.",
+  "value": 100000,
+  "maleModel0": 219,
+  "maleOffsetY": 0,
+  "maleModel1": 239,
+  "femaleModel0": 395,
+  "femaleOffsetY": 0,
+  "femaleModel1": 239,
+  "maleHeadModelA": 57,
+  "maleHeadModelB": 71,
+  "femaleHeadModelA": 117,
+  "femaleHeadModelB": 129,
+  "modelIndex": 2477,
+  "iconX": 3,
+  "iconY": -5,
+  "iconZoom": 670,
+  "iconYaw": 136,
+  "iconCameraPitch": 92,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    924
+  ],
+  "name": "Dragon med helm",
+  "notedId": 1150
+}

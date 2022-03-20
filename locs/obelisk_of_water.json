@@ -1,0 +1,16 @@
+{
+  "id": 2151,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1806
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obelisk of Water",
+  "description": "A column of elemental power."
+}

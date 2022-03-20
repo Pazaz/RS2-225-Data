@@ -1,0 +1,21 @@
+{
+  "id": 257,
+  "value": 25,
+  "members": true,
+  "description": "A useful herb.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    17304,
+    15250
+  ],
+  "name": "Ranarr weed",
+  "notedId": 258
+}

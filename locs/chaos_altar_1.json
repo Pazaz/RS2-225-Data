@@ -1,0 +1,21 @@
+{
+  "id": 61,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    "Check"
+  ],
+  "modelIndices": [
+    1216
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Chaos altar",
+  "description": "A shrine to evil."
+}

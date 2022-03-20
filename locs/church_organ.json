@@ -1,0 +1,19 @@
+{
+  "id": 416,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 2,
+  "actions": [
+    "Play"
+  ],
+  "modelIndices": [
+    1732
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Church organ",
+  "description": "With skill I can play this."
+}

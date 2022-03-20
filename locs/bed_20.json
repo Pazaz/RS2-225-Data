@@ -1,0 +1,26 @@
+{
+  "id": 3159,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "brightness": 15,
+  "specular": 15,
+  "oldColors": [
+    33,
+    8770
+  ],
+  "newColors": [
+    37970,
+    43067
+  ],
+  "modelIndices": [
+    1256
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "Beats the operating table."
+}

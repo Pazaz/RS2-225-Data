@@ -1,0 +1,20 @@
+{
+  "id": 2311,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Jump-from"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    1046
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Stepping stone",
+  "description": "I can jump from this stepping stone."
+}

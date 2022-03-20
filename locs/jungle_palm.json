@@ -1,0 +1,17 @@
+{
+  "id": 2888,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "modelIndices": [
+    1593
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle Palm",
+  "description": "A leafy jungle palm, dense foliage."
+}

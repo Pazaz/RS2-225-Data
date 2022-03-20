@@ -1,0 +1,17 @@
+{
+  "id": 1957,
+  "description": "A strong smelling onion.",
+  "value": 3,
+  "modelIndex": 2750,
+  "iconZoom": 670,
+  "iconYaw": 116,
+  "iconCameraPitch": 116,
+  "oldColors": [
+    7283
+  ],
+  "newColors": [
+    4552
+  ],
+  "name": "Onion",
+  "notedId": 1958
+}

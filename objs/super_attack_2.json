@@ -1,0 +1,22 @@
+{
+  "id": 147,
+  "description": "2 doses of super attack potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 135,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43848
+  ],
+  "name": "Super attack(2)",
+  "notedId": 148
+}

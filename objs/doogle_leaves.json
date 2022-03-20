@@ -1,0 +1,21 @@
+{
+  "id": 1573,
+  "description": "A tasty herb good for seasoning.",
+  "value": 2,
+  "modelIndex": 2364,
+  "members": true,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    21962,
+    21731
+  ],
+  "name": "Doogle leaves",
+  "notedId": 1574
+}

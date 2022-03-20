@@ -1,0 +1,22 @@
+{
+  "id": 557,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    6044
+  ],
+  "newColors": [
+    119
+  ],
+  "modelIndices": [
+    1791
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Icicle",
+  "description": "Frozen water has formed an icicle here."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2655,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "modelIndices": [
+    2036
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sinclair family crest",
+  "description": "Its the Sinclair Family coat of arms."
+}

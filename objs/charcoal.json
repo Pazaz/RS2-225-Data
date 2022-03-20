@@ -1,0 +1,16 @@
+{
+  "id": 973,
+  "description": "A lump of charcoal.",
+  "value": 45,
+  "modelIndex": 2395,
+  "maleModel0": 494,
+  "maleOffsetY": 0,
+  "femaleModel0": 494,
+  "femaleOffsetY": 6,
+  "iconY": 26,
+  "iconZoom": 650,
+  "iconYaw": 220,
+  "iconCameraPitch": 288,
+  "name": "Charcoal",
+  "notedId": 974
+}

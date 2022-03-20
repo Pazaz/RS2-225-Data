@@ -1,0 +1,35 @@
+{
+  "id": 267,
+  "level": 0,
+  "description": "Jeremy's father Sir Servil.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4626,
+    25238
+  ],
+  "newColors": [
+    4550,
+    4626
+  ],
+  "name": "Justin Servil",
+  "modelIndices": [
+    230,
+    250,
+    310,
+    151,
+    176,
+    275,
+    181
+  ],
+  "headModelIndices": [
+    63,
+    82
+  ]
+}

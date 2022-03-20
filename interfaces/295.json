@@ -1,0 +1,18 @@
+{
+  "id": 295,
+  "parent": 246,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 28,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Index",
+  "color": 12582912,
+  "colorEnabled": 0,
+  "hoverColor": 16777215,
+  "option": "Ok"
+}

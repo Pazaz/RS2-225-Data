@@ -1,0 +1,33 @@
+{
+  "id": 34,
+  "description": "Watches stuff. But who watches him?",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 28,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    811,
+    43939
+  ],
+  "name": "Watchman",
+  "modelIndices": [
+    219,
+    301,
+    167,
+    179,
+    274,
+    185,
+    249
+  ]
+}

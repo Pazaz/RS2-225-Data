@@ -1,0 +1,17 @@
+{
+  "id": 2389,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "description": "An infusion of water and jangerberries.",
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    19241
+  ],
+  "name": "Vial"
+}

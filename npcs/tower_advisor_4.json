@@ -1,0 +1,29 @@
+{
+  "id": 687,
+  "level": 0,
+  "description": "Tower keeper and competition judge.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Tower Advisor",
+  "modelIndices": [
+    208,
+    185,
+    253,
+    296,
+    151,
+    179,
+    262,
+    563,
+    317
+  ],
+  "headModelIndices": [
+    48,
+    85
+  ]
+}

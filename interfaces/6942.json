@@ -1,0 +1,17 @@
+{
+  "id": 6942,
+  "parent": 1908,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 358,
+  "height": 26,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "In the wilderness an indicator at the bottom-right of the screen\\nwill show the current level of danger.",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

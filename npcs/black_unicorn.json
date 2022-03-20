@@ -1,0 +1,24 @@
+{
+  "id": 133,
+  "size": 2,
+  "walkSeq": 288,
+  "standSeq": 291,
+  "description": "A unicorn with a blackened heart.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 27,
+  "oldColors": [
+    7289,
+    6241
+  ],
+  "newColors": [
+    43150,
+    41
+  ],
+  "name": "Black unicorn",
+  "modelIndices": [
+    2933
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1631,
+  "value": 1000,
+  "description": "This would be worth more cut.",
+  "modelIndex": 2528,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    51111
+  ],
+  "name": "Uncut dragonstone",
+  "notedId": 1632
+}

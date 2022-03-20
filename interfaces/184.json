@@ -1,0 +1,23 @@
+{
+  "id": 184,
+  "parent": 147,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 30,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "script": [
+    [
+      12,
+      0
+    ]
+  ],
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "%1kg",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

@@ -1,0 +1,20 @@
+{
+  "id": 667,
+  "description": "A Faladian Knight's sword.",
+  "value": 200,
+  "modelIndex": 2503,
+  "iconX": 6,
+  "iconY": -49,
+  "iconZoom": 1530,
+  "iconYaw": 408,
+  "iconCameraPitch": 224,
+  "maleModel0": 522,
+  "maleOffsetY": 0,
+  "femaleModel0": 522,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "name": "Blurite sword"
+}

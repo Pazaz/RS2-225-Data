@@ -1,0 +1,17 @@
+{
+  "id": 1006,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "modelIndices": [
+    1017
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken Railing",
+  "description": "There is a hole in this section of the railing."
+}

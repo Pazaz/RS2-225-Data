@@ -1,0 +1,21 @@
+{
+  "id": 265,
+  "value": 65,
+  "members": true,
+  "description": "A powerful herb.",
+  "modelIndex": 2364,
+  "iconX": 4,
+  "iconZoom": 700,
+  "iconYaw": 1588,
+  "iconCameraPitch": 376,
+  "oldColors": [
+    22418,
+    22428
+  ],
+  "newColors": [
+    13974,
+    14866
+  ],
+  "name": "Cadantine",
+  "notedId": 266
+}

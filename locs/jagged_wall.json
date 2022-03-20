@@ -1,0 +1,35 @@
+{
+  "id": 2926,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    null,
+    "Jump-over"
+  ],
+  "oldColors": [
+    23
+  ],
+  "newColors": [
+    11
+  ],
+  "modelIndices": [
+    849,
+    850,
+    851,
+    852,
+    853
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Jagged wall",
+  "description": "A high wall made up of rocks with sharp edges."
+}

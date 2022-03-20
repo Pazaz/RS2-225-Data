@@ -1,0 +1,15 @@
+{
+  "id": 977,
+  "walkSeq": 142,
+  "standSeq": 145,
+  "description": "It's one of Ibans' pets.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 31,
+  "name": "Blessed spider",
+  "modelIndices": [
+    2884
+  ]
+}

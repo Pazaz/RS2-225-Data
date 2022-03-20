@@ -1,0 +1,38 @@
+{
+  "id": 893,
+  "description": "Venomous looking arrows.",
+  "members": true,
+  "value": 400,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    940,
+    939,
+    938,
+    941
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    36133,
+    13221
+  ],
+  "name": "Rune arrow(p)"
+}

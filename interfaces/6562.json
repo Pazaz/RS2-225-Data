@@ -1,0 +1,26 @@
+{
+  "id": 6562,
+  "parent": 6412,
+  "type": 5,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 14,
+  "height": 15,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    1
+  ],
+  "script": [
+    [
+      13,
+      286,
+      3,
+      0
+    ]
+  ],
+  "image": "miscgraphics,10",
+  "activeImage": "miscgraphics,11"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5700,
+  "parent": 5608,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 174,
+  "height": 26,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Level 40\\nProtect From Missiles",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

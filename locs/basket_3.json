@@ -1,0 +1,16 @@
+{
+  "id": 384,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    882
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Basket",
+  "description": "A woven storage basket."
+}

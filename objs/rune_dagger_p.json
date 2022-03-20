@@ -1,0 +1,35 @@
+{
+  "id": 1229,
+  "members": true,
+  "modelIndex": 2478,
+  "description": "The blade is covered with a nasty poison.",
+  "value": 8000,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 504,
+  "maleOffsetY": 0,
+  "femaleModel0": 504,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61,
+    37,
+    74,
+    103,
+    22459
+  ],
+  "newColors": [
+    36133,
+    36376,
+    36133,
+    36145,
+    13221
+  ],
+  "name": "Rune dagger(p)",
+  "notedId": 1230
+}

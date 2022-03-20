@@ -1,0 +1,42 @@
+{
+  "id": 237,
+  "description": "He isn't very friendly.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 35,
+  "oldColors": [
+    6798,
+    10128,
+    41,
+    61,
+    57
+  ],
+  "newColors": [
+    926,
+    10508,
+    10508,
+    24,
+    24
+  ],
+  "name": "Renegade Knight",
+  "modelIndices": [
+    232,
+    306,
+    164,
+    179,
+    268,
+    185,
+    518,
+    246
+  ],
+  "headModelIndices": [
+    65
+  ]
+}

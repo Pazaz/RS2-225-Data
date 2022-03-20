@@ -1,0 +1,22 @@
+{
+  "id": 522,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": false,
+  "adjustToTerrain": true,
+  "brightness": 25,
+  "specular": 25,
+  "animationIndex": 524,
+  "scaleX": 64,
+  "scaleY": 64,
+  "scaleZ": 64,
+  "modelIndices": [
+    2330
+  ],
+  "modelTypes": [
+    10
+  ]
+}

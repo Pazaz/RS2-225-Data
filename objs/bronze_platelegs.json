@@ -1,0 +1,29 @@
+{
+  "id": 1075,
+  "description": "These look pretty heavy.",
+  "value": 80,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    41,
+    57
+  ],
+  "newColors": [
+    5652,
+    7050,
+    5652
+  ],
+  "name": "Bronze platelegs",
+  "notedId": 1076
+}

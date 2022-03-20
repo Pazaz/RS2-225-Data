@@ -1,0 +1,40 @@
+{
+  "id": 990,
+  "description": "A mighty looking warrior.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 53,
+  "oldColors": [
+    4626,
+    55198,
+    43072
+  ],
+  "newColors": [
+    24,
+    35026,
+    4550
+  ],
+  "name": "Sir Harry",
+  "modelIndices": [
+    214,
+    250,
+    313,
+    156,
+    176,
+    268,
+    185,
+    518,
+    541,
+    3330
+  ],
+  "headModelIndices": [
+    52
+  ]
+}

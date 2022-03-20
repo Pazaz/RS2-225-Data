@@ -1,0 +1,27 @@
+{
+  "id": 709,
+  "description": "A vicious little imp.",
+  "walkSeq": 168,
+  "standSeq": 171,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 3,
+  "oldColors": [
+    926,
+    937,
+    4550,
+    18316
+  ],
+  "newColors": [
+    906,
+    906,
+    555,
+    555
+  ],
+  "name": "Imp",
+  "modelIndices": [
+    2887
+  ]
+}

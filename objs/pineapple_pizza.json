@@ -1,0 +1,26 @@
+{
+  "id": 2301,
+  "options": [
+    "Eat"
+  ],
+  "description": "A tropicana pizza.",
+  "value": 100,
+  "modelIndex": 2802,
+  "iconY": 1,
+  "iconZoom": 990,
+  "iconYaw": 176,
+  "iconCameraPitch": 260,
+  "members": true,
+  "oldColors": [
+    10665,
+    82,
+    926
+  ],
+  "newColors": [
+    7488,
+    9152,
+    937
+  ],
+  "name": "Pineapple pizza",
+  "notedId": 2302
+}

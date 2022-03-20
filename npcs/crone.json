@@ -1,0 +1,39 @@
+{
+  "id": 217,
+  "level": 0,
+  "description": "A crone.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    4550,
+    8741,
+    25238,
+    5532
+  ],
+  "newColors": [
+    54472,
+    4321,
+    27584,
+    33694,
+    33694
+  ],
+  "name": "Crone",
+  "modelIndices": [
+    378,
+    462,
+    346,
+    356,
+    426,
+    361
+  ],
+  "headModelIndices": [
+    103
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 640,
+  "description": "A religious man... And occasional drunk.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    10508,
+    10508
+  ],
+  "name": "Father Lawrence",
+  "modelIndices": [
+    223,
+    325,
+    246,
+    292,
+    170,
+    176,
+    260,
+    181
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

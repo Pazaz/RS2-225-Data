@@ -1,0 +1,22 @@
+{
+  "id": 2886,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    null,
+    null,
+    "Shut"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    2244
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Open Cupboard",
+  "description": "An antique by anyone's standards, however, it might have something interesting in it."
+}

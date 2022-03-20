@@ -1,0 +1,28 @@
+{
+  "id": 1833,
+  "description": "A cool, light desert shirt.",
+  "value": 40,
+  "modelIndex": 2786,
+  "members": true,
+  "iconY": 7,
+  "iconZoom": 1370,
+  "iconCameraPitch": 536,
+  "maleModel0": 292,
+  "maleOffsetY": 0,
+  "maleModel1": 170,
+  "femaleModel0": 456,
+  "femaleOffsetY": 0,
+  "femaleModel1": 348,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    8741
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Desert shirt",
+  "notedId": 1834
+}

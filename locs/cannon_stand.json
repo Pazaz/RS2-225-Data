@@ -1,0 +1,19 @@
+{
+  "id": 8,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Pick-up"
+  ],
+  "modelIndices": [
+    1801
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cannon stand",
+  "description": "The mounting for the muticannon."
+}

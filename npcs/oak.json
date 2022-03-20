@@ -1,0 +1,24 @@
+{
+  "id": 448,
+  "level": 0,
+  "description": "A beautiful old oak.",
+  "standSeq": 334,
+  "size": 3,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    3470
+  ],
+  "name": "Oak",
+  "modelIndices": [
+    2851
+  ]
+}

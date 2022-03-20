@@ -1,0 +1,23 @@
+{
+  "id": 455,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 12,
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    7721
+  ],
+  "modelIndices": [
+    1388
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave rocks",
+  "description": "Solid rock from the cave floor."
+}

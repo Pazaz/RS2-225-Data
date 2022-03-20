@@ -1,0 +1,38 @@
+{
+  "id": 548,
+  "level": 0,
+  "description": "Interesting assortment of clothes on offer...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    8741,
+    6798,
+    10138,
+    43072
+  ],
+  "newColors": [
+    55194,
+    4667,
+    38852,
+    4550
+  ],
+  "name": "Thessalia",
+  "modelIndices": [
+    390,
+    456,
+    348,
+    353,
+    435
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

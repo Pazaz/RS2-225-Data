@@ -1,0 +1,19 @@
+{
+  "id": 1491,
+  "description": "A cat.",
+  "modelIndex": 3006,
+  "iconX": 13,
+  "iconY": 21,
+  "iconZoom": 880,
+  "iconYaw": 152,
+  "iconRoll": 1940,
+  "iconCameraPitch": 32,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    16
+  ],
+  "name": "Witches cat"
+}

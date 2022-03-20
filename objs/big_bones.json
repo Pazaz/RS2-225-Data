@@ -1,0 +1,13 @@
+{
+  "id": 532,
+  "description": "Ew it's a pile of bones.",
+  "modelIndex": 222,
+  "iconZoom": 1830,
+  "iconYaw": 648,
+  "iconCameraPitch": 216,
+  "options": [
+    "Bury"
+  ],
+  "name": "Big bones",
+  "notedId": 533
+}

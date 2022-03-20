@@ -1,0 +1,20 @@
+{
+  "id": 1317,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Talk-to"
+  ],
+  "mapscene": 0,
+  "modelIndices": [
+    1710
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Spirit tree",
+  "description": "A young sentient tree."
+}

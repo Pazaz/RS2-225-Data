@@ -1,0 +1,16 @@
+{
+  "id": 611,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1453
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Picnic bench",
+  "description": "Sit back and enjoy the view."
+}

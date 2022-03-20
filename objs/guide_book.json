@@ -1,0 +1,19 @@
+{
+  "id": 1856,
+  "description": "'A Tourists Guide To Ardougne'.",
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "oldColors": [
+    5018
+  ],
+  "newColors": [
+    24
+  ],
+  "name": "Guide book"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 311,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1411
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mudpile",
+  "description": "A pile of something I hope is mud."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2875,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Pray at"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1489
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue of Guthix",
+  "description": "I wonder how accurate a representation this is."
+}

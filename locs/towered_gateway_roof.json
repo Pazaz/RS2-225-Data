@@ -1,0 +1,16 @@
+{
+  "id": 1566,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 3,
+  "delayShading": true,
+  "modelIndices": [
+    933
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "towered_gateway_roof"
+}

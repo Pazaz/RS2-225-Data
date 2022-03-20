@@ -1,0 +1,18 @@
+{
+  "id": 7335,
+  "parent": 638,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 125,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Rune Mysteries Quest",
+  "color": 16711680,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

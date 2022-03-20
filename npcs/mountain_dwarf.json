@@ -1,0 +1,22 @@
+{
+  "id": 232,
+  "level": 0,
+  "description": "He looks short and grumpy.",
+  "walkSeq": 98,
+  "standSeq": 101,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Mountain Dwarf",
+  "modelIndices": [
+    2970,
+    2980,
+    2978,
+    2984,
+    2985,
+    2993
+  ],
+  "headModelIndices": [
+    0
+  ]
+}

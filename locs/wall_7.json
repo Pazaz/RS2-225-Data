@@ -1,0 +1,22 @@
+{
+  "id": 2066,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 21,
+  "oldColors": [
+    2
+  ],
+  "newColors": [
+    23
+  ],
+  "modelIndices": [
+    571
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wall"
+}

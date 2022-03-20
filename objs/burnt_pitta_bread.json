@@ -1,0 +1,18 @@
+{
+  "id": 1867,
+  "description": "It's all burnt.",
+  "value": 1,
+  "modelIndex": 2455,
+  "iconZoom": 980,
+  "iconYaw": 108,
+  "iconCameraPitch": 248,
+  "members": true,
+  "oldColors": [
+    10440
+  ],
+  "newColors": [
+    20
+  ],
+  "name": "Burnt pitta bread",
+  "notedId": 1868
+}

@@ -1,0 +1,29 @@
+{
+  "id": 676,
+  "description": "A gnome trader.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    22422,
+    22426,
+    22418
+  ],
+  "newColors": [
+    937,
+    8472,
+    8472
+  ],
+  "name": "Femi",
+  "modelIndices": [
+    2907,
+    2911,
+    2922
+  ],
+  "headModelIndices": [
+    21
+  ]
+}

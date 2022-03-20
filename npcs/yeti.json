@@ -1,0 +1,16 @@
+{
+  "id": 130,
+  "description": "The abominable snowman.",
+  "size": 3,
+  "walkSeq": 293,
+  "standSeq": 296,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 58,
+  "name": "Yeti",
+  "modelIndices": [
+    3001
+  ]
+}

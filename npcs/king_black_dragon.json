@@ -1,0 +1,33 @@
+{
+  "id": 50,
+  "size": 5,
+  "walkSeq": 79,
+  "standSeq": 90,
+  "scaleX": 160,
+  "scaleY": 160,
+  "description": "The biggest meanest dragon around.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 238,
+  "oldColors": [
+    61,
+    41,
+    0,
+    115,
+    127
+  ],
+  "newColors": [
+    11140,
+    11138,
+    937,
+    7853,
+    7853
+  ],
+  "name": "King black dragon",
+  "modelIndices": [
+    2853,
+    2855
+  ]
+}

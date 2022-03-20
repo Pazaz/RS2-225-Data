@@ -1,0 +1,23 @@
+{
+  "id": 2884,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    null,
+    null,
+    "Climb-down"
+  ],
+  "mapscene": 7,
+  "modelIndices": [
+    1208
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ladder",
+  "description": "I can climb this."
+}

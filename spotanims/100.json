@@ -1,0 +1,16 @@
+{
+  "id": 100,
+  "modelIndex": 3081,
+  "seqIndex": 659,
+  "disposeAlpha": true,
+  "ambience": 60,
+  "modelShadow": 60,
+  "oldColors": [
+    926,
+    947
+  ],
+  "newColors": [
+    960,
+    6080
+  ]
+}

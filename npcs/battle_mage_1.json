@@ -1,0 +1,43 @@
+{
+  "id": 912,
+  "description": "He kills in the name of Zamorak.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 54,
+  "oldColors": [
+    11200,
+    7700,
+    8741,
+    25238,
+    4550,
+    4626
+  ],
+  "newColors": [
+    926,
+    0,
+    20,
+    20,
+    5347,
+    0
+  ],
+  "name": "Battle mage",
+  "modelIndices": [
+    207,
+    246,
+    243,
+    310,
+    168,
+    176,
+    260,
+    323,
+    185,
+    544
+  ]
+}

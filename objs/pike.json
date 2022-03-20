@@ -1,0 +1,23 @@
+{
+  "id": 351,
+  "description": "Some nicely cooked Pike.",
+  "modelIndex": 2354,
+  "iconY": 3,
+  "iconZoom": 1370,
+  "iconYaw": 1840,
+  "iconCameraPitch": 532,
+  "value": 25,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    18760,
+    19773
+  ],
+  "name": "Pike",
+  "notedId": 352
+}

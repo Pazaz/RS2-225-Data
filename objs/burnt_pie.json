@@ -1,0 +1,25 @@
+{
+  "id": 2329,
+  "description": "I think I left it on the stove too long.",
+  "options": [
+    "Empty Dish"
+  ],
+  "modelIndex": 2767,
+  "iconY": -9,
+  "iconZoom": 950,
+  "iconYaw": 104,
+  "iconCameraPitch": 192,
+  "value": 1,
+  "oldColors": [
+    8670,
+    5006,
+    61
+  ],
+  "newColors": [
+    24,
+    12,
+    4416
+  ],
+  "name": "Burnt pie",
+  "notedId": 2330
+}

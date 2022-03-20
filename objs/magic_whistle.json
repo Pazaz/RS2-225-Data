@@ -1,0 +1,15 @@
+{
+  "id": 16,
+  "description": "A small tin whistle.",
+  "value": 10,
+  "members": true,
+  "modelIndex": 2433,
+  "iconY": -2,
+  "iconZoom": 490,
+  "iconYaw": 1208,
+  "iconCameraPitch": 152,
+  "options": [
+    "Blow"
+  ],
+  "name": "Magic whistle"
+}

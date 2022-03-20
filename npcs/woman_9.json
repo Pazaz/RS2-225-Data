@@ -1,0 +1,36 @@
+{
+  "id": 361,
+  "description": "One of RuneScapes' many citizens.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 12,
+  "oldColors": [
+    43072,
+    25238,
+    4550
+  ],
+  "newColors": [
+    5662,
+    3980,
+    5662
+  ],
+  "name": "Woman",
+  "modelIndices": [
+    404,
+    478,
+    351,
+    353,
+    437,
+    358
+  ],
+  "headModelIndices": [
+    121
+  ]
+}

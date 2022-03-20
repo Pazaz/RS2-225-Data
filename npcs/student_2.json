@@ -1,0 +1,39 @@
+{
+  "id": 616,
+  "level": 0,
+  "description": "A student busily digging.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    11844
+  ],
+  "newColors": [
+    5921,
+    6065,
+    12,
+    12
+  ],
+  "name": "Student",
+  "modelIndices": [
+    215,
+    246,
+    292,
+    322,
+    163,
+    179,
+    257,
+    276
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

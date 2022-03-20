@@ -1,0 +1,19 @@
+{
+  "id": 109,
+  "description": "I need another ingredient to finish this Dwarf Weed potion.",
+  "value": 70,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    39132
+  ],
+  "name": "Unfinished potion",
+  "notedId": 110
+}

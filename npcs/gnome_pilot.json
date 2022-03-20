@@ -1,0 +1,19 @@
+{
+  "id": 170,
+  "description": "He can fly the glider.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Gnome pilot",
+  "modelIndices": [
+    2909,
+    2908,
+    2922
+  ],
+  "headModelIndices": [
+    19
+  ]
+}

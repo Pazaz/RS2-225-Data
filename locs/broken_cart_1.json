@@ -1,0 +1,16 @@
+{
+  "id": 306,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    1500
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken cart",
+  "description": "A used cart seller will probably try and sell it later."
+}

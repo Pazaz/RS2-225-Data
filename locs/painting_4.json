@@ -1,0 +1,18 @@
+{
+  "id": 893,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 20,
+  "interactable": true,
+  "modelIndices": [
+    2107
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Painting",
+  "description": "A really bad portrait of the King."
+}

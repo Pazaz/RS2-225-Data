@@ -1,0 +1,22 @@
+{
+  "id": 3033,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 0,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1570
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "One of the most common trees in RuneScape."
+}

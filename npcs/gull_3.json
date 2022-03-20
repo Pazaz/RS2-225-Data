@@ -1,0 +1,13 @@
+{
+  "id": 150,
+  "description": "A sea bird.",
+  "size": 2,
+  "walkSeq": 341,
+  "standSeq": 342,
+  "level": 0,
+  "showOnMinimap": false,
+  "name": "Gull",
+  "modelIndices": [
+    2850
+  ]
+}

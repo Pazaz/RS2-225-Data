@@ -1,0 +1,22 @@
+{
+  "id": 1025,
+  "description": "A black piece of cloth on a string.",
+  "modelIndex": 2417,
+  "iconZoom": 800,
+  "iconYaw": 1952,
+  "iconCameraPitch": 296,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "value": 2,
+  "maleModel0": 236,
+  "maleOffsetY": 0,
+  "femaleModel0": 410,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 68,
+  "femaleHeadModelA": 126,
+  "members": true,
+  "name": "Eye patch",
+  "notedId": 1026
+}

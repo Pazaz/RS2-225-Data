@@ -1,0 +1,16 @@
+{
+  "id": 804,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "obstructsGround": true,
+  "modelIndices": [
+    1034
+  ],
+  "modelTypes": [
+    22
+  ]
+}

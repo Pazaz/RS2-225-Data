@@ -1,0 +1,45 @@
+{
+  "id": 276,
+  "description": "A witch.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "level": 0,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    38814,
+    8082,
+    11200,
+    4550
+  ],
+  "newColors": [
+    926,
+    52112,
+    16,
+    43920,
+    56995,
+    84
+  ],
+  "name": "Winelda",
+  "modelIndices": [
+    393,
+    377,
+    462,
+    348,
+    353,
+    481,
+    440,
+    454,
+    534
+  ],
+  "headModelIndices": [
+    115,
+    102
+  ]
+}

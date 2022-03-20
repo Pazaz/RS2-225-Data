@@ -1,0 +1,19 @@
+{
+  "id": 359,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    2138
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Boxes",
+  "description": "A pile of boxes for storage."
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1048,
+  "description": "A nice hat from a cracker.",
+  "modelIndex": 2635,
+  "iconX": 1,
+  "iconY": 1,
+  "iconZoom": 440,
+  "iconYaw": 1852,
+  "iconCameraPitch": 76,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 187,
+  "maleOffsetY": 0,
+  "femaleModel0": 363,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 29,
+  "femaleHeadModelA": 87,
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "White partyhat",
+  "notedId": 1049
+}

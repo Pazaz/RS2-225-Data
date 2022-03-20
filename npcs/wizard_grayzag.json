@@ -1,0 +1,37 @@
+{
+  "id": 707,
+  "description": "Master of imps.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 41,
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    38814
+  ],
+  "newColors": [
+    10508,
+    10508,
+    10508,
+    10508
+  ],
+  "name": "Wizard Grayzag",
+  "modelIndices": [
+    235,
+    181,
+    248,
+    292,
+    170,
+    176,
+    265,
+    202
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 534,
+  "level": 0,
+  "description": "Sells stuff.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    22753,
+    9447
+  ],
+  "newColors": [
+    54453,
+    5045
+  ],
+  "name": "Fairy shop keeper",
+  "modelIndices": [
+    2857
+  ],
+  "headModelIndices": [
+    13
+  ]
+}

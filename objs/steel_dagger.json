@@ -1,0 +1,20 @@
+{
+  "id": 1207,
+  "modelIndex": 2672,
+  "description": "Short but pointy.",
+  "value": 125,
+  "iconY": -4,
+  "iconZoom": 760,
+  "iconYaw": 1276,
+  "iconCameraPitch": 472,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 533,
+  "maleOffsetY": 0,
+  "femaleModel0": 533,
+  "femaleOffsetY": 6,
+  "name": "Steel dagger",
+  "notedId": 1208
+}

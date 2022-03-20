@@ -1,0 +1,14 @@
+{
+  "id": 2528,
+  "description": "Wonder what happens if I rub it...",
+  "modelIndex": 3348,
+  "iconX": 2,
+  "iconY": -2,
+  "iconZoom": 840,
+  "iconYaw": 228,
+  "iconCameraPitch": 28,
+  "options": [
+    "Rub"
+  ],
+  "name": "Lamp"
+}

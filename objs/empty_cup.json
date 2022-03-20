@@ -1,0 +1,24 @@
+{
+  "id": 1980,
+  "description": "An empty cup.",
+  "value": 2,
+  "modelIndex": 2347,
+  "iconX": -1,
+  "iconY": -2,
+  "iconZoom": 500,
+  "iconYaw": 1980,
+  "iconCameraPitch": 156,
+  "members": true,
+  "oldColors": [
+    7236,
+    5173,
+    5177
+  ],
+  "newColors": [
+    127,
+    82,
+    107
+  ],
+  "name": "Empty cup",
+  "notedId": 1981
+}

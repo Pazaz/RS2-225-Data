@@ -1,0 +1,26 @@
+{
+  "id": 934,
+  "description": "An ancient powerful demon of the underworld.",
+  "size": 3,
+  "walkSeq": 63,
+  "standSeq": 66,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 187,
+  "oldColors": [
+    918,
+    929,
+    0
+  ],
+  "newColors": [
+    4,
+    4,
+    931
+  ],
+  "name": "Nezikchened",
+  "modelIndices": [
+    2942
+  ]
+}

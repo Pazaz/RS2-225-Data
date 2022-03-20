@@ -1,0 +1,21 @@
+{
+  "id": 768,
+  "level": 0,
+  "description": "A fully grown feline.",
+  "walkSeq": 314,
+  "standSeq": 317,
+  "options": [
+    "Pick-up",
+    null,
+    "Stroke",
+    "Shoo-away",
+    "Chase vermin"
+  ],
+  "scaleX": 60,
+  "scaleY": 60,
+  "name": "Cat",
+  "modelIndices": [
+    3010,
+    3006
+  ]
+}

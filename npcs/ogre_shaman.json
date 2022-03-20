@@ -1,0 +1,20 @@
+{
+  "id": 871,
+  "description": "Seems intelligent... for an ogre.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 113,
+  "name": "Ogre shaman",
+  "modelIndices": [
+    2879,
+    2877
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

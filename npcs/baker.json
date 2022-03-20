@@ -1,0 +1,42 @@
+{
+  "id": 571,
+  "level": 0,
+  "description": "So where are the butcher and the candlestick maker?",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    107,
+    8741
+  ],
+  "newColors": [
+    127,
+    127,
+    6470
+  ],
+  "name": "Baker",
+  "modelIndices": [
+    206,
+    302,
+    247,
+    159,
+    179,
+    254,
+    185,
+    283,
+    199
+  ],
+  "headModelIndices": [
+    46,
+    41,
+    79
+  ]
+}

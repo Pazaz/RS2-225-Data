@@ -1,0 +1,16 @@
+{
+  "id": 659,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2149
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Charred bones",
+  "description": "I don't even want to think about what did that..."
+}

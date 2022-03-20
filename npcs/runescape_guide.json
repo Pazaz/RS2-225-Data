@@ -1,0 +1,46 @@
+{
+  "id": 945,
+  "level": 0,
+  "description": "Your introduction to the world of RuneScape.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    41,
+    61,
+    11187,
+    10659,
+    25238
+  ],
+  "newColors": [
+    5173,
+    931,
+    931,
+    931,
+    931,
+    931
+  ],
+  "name": "RuneScape Guide",
+  "modelIndices": [
+    230,
+    249,
+    313,
+    157,
+    198,
+    267,
+    185,
+    176,
+    3330
+  ],
+  "headModelIndices": [
+    63,
+    81,
+    40
+  ]
+}

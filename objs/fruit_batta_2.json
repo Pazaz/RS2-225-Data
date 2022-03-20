@@ -1,0 +1,23 @@
+{
+  "id": 2277,
+  "value": 2,
+  "description": "It actually smells quite good.",
+  "modelIndex": 2803,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    6080
+  ],
+  "name": "Fruit batta",
+  "notedId": 2278
+}

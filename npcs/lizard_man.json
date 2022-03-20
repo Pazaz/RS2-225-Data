@@ -1,0 +1,16 @@
+{
+  "id": 69,
+  "description": "A scaly reptilian creature.",
+  "size": 2,
+  "walkSeq": 176,
+  "standSeq": 179,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 22,
+  "name": "Lizard man",
+  "modelIndices": [
+    2888
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 886,
+  "level": 0,
+  "description": "The Carnillean family chef.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    107,
+    43072,
+    4550,
+    25238,
+    8741
+  ],
+  "newColors": [
+    127,
+    4550,
+    6709,
+    6695,
+    916
+  ],
+  "name": "Claus the chef",
+  "modelIndices": [
+    230,
+    246,
+    302,
+    159,
+    176,
+    263,
+    181,
+    199
+  ],
+  "headModelIndices": [
+    63,
+    41
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 417,
+  "value": 1,
+  "modelIndex": 2789,
+  "members": true,
+  "description": "It's highly poisonous.",
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    23488
+  ],
+  "name": "Sulphuric broline"
+}

@@ -1,0 +1,17 @@
+{
+  "id": 959,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    2081
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Clock face",
+  "description": "What has a face and hands but is not a man?"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "description": "The mounting for the muticannon.",
+  "modelIndex": 2642,
+  "iconY": 106,
+  "iconZoom": 1750,
+  "iconYaw": 1456,
+  "iconCameraPitch": 268,
+  "value": 187500,
+  "members": true,
+  "name": "Cannon stand",
+  "notedId": 9
+}

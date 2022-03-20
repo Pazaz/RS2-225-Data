@@ -1,0 +1,17 @@
+{
+  "id": 3341,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    755
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Guide rope",
+  "description": "Looks like the other rope is holding the bridge up."
+}

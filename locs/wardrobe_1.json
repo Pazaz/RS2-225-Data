@@ -1,0 +1,20 @@
+{
+  "id": 388,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactionSideFlags": 13,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1951
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wardrobe",
+  "description": "I wonder what this spooky item contains."
+}

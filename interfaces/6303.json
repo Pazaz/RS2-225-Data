@@ -1,0 +1,17 @@
+{
+  "id": 6303,
+  "parent": 6299,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 140,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "If you wish to hear these",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

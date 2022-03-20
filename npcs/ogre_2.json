@@ -1,0 +1,17 @@
+{
+  "id": 115,
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "description": "A large dim looking humanoid.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 48,
+  "name": "Ogre",
+  "modelIndices": [
+    2878,
+    2876
+  ]
+}

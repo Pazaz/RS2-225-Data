@@ -1,0 +1,26 @@
+{
+  "id": 1835,
+  "description": "A cool, light desert robe.",
+  "value": 40,
+  "modelIndex": 2521,
+  "members": true,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    127
+  ],
+  "name": "Desert robe",
+  "notedId": 1836
+}

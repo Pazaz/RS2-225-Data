@@ -1,0 +1,43 @@
+{
+  "id": 811,
+  "level": 0,
+  "description": "He looks like he spends a lot of time outdoors.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    10128,
+    43072,
+    4626,
+    25238,
+    4550
+  ],
+  "newColors": [
+    8,
+    8,
+    8,
+    8,
+    7068
+  ],
+  "name": "Stanford",
+  "modelIndices": [
+    203,
+    251,
+    315,
+    173,
+    179,
+    271,
+    185,
+    496,
+    283
+  ],
+  "headModelIndices": [
+    45,
+    83
+  ]
+}

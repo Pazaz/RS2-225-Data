@@ -1,0 +1,17 @@
+{
+  "id": 444,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 11,
+  "modelIndices": [
+    1405
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Boulder",
+  "description": "A huge lump of rock."
+}

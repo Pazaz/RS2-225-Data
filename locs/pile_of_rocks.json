@@ -1,0 +1,20 @@
+{
+  "id": 3265,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "mapscene": 11,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    1411
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pile of rocks",
+  "description": "I can climb this pile of rocks..."
+}

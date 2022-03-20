@@ -1,0 +1,15 @@
+{
+  "id": 23,
+  "description": "A cog from some machinery.",
+  "modelIndex": 2351,
+  "members": true,
+  "iconYaw": 2040,
+  "iconCameraPitch": 292,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    960
+  ],
+  "name": "Cog"
+}

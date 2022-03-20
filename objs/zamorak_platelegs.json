@@ -1,0 +1,29 @@
+{
+  "id": 2655,
+  "description": "Rune platelegs in the colours of zamorak.",
+  "value": 64000,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    41,
+    57
+  ],
+  "newColors": [
+    36133,
+    37270,
+    937
+  ],
+  "name": "Zamorak platelegs",
+  "notedId": 2656
+}

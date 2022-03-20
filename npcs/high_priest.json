@@ -1,0 +1,43 @@
+{
+  "id": 216,
+  "level": 0,
+  "description": "High Priest of Entrana.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8090,
+    25238,
+    6798,
+    4550,
+    4548,
+    8090
+  ],
+  "newColors": [
+    7070,
+    7070,
+    0,
+    7062,
+    7062,
+    7070
+  ],
+  "name": "High Priest",
+  "modelIndices": [
+    223,
+    295,
+    162,
+    176,
+    265,
+    185,
+    284,
+    246
+  ],
+  "headModelIndices": [
+    59
+  ]
+}

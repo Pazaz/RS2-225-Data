@@ -1,0 +1,37 @@
+{
+  "id": 1107,
+  "parent": 994,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 80,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    3,
+    1
+  ],
+  "scriptCompareValue": [
+    4,
+    1
+  ],
+  "script": [
+    [
+      5,
+      211,
+      0
+    ],
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "center": true,
+  "font": 1,
+  "shadow": false,
+  "text": "Dart tips",
+  "color": 0,
+  "colorEnabled": 16777215,
+  "hoverColor": 0
+}

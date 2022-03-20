@@ -1,0 +1,19 @@
+{
+  "id": 853,
+  "level": 0,
+  "description": "A senior member of the ogre community.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to"
+  ],
+  "name": "Og",
+  "modelIndices": [
+    2880,
+    2874
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

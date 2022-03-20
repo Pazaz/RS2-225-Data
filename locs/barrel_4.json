@@ -1,0 +1,16 @@
+{
+  "id": 718,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    3338
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Barrel",
+  "description": "A barrel full of swords..."
+}

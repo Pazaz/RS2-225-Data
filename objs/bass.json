@@ -1,0 +1,24 @@
+{
+  "id": 365,
+  "description": "Wow, this is a big fish.",
+  "modelIndex": 2355,
+  "iconY": 3,
+  "iconZoom": 1340,
+  "iconYaw": 1920,
+  "iconCameraPitch": 464,
+  "value": 120,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    2000,
+    1498
+  ],
+  "name": "Bass",
+  "notedId": 366
+}

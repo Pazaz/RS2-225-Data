@@ -1,0 +1,22 @@
+{
+  "id": 1613,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    23
+  ],
+  "newColors": [
+    16
+  ],
+  "modelIndices": [
+    849
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Timber",
+  "description": "This timber is broken"
+}

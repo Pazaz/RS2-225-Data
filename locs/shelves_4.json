@@ -1,0 +1,16 @@
+{
+  "id": 1014,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1150
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Shelves",
+  "description": "Storage for all needs."
+}

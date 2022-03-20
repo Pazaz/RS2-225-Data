@@ -1,0 +1,16 @@
+{
+  "id": 49,
+  "size": 2,
+  "walkSeq": 157,
+  "standSeq": 160,
+  "description": "Hello, nice doggy...",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 122,
+  "name": "Hellhound",
+  "modelIndices": [
+    2997
+  ]
+}

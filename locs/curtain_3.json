@@ -1,0 +1,22 @@
+{
+  "id": 1529,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Close"
+  ],
+  "modelIndices": [
+    879,
+    880
+  ],
+  "modelTypes": [
+    0,
+    9
+  ],
+  "name": "Curtain",
+  "description": "The curtain is open."
+}

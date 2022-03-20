@@ -1,0 +1,22 @@
+{
+  "id": 489,
+  "description": "I will have to kill him to get past him.",
+  "walkSeq": 308,
+  "standSeq": 311,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 42,
+  "name": "Goblin guard",
+  "modelIndices": [
+    2951,
+    2953,
+    2955,
+    2956,
+    2957
+  ],
+  "headModelIndices": [
+    142
+  ]
+}

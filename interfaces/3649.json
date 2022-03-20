@@ -1,0 +1,17 @@
+{
+  "id": 3649,
+  "parent": 3559,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 457,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "Welcome to RuneScape - Use the buttons below to design your player",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

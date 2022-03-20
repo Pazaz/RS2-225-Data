@@ -1,0 +1,19 @@
+{
+  "id": 2958,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb"
+  ],
+  "modelIndices": [
+    1487
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Climbing rope",
+  "description": "A rope hangs here."
+}

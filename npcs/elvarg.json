@@ -1,0 +1,23 @@
+{
+  "id": 742,
+  "description": "Rawr! A dragon!",
+  "size": 4,
+  "walkSeq": 79,
+  "standSeq": 90,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 86,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    22049
+  ],
+  "name": "Elvarg",
+  "modelIndices": [
+    2853,
+    2854
+  ]
+}

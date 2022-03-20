@@ -1,0 +1,24 @@
+{
+  "id": 445,
+  "level": 0,
+  "description": "This would make good firewood.",
+  "standSeq": 334,
+  "size": 3,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    3470
+  ],
+  "name": "Tree",
+  "modelIndices": [
+    2851
+  ]
+}

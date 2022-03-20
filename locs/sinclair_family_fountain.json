@@ -1,0 +1,21 @@
+{
+  "id": 2654,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 8,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "modelIndices": [
+    1497
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sinclair family fountain",
+  "description": "This fountain suits the garden."
+}

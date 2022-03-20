@@ -1,0 +1,17 @@
+{
+  "id": 1292,
+  "parent": 1151,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 174,
+  "height": 54,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 0,
+  "shadow": true,
+  "text": "A low level Water missile",
+  "color": 7040819,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

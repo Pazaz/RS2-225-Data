@@ -1,0 +1,23 @@
+{
+  "id": 2576,
+  "description": "A navigator's chart of RuneScape.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2774,
+  "iconX": -1,
+  "iconY": 56,
+  "iconZoom": 990,
+  "iconYaw": 1716,
+  "iconCameraPitch": 264,
+  "oldColors": [
+    5452,
+    5440,
+    5427
+  ],
+  "newColors": [
+    4531,
+    4647,
+    4890
+  ],
+  "name": "Chart"
+}

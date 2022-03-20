@@ -1,0 +1,43 @@
+{
+  "id": 518,
+  "level": 0,
+  "description": "He's the Captain of the 'Lady of the Waves'.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    25238,
+    8741,
+    43072,
+    6798
+  ],
+  "newColors": [
+    4785,
+    43420,
+    40485,
+    4550,
+    10508
+  ],
+  "name": "Captain Shanks",
+  "modelIndices": [
+    214,
+    249,
+    292,
+    151,
+    176,
+    254,
+    181,
+    194
+  ],
+  "headModelIndices": [
+    52,
+    81,
+    37
+  ]
+}

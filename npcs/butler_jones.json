@@ -1,0 +1,44 @@
+{
+  "id": 890,
+  "level": 0,
+  "description": "The Carnillean family butler.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "oldColors": [
+    8741,
+    25238,
+    6798,
+    7070,
+    43072,
+    4550
+  ],
+  "newColors": [
+    24,
+    24,
+    530,
+    41,
+    5347,
+    5347
+  ],
+  "name": "Butler Jones",
+  "modelIndices": [
+    235,
+    247,
+    292,
+    167,
+    176,
+    267,
+    185,
+    327
+  ],
+  "headModelIndices": [
+    67,
+    79
+  ]
+}

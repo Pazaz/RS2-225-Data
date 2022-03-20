@@ -1,0 +1,19 @@
+{
+  "id": 2316,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    "Climb-up"
+  ],
+  "modelIndices": [
+    1176
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "I can climb up these stairs."
+}

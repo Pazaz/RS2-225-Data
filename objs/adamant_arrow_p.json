@@ -1,0 +1,38 @@
+{
+  "id": 891,
+  "description": "Venomous looking arrows.",
+  "members": true,
+  "value": 80,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    932,
+    931,
+    930,
+    933
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    21662,
+    13221
+  ],
+  "name": "Adamant arrow(p)"
+}

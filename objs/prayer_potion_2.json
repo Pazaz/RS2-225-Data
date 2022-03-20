@@ -1,0 +1,22 @@
+{
+  "id": 141,
+  "description": "2 doses of restore prayer potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 114,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    28488
+  ],
+  "name": "Prayer potion(2)",
+  "notedId": 142
+}

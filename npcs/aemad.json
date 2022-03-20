@@ -1,0 +1,46 @@
+{
+  "id": 590,
+  "level": 0,
+  "description": "He runs the adventurers' shop.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    11200,
+    926
+  ],
+  "newColors": [
+    5652,
+    4769,
+    45,
+    4550,
+    6798,
+    6798
+  ],
+  "name": "Aemad",
+  "modelIndices": [
+    206,
+    274,
+    253,
+    292,
+    167,
+    176,
+    185,
+    323
+  ],
+  "headModelIndices": [
+    46,
+    85
+  ]
+}

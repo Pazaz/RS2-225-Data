@@ -1,0 +1,35 @@
+{
+  "id": 2002,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Open"
+  ],
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    4,
+    4762
+  ],
+  "modelIndices": [
+    634,
+    635,
+    574,
+    575,
+    576
+  ],
+  "modelTypes": [
+    0,
+    1,
+    2,
+    3,
+    9
+  ],
+  "name": "Door",
+  "description": "An elf-fashioned door."
+}

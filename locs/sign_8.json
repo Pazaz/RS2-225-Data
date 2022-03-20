@@ -1,0 +1,23 @@
+{
+  "id": 1074,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "oldColors": [
+    6028
+  ],
+  "newColors": [
+    11200
+  ],
+  "modelIndices": [
+    2111
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Sign",
+  "description": "The Forester's Arms - Quality Real Ales."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1469,
+  "members": true,
+  "description": "Smashed glass.",
+  "modelIndex": 2676,
+  "iconX": -1,
+  "iconY": 1,
+  "iconZoom": 960,
+  "iconYaw": 32,
+  "iconCameraPitch": 412,
+  "value": 0,
+  "name": "Broken glass"
+}

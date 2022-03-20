@@ -1,0 +1,24 @@
+{
+  "id": 157,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    23,
+    9098
+  ],
+  "modelIndices": [
+    1764
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bookcase",
+  "description": "Lots of books."
+}

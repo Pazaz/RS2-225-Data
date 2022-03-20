@@ -1,0 +1,33 @@
+{
+  "id": 1716,
+  "description": "A symbol of Saradomin.",
+  "value": 200,
+  "modelIndex": 2462,
+  "iconX": -3,
+  "iconY": -235,
+  "iconZoom": 990,
+  "iconYaw": 96,
+  "iconCameraPitch": 260,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 280,
+  "maleOffsetY": 0,
+  "maleModel1": 284,
+  "femaleModel0": 444,
+  "femaleOffsetY": 0,
+  "femaleModel1": 448,
+  "oldColors": [
+    10171,
+    5916,
+    4882
+  ],
+  "newColors": [
+    94,
+    127,
+    127
+  ],
+  "name": "Unblessed symbol",
+  "notedId": 1717
+}

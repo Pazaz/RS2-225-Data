@@ -1,0 +1,25 @@
+{
+  "id": 660,
+  "description": "You'd need a tin opener to get him out.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 784,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "name": "Knight",
+  "modelIndices": [
+    218,
+    306,
+    164,
+    179,
+    268,
+    185
+  ],
+  "headModelIndices": [
+    56
+  ]
+}

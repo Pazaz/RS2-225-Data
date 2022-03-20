@@ -1,0 +1,25 @@
+{
+  "id": 548,
+  "modelIndex": 2521,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "value": 30,
+  "description": "Keeps a monk's knees nice and warm.",
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Black robe",
+  "notedId": 549
+}

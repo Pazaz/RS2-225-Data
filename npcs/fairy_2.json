@@ -1,0 +1,27 @@
+{
+  "id": 567,
+  "level": 0,
+  "description": "Looks strange and mysterious.",
+  "walkSeq": 106,
+  "standSeq": 112,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22753,
+    4550,
+    9447
+  ],
+  "newColors": [
+    7070,
+    1259,
+    6055
+  ],
+  "name": "Fairy",
+  "modelIndices": [
+    2857
+  ],
+  "headModelIndices": [
+    11
+  ]
+}

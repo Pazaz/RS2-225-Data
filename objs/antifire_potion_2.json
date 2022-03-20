@@ -1,0 +1,22 @@
+{
+  "id": 2456,
+  "description": "2 doses of anti-firebreath potion.",
+  "options": [
+    "Drink"
+  ],
+  "value": 198,
+  "modelIndex": 2384,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    51109
+  ],
+  "name": "Antifire potion(2)",
+  "notedId": 2457
+}

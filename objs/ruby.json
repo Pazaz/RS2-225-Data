@@ -1,0 +1,24 @@
+{
+  "id": 1603,
+  "value": 1000,
+  "description": "This looks valuable.",
+  "modelIndex": 2586,
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 780,
+  "iconYaw": 220,
+  "iconRoll": 1860,
+  "iconCameraPitch": 368,
+  "maleModel0": 516,
+  "maleOffsetY": 0,
+  "femaleModel0": 516,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    931
+  ],
+  "name": "Ruby",
+  "notedId": 1604
+}

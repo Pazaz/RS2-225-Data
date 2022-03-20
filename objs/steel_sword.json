@@ -1,0 +1,20 @@
+{
+  "id": 1281,
+  "description": "A razor sharp sword.",
+  "value": 325,
+  "modelIndex": 2604,
+  "iconY": -3,
+  "iconZoom": 1040,
+  "iconYaw": 1156,
+  "iconCameraPitch": 352,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 519,
+  "maleOffsetY": 0,
+  "femaleModel0": 519,
+  "femaleOffsetY": 6,
+  "name": "Steel sword",
+  "notedId": 1282
+}

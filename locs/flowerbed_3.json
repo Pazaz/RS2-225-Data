@@ -1,0 +1,24 @@
+{
+  "id": 1201,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    43968,
+    33728
+  ],
+  "newColors": [
+    11200,
+    22455
+  ],
+  "modelIndices": [
+    1569
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Flowerbed",
+  "description": "These are pretty."
+}

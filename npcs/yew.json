@@ -1,0 +1,24 @@
+{
+  "id": 450,
+  "level": 0,
+  "description": "A splendid tree.",
+  "standSeq": 334,
+  "size": 3,
+  "disposeAlpha": true,
+  "options": [
+    "Chop down",
+    null,
+    "hidden"
+  ],
+  "showOnMinimap": false,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    5388
+  ],
+  "name": "Yew",
+  "modelIndices": [
+    2851
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 742,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "delayShading": true,
+  "modelIndices": [
+    1529
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "ladder_old_top"
+}

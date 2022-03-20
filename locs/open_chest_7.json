@@ -1,0 +1,21 @@
+{
+  "id": 2182,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Close"
+  ],
+  "interactionSideFlags": 14,
+  "modelIndices": [
+    1226
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Open chest",
+  "description": "It can't hurt to just have a look, can it?."
+}

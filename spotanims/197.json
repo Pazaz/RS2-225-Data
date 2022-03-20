@@ -1,0 +1,18 @@
+{
+  "id": 197,
+  "modelIndex": 2267,
+  "seqIndex": 901,
+  "disposeAlpha": true,
+  "breadthScale": 128,
+  "depthScale": 384,
+  "oldColors": [
+    8128,
+    7104,
+    5056
+  ],
+  "newColors": [
+    43146,
+    45993,
+    127
+  ]
+}

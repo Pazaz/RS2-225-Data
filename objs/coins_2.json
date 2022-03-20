@@ -1,0 +1,33 @@
+{
+  "id": 995,
+  "description": "Lovely money!",
+  "modelIndex": 2484,
+  "stackable": true,
+  "iconX": 3,
+  "iconZoom": 710,
+  "iconYaw": 2012,
+  "iconCameraPitch": 184,
+  "stackId": [
+    996,
+    997,
+    998,
+    999,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5,
+    25,
+    100,
+    250,
+    1000,
+    10000
+  ],
+  "name": "Coins"
+}

@@ -1,0 +1,46 @@
+{
+  "id": 541,
+  "level": 0,
+  "description": "Sells superior scimitars.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    11200,
+    6798,
+    8741,
+    25238
+  ],
+  "newColors": [
+    4647,
+    926,
+    10508,
+    1950,
+    926
+  ],
+  "name": "Zeke",
+  "modelIndices": [
+    215,
+    265,
+    250,
+    170,
+    176,
+    181,
+    292,
+    191,
+    323
+  ],
+  "headModelIndices": [
+    53,
+    82,
+    34
+  ]
+}

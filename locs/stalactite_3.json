@@ -1,0 +1,23 @@
+{
+  "id": 529,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    8
+  ],
+  "modelIndices": [
+    749
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stalactite",
+  "description": "A limestone ceiling growth."
+}

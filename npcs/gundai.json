@@ -1,0 +1,37 @@
+{
+  "id": 902,
+  "level": 0,
+  "description": "He must get lonely out here.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    61,
+    61
+  ],
+  "name": "Gundai",
+  "modelIndices": [
+    215,
+    253,
+    245,
+    303,
+    167,
+    176,
+    274,
+    185
+  ],
+  "headModelIndices": [
+    53,
+    85,
+    78
+  ]
+}

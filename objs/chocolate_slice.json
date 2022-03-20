@@ -1,0 +1,26 @@
+{
+  "id": 1901,
+  "options": [
+    "Eat"
+  ],
+  "description": "I'd rather have a whole cake.",
+  "modelIndex": 2524,
+  "iconX": 5,
+  "iconY": -10,
+  "iconZoom": 600,
+  "iconYaw": 1760,
+  "iconCameraPitch": 160,
+  "value": 30,
+  "oldColors": [
+    127,
+    8094,
+    937
+  ],
+  "newColors": [
+    7060,
+    5008,
+    7060
+  ],
+  "name": "Chocolate slice",
+  "notedId": 1902
+}

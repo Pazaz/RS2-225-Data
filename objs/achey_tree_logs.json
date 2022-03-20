@@ -1,0 +1,26 @@
+{
+  "id": 2862,
+  "description": "These logs are longer than normal.",
+  "value": 4,
+  "modelIndex": 2800,
+  "iconX": 3,
+  "iconY": 66,
+  "iconZoom": 670,
+  "iconYaw": 120,
+  "iconCameraPitch": 280,
+  "members": true,
+  "groundOptions": [
+    null,
+    null,
+    null,
+    "Light"
+  ],
+  "oldColors": [
+    6049
+  ],
+  "newColors": [
+    7582
+  ],
+  "name": "Achey tree logs",
+  "notedId": 2863
+}

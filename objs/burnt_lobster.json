@@ -1,0 +1,19 @@
+{
+  "id": 381,
+  "description": "Oops!",
+  "modelIndex": 2804,
+  "iconX": 4,
+  "iconY": 16,
+  "iconZoom": 1020,
+  "iconYaw": 1704,
+  "iconCameraPitch": 324,
+  "value": 1,
+  "oldColors": [
+    4032
+  ],
+  "newColors": [
+    28
+  ],
+  "name": "Burnt lobster",
+  "notedId": 382
+}

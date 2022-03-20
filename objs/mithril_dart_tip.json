@@ -1,0 +1,19 @@
+{
+  "id": 822,
+  "description": "A deadly looking dart tip made of mithril - needs feathers for flight.",
+  "value": 12,
+  "modelIndex": 2518,
+  "members": true,
+  "stackable": true,
+  "iconX": 5,
+  "iconZoom": 720,
+  "iconYaw": 308,
+  "iconCameraPitch": 344,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    43297
+  ],
+  "name": "Mithril dart tip"
+}

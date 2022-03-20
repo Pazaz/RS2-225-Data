@@ -1,0 +1,24 @@
+{
+  "id": 864,
+  "level": 0,
+  "description": "Looks mad.",
+  "size": 2,
+  "walkSeq": 254,
+  "standSeq": 257,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    9647
+  ],
+  "newColors": [
+    11154
+  ],
+  "name": "Mad skavid",
+  "modelIndices": [
+    2999
+  ],
+  "headModelIndices": [
+    146
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 313,
+  "description": "For use with a fishing rod.",
+  "modelIndex": 2436,
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 650,
+  "iconYaw": 1840,
+  "iconCameraPitch": 236,
+  "stackable": true,
+  "value": 3,
+  "name": "Fishing bait"
+}

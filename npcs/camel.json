@@ -1,0 +1,12 @@
+{
+  "id": 80,
+  "level": 0,
+  "size": 2,
+  "walkSeq": 45,
+  "standSeq": 51,
+  "description": "Oh, it's a camel.",
+  "name": "Camel",
+  "modelIndices": [
+    2939
+  ]
+}

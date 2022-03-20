@@ -1,0 +1,44 @@
+{
+  "id": 593,
+  "level": 0,
+  "description": "A recipe for success...in cooking.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    43072,
+    6798,
+    8741,
+    25238,
+    4626,
+    5652
+  ],
+  "newColors": [
+    4550,
+    127,
+    57901,
+    11185,
+    57901,
+    11844
+  ],
+  "name": "Frenita",
+  "modelIndices": [
+    378,
+    465,
+    346,
+    353,
+    428,
+    358
+  ],
+  "headModelIndices": [
+    103,
+    137
+  ]
+}

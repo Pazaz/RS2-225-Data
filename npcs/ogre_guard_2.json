@@ -1,0 +1,19 @@
+{
+  "id": 858,
+  "description": "These ogres protect the city.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 74,
+  "name": "Ogre guard",
+  "modelIndices": [
+    2880,
+    2874
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

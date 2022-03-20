@@ -1,0 +1,16 @@
+{
+  "id": 123,
+  "walkSeq": 162,
+  "standSeq": 166,
+  "description": "An ugly, smelly creature, with a spear.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 42,
+  "name": "Hobgoblin",
+  "modelIndices": [
+    2994,
+    2995
+  ]
+}

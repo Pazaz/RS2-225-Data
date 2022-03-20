@@ -1,0 +1,17 @@
+{
+  "id": 915,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "modelIndices": [
+    905
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Font",
+  "description": "A posh water bowl."
+}

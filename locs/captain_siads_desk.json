@@ -1,0 +1,28 @@
+{
+  "id": 2679,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    5,
+    22
+  ],
+  "newColors": [
+    16,
+    16
+  ],
+  "modelIndices": [
+    1213
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Captain Siad's Desk",
+  "description": "A sturdy looking desk which the Captain works on."
+}

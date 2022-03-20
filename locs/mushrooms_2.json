@@ -1,0 +1,32 @@
+{
+  "id": 1168,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    2857,
+    7283,
+    1742,
+    6371,
+    2619,
+    2739
+  ],
+  "newColors": [
+    2332,
+    8381,
+    4515,
+    9641,
+    4510,
+    3484
+  ],
+  "modelIndices": [
+    1722
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mushrooms",
+  "description": "Poisonous no doubt."
+}

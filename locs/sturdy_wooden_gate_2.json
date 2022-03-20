@@ -1,0 +1,24 @@
+{
+  "id": 2665,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "rotateCounterClockwise": true,
+  "actions": [
+    "Investigate"
+  ],
+  "modelIndices": [
+    966,
+    967,
+    968
+  ],
+  "modelTypes": [
+    0,
+    1,
+    9
+  ],
+  "name": "Sturdy wooden gate",
+  "description": "luckily its what keeps that vicious dog inside."
+}

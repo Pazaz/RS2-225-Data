@@ -1,0 +1,16 @@
+{
+  "id": 821,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1508
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cannon",
+  "description": "Not suitable for children. Aim away from face."
+}

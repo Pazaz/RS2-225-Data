@@ -1,0 +1,40 @@
+{
+  "id": 557,
+  "level": 0,
+  "description": "Likes his food to be kept fresh.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072
+  ],
+  "newColors": [
+    5652,
+    43420,
+    5921,
+    4550
+  ],
+  "name": "Wydin",
+  "modelIndices": [
+    217,
+    254,
+    246,
+    305,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

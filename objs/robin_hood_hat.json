@@ -1,0 +1,24 @@
+{
+  "id": 2581,
+  "description": "Endorsed by Robin Hood.",
+  "value": 450,
+  "members": true,
+  "modelIndex": 3021,
+  "iconX": -3,
+  "iconY": -2,
+  "iconZoom": 650,
+  "iconYaw": 256,
+  "iconCameraPitch": 2044,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 3378,
+  "maleOffsetY": 0,
+  "femaleModel0": 3382,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 3384,
+  "femaleHeadModelA": 3385,
+  "name": "Robin hood hat",
+  "notedId": 2582
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1117,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "mapscene": 9,
+  "modelIndices": [
+    1589
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hedge",
+  "description": "Keeps the neighbours out!"
+}

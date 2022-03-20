@@ -1,0 +1,16 @@
+{
+  "id": 663,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1081
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Corpse",
+  "description": "He hasn't eaten in a long time."
+}

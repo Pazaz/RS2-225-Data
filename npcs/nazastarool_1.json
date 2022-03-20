@@ -1,0 +1,31 @@
+{
+  "id": 507,
+  "description": "A giant zombie of huge strength and devastating power.",
+  "walkSeq": 298,
+  "standSeq": 301,
+  "scaleY": 190,
+  "scaleX": 190,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 86,
+  "oldColors": [
+    34341,
+    17938,
+    916,
+    10349,
+    262
+  ],
+  "newColors": [
+    17583,
+    10002,
+    14814,
+    13000,
+    8082
+  ],
+  "name": "Nazastarool",
+  "modelIndices": [
+    2931
+  ]
+}

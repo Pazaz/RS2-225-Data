@@ -1,0 +1,16 @@
+{
+  "id": 1032,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1552
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Danger sign",
+  "description": "Danger!"
+}

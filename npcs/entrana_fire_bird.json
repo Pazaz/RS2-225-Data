@@ -1,0 +1,15 @@
+{
+  "id": 139,
+  "description": "Probably not a chicken.",
+  "walkSeq": 114,
+  "standSeq": 117,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 2,
+  "name": "Entrana Fire Bird",
+  "modelIndices": [
+    2861
+  ]
+}

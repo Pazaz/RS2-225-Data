@@ -1,0 +1,16 @@
+{
+  "id": 1180,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1616
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Heather",
+  "description": "I wonder why it's purple?"
+}

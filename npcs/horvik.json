@@ -1,0 +1,41 @@
+{
+  "id": 549,
+  "level": 0,
+  "description": "The man with the armour.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    54397
+  ],
+  "newColors": [
+    5652,
+    5652,
+    6854,
+    4769
+  ],
+  "name": "Horvik",
+  "modelIndices": [
+    215,
+    254,
+    246,
+    305,
+    159,
+    176,
+    181,
+    491
+  ],
+  "headModelIndices": [
+    53
+  ]
+}

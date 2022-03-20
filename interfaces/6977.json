@@ -1,0 +1,34 @@
+{
+  "id": 6977,
+  "parent": 6976,
+  "type": 0,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 194,
+  "height": 192,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    2
+  ],
+  "script": [
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "scrollHeight": 0,
+  "hidden": true,
+  "children": [
+    6985
+  ],
+  "childX": [
+    8
+  ],
+  "childY": [
+    6
+  ]
+}

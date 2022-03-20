@@ -1,0 +1,17 @@
+{
+  "id": 666,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 61,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "No Jewelry",
+  "color": 11175970,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

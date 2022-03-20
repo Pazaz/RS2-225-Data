@@ -1,0 +1,17 @@
+{
+  "id": 1300,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 9,
+  "modelIndices": [
+    1655
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fern",
+  "description": "A fern is growing here."
+}

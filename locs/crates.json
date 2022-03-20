@@ -1,0 +1,19 @@
+{
+  "id": 2519,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Shout-across"
+  ],
+  "modelIndices": [
+    2142
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crates",
+  "description": "Crates of packed fish."
+}

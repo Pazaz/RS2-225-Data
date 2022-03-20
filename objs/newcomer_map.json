@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "description": "Issued by RuneScape Council to all new citizens.",
+  "modelIndex": 2774,
+  "iconX": -1,
+  "iconY": 56,
+  "iconZoom": 990,
+  "iconYaw": 1716,
+  "iconCameraPitch": 264,
+  "options": [
+    "Read"
+  ],
+  "value": 1,
+  "name": "Newcomer map",
+  "notedId": 551
+}

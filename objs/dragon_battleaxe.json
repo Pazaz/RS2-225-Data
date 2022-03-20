@@ -1,0 +1,22 @@
+{
+  "id": 1377,
+  "description": "A vicious looking axe.",
+  "members": true,
+  "value": 200000,
+  "modelIndex": 2801,
+  "iconX": 1,
+  "iconY": -3,
+  "iconZoom": 1360,
+  "iconYaw": 2020,
+  "iconCameraPitch": 420,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 559,
+  "maleOffsetY": 0,
+  "femaleModel0": 559,
+  "femaleOffsetY": 6,
+  "name": "Dragon battleaxe",
+  "notedId": 1378
+}

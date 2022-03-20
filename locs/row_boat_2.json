@@ -1,0 +1,16 @@
+{
+  "id": 2516,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 2,
+  "modelIndices": [
+    1769
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Row boat",
+  "description": "It's sinking!"
+}

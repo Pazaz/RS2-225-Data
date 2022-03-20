@@ -1,0 +1,45 @@
+{
+  "id": 277,
+  "description": "Intimidating!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 65,
+  "oldColors": [
+    4550,
+    8741,
+    61,
+    41,
+    57,
+    11200
+  ],
+  "newColors": [
+    689,
+    2989,
+    5652,
+    5652,
+    5652,
+    2989
+  ],
+  "name": "Fire Warrior of Lesarkus",
+  "modelIndices": [
+    230,
+    301,
+    268,
+    163,
+    176,
+    328,
+    323,
+    246,
+    184
+  ],
+  "headModelIndices": [
+    63
+  ]
+}

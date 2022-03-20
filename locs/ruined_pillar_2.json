@@ -1,0 +1,16 @@
+{
+  "id": 2494,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    870
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ruined Pillar",
+  "description": "A part of an old temple."
+}

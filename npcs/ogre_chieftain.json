@@ -1,0 +1,20 @@
+{
+  "id": 852,
+  "description": "Tough looking.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 70,
+  "name": "Ogre chieftain",
+  "modelIndices": [
+    2880,
+    2876
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

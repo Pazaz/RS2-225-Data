@@ -1,0 +1,27 @@
+{
+  "id": 841,
+  "value": 50,
+  "description": "Short but effective.",
+  "modelIndex": 2562,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 512,
+  "maleOffsetY": 0,
+  "femaleModel0": 512,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    8109
+  ],
+  "name": "Shortbow",
+  "notedId": 842
+}

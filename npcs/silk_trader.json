@@ -1,0 +1,39 @@
+{
+  "id": 539,
+  "level": 0,
+  "description": "Very snappily dressed!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    25238,
+    6798,
+    8741
+  ],
+  "newColors": [
+    4647,
+    46307,
+    10508,
+    54722
+  ],
+  "name": "Silk trader",
+  "modelIndices": [
+    215,
+    254,
+    250,
+    170,
+    176,
+    181,
+    292
+  ],
+  "headModelIndices": [
+    53,
+    82
+  ]
+}

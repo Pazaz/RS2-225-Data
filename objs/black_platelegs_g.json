@@ -1,0 +1,29 @@
+{
+  "id": 2593,
+  "description": "Black platelegs with gold trim.",
+  "value": 1920,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    41,
+    57
+  ],
+  "newColors": [
+    8,
+    0,
+    7114
+  ],
+  "name": "Black platelegs (g)",
+  "notedId": 2594
+}

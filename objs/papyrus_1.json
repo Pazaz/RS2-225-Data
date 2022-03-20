@@ -1,0 +1,16 @@
+{
+  "id": 970,
+  "description": "Used for making notes.",
+  "value": 10,
+  "modelIndex": 2746,
+  "maleModel0": 532,
+  "maleOffsetY": 0,
+  "femaleModel0": 532,
+  "femaleOffsetY": 6,
+  "iconZoom": 940,
+  "iconYaw": 112,
+  "iconCameraPitch": 248,
+  "members": true,
+  "name": "Papyrus",
+  "notedId": 971
+}

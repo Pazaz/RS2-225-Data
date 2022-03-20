@@ -1,0 +1,22 @@
+{
+  "id": 1319,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 1,
+  "modelIndices": [
+    1611
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Evergreen",
+  "description": "This would make good firewood."
+}

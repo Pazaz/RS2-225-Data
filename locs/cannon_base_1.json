@@ -1,0 +1,19 @@
+{
+  "id": 7,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Pick-up"
+  ],
+  "modelIndices": [
+    1800
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cannon base",
+  "description": "The cannon is built on here."
+}

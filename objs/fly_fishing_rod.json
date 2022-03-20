@@ -1,0 +1,17 @@
+{
+  "id": 309,
+  "modelIndex": 2695,
+  "description": "Useful for catching salmon or trout.",
+  "iconX": -5,
+  "iconY": 7,
+  "iconZoom": 1030,
+  "iconYaw": 160,
+  "iconCameraPitch": 320,
+  "value": 5,
+  "maleModel0": 562,
+  "maleOffsetY": 0,
+  "femaleModel0": 562,
+  "femaleOffsetY": 6,
+  "name": "Fly fishing rod",
+  "notedId": 310
+}

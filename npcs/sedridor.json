@@ -1,0 +1,43 @@
+{
+  "id": 300,
+  "level": 0,
+  "description": "Chief of research at Wizards' Tower.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    38814
+  ],
+  "newColors": [
+    38852,
+    38852,
+    5921,
+    38852
+  ],
+  "name": "Sedridor",
+  "modelIndices": [
+    214,
+    181,
+    250,
+    292,
+    170,
+    176,
+    265,
+    202,
+    534,
+    290
+  ],
+  "headModelIndices": [
+    52,
+    44,
+    82
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1157,
+  "parent": 1151,
+  "type": 5,
+  "buttonType": 2,
+  "contentType": 0,
+  "width": 20,
+  "height": 20,
+  "hoverParentIndex": 1240,
+  "scriptCompareType": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "scriptCompareValue": [
+    2,
+    1,
+    0,
+    10
+  ],
+  "script": [
+    [
+      4,
+      3214,
+      555,
+      10,
+      1688,
+      1383,
+      10,
+      1688,
+      1395,
+      10,
+      1688,
+      1403,
+      0
+    ],
+    [
+      4,
+      3214,
+      557,
+      10,
+      1688,
+      1385,
+      10,
+      1688,
+      1399,
+      10,
+      1688,
+      1407,
+      0
+    ],
+    [
+      4,
+      3214,
+      559,
+      0
+    ],
+    [
+      1,
+      6,
+      0
+    ]
+  ],
+  "image": "magicoff,5",
+  "activeImage": "magicon,5",
+  "optionCircumfix": "Cast on",
+  "optionSuffix": "Weaken",
+  "optionFlags": 10
+}

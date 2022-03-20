@@ -1,0 +1,28 @@
+{
+  "id": 2109,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 12,
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    6705
+  ],
+  "modelIndices": [
+    1391
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "A rocky outcrop."
+}

@@ -1,0 +1,17 @@
+{
+  "id": 3250,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "delayShading": true,
+  "modelIndices": [
+    756
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bridge"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2874,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Pray at"
+  ],
+  "interactionSideFlags": 11,
+  "modelIndices": [
+    1400
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue of Zamorak",
+  "description": "A depiction that chills one to the bone."
+}

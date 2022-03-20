@@ -1,0 +1,24 @@
+{
+  "id": 96,
+  "size": 2,
+  "walkSeq": 74,
+  "standSeq": 77,
+  "description": "A vicious mountain wolf.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 25,
+  "oldColors": [
+    61,
+    61
+  ],
+  "newColors": [
+    127,
+    127
+  ],
+  "name": "White wolf",
+  "modelIndices": [
+    2937
+  ]
+}

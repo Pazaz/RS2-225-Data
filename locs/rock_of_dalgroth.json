@@ -1,0 +1,21 @@
+{
+  "id": 2816,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 11,
+  "actions": [
+    null,
+    "Mine"
+  ],
+  "modelIndices": [
+    1798
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock of Dalgroth",
+  "description": "A strange looking rock..."
+}

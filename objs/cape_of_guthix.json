@@ -1,0 +1,33 @@
+{
+  "id": 2413,
+  "value": 100,
+  "description": "A cape from the almighty god Guthix.",
+  "modelIndex": 2603,
+  "iconX": 3,
+  "iconY": 6,
+  "iconZoom": 2140,
+  "iconYaw": 948,
+  "iconCameraPitch": 400,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 323,
+  "maleOffsetY": 0,
+  "femaleModel0": 481,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    926,
+    7700,
+    11200,
+    6032
+  ],
+  "newColors": [
+    22426,
+    22426,
+    33690,
+    33690
+  ],
+  "name": "Cape of guthix"
+}

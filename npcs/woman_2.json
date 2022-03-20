@@ -1,0 +1,43 @@
+{
+  "id": 5,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Pickpocket"
+  ],
+  "description": "One of RuneScape's many citizens.",
+  "level": 2,
+  "oldColors": [
+    25238,
+    8741,
+    43072,
+    6798,
+    8741
+  ],
+  "newColors": [
+    5652,
+    5784,
+    4550,
+    5921,
+    5784
+  ],
+  "name": "Woman",
+  "modelIndices": [
+    391,
+    471,
+    332,
+    353,
+    419,
+    358,
+    414
+  ],
+  "headModelIndices": [
+    114,
+    131
+  ]
+}

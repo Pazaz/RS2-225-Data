@@ -1,0 +1,15 @@
+{
+  "id": 670,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1774
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "floorlever_off"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 1169,
+  "value": 200,
+  "description": "Light weight head protection.",
+  "modelIndex": 2541,
+  "iconX": 3,
+  "iconY": -5,
+  "iconZoom": 610,
+  "iconYaw": 300,
+  "iconCameraPitch": 108,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 220,
+  "maleOffsetY": 0,
+  "femaleModel0": 396,
+  "femaleOffsetY": 0,
+  "maleHeadModelA": 32,
+  "femaleHeadModelA": 90,
+  "maleHeadModelB": 63,
+  "femaleHeadModelB": 120,
+  "name": "Coif",
+  "notedId": 1170
+}

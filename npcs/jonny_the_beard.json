@@ -1,0 +1,38 @@
+{
+  "id": 645,
+  "description": "Looks kind of shifty...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 5,
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    43420,
+    10508,
+    4550
+  ],
+  "name": "Jonny the beard",
+  "modelIndices": [
+    215,
+    251,
+    299,
+    159,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    83
+  ]
+}

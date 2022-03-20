@@ -1,0 +1,42 @@
+{
+  "id": 547,
+  "level": 0,
+  "description": "Animal skins are a speciality.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741,
+    25238,
+    43072
+  ],
+  "newColors": [
+    5784,
+    5921,
+    5652,
+    4550
+  ],
+  "name": "Baraek",
+  "modelIndices": [
+    230,
+    181,
+    248,
+    299,
+    159,
+    176,
+    254,
+    244,
+    330
+  ],
+  "headModelIndices": [
+    63,
+    80,
+    77
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1095,
+  "value": 20,
+  "description": "Better than no armour!",
+  "modelIndex": 2555,
+  "iconX": 7,
+  "iconY": 5,
+  "iconZoom": 1720,
+  "iconRoll": 224,
+  "iconCameraPitch": 488,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 262,
+  "maleOffsetY": 0,
+  "femaleModel0": 425,
+  "femaleOffsetY": 0,
+  "name": "Leather chaps",
+  "notedId": 1096
+}

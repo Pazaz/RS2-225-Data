@@ -1,0 +1,19 @@
+{
+  "id": 1783,
+  "members": true,
+  "description": "One of the ingredients for making glass.",
+  "value": 2,
+  "modelIndex": 2504,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "oldColors": [
+    39834
+  ],
+  "newColors": [
+    7626
+  ],
+  "name": "Bucket of sand",
+  "notedId": 1784
+}

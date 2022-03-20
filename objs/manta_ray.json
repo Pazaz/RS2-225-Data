@@ -1,0 +1,24 @@
+{
+  "id": 391,
+  "description": "A rare catch.",
+  "modelIndex": 2722,
+  "iconX": -3,
+  "iconZoom": 1830,
+  "iconYaw": 216,
+  "iconCameraPitch": 376,
+  "value": 500,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "oldColors": [
+    66,
+    33
+  ],
+  "newColors": [
+    4418,
+    4517
+  ],
+  "name": "Manta ray",
+  "notedId": 392
+}

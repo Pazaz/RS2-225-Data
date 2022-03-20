@@ -1,0 +1,17 @@
+{
+  "id": 340,
+  "parent": 328,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 18,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Jab",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

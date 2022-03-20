@@ -1,0 +1,30 @@
+{
+  "id": 2533,
+  "description": "These iron headed arrows are ablaze with fire.",
+  "members": true,
+  "value": 10,
+  "stackable": true,
+  "modelIndex": 3178,
+  "iconZoom": 1330,
+  "iconYaw": 240,
+  "iconCameraPitch": 192,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "opcode10": 902,
+  "opcode9": true,
+  "stackId": [
+    2546,
+    2547,
+    2548,
+    2549
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "name": "Iron fire arrows"
+}

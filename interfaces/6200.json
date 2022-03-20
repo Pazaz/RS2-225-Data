@@ -1,0 +1,17 @@
+{
+  "id": 6200,
+  "parent": 6073,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 259,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "message-centre on this website instead.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

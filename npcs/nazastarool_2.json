@@ -1,0 +1,24 @@
+{
+  "id": 508,
+  "description": "A giant skeleton of huge strength and devastating power.",
+  "walkSeq": 259,
+  "standSeq": 262,
+  "scaleY": 190,
+  "scaleX": 190,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 65,
+  "oldColors": [
+    5231
+  ],
+  "newColors": [
+    14561
+  ],
+  "name": "Nazastarool",
+  "modelIndices": [
+    2944,
+    2946
+  ]
+}

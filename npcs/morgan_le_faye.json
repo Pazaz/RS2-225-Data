@@ -1,0 +1,41 @@
+{
+  "id": 248,
+  "level": 0,
+  "description": "An evil and powerful sorceress.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    7056,
+    8741,
+    25238,
+    4626
+  ],
+  "newColors": [
+    0,
+    20,
+    20,
+    20,
+    0
+  ],
+  "name": "Morgan Le Faye",
+  "modelIndices": [
+    390,
+    472,
+    348,
+    353,
+    421,
+    358,
+    534,
+    414
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

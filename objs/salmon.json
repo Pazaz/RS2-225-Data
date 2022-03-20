@@ -1,0 +1,23 @@
+{
+  "id": 329,
+  "description": "Some nicely cooked fish.",
+  "modelIndex": 2354,
+  "iconY": 3,
+  "iconZoom": 1370,
+  "iconYaw": 1840,
+  "iconCameraPitch": 532,
+  "value": 50,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    2000,
+    1498
+  ],
+  "name": "Salmon",
+  "notedId": 330
+}

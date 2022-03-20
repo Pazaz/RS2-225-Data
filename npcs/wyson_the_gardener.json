@@ -1,0 +1,35 @@
+{
+  "id": 36,
+  "description": "An old gardener.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 3,
+  "oldColors": [
+    7070
+  ],
+  "newColors": [
+    7075
+  ],
+  "name": "Wyson the gardener",
+  "modelIndices": [
+    230,
+    246,
+    292,
+    327,
+    151,
+    179,
+    274,
+    185,
+    495
+  ],
+  "headModelIndices": [
+    63
+  ]
+}

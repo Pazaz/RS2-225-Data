@@ -1,0 +1,38 @@
+{
+  "id": 500,
+  "level": 0,
+  "description": "Slightly under dressed.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 813,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    43072,
+    4550,
+    4550
+  ],
+  "newColors": [
+    4785,
+    4785,
+    4785
+  ],
+  "name": "Mosol Rei",
+  "modelIndices": [
+    206,
+    249,
+    315,
+    173,
+    176,
+    279,
+    181,
+    553
+  ],
+  "headModelIndices": [
+    46,
+    81
+  ]
+}

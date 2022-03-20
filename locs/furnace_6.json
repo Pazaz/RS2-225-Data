@@ -1,0 +1,17 @@
+{
+  "id": 3294,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    748
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Furnace",
+  "description": "A hot place for forging things in."
+}

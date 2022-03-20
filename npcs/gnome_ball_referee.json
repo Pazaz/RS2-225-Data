@@ -1,0 +1,31 @@
+{
+  "id": 635,
+  "description": "Keeps the game fair.",
+  "level": 0,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426,
+    4550,
+    4541,
+    4537
+  ],
+  "newColors": [
+    8,
+    5916,
+    5916,
+    5916
+  ],
+  "name": "Gnome ball referee",
+  "modelIndices": [
+    2909,
+    2900,
+    2915
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

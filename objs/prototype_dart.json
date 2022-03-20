@@ -1,0 +1,20 @@
+{
+  "id": 1849,
+  "description": "A prototype throwing dart.",
+  "value": 2,
+  "stackable": true,
+  "members": true,
+  "modelIndex": 2379,
+  "iconX": 8,
+  "iconY": 11,
+  "iconZoom": 720,
+  "iconYaw": 336,
+  "iconCameraPitch": 396,
+  "oldColors": [
+    82
+  ],
+  "newColors": [
+    5652
+  ],
+  "name": "Prototype dart"
+}

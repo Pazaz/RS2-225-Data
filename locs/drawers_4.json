@@ -1,0 +1,22 @@
+{
+  "id": 351,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "Shut"
+  ],
+  "interactionSideFlags": 13,
+  "modelIndices": [
+    1236
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Drawers",
+  "description": "This may be worth searching."
+}

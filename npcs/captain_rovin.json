@@ -1,0 +1,43 @@
+{
+  "id": 884,
+  "level": 0,
+  "description": "The head of the palace guard.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    7700,
+    11200,
+    926
+  ],
+  "newColors": [
+    3346,
+    6930,
+    53161,
+    22329,
+    22329
+  ],
+  "name": "Captain Rovin",
+  "modelIndices": [
+    230,
+    247,
+    306,
+    156,
+    176,
+    254,
+    185,
+    519,
+    323
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 573,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1304
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gnome statue",
+  "description": "A depiction of a famous gnome baller."
+}

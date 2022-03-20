@@ -1,0 +1,40 @@
+{
+  "id": 894,
+  "description": "A member of the Hazeel cult.",
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "level": 13,
+  "oldColors": [
+    8741,
+    25238,
+    4550,
+    11200
+  ],
+  "newColors": [
+    24,
+    24,
+    5347,
+    10473
+  ],
+  "name": "Hazeel Cultist",
+  "modelIndices": [
+    226,
+    246,
+    292,
+    170,
+    176,
+    256,
+    286,
+    534
+  ],
+  "headModelIndices": [
+    61
+  ]
+}

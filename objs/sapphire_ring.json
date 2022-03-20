@@ -1,0 +1,24 @@
+{
+  "id": 1637,
+  "description": "A valuable ring.",
+  "value": 900,
+  "modelIndex": 2677,
+  "iconX": 3,
+  "iconY": -35,
+  "iconZoom": 830,
+  "iconYaw": 180,
+  "iconRoll": 2024,
+  "iconCameraPitch": 268,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    43951
+  ],
+  "name": "Sapphire ring",
+  "notedId": 1638
+}

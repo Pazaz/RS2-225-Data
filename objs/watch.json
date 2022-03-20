@@ -1,0 +1,12 @@
+{
+  "id": 2575,
+  "description": "A fine looking time piece.",
+  "value": 100,
+  "members": true,
+  "modelIndex": 2525,
+  "iconY": -1,
+  "iconZoom": 690,
+  "iconYaw": 2032,
+  "iconCameraPitch": 368,
+  "name": "Watch"
+}

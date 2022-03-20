@@ -1,0 +1,16 @@
+{
+  "id": 776,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 26,
+  "obstructsGround": true,
+  "modelIndices": [
+    596
+  ],
+  "modelTypes": [
+    22
+  ]
+}

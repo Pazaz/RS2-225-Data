@@ -1,0 +1,22 @@
+{
+  "id": 313,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "specular": 100,
+  "brightness": 10,
+  "actions": [
+    null,
+    "Pick"
+  ],
+  "modelIndices": [
+    1586
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wheat",
+  "description": "Baby bread."
+}

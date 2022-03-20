@@ -1,0 +1,22 @@
+{
+  "id": 2890,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1702
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle Tree",
+  "description": "A leafy tree."
+}

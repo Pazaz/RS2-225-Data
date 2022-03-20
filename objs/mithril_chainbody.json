@@ -1,0 +1,25 @@
+{
+  "id": 1109,
+  "description": "A series of connected metal rings.",
+  "value": 1950,
+  "modelIndex": 2558,
+  "iconY": 2,
+  "iconZoom": 1100,
+  "iconCameraPitch": 568,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 301,
+  "maleOffsetY": 0,
+  "femaleModel0": 464,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43297
+  ],
+  "name": "Mithril chainbody",
+  "notedId": 1110
+}

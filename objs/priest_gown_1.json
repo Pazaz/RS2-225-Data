@@ -1,0 +1,27 @@
+{
+  "id": 426,
+  "description": "Top half of a priest suit.",
+  "value": 5,
+  "modelIndex": 2786,
+  "iconY": 7,
+  "iconZoom": 1370,
+  "iconCameraPitch": 536,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 292,
+  "maleOffsetY": 0,
+  "maleModel1": 170,
+  "femaleModel0": 456,
+  "femaleOffsetY": 0,
+  "femaleModel1": 348,
+  "oldColors": [
+    8741
+  ],
+  "newColors": [
+    0
+  ],
+  "name": "Priest gown",
+  "notedId": 427
+}

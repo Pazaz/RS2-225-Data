@@ -1,0 +1,16 @@
+{
+  "id": 582,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    916
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Statue",
+  "description": "An unusual symbol of ancient times."
+}

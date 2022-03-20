@@ -1,0 +1,23 @@
+{
+  "id": 470,
+  "description": "Nurmof can fix this for me.",
+  "modelIndex": 2662,
+  "iconX": -2,
+  "iconY": -19,
+  "iconZoom": 1070,
+  "iconYaw": 1056,
+  "iconCameraPitch": 224,
+  "maleModel0": 530,
+  "maleOffsetY": 0,
+  "femaleModel0": 530,
+  "femaleOffsetY": 6,
+  "value": 0,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    33
+  ],
+  "name": "Broken pickaxe",
+  "notedId": 471
+}

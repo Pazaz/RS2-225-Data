@@ -1,0 +1,11 @@
+{
+  "id": 563,
+  "description": "Used for teleport spells.",
+  "stackable": true,
+  "value": 40,
+  "modelIndex": 2382,
+  "iconY": 1,
+  "iconZoom": 740,
+  "iconCameraPitch": 516,
+  "name": "Law rune"
+}

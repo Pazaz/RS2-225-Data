@@ -1,0 +1,16 @@
+{
+  "id": 614,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    917
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "Useful for putting things on."
+}

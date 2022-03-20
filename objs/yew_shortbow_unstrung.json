@@ -1,0 +1,20 @@
+{
+  "id": 68,
+  "value": 400,
+  "members": true,
+  "description": "An unstrung yew shortbow, I need a bowstring for this.",
+  "modelIndex": 2435,
+  "iconX": 7,
+  "iconY": 2,
+  "iconZoom": 1200,
+  "iconYaw": 124,
+  "iconCameraPitch": 508,
+  "oldColors": [
+    6798
+  ],
+  "newColors": [
+    9135
+  ],
+  "name": "Yew shortbow",
+  "notedId": 69
+}

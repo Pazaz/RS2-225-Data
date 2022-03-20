@@ -1,0 +1,27 @@
+{
+  "id": 2818,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "actions": [
+    "Leave"
+  ],
+  "adjustToTerrain": true,
+  "oldColors": [
+    12
+  ],
+  "newColors": [
+    26
+  ],
+  "modelIndices": [
+    776
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave exit",
+  "description": "I think I can get out here..."
+}

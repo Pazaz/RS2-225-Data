@@ -1,0 +1,13 @@
+{
+  "id": 2410,
+  "description": "A very attractive magnet.",
+  "value": 3,
+  "modelIndex": 2798,
+  "iconX": 3,
+  "iconY": 7,
+  "iconZoom": 1130,
+  "iconYaw": 132,
+  "iconCameraPitch": 440,
+  "members": true,
+  "name": "Magnet"
+}

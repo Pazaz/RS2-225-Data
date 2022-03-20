@@ -1,0 +1,17 @@
+{
+  "id": 6510,
+  "parent": 6412,
+  "type": 4,
+  "buttonType": 3,
+  "contentType": 0,
+  "width": 68,
+  "height": 11,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 0,
+  "shadow": true,
+  "text": "Close Window",
+  "color": 8421504,
+  "colorEnabled": 0,
+  "hoverColor": 16777215
+}

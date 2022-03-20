@@ -1,0 +1,27 @@
+{
+  "id": 87,
+  "description": "Yet another amulet.",
+  "modelIndex": 2508,
+  "members": true,
+  "value": 12,
+  "maleModel0": 282,
+  "maleOffsetY": 0,
+  "femaleModel0": 446,
+  "femaleOffsetY": 0,
+  "iconX": -1,
+  "iconY": -5,
+  "iconZoom": 420,
+  "iconYaw": 80,
+  "iconCameraPitch": 224,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "oldColors": [
+    926
+  ],
+  "newColors": [
+    99
+  ],
+  "name": "Armadyl pendant"
+}

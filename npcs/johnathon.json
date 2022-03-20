@@ -1,0 +1,43 @@
+{
+  "id": 668,
+  "level": 0,
+  "description": "A well dressed nobleman.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    7700,
+    926,
+    43072
+  ],
+  "newColors": [
+    45,
+    13522,
+    11200,
+    11200,
+    4550
+  ],
+  "name": "Johnathon",
+  "modelIndices": [
+    215,
+    281,
+    246,
+    292,
+    151,
+    176,
+    254,
+    181,
+    202
+  ],
+  "headModelIndices": [
+    53,
+    44
+  ]
+}

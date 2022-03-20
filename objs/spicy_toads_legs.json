@@ -1,0 +1,17 @@
+{
+  "id": 2156,
+  "options": [
+    "Eat"
+  ],
+  "description": "They're a gnome delicacy apparently.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2668,
+  "iconX": -10,
+  "iconY": 14,
+  "iconZoom": 440,
+  "iconYaw": 1960,
+  "iconCameraPitch": 340,
+  "name": "Spicy toad's legs",
+  "notedId": 2157
+}

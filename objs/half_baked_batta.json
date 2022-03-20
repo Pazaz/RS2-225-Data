@@ -1,0 +1,22 @@
+{
+  "id": 2249,
+  "options": [
+    "Inspect"
+  ],
+  "description": "This gnome batta is in the early stages of preparation.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2447,
+  "iconX": 1,
+  "iconY": 32,
+  "iconZoom": 780,
+  "iconYaw": 136,
+  "iconCameraPitch": 236,
+  "oldColors": [
+    8642
+  ],
+  "newColors": [
+    6829
+  ],
+  "name": "Half baked batta"
+}

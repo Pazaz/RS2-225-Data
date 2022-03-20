@@ -1,0 +1,21 @@
+{
+  "id": 1061,
+  "description": "Comfortable leather boots.",
+  "value": 6,
+  "modelIndex": 2837,
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "name": "Leather boots",
+  "notedId": 1062
+}

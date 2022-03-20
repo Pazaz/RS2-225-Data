@@ -1,0 +1,35 @@
+{
+  "id": 681,
+  "level": 0,
+  "description": "Supplier of deadly liquids.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    6798,
+    8741
+  ],
+  "newColors": [
+    8111,
+    7566
+  ],
+  "name": "Weapon poison salesman",
+  "modelIndices": [
+    221,
+    185,
+    247,
+    314,
+    170,
+    179,
+    262
+  ],
+  "headModelIndices": [
+    58,
+    79
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1077,
+  "description": "Big, black and heavy looking.",
+  "value": 1920,
+  "modelIndex": 2582,
+  "iconY": -8,
+  "iconZoom": 1740,
+  "iconCameraPitch": 444,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 268,
+  "maleOffsetY": 0,
+  "femaleModel0": 432,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    61,
+    41,
+    57
+  ],
+  "newColors": [
+    8,
+    0,
+    8
+  ],
+  "name": "Black platelegs",
+  "notedId": 1078
+}

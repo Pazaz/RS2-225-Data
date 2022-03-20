@@ -1,0 +1,16 @@
+{
+  "id": 162,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1169
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Strange machine",
+  "description": "It's a strange machine."
+}

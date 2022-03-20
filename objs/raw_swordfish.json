@@ -1,0 +1,20 @@
+{
+  "id": 371,
+  "description": "I should try cooking this.",
+  "modelIndex": 2494,
+  "iconX": -7,
+  "iconZoom": 1710,
+  "iconYaw": 1960,
+  "iconCameraPitch": 368,
+  "value": 200,
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    52570,
+    52459
+  ],
+  "name": "Raw swordfish",
+  "notedId": 372
+}

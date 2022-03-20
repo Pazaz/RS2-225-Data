@@ -1,0 +1,23 @@
+{
+  "id": 284,
+  "description": "A thick heavy leather top.",
+  "members": true,
+  "value": 50,
+  "modelIndex": 2446,
+  "iconY": 3,
+  "iconZoom": 1360,
+  "iconYaw": 92,
+  "iconRoll": 1932,
+  "iconCameraPitch": 416,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 295,
+  "maleOffsetY": 0,
+  "maleModel1": 150,
+  "femaleModel0": 459,
+  "femaleOffsetY": 0,
+  "femaleModel1": 331,
+  "name": "Plague jacket"
+}

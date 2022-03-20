@@ -1,0 +1,19 @@
+{
+  "id": 2351,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "actions": [
+    "Operate"
+  ],
+  "modelIndices": [
+    1778
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch",
+  "description": "Used to move earth to, and from, the dig shaft."
+}

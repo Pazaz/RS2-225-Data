@@ -1,0 +1,15 @@
+{
+  "id": 90,
+  "description": "Could do with gaining a few pounds.",
+  "walkSeq": 259,
+  "standSeq": 262,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 18,
+  "name": "Skeleton",
+  "modelIndices": [
+    2944
+  ]
+}

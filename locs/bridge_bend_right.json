@@ -1,0 +1,23 @@
+{
+  "id": 3252,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "rotateCounterClockwise": true,
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    718
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "bridge_bend_right"
+}

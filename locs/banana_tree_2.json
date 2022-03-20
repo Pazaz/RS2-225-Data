@@ -1,0 +1,20 @@
+{
+  "id": 2074,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1689
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Banana Tree",
+  "description": "Grows weird yellow fruit."
+}

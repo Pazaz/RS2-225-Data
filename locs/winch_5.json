@@ -1,0 +1,22 @@
+{
+  "id": 2934,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 5,
+  "actions": [
+    "Search"
+  ],
+  "scaleX": 300,
+  "scaleY": 300,
+  "scaleZ": 300,
+  "modelIndices": [
+    1795
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Winch",
+  "description": "A large scaffold platform most likely used for lifting and lowering heavy items."
+}

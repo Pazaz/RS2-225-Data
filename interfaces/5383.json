@@ -1,0 +1,17 @@
+{
+  "id": 5383,
+  "parent": 5292,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 151,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "The Bank of RuneScape",
+  "color": 16750623,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

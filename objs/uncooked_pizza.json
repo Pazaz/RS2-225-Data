@@ -1,0 +1,20 @@
+{
+  "id": 2287,
+  "description": "This needs cooking.",
+  "value": 25,
+  "modelIndex": 2564,
+  "iconY": 1,
+  "iconZoom": 990,
+  "iconYaw": 176,
+  "iconCameraPitch": 260,
+  "oldColors": [
+    10665,
+    926
+  ],
+  "newColors": [
+    6371,
+    937
+  ],
+  "name": "Uncooked pizza",
+  "notedId": 2288
+}

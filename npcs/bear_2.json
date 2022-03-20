@@ -1,0 +1,22 @@
+{
+  "id": 106,
+  "size": 2,
+  "walkSeq": 37,
+  "standSeq": 43,
+  "description": "Eek! A bear!",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 19,
+  "oldColors": [
+    3491
+  ],
+  "newColors": [
+    12
+  ],
+  "name": "Bear",
+  "modelIndices": [
+    2966
+  ]
+}

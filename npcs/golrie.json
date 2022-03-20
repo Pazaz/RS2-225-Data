@@ -1,0 +1,19 @@
+{
+  "id": 306,
+  "description": "It's a tree gnome",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "name": "Golrie",
+  "modelIndices": [
+    2900,
+    2914,
+    2915
+  ],
+  "headModelIndices": [
+    23
+  ]
+}

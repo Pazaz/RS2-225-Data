@@ -1,0 +1,17 @@
+{
+  "id": 6198,
+  "parent": 6073,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 164,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "in your message centre.",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

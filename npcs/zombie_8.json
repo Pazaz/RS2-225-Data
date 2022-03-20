@@ -1,0 +1,17 @@
+{
+  "id": 422,
+  "showOnMinimap": false,
+  "description": "The walking dead!",
+  "standSeq": 301,
+  "walkSeq": 298,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "disposeAlpha": true,
+  "level": 79,
+  "name": "Zombie",
+  "modelIndices": [
+    2931
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 1802,
+  "description": "Davids' shiny silver coated book.",
+  "members": true,
+  "modelIndex": 2794,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "oldColors": [
+    5018
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Silver book"
+}

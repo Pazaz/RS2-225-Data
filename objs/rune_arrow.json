@@ -1,0 +1,38 @@
+{
+  "id": 892,
+  "description": "Arrows with Rune heads.",
+  "members": true,
+  "value": 400,
+  "stackable": true,
+  "modelIndex": 2711,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "stackId": [
+    936,
+    935,
+    934,
+    937
+  ],
+  "stackAmount": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "oldColors": [
+    61,
+    57
+  ],
+  "newColors": [
+    36133,
+    36133
+  ],
+  "name": "Rune arrow"
+}

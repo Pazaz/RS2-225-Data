@@ -1,0 +1,31 @@
+{
+  "id": 2503,
+  "value": 7800,
+  "description": "Made from 100% real dragon hide.",
+  "modelIndex": 2745,
+  "iconX": 3,
+  "iconY": -4,
+  "iconZoom": 890,
+  "iconYaw": 8,
+  "iconRoll": 68,
+  "iconCameraPitch": 452,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 314,
+  "maleOffsetY": 0,
+  "femaleModel0": 477,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    22416,
+    22424
+  ],
+  "newColors": [
+    4,
+    16
+  ],
+  "name": "Dragonhide body",
+  "notedId": 2504
+}

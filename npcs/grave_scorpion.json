@@ -1,0 +1,15 @@
+{
+  "id": 493,
+  "description": "A vicious little stinging thing.",
+  "walkSeq": 269,
+  "standSeq": 272,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 12,
+  "name": "Grave Scorpion",
+  "modelIndices": [
+    2968
+  ]
+}

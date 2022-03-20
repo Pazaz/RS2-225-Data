@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "actions": [
+    "Inspect"
+  ],
+  "modelIndices": [
+    2328
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Broken MultiCannon",
+  "description": "A powerful ranging device, unfortunately not working."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 159,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "oldColors": [
+    2,
+    24
+  ],
+  "newColors": [
+    23,
+    16532
+  ],
+  "modelIndices": [
+    1764
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Wall",
+  "description": "This wall looks odd..."
+}

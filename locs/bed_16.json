@@ -1,0 +1,16 @@
+{
+  "id": 434,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1220
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bed",
+  "description": "Bamboo's a versatile material."
+}

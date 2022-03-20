@@ -1,0 +1,15 @@
+{
+  "id": 1885,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "modelIndices": [
+    854
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "runetemple"
+}

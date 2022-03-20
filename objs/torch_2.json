@@ -1,0 +1,12 @@
+{
+  "id": 596,
+  "value": 4,
+  "description": "An unlit home-made torch.",
+  "modelIndex": 2554,
+  "iconZoom": 1660,
+  "iconYaw": 312,
+  "iconCameraPitch": 1632,
+  "members": true,
+  "name": "Torch",
+  "notedId": 597
+}

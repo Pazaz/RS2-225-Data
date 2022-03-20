@@ -1,0 +1,20 @@
+{
+  "id": 2997,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    3197
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Door",
+  "description": "The door is closed."
+}

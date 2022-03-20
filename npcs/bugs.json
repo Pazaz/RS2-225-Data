@@ -1,0 +1,28 @@
+{
+  "id": 1012,
+  "level": 0,
+  "description": "This must be Rantz's son.",
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk"
+  ],
+  "scaleX": 128,
+  "scaleY": 90,
+  "oldColors": [
+    8722,
+    5223
+  ],
+  "newColors": [
+    5547,
+    6034
+  ],
+  "name": "Bugs",
+  "modelIndices": [
+    2878,
+    3441
+  ],
+  "headModelIndices": [
+    3444
+  ]
+}

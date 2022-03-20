@@ -1,0 +1,23 @@
+{
+  "id": 111,
+  "size": 2,
+  "walkSeq": 127,
+  "standSeq": 130,
+  "description": "He's got icicles in his beard.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 54,
+  "oldColors": [
+    4550
+  ],
+  "newColors": [
+    36075
+  ],
+  "name": "Ice giant",
+  "modelIndices": [
+    2870,
+    2868
+  ]
+}

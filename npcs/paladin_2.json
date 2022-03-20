@@ -1,0 +1,44 @@
+{
+  "id": 365,
+  "description": "A military man.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 50,
+  "oldColors": [
+    7700,
+    11200,
+    926,
+    6798,
+    4550,
+    7054
+  ],
+  "newColors": [
+    823,
+    43957,
+    103,
+    11187,
+    4762,
+    823
+  ],
+  "name": "Paladin",
+  "modelIndices": [
+    225,
+    185,
+    313,
+    164,
+    179,
+    268,
+    323,
+    241,
+    518,
+    523,
+    3330
+  ]
+}

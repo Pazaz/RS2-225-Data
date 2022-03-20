@@ -1,0 +1,17 @@
+{
+  "id": 6300,
+  "parent": 6299,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 180,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "To reduce memory requirements",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

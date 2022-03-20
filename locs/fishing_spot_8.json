@@ -1,0 +1,22 @@
+{
+  "id": 2029,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    "hidden"
+  ],
+  "modelIndices": [
+    1491
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fishing spot",
+  "description": "I can see fish swimming in the water."
+}

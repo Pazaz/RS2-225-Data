@@ -1,0 +1,13 @@
+{
+  "id": 1538,
+  "description": "A map to Crandor.",
+  "modelIndex": 2497,
+  "iconY": -1,
+  "iconZoom": 2090,
+  "iconYaw": 1688,
+  "iconCameraPitch": 312,
+  "options": [
+    "Study"
+  ],
+  "name": "Crandor map"
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1478,
+  "description": "It increases my aim.",
+  "value": 100,
+  "modelIndex": 2796,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 280,
+  "maleOffsetY": 0,
+  "femaleModel0": 444,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    5916,
+    11200
+  ],
+  "newColors": [
+    61,
+    4044
+  ],
+  "name": "Amulet of accuracy",
+  "notedId": 1479
+}

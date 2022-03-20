@@ -1,0 +1,38 @@
+{
+  "id": 3214,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 6,
+  "sizeZ": 4,
+  "scaleX": 200,
+  "scaleY": 200,
+  "scaleZ": 200,
+  "actions": [
+    "Leave"
+  ],
+  "oldColors": [
+    6036,
+    5008,
+    1932,
+    904,
+    900,
+    0
+  ],
+  "newColors": [
+    7952,
+    6439,
+    5309,
+    3284,
+    107,
+    127
+  ],
+  "modelIndices": [
+    731
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Underground Pass Exit",
+  "description": "The easy way out..."
+}

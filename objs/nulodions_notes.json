@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "description": "Construction notes for Dwarf cannon ammo.",
+  "modelIndex": 2600,
+  "iconY": 49,
+  "iconZoom": 750,
+  "iconYaw": 1380,
+  "iconCameraPitch": 304,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "name": "Nulodion's notes."
+}

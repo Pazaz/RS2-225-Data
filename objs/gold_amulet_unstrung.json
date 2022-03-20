@@ -1,0 +1,19 @@
+{
+  "id": 1673,
+  "value": 350,
+  "description": "It needs a string so I can wear it.",
+  "modelIndex": 2550,
+  "iconX": 8,
+  "iconY": 106,
+  "iconZoom": 370,
+  "iconYaw": 100,
+  "iconCameraPitch": 304,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    12209
+  ],
+  "name": "Gold amulet",
+  "notedId": 1674
+}

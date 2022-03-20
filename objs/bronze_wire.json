@@ -1,0 +1,13 @@
+{
+  "id": 1794,
+  "description": "Useful for crafting items.",
+  "value": 20,
+  "modelIndex": 2715,
+  "iconY": 4,
+  "iconZoom": 1110,
+  "iconYaw": 132,
+  "iconCameraPitch": 332,
+  "members": true,
+  "name": "Bronze wire",
+  "notedId": 1795
+}

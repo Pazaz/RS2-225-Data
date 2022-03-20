@@ -1,0 +1,38 @@
+{
+  "id": 182,
+  "description": "Yar! Shiver me timbers!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 20,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    1950,
+    5652
+  ],
+  "name": "Pirate",
+  "modelIndices": [
+    211,
+    246,
+    292,
+    173,
+    176,
+    271,
+    181,
+    490,
+    236
+  ],
+  "headModelIndices": [
+    50,
+    68
+  ]
+}

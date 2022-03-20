@@ -1,0 +1,16 @@
+{
+  "id": 879,
+  "size": 2,
+  "description": "A freshly summoned demon.",
+  "walkSeq": 63,
+  "standSeq": 66,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 27,
+  "name": "Delrith",
+  "modelIndices": [
+    2943
+  ]
+}

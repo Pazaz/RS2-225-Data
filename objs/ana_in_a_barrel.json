@@ -1,0 +1,16 @@
+{
+  "id": 1842,
+  "description": "A mining barrel with Ana in it.",
+  "value": 1,
+  "modelIndex": 2821,
+  "iconX": 4,
+  "iconY": -34,
+  "iconZoom": 2110,
+  "iconYaw": 88,
+  "iconCameraPitch": 196,
+  "members": true,
+  "options": [
+    "Look"
+  ],
+  "name": "Ana in a barrel"
+}

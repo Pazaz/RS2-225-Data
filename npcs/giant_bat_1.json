@@ -1,0 +1,16 @@
+{
+  "id": 78,
+  "description": "Annoying flappy thing.",
+  "size": 2,
+  "walkSeq": 29,
+  "standSeq": 35,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 27,
+  "name": "Giant bat",
+  "modelIndices": [
+    2941
+  ]
+}

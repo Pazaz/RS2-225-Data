@@ -1,0 +1,17 @@
+{
+  "id": 6939,
+  "parent": 1908,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 438,
+  "height": 26,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 1,
+  "shadow": true,
+  "text": "Proceed with caution. If you go much further north you will enter the\\nwilderness. This is a very dangerous area where other players can attack you!",
+  "color": 16777215,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

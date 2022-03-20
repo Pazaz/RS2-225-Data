@@ -1,0 +1,25 @@
+{
+  "id": 469,
+  "level": 0,
+  "description": "It's a gnome.  He looks important.",
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    22426
+  ],
+  "newColors": [
+    6845
+  ],
+  "name": "King Bolren",
+  "modelIndices": [
+    2909,
+    2891,
+    2916
+  ],
+  "headModelIndices": [
+    20
+  ]
+}

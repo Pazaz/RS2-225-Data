@@ -1,0 +1,18 @@
+{
+  "id": 2727,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 477,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2250
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cooking pot",
+  "description": "Something is cooking nicely here."
+}

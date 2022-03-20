@@ -1,0 +1,22 @@
+{
+  "id": 2450,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    41240
+  ],
+  "modelIndices": [
+    1391
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Daconia rocks",
+  "description": "Some magical rocks."
+}

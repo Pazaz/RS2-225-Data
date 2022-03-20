@@ -1,0 +1,28 @@
+{
+  "id": 2577,
+  "description": "Lightweight boots ideal for rangers.",
+  "value": 200,
+  "members": true,
+  "modelIndex": 2837,
+  "maleModel0": 185,
+  "maleOffsetY": 0,
+  "femaleModel0": 361,
+  "femaleOffsetY": 0,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "iconX": 1,
+  "iconY": -6,
+  "iconZoom": 770,
+  "iconYaw": 160,
+  "iconCameraPitch": 152,
+  "oldColors": [
+    4626
+  ],
+  "newColors": [
+    22416
+  ],
+  "name": "Ranger boots",
+  "notedId": 2578
+}

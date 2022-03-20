@@ -1,0 +1,18 @@
+{
+  "id": 3220,
+  "parent": 3215,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 46,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 3,
+  "shadow": true,
+  "text": "Activus",
+  "activeText": "Activus",
+  "color": 16711935,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

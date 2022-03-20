@@ -1,0 +1,40 @@
+{
+  "id": 638,
+  "description": "A dealer in potions.",
+  "options": [
+    "Talk-to"
+  ],
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "level": 0,
+  "oldColors": [
+    10659,
+    8741,
+    43072
+  ],
+  "newColors": [
+    16916,
+    5652,
+    4550
+  ],
+  "name": "Apothecary",
+  "modelIndices": [
+    215,
+    181,
+    246,
+    299,
+    159,
+    176,
+    254,
+    198,
+    245
+  ],
+  "headModelIndices": [
+    53,
+    40,
+    78
+  ]
+}

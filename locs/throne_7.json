@@ -1,0 +1,16 @@
+{
+  "id": 1896,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1556
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Throne",
+  "description": "This hasn't seen a duster for a while."
+}

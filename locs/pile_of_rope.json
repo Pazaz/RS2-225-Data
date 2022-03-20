@@ -1,0 +1,18 @@
+{
+  "id": 227,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "brightness": 30,
+  "specular": 30,
+  "modelIndices": [
+    1842
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pile of rope",
+  "description": "Barnacle infested rope."
+}

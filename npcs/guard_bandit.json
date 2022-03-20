@@ -1,0 +1,40 @@
+{
+  "id": 196,
+  "description": "Bandit Camp guard.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 21,
+  "oldColors": [
+    25238,
+    8741,
+    7700,
+    11200
+  ],
+  "newColors": [
+    10508,
+    43420,
+    10508,
+    10508
+  ],
+  "name": "Guard Bandit",
+  "modelIndices": [
+    215,
+    248,
+    292,
+    151,
+    176,
+    254,
+    185,
+    243,
+    323,
+    518,
+    517
+  ]
+}

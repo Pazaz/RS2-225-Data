@@ -1,0 +1,20 @@
+{
+  "id": 2226,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Craft"
+  ],
+  "modelIndices": [
+    1207
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Smashed table",
+  "description": "This table has seen better days."
+}

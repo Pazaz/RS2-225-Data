@@ -1,0 +1,16 @@
+{
+  "id": 1158,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    936
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Potted plant",
+  "description": "A large potted plant."
+}

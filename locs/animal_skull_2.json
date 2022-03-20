@@ -1,0 +1,22 @@
+{
+  "id": 736,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    10357
+  ],
+  "newColors": [
+    57
+  ],
+  "modelIndices": [
+    1733
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Animal skull",
+  "description": "Dead animal head. Lovely."
+}

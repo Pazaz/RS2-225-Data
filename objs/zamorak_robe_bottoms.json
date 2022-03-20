@@ -1,0 +1,26 @@
+{
+  "id": 1033,
+  "description": "A robe worn by worshippers of Zamorak.",
+  "value": 30,
+  "modelIndex": 2521,
+  "iconY": 1,
+  "iconZoom": 1940,
+  "iconCameraPitch": 572,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 265,
+  "maleOffsetY": 0,
+  "femaleModel0": 428,
+  "femaleOffsetY": 0,
+  "members": true,
+  "oldColors": [
+    25238
+  ],
+  "newColors": [
+    937
+  ],
+  "name": "Robe of zamorak",
+  "notedId": 1034
+}

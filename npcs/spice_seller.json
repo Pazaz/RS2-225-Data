@@ -1,0 +1,46 @@
+{
+  "id": 572,
+  "level": 0,
+  "description": "Has a very exotic aroma about him.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8078,
+    8741,
+    61,
+    4550
+  ],
+  "newColors": [
+    6554,
+    6554,
+    2733,
+    2733,
+    5683
+  ],
+  "name": "Spice seller",
+  "modelIndices": [
+    217,
+    292,
+    250,
+    162,
+    176,
+    260,
+    185,
+    280,
+    201
+  ],
+  "headModelIndices": [
+    55,
+    43,
+    82
+  ]
+}

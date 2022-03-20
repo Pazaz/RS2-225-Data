@@ -1,0 +1,37 @@
+{
+  "id": 877,
+  "description": "Tries to keep the peace.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 25,
+  "oldColors": [
+    25238,
+    8741
+  ],
+  "newColors": [
+    12,
+    12
+  ],
+  "name": "Tower guard",
+  "modelIndices": [
+    233,
+    246,
+    301,
+    151,
+    179,
+    254,
+    185,
+    517,
+    519
+  ],
+  "headModelIndices": [
+    66
+  ]
+}

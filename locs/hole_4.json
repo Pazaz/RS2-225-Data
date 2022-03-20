@@ -1,0 +1,21 @@
+{
+  "id": 2589,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Repair"
+  ],
+  "delayShading": true,
+  "modelIndices": [
+    1845
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hole",
+  "description": "This ship's not getting far with that."
+}

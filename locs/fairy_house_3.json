@@ -1,0 +1,16 @@
+{
+  "id": 1149,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    2009
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Fairy house",
+  "description": "The abode of a fairy."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2104,
+  "description": "Fresh chunks of lemon.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2573,
+  "iconX": 1,
+  "iconY": 96,
+  "iconZoom": 870,
+  "iconYaw": 2004,
+  "iconRoll": 36,
+  "iconCameraPitch": 244,
+  "oldColors": [
+    6080
+  ],
+  "newColors": [
+    11222
+  ],
+  "name": "Lemon chunks",
+  "notedId": 2105
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2394,
+  "description": "A strange brew.",
+  "value": 120,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    14278
+  ],
+  "name": "Potion"
+}

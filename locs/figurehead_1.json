@@ -1,0 +1,16 @@
+{
+  "id": 221,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 1,
+  "modelIndices": [
+    1911
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Figurehead",
+  "description": "This figure brings luck to those who sail."
+}

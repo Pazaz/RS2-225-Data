@@ -1,0 +1,19 @@
+{
+  "id": 95,
+  "description": "I need another ingredient to finish this Tarromin potion.",
+  "value": 11,
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "members": true,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    10452
+  ],
+  "name": "Unfinished potion",
+  "notedId": 96
+}

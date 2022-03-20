@@ -1,0 +1,18 @@
+{
+  "id": 2004,
+  "parent": 1829,
+  "type": 4,
+  "buttonType": 1,
+  "contentType": 0,
+  "width": 36,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "cancel",
+  "color": 8421504,
+  "colorEnabled": 0,
+  "hoverColor": 0,
+  "option": "Ok"
+}

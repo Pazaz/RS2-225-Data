@@ -1,0 +1,18 @@
+{
+  "id": 1863,
+  "description": "I need to cook this.",
+  "value": 4,
+  "modelIndex": 2455,
+  "iconZoom": 980,
+  "iconYaw": 108,
+  "iconCameraPitch": 248,
+  "members": true,
+  "oldColors": [
+    10440
+  ],
+  "newColors": [
+    10353
+  ],
+  "name": "Pitta dough",
+  "notedId": 1864
+}

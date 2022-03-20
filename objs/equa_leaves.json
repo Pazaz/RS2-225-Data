@@ -1,0 +1,16 @@
+{
+  "id": 2128,
+  "description": "Small sweet smelling leaves.",
+  "value": 2,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "modelIndex": 2743,
+  "iconX": 1,
+  "iconZoom": 730,
+  "iconYaw": 644,
+  "iconCameraPitch": 664,
+  "name": "Equa leaves",
+  "notedId": 2129
+}

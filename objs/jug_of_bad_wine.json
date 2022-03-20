@@ -1,0 +1,22 @@
+{
+  "id": 1991,
+  "description": "Oh dear, this wine is terrible!",
+  "options": [
+    "Drink"
+  ],
+  "modelIndex": 2390,
+  "iconX": 1,
+  "iconY": 100,
+  "iconZoom": 600,
+  "iconYaw": 84,
+  "iconCameraPitch": 260,
+  "value": 1,
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    701
+  ],
+  "name": "Jug of bad wine",
+  "notedId": 1992
+}

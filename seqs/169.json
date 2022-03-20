@@ -1,0 +1,19 @@
+{
+  "id": 169,
+  "priority": 6,
+  "primaryFrames": [
+    3842,
+    3849,
+    3857
+  ],
+  "secondaryFrames": [
+    -1,
+    -1,
+    -1
+  ],
+  "frameDelay": [
+    0,
+    0,
+    0
+  ]
+}

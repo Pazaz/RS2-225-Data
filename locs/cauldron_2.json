@@ -1,0 +1,20 @@
+{
+  "id": 2024,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 479,
+  "actions": [
+    "Drink From"
+  ],
+  "modelIndices": [
+    2241
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cauldron",
+  "description": "A large bubbling cauldron, smells... Ugh!"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 447,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1409
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Stones",
+  "description": "Some small stones."
+}

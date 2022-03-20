@@ -1,0 +1,43 @@
+{
+  "id": 525,
+  "level": 0,
+  "description": "Likes you more the more you spend.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    4550,
+    54397
+  ],
+  "newColors": [
+    5652,
+    4769,
+    10508,
+    4647,
+    4647,
+    4391
+  ],
+  "name": "Shop assistant",
+  "modelIndices": [
+    390,
+    421,
+    467,
+    332,
+    353,
+    358
+  ],
+  "headModelIndices": [
+    113
+  ]
+}

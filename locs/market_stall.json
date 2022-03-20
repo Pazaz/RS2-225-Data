@@ -1,0 +1,16 @@
+{
+  "id": 634,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1421
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Market stall",
+  "description": "Always a source of good bargains."
+}

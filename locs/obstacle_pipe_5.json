@@ -1,0 +1,25 @@
+{
+  "id": 3235,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "actions": [
+    "Squeeze-through"
+  ],
+  "oldColors": [
+    6689
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    813
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Obstacle pipe",
+  "description": "I can open the grill from this side."
+}

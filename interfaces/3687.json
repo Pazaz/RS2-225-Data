@@ -1,0 +1,12 @@
+{
+  "id": 3687,
+  "parent": 3559,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 319,
+  "width": 45,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "rightarrow,0",
+  "option": "Recolour legs"
+}

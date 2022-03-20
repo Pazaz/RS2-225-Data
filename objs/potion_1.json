@@ -1,0 +1,17 @@
+{
+  "id": 195,
+  "description": "This is meant to be good for spots.",
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    25026
+  ],
+  "name": "Potion",
+  "notedId": 196
+}

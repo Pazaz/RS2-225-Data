@@ -1,0 +1,20 @@
+{
+  "id": 2223,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1482
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Old sacks",
+  "description": "Probably nothing useful in these."
+}

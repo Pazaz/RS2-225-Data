@@ -1,0 +1,18 @@
+{
+  "id": 2019,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "animationIndex": 456,
+  "disposeAlpha": true,
+  "scaleY": 1,
+  "modelIndices": [
+    2320
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Whirlpool"
+}

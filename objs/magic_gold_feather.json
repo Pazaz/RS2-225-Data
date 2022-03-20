@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "description": "It will point the way for me.",
+  "value": 2,
+  "members": true,
+  "modelIndex": 2476,
+  "iconX": 4,
+  "iconY": 10,
+  "iconZoom": 700,
+  "iconYaw": 692,
+  "iconCameraPitch": 428,
+  "options": [
+    "Blow-on"
+  ],
+  "oldColors": [
+    127
+  ],
+  "newColors": [
+    10820
+  ],
+  "name": "Magic gold feather"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 308,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "modelIndices": [
+    1479
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cart",
+  "description": "One horse power, wooden suspension. A beauty."
+}

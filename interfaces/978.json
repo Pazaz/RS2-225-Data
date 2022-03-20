@@ -1,0 +1,18 @@
+{
+  "id": 978,
+  "parent": 973,
+  "type": 4,
+  "buttonType": 6,
+  "contentType": 0,
+  "width": 350,
+  "height": 17,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 3,
+  "shadow": false,
+  "text": "Click here to continue",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 49152,
+  "option": "Continue"
+}

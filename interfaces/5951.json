@@ -1,0 +1,17 @@
+{
+  "id": 5951,
+  "parent": 5875,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 88,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": true,
+  "font": 2,
+  "shadow": true,
+  "text": "Report abuse",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

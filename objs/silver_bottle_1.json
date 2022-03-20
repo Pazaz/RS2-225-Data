@@ -1,0 +1,17 @@
+{
+  "id": 1800,
+  "description": "Carols' shiny silver coated bottle.",
+  "members": true,
+  "modelIndex": 2836,
+  "iconY": -1,
+  "iconZoom": 1000,
+  "iconYaw": 192,
+  "iconCameraPitch": 116,
+  "oldColors": [
+    5012
+  ],
+  "newColors": [
+    82
+  ],
+  "name": "Silver bottle"
+}

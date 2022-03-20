@@ -1,0 +1,25 @@
+{
+  "id": 325,
+  "description": "Some nicely cooked fish.",
+  "modelIndex": 2357,
+  "iconX": -1,
+  "iconY": 13,
+  "iconZoom": 820,
+  "iconYaw": 1756,
+  "iconRoll": 1964,
+  "iconCameraPitch": 320,
+  "value": 10,
+  "options": [
+    "Eat"
+  ],
+  "oldColors": [
+    61,
+    103
+  ],
+  "newColors": [
+    1211,
+    1226
+  ],
+  "name": "Sardine",
+  "notedId": 326
+}

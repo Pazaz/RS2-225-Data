@@ -1,0 +1,15 @@
+{
+  "id": 213,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1904
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "bowcornerl"
+}

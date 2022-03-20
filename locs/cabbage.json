@@ -1,0 +1,21 @@
+{
+  "id": 1161,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Pick"
+  ],
+  "mapscene": 9,
+  "modelIndices": [
+    2739
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "cabbage",
+  "description": "Cabbage... yuk !"
+}

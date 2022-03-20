@@ -1,0 +1,16 @@
+{
+  "id": 607,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1221
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "Items for making clothes are kept on here."
+}

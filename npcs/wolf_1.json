@@ -1,0 +1,16 @@
+{
+  "id": 95,
+  "description": "Not mans' best friend.",
+  "size": 2,
+  "walkSeq": 74,
+  "standSeq": 77,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 64,
+  "name": "Wolf",
+  "modelIndices": [
+    2937
+  ]
+}

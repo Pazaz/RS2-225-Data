@@ -1,0 +1,15 @@
+{
+  "id": 77,
+  "description": "The living dead.",
+  "walkSeq": 298,
+  "standSeq": 301,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 13,
+  "name": "Summoned Zombie",
+  "modelIndices": [
+    2931
+  ]
+}

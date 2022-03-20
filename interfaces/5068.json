@@ -1,0 +1,12 @@
+{
+  "id": 5068,
+  "parent": 5065,
+  "type": 5,
+  "buttonType": 1,
+  "contentType": 201,
+  "width": 72,
+  "height": 36,
+  "hoverParentIndex": -1,
+  "image": "combatboxes,0",
+  "option": "Add friend"
+}

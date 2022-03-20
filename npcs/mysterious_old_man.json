@@ -1,0 +1,45 @@
+{
+  "id": 410,
+  "level": 0,
+  "description": "A very strange old man...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    7952,
+    6798,
+    4626,
+    9104
+  ],
+  "newColors": [
+    36742,
+    36742,
+    38788,
+    43096,
+    43906,
+    37776
+  ],
+  "name": "Mysterious Old Man",
+  "modelIndices": [
+    208,
+    250,
+    292,
+    324,
+    317,
+    170,
+    176,
+    267,
+    185
+  ],
+  "headModelIndices": [
+    48,
+    82
+  ]
+}

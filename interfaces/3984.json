@@ -1,0 +1,23 @@
+{
+  "id": 3984,
+  "parent": 3917,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 69,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "script": [
+    [
+      9,
+      0
+    ]
+  ],
+  "center": false,
+  "font": 1,
+  "shadow": true,
+  "text": "Total Lvl: %1",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

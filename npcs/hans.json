@@ -1,0 +1,36 @@
+{
+  "id": 0,
+  "level": 0,
+  "description": "Servant of the Duke of Lumbridge.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    43072
+  ],
+  "newColors": [
+    16916,
+    1950,
+    4550
+  ],
+  "name": "Hans",
+  "modelIndices": [
+    217,
+    246,
+    292,
+    151,
+    176,
+    254,
+    181
+  ],
+  "headModelIndices": [
+    55
+  ]
+}

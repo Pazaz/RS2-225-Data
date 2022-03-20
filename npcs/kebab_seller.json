@@ -1,0 +1,43 @@
+{
+  "id": 543,
+  "level": 0,
+  "description": "Kebabs are full of meaty goodness!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    8741,
+    6798,
+    43072,
+    4550,
+    54397
+  ],
+  "newColors": [
+    5652,
+    52636,
+    10508,
+    4647,
+    4647,
+    4769
+  ],
+  "name": "Kebab seller",
+  "modelIndices": [
+    235,
+    254,
+    249,
+    305,
+    151,
+    176,
+    181
+  ],
+  "headModelIndices": [
+    67,
+    81
+  ]
+}

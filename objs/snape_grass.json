@@ -1,0 +1,14 @@
+{
+  "id": 231,
+  "description": "Strange spikey grass.",
+  "value": 10,
+  "members": true,
+  "modelIndex": 2440,
+  "iconX": -1,
+  "iconY": 2,
+  "iconZoom": 1170,
+  "iconYaw": 48,
+  "iconCameraPitch": 484,
+  "name": "Snape grass",
+  "notedId": 232
+}

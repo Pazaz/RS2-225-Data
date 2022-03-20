@@ -1,0 +1,41 @@
+{
+  "id": 580,
+  "level": 0,
+  "description": "The mace salesman.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    6798,
+    4626
+  ],
+  "newColors": [
+    4647,
+    10508,
+    7700,
+    24
+  ],
+  "name": "Flynn",
+  "modelIndices": [
+    215,
+    254,
+    249,
+    170,
+    176,
+    185,
+    305
+  ],
+  "headModelIndices": [
+    53,
+    81
+  ]
+}

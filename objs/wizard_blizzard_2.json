@@ -1,0 +1,22 @@
+{
+  "id": 2054,
+  "description": "This looks like a strange mix.",
+  "value": 30,
+  "options": [
+    "Drink"
+  ],
+  "members": true,
+  "modelIndex": 2738,
+  "iconY": 1,
+  "iconZoom": 700,
+  "iconYaw": 1988,
+  "iconCameraPitch": 104,
+  "oldColors": [
+    11200
+  ],
+  "newColors": [
+    15589
+  ],
+  "name": "Wizard blizzard",
+  "notedId": 2055
+}

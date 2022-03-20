@@ -1,0 +1,26 @@
+{
+  "id": 1305,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "scaleX": 170,
+  "scaleY": 170,
+  "scaleZ": 170,
+  "oldColors": [
+    4626
+  ],
+  "newColors": [
+    6699
+  ],
+  "modelIndices": [
+    1702
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Tree",
+  "description": "A tree found in tropical areas."
+}

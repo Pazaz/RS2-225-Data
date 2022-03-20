@@ -1,0 +1,20 @@
+{
+  "id": 190,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 5,
+  "sizeZ": 2,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1321
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Gate",
+  "description": "A large gate in the gnome style."
+}

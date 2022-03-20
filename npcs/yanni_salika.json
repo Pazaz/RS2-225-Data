@@ -1,0 +1,39 @@
+{
+  "id": 515,
+  "level": 0,
+  "description": "Yanni Salika - He buys and sells antiques.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    4550,
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    4785,
+    6042,
+    914,
+    10163
+  ],
+  "name": "Yanni Salika",
+  "modelIndices": [
+    215,
+    249,
+    292,
+    167,
+    176,
+    267,
+    181
+  ],
+  "headModelIndices": [
+    53,
+    79
+  ]
+}

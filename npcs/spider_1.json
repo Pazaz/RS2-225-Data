@@ -1,0 +1,14 @@
+{
+  "id": 61,
+  "walkSeq": 279,
+  "description": "Incey wincey.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 1,
+  "name": "Spider",
+  "modelIndices": [
+    2996
+  ]
+}

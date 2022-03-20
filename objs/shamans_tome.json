@@ -1,0 +1,21 @@
+{
+  "id": 729,
+  "description": "It looks like the Shamans personal notes...",
+  "modelIndex": 2633,
+  "iconZoom": 840,
+  "iconYaw": 152,
+  "iconCameraPitch": 256,
+  "members": true,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    10351
+  ],
+  "newColors": [
+    14226,
+    14247
+  ],
+  "name": "Shamans tome"
+}

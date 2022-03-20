@@ -1,0 +1,39 @@
+{
+  "id": 794,
+  "level": 0,
+  "description": "Distinctly cook-like.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    107,
+    8741,
+    25238
+  ],
+  "newColors": [
+    123,
+    66,
+    9147
+  ],
+  "name": "Charlie the cook",
+  "modelIndices": [
+    235,
+    199,
+    302,
+    263,
+    176,
+    185,
+    151,
+    249
+  ],
+  "headModelIndices": [
+    67,
+    81,
+    41
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 72,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Knock-at"
+  ],
+  "rotateCounterClockwise": true,
+  "modelIndices": [
+    639
+  ],
+  "modelTypes": [
+    0
+  ],
+  "name": "Large door",
+  "description": "Sturdy looking door."
+}

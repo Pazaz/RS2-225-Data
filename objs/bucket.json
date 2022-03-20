@@ -1,0 +1,16 @@
+{
+  "id": 1925,
+  "description": "It's a wooden bucket.",
+  "value": 2,
+  "modelIndex": 2397,
+  "maleModel0": 543,
+  "maleOffsetY": 0,
+  "femaleModel0": 543,
+  "femaleOffsetY": 6,
+  "iconY": -18,
+  "iconZoom": 1020,
+  "iconYaw": 1688,
+  "iconCameraPitch": 204,
+  "name": "Bucket",
+  "notedId": 1926
+}

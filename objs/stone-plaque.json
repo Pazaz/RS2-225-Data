@@ -1,0 +1,15 @@
+{
+  "id": 606,
+  "description": "A stone plaque with carved letters in it.",
+  "modelIndex": 2510,
+  "iconX": 8,
+  "iconY": 19,
+  "iconZoom": 1580,
+  "iconYaw": 136,
+  "iconCameraPitch": 200,
+  "options": [
+    "Read"
+  ],
+  "members": true,
+  "name": "Stone-plaque"
+}

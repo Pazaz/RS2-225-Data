@@ -1,0 +1,47 @@
+{
+  "id": 834,
+  "description": "A bedabin nomad guard - it looks like he's protecting an area.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    "Attack"
+  ],
+  "level": 64,
+  "oldColors": [
+    8741,
+    25238,
+    4626,
+    908,
+    43072,
+    4550
+  ],
+  "newColors": [
+    127,
+    127,
+    127,
+    127,
+    127,
+    4645
+  ],
+  "name": "Bedabin Nomad Guard",
+  "modelIndices": [
+    230,
+    248,
+    188,
+    292,
+    170,
+    176,
+    265,
+    185,
+    490
+  ],
+  "headModelIndices": [
+    63,
+    30,
+    80
+  ]
+}

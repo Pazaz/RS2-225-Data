@@ -1,0 +1,25 @@
+{
+  "id": 882,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb down"
+  ],
+  "oldColors": [
+    49
+  ],
+  "newColors": [
+    37
+  ],
+  "modelIndices": [
+    1543
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Manhole",
+  "description": "How dangerous, someone has left this manhole open."
+}

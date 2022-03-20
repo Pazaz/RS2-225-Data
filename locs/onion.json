@@ -1,0 +1,26 @@
+{
+  "id": 3366,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Pick"
+  ],
+  "mapscene": 9,
+  "oldColors": [
+    7283
+  ],
+  "newColors": [
+    4552
+  ],
+  "modelIndices": [
+    2750
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "onion"
+}

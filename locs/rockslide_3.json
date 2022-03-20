@@ -1,0 +1,18 @@
+{
+  "id": 473,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": false,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "mapscene": 25,
+  "modelIndices": [
+    820
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rockslide",
+  "description": "A deposit of rocks."
+}

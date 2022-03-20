@@ -1,0 +1,18 @@
+{
+  "id": 2835,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1390
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock"
+}

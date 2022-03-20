@@ -1,0 +1,40 @@
+{
+  "id": 659,
+  "description": "He likes to paaaarty!",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "level": 0,
+  "oldColors": [
+    8741,
+    9104,
+    25238
+  ],
+  "newColors": [
+    42093,
+    41682,
+    43162
+  ],
+  "name": "Party Pete",
+  "modelIndices": [
+    230,
+    246,
+    244,
+    187,
+    167,
+    176,
+    297,
+    267,
+    181
+  ],
+  "headModelIndices": [
+    63,
+    77,
+    29
+  ]
+}

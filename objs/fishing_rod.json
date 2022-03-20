@@ -1,0 +1,17 @@
+{
+  "id": 307,
+  "modelIndex": 2828,
+  "description": "Useful for catching sardine or herring.",
+  "iconX": -3,
+  "iconY": 8,
+  "iconZoom": 1080,
+  "iconYaw": 136,
+  "iconCameraPitch": 328,
+  "value": 5,
+  "maleModel0": 562,
+  "maleOffsetY": 0,
+  "femaleModel0": 562,
+  "femaleOffsetY": 6,
+  "name": "Fishing rod",
+  "notedId": 308
+}

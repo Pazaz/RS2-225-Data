@@ -1,0 +1,18 @@
+{
+  "id": 2004,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "scaleX": 50,
+  "scaleY": 50,
+  "scaleZ": 50,
+  "modelIndices": [
+    1404
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Pillar"
+}

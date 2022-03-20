@@ -1,0 +1,31 @@
+{
+  "id": 995,
+  "level": 0,
+  "walkSeq": 98,
+  "standSeq": 101,
+  "description": "A dwarven maker of gauntlets.",
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    803,
+    4550,
+    61
+  ],
+  "newColors": [
+    9098,
+    4645,
+    15248
+  ],
+  "name": "Klank",
+  "modelIndices": [
+    2971,
+    2984,
+    2981,
+    2979,
+    2985
+  ],
+  "headModelIndices": [
+    1
+  ]
+}

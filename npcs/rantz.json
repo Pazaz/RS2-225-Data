@@ -1,0 +1,19 @@
+{
+  "id": 1010,
+  "level": 0,
+  "description": "A large dim looking humanoid.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk"
+  ],
+  "name": "Rantz",
+  "modelIndices": [
+    2878,
+    3442
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

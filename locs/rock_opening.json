@@ -1,0 +1,21 @@
+{
+  "id": 2609,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "culls": true,
+  "actions": [
+    "Climb-down"
+  ],
+  "modelIndices": [
+    733
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rock opening",
+  "description": "A collection of rocks over what looks like a depression."
+}

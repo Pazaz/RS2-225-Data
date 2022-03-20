@@ -1,0 +1,18 @@
+{
+  "id": 1419,
+  "modelIndex": 2511,
+  "iconX": 1,
+  "iconY": 17,
+  "iconZoom": 1930,
+  "iconYaw": 20,
+  "iconCameraPitch": 336,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 507,
+  "maleOffsetY": 0,
+  "femaleModel0": 507,
+  "femaleOffsetY": 0,
+  "name": "Scythe"
+}

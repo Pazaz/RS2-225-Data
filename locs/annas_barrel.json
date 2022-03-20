@@ -1,0 +1,20 @@
+{
+  "id": 2656,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "modelIndices": [
+    1460
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Annas' barrel",
+  "description": "looks like this is where Anna keeps her stuff."
+}

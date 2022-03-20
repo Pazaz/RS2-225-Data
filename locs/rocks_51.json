@@ -1,0 +1,22 @@
+{
+  "id": 2231,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    "Climb"
+  ],
+  "brightness": 25,
+  "specular": 25,
+  "modelIndices": [
+    1743
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Rocks",
+  "description": "A rocky outcrop."
+}

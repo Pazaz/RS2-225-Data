@@ -1,0 +1,29 @@
+{
+  "id": 903,
+  "level": 0,
+  "description": "He sells rune stones.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to",
+    null,
+    "Trade"
+  ],
+  "name": "Lundail",
+  "modelIndices": [
+    230,
+    252,
+    303,
+    173,
+    176,
+    274,
+    185
+  ],
+  "headModelIndices": [
+    63,
+    84
+  ]
+}

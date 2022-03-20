@@ -1,0 +1,20 @@
+{
+  "id": 2941,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "adjustToTerrain": true,
+  "actions": [
+    "Look"
+  ],
+  "modelIndices": [
+    1491
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Sacred water",
+  "description": "Sparkling sacred water straight from the source."
+}

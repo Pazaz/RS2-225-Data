@@ -1,0 +1,38 @@
+{
+  "id": 290,
+  "level": 0,
+  "description": "Seems very serious.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    10128,
+    8090
+  ],
+  "newColors": [
+    103,
+    103,
+    103
+  ],
+  "name": "Doctor Orbon",
+  "modelIndices": [
+    230,
+    273,
+    246,
+    305,
+    151,
+    179,
+    245,
+    561
+  ],
+  "headModelIndices": [
+    63,
+    245
+  ]
+}

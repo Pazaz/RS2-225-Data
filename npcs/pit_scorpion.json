@@ -1,0 +1,15 @@
+{
+  "id": 109,
+  "description": "Tiny, annoying, stinging thing.",
+  "walkSeq": 269,
+  "standSeq": 272,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 32,
+  "name": "Pit Scorpion",
+  "modelIndices": [
+    2968
+  ]
+}

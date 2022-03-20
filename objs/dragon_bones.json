@@ -1,0 +1,14 @@
+{
+  "id": 536,
+  "description": "These would feed a dog for months!",
+  "modelIndex": 2768,
+  "iconZoom": 1830,
+  "iconYaw": 648,
+  "iconCameraPitch": 216,
+  "options": [
+    "Bury"
+  ],
+  "members": true,
+  "name": "Dragon bones",
+  "notedId": 537
+}

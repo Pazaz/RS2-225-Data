@@ -1,0 +1,13 @@
+{
+  "id": 15,
+  "description": "A cloth given to me by Sir Galahad.",
+  "value": 10,
+  "members": true,
+  "modelIndex": 2443,
+  "iconX": -3,
+  "iconY": 10,
+  "iconZoom": 670,
+  "iconYaw": 1932,
+  "iconCameraPitch": 440,
+  "name": "Holy table napkin"
+}

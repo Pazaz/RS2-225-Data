@@ -1,0 +1,40 @@
+{
+  "id": 642,
+  "level": 0,
+  "description": "An empowered woman.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    8078,
+    39145,
+    4550
+  ],
+  "newColors": [
+    127,
+    127,
+    10508,
+    4657
+  ],
+  "name": "Katrine",
+  "modelIndices": [
+    393,
+    469,
+    332,
+    353,
+    422,
+    414,
+    483,
+    533
+  ],
+  "headModelIndices": [
+    115,
+    131
+  ]
+}

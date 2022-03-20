@@ -1,0 +1,19 @@
+{
+  "id": 399,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Close"
+  ],
+  "modelIndices": [
+    1362
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Coffin",
+  "description": "I hope no-one's home."
+}

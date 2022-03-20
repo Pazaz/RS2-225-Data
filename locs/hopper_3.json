@@ -1,0 +1,16 @@
+{
+  "id": 2715,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1379
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Hopper",
+  "description": "Grain goes in here."
+}

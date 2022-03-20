@@ -1,0 +1,21 @@
+{
+  "id": 389,
+  "description": "A rare catch.",
+  "modelIndex": 2722,
+  "iconX": -3,
+  "iconZoom": 1830,
+  "iconYaw": 216,
+  "iconCameraPitch": 376,
+  "value": 500,
+  "members": true,
+  "oldColors": [
+    16309,
+    33
+  ],
+  "newColors": [
+    42419,
+    42304
+  ],
+  "name": "Raw manta ray",
+  "notedId": 390
+}

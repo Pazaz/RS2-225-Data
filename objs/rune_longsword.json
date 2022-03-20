@@ -1,0 +1,28 @@
+{
+  "id": 1303,
+  "description": "A razor sharp longsword.",
+  "value": 32000,
+  "modelIndex": 2602,
+  "iconX": -13,
+  "iconY": -2,
+  "iconZoom": 860,
+  "iconYaw": 1348,
+  "iconRoll": 96,
+  "iconCameraPitch": 100,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 518,
+  "maleOffsetY": 0,
+  "femaleModel0": 518,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    36133
+  ],
+  "name": "Rune longsword",
+  "notedId": 1304
+}

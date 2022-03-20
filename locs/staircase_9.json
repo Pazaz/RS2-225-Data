@@ -1,0 +1,21 @@
+{
+  "id": 1730,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "actions": [
+    "Walk-up"
+  ],
+  "interactionSideFlags": 11,
+  "mapscene": 7,
+  "modelIndices": [
+    1940
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Staircase",
+  "description": "Dare I go up?"
+}

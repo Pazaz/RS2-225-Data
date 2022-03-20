@@ -1,0 +1,24 @@
+{
+  "id": 2955,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 3,
+  "sizeZ": 3,
+  "oldColors": [
+    6315,
+    7333
+  ],
+  "newColors": [
+    11045,
+    10925
+  ],
+  "modelIndices": [
+    1789
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rotten Totem pole",
+  "description": "A rotten totem pole, it was left to rot in the jungle."
+}

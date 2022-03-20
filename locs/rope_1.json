@@ -1,0 +1,16 @@
+{
+  "id": 1998,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1760
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rope",
+  "description": "Rope"
+}

@@ -1,0 +1,16 @@
+{
+  "id": 310,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "modelIndices": [
+    1535
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Mudpatch",
+  "description": "A patch of soft dark brown matter. Probably mud."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 2270,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 5,
+  "modelIndices": [
+    1617
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "zqdoorhideplant"
+}

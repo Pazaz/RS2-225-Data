@@ -1,0 +1,20 @@
+{
+  "id": 1568,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Open"
+  ],
+  "modelIndices": [
+    1205
+  ],
+  "modelTypes": [
+    22
+  ],
+  "name": "Trapdoor",
+  "description": "I wonder what's under it?"
+}

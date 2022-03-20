@@ -1,0 +1,25 @@
+{
+  "id": 2131,
+  "parent": 2007,
+  "type": 5,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 25,
+  "height": 25,
+  "hoverParentIndex": -1,
+  "scriptCompareType": [
+    1
+  ],
+  "scriptCompareValue": [
+    4
+  ],
+  "script": [
+    [
+      5,
+      261,
+      0
+    ]
+  ],
+  "image": "",
+  "activeImage": "headicons,1"
+}

@@ -1,0 +1,28 @@
+{
+  "id": 1299,
+  "description": "A razor sharp longsword.",
+  "value": 1300,
+  "modelIndex": 2602,
+  "iconX": -13,
+  "iconY": -2,
+  "iconZoom": 860,
+  "iconYaw": 1348,
+  "iconRoll": 96,
+  "iconCameraPitch": 100,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 518,
+  "maleOffsetY": 0,
+  "femaleModel0": 518,
+  "femaleOffsetY": 6,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    43297
+  ],
+  "name": "Mithril longsword",
+  "notedId": 1300
+}

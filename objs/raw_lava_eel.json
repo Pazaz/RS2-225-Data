@@ -1,0 +1,21 @@
+{
+  "id": 2148,
+  "description": "A very strange eel.",
+  "value": 150,
+  "members": true,
+  "modelIndex": 2427,
+  "iconX": 17,
+  "iconY": 25,
+  "iconZoom": 1270,
+  "iconYaw": 1936,
+  "iconCameraPitch": 312,
+  "oldColors": [
+    61,
+    43055
+  ],
+  "newColors": [
+    8128,
+    4032
+  ],
+  "name": "Raw lava eel"
+}

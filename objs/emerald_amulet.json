@@ -1,0 +1,31 @@
+{
+  "id": 1696,
+  "value": 1275,
+  "description": "I wonder if I can get this enchanted.",
+  "modelIndex": 2796,
+  "iconX": 1,
+  "iconY": 16,
+  "iconZoom": 620,
+  "iconYaw": 68,
+  "iconCameraPitch": 424,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 290,
+  "maleOffsetY": 0,
+  "femaleModel0": 454,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    127,
+    5916,
+    4882
+  ],
+  "newColors": [
+    22443,
+    127,
+    127
+  ],
+  "name": "Emerald amulet",
+  "notedId": 1697
+}

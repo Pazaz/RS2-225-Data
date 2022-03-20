@@ -1,0 +1,21 @@
+{
+  "id": 17,
+  "description": "I wonder what happens when I ring it?",
+  "value": 10,
+  "members": true,
+  "modelIndex": 2536,
+  "iconX": 2,
+  "iconZoom": 830,
+  "iconYaw": 776,
+  "iconCameraPitch": 1132,
+  "options": [
+    "Ring"
+  ],
+  "oldColors": [
+    11179
+  ],
+  "newColors": [
+    103
+  ],
+  "name": "Grail bell"
+}

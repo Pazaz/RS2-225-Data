@@ -1,0 +1,18 @@
+{
+  "id": 724,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 473,
+  "disposeAlpha": true,
+  "modelIndices": [
+    2288
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Standing torch",
+  "description": "A crude torch stuck in the ground."
+}

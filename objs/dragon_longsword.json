@@ -1,0 +1,21 @@
+{
+  "id": 1305,
+  "value": 100000,
+  "description": "A very powerful sword.",
+  "members": true,
+  "modelIndex": 2834,
+  "iconY": -5,
+  "iconZoom": 1570,
+  "iconYaw": 360,
+  "iconCameraPitch": 400,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "maleModel0": 564,
+  "maleOffsetY": 0,
+  "femaleModel0": 564,
+  "femaleOffsetY": 6,
+  "name": "Dragon longsword",
+  "notedId": 1306
+}

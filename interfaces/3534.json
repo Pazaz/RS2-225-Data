@@ -1,0 +1,17 @@
+{
+  "id": 3534,
+  "parent": 3443,
+  "type": 4,
+  "buttonType": 0,
+  "contentType": 0,
+  "width": 168,
+  "height": 14,
+  "hoverParentIndex": -1,
+  "center": false,
+  "font": 2,
+  "shadow": true,
+  "text": "In return you will receive:",
+  "color": 16776960,
+  "colorEnabled": 0,
+  "hoverColor": 0
+}

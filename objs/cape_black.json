@@ -1,0 +1,31 @@
+{
+  "id": 1019,
+  "value": 7,
+  "description": "A warm black cape.",
+  "modelIndex": 2603,
+  "iconX": 3,
+  "iconY": 6,
+  "iconZoom": 2140,
+  "iconYaw": 948,
+  "iconCameraPitch": 400,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 323,
+  "maleOffsetY": 0,
+  "femaleModel0": 481,
+  "femaleOffsetY": 0,
+  "oldColors": [
+    7700,
+    11200,
+    926
+  ],
+  "newColors": [
+    12,
+    54676,
+    12
+  ],
+  "name": "Cape",
+  "notedId": 1020
+}

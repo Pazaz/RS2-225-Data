@@ -1,0 +1,35 @@
+{
+  "id": 786,
+  "level": 0,
+  "description": "A citizen of Ardougne.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    8741,
+    25238,
+    4550
+  ],
+  "newColors": [
+    6709,
+    14234,
+    6709
+  ],
+  "name": "Civillian",
+  "modelIndices": [
+    214,
+    299,
+    173,
+    176,
+    263,
+    185
+  ],
+  "headModelIndices": [
+    52
+  ]
+}

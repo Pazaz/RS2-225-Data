@@ -1,0 +1,33 @@
+{
+  "id": 435,
+  "description": "The strong arm of the law.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "disposeAlpha": true,
+  "level": 120,
+  "oldColors": [
+    43072
+  ],
+  "newColors": [
+    7446
+  ],
+  "name": "Watchman",
+  "modelIndices": [
+    232,
+    251,
+    294,
+    169,
+    176,
+    274,
+    185,
+    502,
+    523
+  ]
+}

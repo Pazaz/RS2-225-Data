@@ -1,0 +1,22 @@
+{
+  "id": 2892,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 5,
+  "modelIndices": [
+    1618
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Jungle Bush",
+  "description": "A jungle bush, quite common to these areas."
+}

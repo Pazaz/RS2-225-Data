@@ -1,0 +1,22 @@
+{
+  "id": 3196,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "oldColors": [
+    45
+  ],
+  "newColors": [
+    5433
+  ],
+  "modelIndices": [
+    3271
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Damaged armour",
+  "description": "Not much use for anything except scrap."
+}

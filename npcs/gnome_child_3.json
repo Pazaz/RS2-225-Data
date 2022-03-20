@@ -1,0 +1,23 @@
+{
+  "id": 161,
+  "description": "Small, even by gnome standards.",
+  "scaleX": 100,
+  "scaleY": 100,
+  "walkSeq": 189,
+  "standSeq": 195,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Pickpocket"
+  ],
+  "level": 1,
+  "name": "Gnome child",
+  "modelIndices": [
+    2909,
+    2899,
+    2918
+  ],
+  "headModelIndices": [
+    16
+  ]
+}

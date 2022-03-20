@@ -1,0 +1,16 @@
+{
+  "id": 202,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "modelIndices": [
+    1204
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Candles",
+  "description": "It's amazing what bees produce!"
+}

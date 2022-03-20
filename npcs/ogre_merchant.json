@@ -1,0 +1,21 @@
+{
+  "id": 874,
+  "description": "Funnily enough, doesn't actually buy or sell ogres.",
+  "size": 2,
+  "walkSeq": 358,
+  "standSeq": 357,
+  "options": [
+    "Talk-to",
+    "Attack",
+    "Trade"
+  ],
+  "level": 60,
+  "name": "Ogre merchant",
+  "modelIndices": [
+    2878,
+    2874
+  ],
+  "headModelIndices": [
+    141
+  ]
+}

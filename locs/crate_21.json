@@ -1,0 +1,20 @@
+{
+  "id": 2708,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Investigate"
+  ],
+  "modelIndices": [
+    2143
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Crate",
+  "description": "A wooden crate for storage."
+}

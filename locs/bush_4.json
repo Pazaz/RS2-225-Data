@@ -1,0 +1,17 @@
+{
+  "id": 1121,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "mapscene": 9,
+  "modelIndices": [
+    1672
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Bush",
+  "description": "A wild bush."
+}

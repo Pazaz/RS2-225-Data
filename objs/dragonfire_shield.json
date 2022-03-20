@@ -1,0 +1,21 @@
+{
+  "id": 1540,
+  "description": "This shield is said to have magical properties against dragon flames.",
+  "modelIndex": 2572,
+  "value": 20,
+  "iconX": 3,
+  "iconY": 37,
+  "iconZoom": 1670,
+  "iconYaw": 64,
+  "iconCameraPitch": 336,
+  "options": [
+    null,
+    "Wear"
+  ],
+  "maleModel0": 526,
+  "maleOffsetY": 0,
+  "femaleModel0": 526,
+  "femaleOffsetY": 6,
+  "name": "Dragonfire shield",
+  "notedId": 1541
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3348,
+  "hasCollision": false,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "delayShading": true,
+  "oldColors": [
+    4888,
+    5916
+  ],
+  "newColors": [
+    7952,
+    8076
+  ],
+  "modelIndices": [
+    717
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Iban's Throne",
+  "description": "Lord Iban's Throne."
+}

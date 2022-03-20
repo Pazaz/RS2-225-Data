@@ -1,0 +1,41 @@
+{
+  "id": 214,
+  "level": 0,
+  "description": "He looks unhappy...",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    933,
+    43072,
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    4550,
+    4550,
+    7070,
+    8,
+    41
+  ],
+  "name": "Peasant",
+  "modelIndices": [
+    230,
+    310,
+    168,
+    176,
+    275,
+    185,
+    247
+  ],
+  "headModelIndices": [
+    63,
+    79
+  ]
+}

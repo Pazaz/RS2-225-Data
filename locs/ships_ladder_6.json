@@ -1,0 +1,20 @@
+{
+  "id": 2175,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    "Climb-down"
+  ],
+  "delayShading": true,
+  "modelIndices": [
+    1909
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Ship's ladder",
+  "description": "Back down to the main deck."
+}

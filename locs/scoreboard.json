@@ -1,0 +1,22 @@
+{
+  "id": 3192,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 3,
+  "brightness": 50,
+  "specular": 50,
+  "actions": [
+    "View"
+  ],
+  "interactable": true,
+  "modelIndices": [
+    3293
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Scoreboard",
+  "description": "You can see the last 10 fights on here."
+}

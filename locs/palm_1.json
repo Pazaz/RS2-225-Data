@@ -1,0 +1,17 @@
+{
+  "id": 1311,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "mapscene": 5,
+  "modelIndices": [
+    1612
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Palm",
+  "description": "This would be good to sleep under."
+}

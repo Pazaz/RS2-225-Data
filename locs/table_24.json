@@ -1,0 +1,16 @@
+{
+  "id": 1901,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 1,
+  "modelIndices": [
+    1557
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Table",
+  "description": "This clearly isn't used for dining very often."
+}

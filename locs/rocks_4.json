@@ -1,0 +1,22 @@
+{
+  "id": 453,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    null,
+    "hidden"
+  ],
+  "mapscene": 12,
+  "modelIndices": [
+    1388
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Rocks",
+  "description": "Stoney!"
+}

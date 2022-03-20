@@ -1,0 +1,19 @@
+{
+  "id": 783,
+  "description": "A sample of the bark from the Grand Tree.",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2625,
+  "iconX": 2,
+  "iconY": 64,
+  "iconZoom": 900,
+  "iconYaw": 76,
+  "iconCameraPitch": 264,
+  "oldColors": [
+    6024
+  ],
+  "newColors": [
+    6028
+  ],
+  "name": "Bark sample"
+}

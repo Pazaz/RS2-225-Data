@@ -1,0 +1,14 @@
+{
+  "id": 53,
+  "description": "A wooden arrow shaft with flights attached",
+  "value": 1,
+  "stackable": true,
+  "members": true,
+  "modelIndex": 2764,
+  "iconX": 6,
+  "iconY": -29,
+  "iconZoom": 1220,
+  "iconYaw": 100,
+  "iconCameraPitch": 216,
+  "name": "Headless arrow"
+}

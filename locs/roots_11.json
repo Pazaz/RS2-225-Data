@@ -1,0 +1,23 @@
+{
+  "id": 1380,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "mapscene": 6,
+  "oldColors": [
+    6028
+  ],
+  "newColors": [
+    5388
+  ],
+  "modelIndices": [
+    2172
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Roots",
+  "description": "A gnarly old tree root."
+}

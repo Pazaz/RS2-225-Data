@@ -1,0 +1,24 @@
+{
+  "id": 785,
+  "description": "Perhaps I should read it and see what Glough is up to!",
+  "members": true,
+  "value": 2,
+  "modelIndex": 2633,
+  "iconX": 1,
+  "iconY": 22,
+  "iconZoom": 860,
+  "iconYaw": 120,
+  "iconCameraPitch": 276,
+  "options": [
+    "Read"
+  ],
+  "oldColors": [
+    5018,
+    10351
+  ],
+  "newColors": [
+    17682,
+    15591
+  ],
+  "name": "Glough's journal"
+}

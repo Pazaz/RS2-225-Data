@@ -1,0 +1,20 @@
+{
+  "id": 2342,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "interactable": true,
+  "actions": [
+    "Listen-at"
+  ],
+  "modelIndices": [
+    2097
+  ],
+  "modelTypes": [
+    4
+  ],
+  "name": "Grill",
+  "description": "Looks like a ventilation grill."
+}

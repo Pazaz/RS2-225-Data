@@ -1,0 +1,26 @@
+{
+  "id": 2928,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "actions": [
+    null,
+    "Search"
+  ],
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    7952
+  ],
+  "modelIndices": [
+    693
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Carved rock",
+  "description": "An ornately carved rock with a pointed recepticle."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 612,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 1,
+  "modelIndices": [
+    1148
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Counter",
+  "description": "Items are for sale here."
+}

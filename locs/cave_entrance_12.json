@@ -1,0 +1,20 @@
+{
+  "id": 2852,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 4,
+  "sizeZ": 4,
+  "interactable": true,
+  "actions": [
+    "Enter"
+  ],
+  "modelIndices": [
+    732
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Cave entrance",
+  "description": "I can probably squeeze my way inside there."
+}

@@ -1,0 +1,29 @@
+{
+  "id": 336,
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "description": "He has a colourful personality.",
+  "name": "DeVinci",
+  "modelIndices": [
+    215,
+    181,
+    253,
+    292,
+    170,
+    176,
+    274,
+    198
+  ],
+  "headModelIndices": [
+    53,
+    85,
+    40
+  ]
+}

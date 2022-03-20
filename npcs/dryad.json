@@ -1,0 +1,11 @@
+{
+  "id": 56,
+  "description": "A wood nymph.",
+  "walkSeq": 93,
+  "standSeq": 96,
+  "level": 1,
+  "name": "Dryad",
+  "modelIndices": [
+    2856
+  ]
+}

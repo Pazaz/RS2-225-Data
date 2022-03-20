@@ -1,0 +1,23 @@
+{
+  "id": 527,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "oldColors": [
+    5916
+  ],
+  "newColors": [
+    8
+  ],
+  "modelIndices": [
+    728
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Column",
+  "description": "Formed over many years of dripping limestone."
+}

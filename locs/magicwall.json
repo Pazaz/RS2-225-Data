@@ -1,0 +1,15 @@
+{
+  "id": 1796,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 2,
+  "modelIndices": [
+    1739
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "magicwall"
+}

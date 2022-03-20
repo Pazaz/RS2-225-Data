@@ -1,0 +1,14 @@
+{
+  "id": 2207,
+  "description": "These crunchies are just missing those little finishing touches.",
+  "modelIndex": 2753,
+  "iconX": -2,
+  "iconZoom": 650,
+  "iconCameraPitch": 220,
+  "options": [
+    "Eat"
+  ],
+  "members": true,
+  "name": "Unfinished crunchy",
+  "notedId": 2208
+}

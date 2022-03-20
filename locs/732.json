@@ -1,0 +1,19 @@
+{
+  "id": 732,
+  "hasCollision": false,
+  "isSolid": true,
+  "hasShadow": false,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "animationIndex": 494,
+  "disposeAlpha": true,
+  "interactable": false,
+  "brightness": 50,
+  "specular": 25,
+  "modelIndices": [
+    2298
+  ],
+  "modelTypes": [
+    10
+  ]
+}

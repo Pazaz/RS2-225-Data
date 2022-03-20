@@ -1,0 +1,35 @@
+{
+  "id": 193,
+  "description": "A crazy evil druid.",
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 37,
+  "oldColors": [
+    8741,
+    25238,
+    6798
+  ],
+  "newColors": [
+    687,
+    687,
+    82
+  ],
+  "name": "Chaos druid warrior",
+  "modelIndices": [
+    206,
+    181,
+    246,
+    294,
+    170,
+    176,
+    260,
+    502
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 675,
+  "description": "Builds ships for a living.",
+  "level": 0,
+  "walkSeq": 819,
+  "turnAroundSeq": 820,
+  "turnRightSeq": 821,
+  "turnLeftSeq": 822,
+  "standSeq": 808,
+  "options": [
+    "Talk-to"
+  ],
+  "oldColors": [
+    25238,
+    6798,
+    8741
+  ],
+  "newColors": [
+    8472,
+    5921,
+    61
+  ],
+  "name": "Shipyard worker",
+  "modelIndices": [
+    215,
+    247,
+    305,
+    151,
+    179,
+    254,
+    185
+  ],
+  "headModelIndices": [
+    53,
+    79
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 1985,
+  "description": "It's got holes in it.",
+  "value": 4,
+  "options": [
+    "Eat"
+  ],
+  "modelIndex": 2365,
+  "iconZoom": 1110,
+  "iconYaw": 1812,
+  "iconCameraPitch": 116,
+  "name": "Cheese",
+  "notedId": 1986
+}

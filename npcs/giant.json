@@ -1,0 +1,17 @@
+{
+  "id": 117,
+  "size": 2,
+  "walkSeq": 127,
+  "standSeq": 130,
+  "description": "A very large foe.",
+  "options": [
+    null,
+    "Attack"
+  ],
+  "level": 28,
+  "name": "Giant",
+  "modelIndices": [
+    2870,
+    2862
+  ]
+}

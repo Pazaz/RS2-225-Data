@@ -1,0 +1,19 @@
+{
+  "id": 300,
+  "hasCollision": true,
+  "isSolid": false,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Search"
+  ],
+  "modelIndices": [
+    1455
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Haystack",
+  "description": "I bet there's a needle in it somewhere."
+}

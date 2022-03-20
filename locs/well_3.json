@@ -1,0 +1,33 @@
+{
+  "id": 3264,
+  "hasCollision": true,
+  "isSolid": true,
+  "hasShadow": true,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "actions": [
+    "Climb-down"
+  ],
+  "oldColors": [
+    3247,
+    3243,
+    3239,
+    3230,
+    3350
+  ],
+  "newColors": [
+    7700,
+    7952,
+    6798,
+    5772,
+    3594
+  ],
+  "modelIndices": [
+    695
+  ],
+  "modelTypes": [
+    10
+  ],
+  "name": "Well",
+  "description": "A well of nastiness."
+}

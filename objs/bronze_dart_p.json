@@ -1,0 +1,32 @@
+{
+  "id": 812,
+  "stackable": true,
+  "members": true,
+  "value": 1,
+  "description": "A deadly poisoned dart with a bronze tip.",
+  "modelIndex": 2454,
+  "iconX": 8,
+  "iconY": 11,
+  "iconZoom": 720,
+  "iconYaw": 336,
+  "iconCameraPitch": 396,
+  "maleModel0": 500,
+  "maleOffsetY": 0,
+  "femaleModel0": 500,
+  "femaleOffsetY": 6,
+  "options": [
+    null,
+    "Wield"
+  ],
+  "oldColors": [
+    82,
+    57,
+    22459
+  ],
+  "newColors": [
+    5652,
+    13221,
+    13221
+  ],
+  "name": "Bronze dart(p)"
+}

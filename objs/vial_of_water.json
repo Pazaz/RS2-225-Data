@@ -1,0 +1,18 @@
+{
+  "id": 227,
+  "description": "A glass vial containing water.",
+  "modelIndex": 2789,
+  "iconY": -1,
+  "iconZoom": 550,
+  "iconYaw": 1996,
+  "iconCameraPitch": 84,
+  "value": 2,
+  "oldColors": [
+    61
+  ],
+  "newColors": [
+    42330
+  ],
+  "name": "Vial of water",
+  "notedId": 228
+}
