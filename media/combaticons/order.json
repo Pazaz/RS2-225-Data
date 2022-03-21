@@ -1,0 +1,22 @@
+[
+    "battleaxe_block",
+    "battleaxe_chop",
+    "battleaxe_hack",
+    "battleaxe_smash",
+    "longsword_block",
+    "longsword_slash",
+    "longsword_chop",
+    "longsword_lunge",
+    "spear_lunge",
+    "spear_pound",
+    "mace_block",
+    "mace_pummel",
+    "mace_spike",
+    "mace_pound",
+    "unarmed_punch",
+    "unarmed_kick",
+    "unarmed_block",
+    "spear_block",
+    "spear_swipe",
+    "staff_block"
+]
