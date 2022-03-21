@@ -69,8 +69,6 @@ Added to `wordenc.jag`
 
 ## TODO
 
-1) Extract animation frames to separate files
-2) Extract animation skeletons to separate files
-3) Convert fonts to a character atlas
-4) Extract wordenc definitions
-5) Give names to any files that are still identified by ID
+1) Convert fonts to a character atlas
+2) Extract wordenc definitions
+3) Give names to any files that are still identified by ID
