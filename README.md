@@ -71,10 +71,6 @@ Added to `wordenc.jag`
 
 1) Extract animation frames to separate files
 2) Extract animation skeletons to separate files
-3) Convert .dat images to/from PNG
+3) Convert fonts to a character atlas
 4) Extract wordenc definitions
-5) Give names to any definitions that are saved by ID
-
-## Ideas
-
-- Maybe it's time the engine uses PNG sprite atlases so they're in a standard format? We might not need to use the palette-compressed dat/idx format nowadays.
+5) Give names to any files that are still identified by ID
