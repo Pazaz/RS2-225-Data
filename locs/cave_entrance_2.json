@@ -1,16 +1,30 @@
 {
-  "id": 748,
+  "id": 558,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 2,
+  "sizeX": 4,
   "sizeZ": 2,
+  "oldColors": [
+    6036,
+    5008,
+    1932,
+    904,
+    900
+  ],
+  "newColors": [
+    119,
+    90,
+    61,
+    37,
+    127
+  ],
   "modelIndices": [
-    733
+    731
   ],
   "modelTypes": [
     10
   ],
   "name": "Cave entrance",
-  "description": "The entrance to the cave."
+  "description": "It looks cold in there."
 }

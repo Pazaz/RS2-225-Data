@@ -1,5 +1,5 @@
 {
-  "id": 2689,
+  "id": 2143,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
@@ -16,5 +16,5 @@
     0
   ],
   "name": "Prison door",
-  "description": "There's no getting around it, it's a fairly sturdy prison cell door."
+  "description": "Looks secure."
 }

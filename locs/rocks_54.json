@@ -1,20 +1,22 @@
 {
-  "id": 2902,
+  "id": 2584,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 1,
-  "sizeZ": 1,
+  "sizeX": 2,
+  "sizeZ": 2,
+  "adjustToTerrain": true,
+  "culls": true,
   "actions": [
+    null,
     "Search"
   ],
-  "mapscene": 12,
   "modelIndices": [
-    1388
+    830
   ],
   "modelTypes": [
     10
   ],
   "name": "Rocks",
-  "description": "Stoney!"
+  "description": "A collection of rocks over what looks like a depression."
 }

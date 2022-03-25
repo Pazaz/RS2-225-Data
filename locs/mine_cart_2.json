@@ -1,20 +1,20 @@
 {
-  "id": 2684,
+  "id": 2682,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 1,
-  "sizeZ": 1,
+  "sizeX": 2,
+  "sizeZ": 3,
   "actions": [
     null,
     "Search"
   ],
   "modelIndices": [
-    1398
+    1480
   ],
   "modelTypes": [
     10
   ],
   "name": "Mine Cart",
-  "description": "It seems to be used for moving rocks into and out of this area."
+  "description": "The cart which takes barrels of rocks from the mining encampment to Al-Kharid."
 }

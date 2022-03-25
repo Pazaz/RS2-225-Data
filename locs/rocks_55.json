@@ -1,20 +1,27 @@
 {
-  "id": 2962,
+  "id": 2704,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
   "sizeX": 1,
   "sizeZ": 1,
-  "adjustToTerrain": true,
   "actions": [
-    "Climb-over"
+    null,
+    null,
+    "hidden"
+  ],
+  "oldColors": [
+    24
+  ],
+  "newColors": [
+    43038
   ],
   "modelIndices": [
-    1391
+    1388
   ],
   "modelTypes": [
     10
   ],
-  "name": "Rocks",
+  "name": "Rocks.",
   "description": "Stoney!"
 }

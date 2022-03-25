@@ -1,14 +1,13 @@
 {
-  "id": 2804,
+  "id": 3379,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 4,
+  "sizeX": 3,
   "sizeZ": 2,
   "actions": [
     "Enter"
   ],
-  "interactable": true,
   "modelIndices": [
     731
   ],
@@ -16,5 +15,5 @@
     10
   ],
   "name": "Cave entrance",
-  "description": "I think I can squeeze through here..."
+  "description": "The entrance to Rantz's cave.4"
 }

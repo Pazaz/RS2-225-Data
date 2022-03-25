@@ -1,26 +1,20 @@
 {
-  "id": 3043,
+  "id": 2964,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
   "sizeX": 1,
   "sizeZ": 1,
+  "adjustToTerrain": true,
   "actions": [
-    null,
-    "Prospect"
-  ],
-  "oldColors": [
-    24
-  ],
-  "newColors": [
-    53
+    "Climb-over"
   ],
   "modelIndices": [
-    1390
+    1391
   ],
   "modelTypes": [
     10
   ],
   "name": "Rocks",
-  "description": "A rocky outcrop."
+  "description": "Stoney!"
 }

@@ -1,5 +1,5 @@
 {
-  "id": 2144,
+  "id": 2689,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
@@ -8,7 +8,6 @@
   "actions": [
     "Open"
   ],
-  "rotateCounterClockwise": true,
   "interactable": true,
   "modelIndices": [
     609
@@ -17,5 +16,5 @@
     0
   ],
   "name": "Prison door",
-  "description": "Looks secure."
+  "description": "There's no getting around it, it's a fairly sturdy prison cell door."
 }

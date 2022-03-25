@@ -1,5 +1,5 @@
 {
-  "id": 2916,
+  "id": 3213,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
@@ -14,6 +14,6 @@
   "modelTypes": [
     10
   ],
-  "name": "Cave Entrance",
-  "description": "A dark cave entrance leading to the surface."
+  "name": "Cave entrance",
+  "description": "It looks like I can squeeze through here."
 }

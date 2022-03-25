@@ -1,28 +1,26 @@
 {
-  "id": 2328,
+  "id": 3043,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
   "sizeX": 1,
   "sizeZ": 1,
-  "adjustToTerrain": true,
   "actions": [
-    "Climb"
+    null,
+    "Prospect"
   ],
-  "brightness": 25,
-  "specular": 25,
   "oldColors": [
-    6689
+    24
   ],
   "newColors": [
-    20
+    53
   ],
   "modelIndices": [
-    1743
+    1390
   ],
   "modelTypes": [
-    22
+    10
   ],
-  "name": "Rocks.",
+  "name": "Rocks",
   "description": "A rocky outcrop."
 }

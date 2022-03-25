@@ -1,19 +1,21 @@
 {
-  "id": 3213,
+  "id": 2904,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 4,
-  "sizeZ": 2,
+  "sizeX": 1,
+  "sizeZ": 1,
+  "delayShading": true,
+  "adjustToTerrain": true,
+  "rotateCounterClockwise": true,
   "actions": [
-    "Enter"
+    "Walk through"
   ],
   "modelIndices": [
-    731
+    832
   ],
   "modelTypes": [
-    10
+    0
   ],
-  "name": "Cave entrance",
-  "description": "It looks like I can squeeze through here."
+  "name": "Cave entrance"
 }

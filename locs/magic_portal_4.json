@@ -1,16 +1,20 @@
 {
-  "id": 739,
+  "id": 2158,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
   "sizeX": 1,
   "sizeZ": 2,
-  "brightness": 100,
+  "interactable": true,
+  "actions": [
+    "Enter"
+  ],
   "modelIndices": [
     1783
   ],
   "modelTypes": [
     10
   ],
-  "name": "magic_portal"
+  "name": "Magic Portal",
+  "description": "A magical portal of teleportation."
 }

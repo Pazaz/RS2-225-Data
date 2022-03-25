@@ -1,9 +1,9 @@
 {
-  "id": 3379,
+  "id": 2916,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
-  "sizeX": 3,
+  "sizeX": 4,
   "sizeZ": 2,
   "actions": [
     "Enter"
@@ -14,6 +14,6 @@
   "modelTypes": [
     10
   ],
-  "name": "Cave entrance",
-  "description": "The entrance to Rantz's cave.4"
+  "name": "Cave Entrance",
+  "description": "A dark cave entrance leading to the surface."
 }

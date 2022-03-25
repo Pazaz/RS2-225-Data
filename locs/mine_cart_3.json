@@ -1,5 +1,5 @@
 {
-  "id": 2704,
+  "id": 2684,
   "hasCollision": true,
   "isSolid": true,
   "hasShadow": true,
@@ -7,21 +7,14 @@
   "sizeZ": 1,
   "actions": [
     null,
-    null,
-    "hidden"
-  ],
-  "oldColors": [
-    24
-  ],
-  "newColors": [
-    43038
+    "Search"
   ],
   "modelIndices": [
-    1388
+    1398
   ],
   "modelTypes": [
     10
   ],
-  "name": "Rocks.",
-  "description": "Stoney!"
+  "name": "Mine Cart",
+  "description": "It seems to be used for moving rocks into and out of this area."
 }
