@@ -72,3 +72,6 @@ Added to `wordenc.jag`
 1) Convert fonts to a character atlas
 2) Extract wordenc definitions
 3) Give names to any files that are still identified by ID
+a. media: done
+b. textures: done
+c. locs: WIP / still compiling
