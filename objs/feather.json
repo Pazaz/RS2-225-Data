@@ -9,5 +9,6 @@
   "iconCameraPitch": 428,
   "stackable": true,
   "value": 2,
-  "name": "Feather"
+  "name": "Feather",
+  "tradeable": true
 }

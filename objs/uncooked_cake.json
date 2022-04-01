@@ -8,5 +8,6 @@
   "value": 20,
   "name": "Uncooked cake",
   "notedId": 1890,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

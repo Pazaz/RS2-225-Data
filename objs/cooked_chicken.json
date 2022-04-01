@@ -18,5 +18,6 @@
   ],
   "name": "Cooked chicken",
   "notedId": 2141,
-  "weight": 0.141
+  "weight": 0.141,
+  "tradeable": true
 }

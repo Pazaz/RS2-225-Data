@@ -10,5 +10,6 @@
   "iconCameraPitch": 224,
   "members": true,
   "stackable": true,
-  "name": "Swamp tar"
+  "name": "Swamp tar",
+  "tradeable": true
 }

@@ -17,5 +17,6 @@
   ],
   "name": "Burnt fish",
   "notedId": 368,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

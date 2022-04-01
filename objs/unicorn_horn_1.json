@@ -11,5 +11,6 @@
   "description": "This horn has restorative properties.",
   "name": "Unicorn horn",
   "notedId": 238,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

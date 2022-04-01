@@ -9,5 +9,6 @@
   "stackable": true,
   "members": true,
   "value": 5,
-  "name": "Cannonball"
+  "name": "Cannonball",
+  "tradeable": true
 }

@@ -13,5 +13,6 @@
   "iconCameraPitch": 288,
   "name": "Charcoal",
   "notedId": 974,
-  "weight": 0.005
+  "weight": 0.005,
+  "tradeable": true
 }

@@ -11,5 +11,6 @@
   "iconCameraPitch": 428,
   "name": "Flax",
   "notedId": 1780,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

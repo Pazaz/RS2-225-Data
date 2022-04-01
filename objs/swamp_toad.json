@@ -14,5 +14,6 @@
   "iconCameraPitch": 352,
   "name": "Swamp toad",
   "notedId": 2151,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

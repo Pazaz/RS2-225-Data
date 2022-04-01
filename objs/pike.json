@@ -20,5 +20,6 @@
   ],
   "name": "Pike",
   "notedId": 352,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

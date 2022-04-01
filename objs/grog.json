@@ -22,5 +22,6 @@
   ],
   "name": "Grog",
   "notedId": 1916,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

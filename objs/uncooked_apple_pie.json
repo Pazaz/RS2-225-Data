@@ -19,5 +19,6 @@
   ],
   "name": "Uncooked apple pie",
   "notedId": 2318,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

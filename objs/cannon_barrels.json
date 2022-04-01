@@ -9,5 +9,6 @@
   "members": true,
   "name": "Cannon barrels",
   "notedId": 11,
-  "weight": 15
+  "weight": 15,
+  "tradeable": true
 }

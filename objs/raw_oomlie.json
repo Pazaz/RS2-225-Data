@@ -16,5 +16,6 @@
   ],
   "name": "Raw oomlie",
   "notedId": 2338,
-  "weight": 0.225
+  "weight": 0.225,
+  "tradeable": true
 }

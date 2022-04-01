@@ -16,5 +16,6 @@
   ],
   "name": "Mithril ore",
   "notedId": 448,
-  "weight": 1.814
+  "weight": 1.814,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Copper ore",
   "notedId": 437,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

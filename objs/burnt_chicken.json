@@ -15,5 +15,6 @@
   ],
   "name": "Burnt chicken",
   "notedId": 2145,
-  "weight": 0.113
+  "weight": 0.113,
+  "tradeable": true
 }

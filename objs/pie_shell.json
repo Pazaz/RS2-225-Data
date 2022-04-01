@@ -19,5 +19,6 @@
   ],
   "name": "Pie shell",
   "notedId": 2316,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

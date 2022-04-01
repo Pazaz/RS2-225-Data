@@ -16,5 +16,6 @@
   ],
   "name": "Mithril bar",
   "notedId": 2360,
-  "weight": 1.587
+  "weight": 1.587,
+  "tradeable": true
 }

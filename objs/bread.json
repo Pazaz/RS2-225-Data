@@ -12,5 +12,6 @@
   "iconCameraPitch": 392,
   "name": "Bread",
   "notedId": 2310,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

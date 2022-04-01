@@ -29,5 +29,6 @@
   "name": "Sapphire amulet",
   "notedId": 1695,
   "wearSlot": "neck",
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

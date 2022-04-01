@@ -32,5 +32,6 @@
     "drange": 8
   },
   "wearSlot": "shield",
-  "weight": 3.628
+  "weight": 3.628,
+  "tradeable": true
 }

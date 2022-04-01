@@ -8,5 +8,6 @@
   "value": 1,
   "name": "Cooking apple",
   "notedId": 1956,
-  "weight": 0.085
+  "weight": 0.085,
+  "tradeable": true
 }

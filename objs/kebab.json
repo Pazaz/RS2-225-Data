@@ -14,5 +14,6 @@
   "iconCameraPitch": 1876,
   "name": "Kebab",
   "notedId": 1972,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

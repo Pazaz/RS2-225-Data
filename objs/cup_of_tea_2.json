@@ -14,5 +14,6 @@
   "members": true,
   "name": "Cup of tea",
   "notedId": 1979,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

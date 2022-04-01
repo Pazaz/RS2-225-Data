@@ -11,5 +11,6 @@
   "iconCameraPitch": 116,
   "name": "Cheese",
   "notedId": 1986,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Jug of wine",
   "notedId": 1994,
-  "weight": 1.5
+  "weight": 1.5,
+  "tradeable": true
 }

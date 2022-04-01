@@ -25,5 +25,6 @@
   "name": "Gold necklace",
   "notedId": 1655,
   "wearSlot": "neck",
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

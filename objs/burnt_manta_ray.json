@@ -18,5 +18,6 @@
   ],
   "name": "Burnt manta ray",
   "notedId": 394,
-  "weight": 0.35
+  "weight": 0.35,
+  "tradeable": true
 }

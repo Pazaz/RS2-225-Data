@@ -18,5 +18,6 @@
   ],
   "name": "Uncut red topaz",
   "notedId": 1630,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

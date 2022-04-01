@@ -26,5 +26,6 @@
   "name": "Dragon necklace",
   "notedId": 1665,
   "wearSlot": "neck",
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

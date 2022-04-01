@@ -21,5 +21,6 @@
   ],
   "name": "Empty cup",
   "notedId": 1981,
-  "weight": 0.05
+  "weight": 0.05,
+  "tradeable": true
 }

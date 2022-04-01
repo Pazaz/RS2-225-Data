@@ -28,5 +28,6 @@
   ],
   "name": "Jade",
   "notedId": 1612,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

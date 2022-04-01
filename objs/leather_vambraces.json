@@ -25,5 +25,6 @@
     "dcrush": 1
   },
   "wearSlot": "hands",
-  "weight": 0.226
+  "weight": 0.226,
+  "tradeable": true
 }

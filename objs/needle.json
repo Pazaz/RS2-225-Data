@@ -8,5 +8,6 @@
   "iconZoom": 850,
   "iconYaw": 868,
   "iconCameraPitch": 368,
-  "name": "Needle"
+  "name": "Needle",
+  "tradeable": true
 }

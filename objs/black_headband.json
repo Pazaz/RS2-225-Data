@@ -29,5 +29,6 @@
   "name": "Headband",
   "notedId": 2648,
   "wearSlot": "head",
-  "weight": 0.04
+  "weight": 0.04,
+  "tradeable": true
 }

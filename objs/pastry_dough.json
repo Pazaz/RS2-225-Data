@@ -8,5 +8,6 @@
   "iconCameraPitch": 220,
   "name": "Pastry dough",
   "notedId": 1954,
-  "weight": 0.17
+  "weight": 0.17,
+  "tradeable": true
 }

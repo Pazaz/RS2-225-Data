@@ -9,5 +9,6 @@
   "iconCameraPitch": 440,
   "name": "Cow hide",
   "notedId": 1740,
-  "weight": 2.721
+  "weight": 2.721,
+  "tradeable": true
 }

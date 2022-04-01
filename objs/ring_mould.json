@@ -9,5 +9,6 @@
   "iconCameraPitch": 308,
   "name": "Ring mould",
   "notedId": 1593,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

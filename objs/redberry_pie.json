@@ -22,5 +22,6 @@
   ],
   "name": "Redberry pie",
   "notedId": 2326,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

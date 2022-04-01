@@ -10,5 +10,6 @@
   "value": 4,
   "name": "Bread dough",
   "notedId": 2308,
-  "weight": 0.6
+  "weight": 0.6,
+  "tradeable": true
 }

@@ -9,5 +9,6 @@
   "iconCameraPitch": 340,
   "name": "Tile",
   "notedId": 967,
-  "weight": 0.07
+  "weight": 0.07,
+  "tradeable": true
 }

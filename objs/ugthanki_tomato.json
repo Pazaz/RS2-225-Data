@@ -10,5 +10,6 @@
   "members": true,
   "name": "Ugthanki & tomato",
   "notedId": 1880,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

@@ -18,5 +18,6 @@
   ],
   "name": "Raw manta ray",
   "notedId": 390,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

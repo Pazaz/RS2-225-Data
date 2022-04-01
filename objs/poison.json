@@ -9,5 +9,6 @@
   "iconCameraPitch": 132,
   "name": "Poison",
   "notedId": 2479,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

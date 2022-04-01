@@ -18,5 +18,6 @@
   ],
   "name": "Guam leaf",
   "notedId": 250,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

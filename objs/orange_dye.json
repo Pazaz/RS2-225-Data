@@ -15,5 +15,6 @@
   ],
   "name": "Orange dye",
   "notedId": 1770,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

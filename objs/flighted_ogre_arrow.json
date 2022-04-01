@@ -18,5 +18,6 @@
     7582,
     127
   ],
-  "name": "Flighted ogre arrow"
+  "name": "Flighted ogre arrow",
+  "tradeable": true
 }

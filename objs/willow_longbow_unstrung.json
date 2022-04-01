@@ -17,5 +17,6 @@
   ],
   "name": "Willow longbow",
   "notedId": 59,
-  "weight": 1.332
+  "weight": 1.332,
+  "tradeable": true
 }

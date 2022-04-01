@@ -16,5 +16,6 @@
   ],
   "name": "Raw lobster",
   "notedId": 378,
-  "weight": 0.4
+  "weight": 0.4,
+  "tradeable": true
 }

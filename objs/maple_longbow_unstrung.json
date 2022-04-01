@@ -17,5 +17,6 @@
   ],
   "name": "Maple longbow",
   "notedId": 63,
-  "weight": 1.332
+  "weight": 1.332,
+  "tradeable": true
 }

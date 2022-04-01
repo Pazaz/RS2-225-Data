@@ -19,5 +19,6 @@
   ],
   "name": "Burnt pizza",
   "notedId": 2306,
-  "weight": 0.7
+  "weight": 0.7,
+  "tradeable": true
 }

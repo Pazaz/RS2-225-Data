@@ -15,5 +15,6 @@
   "femaleOffsetY": 6,
   "name": "Big fishing net",
   "notedId": 306,
-  "weight": 8.164
+  "weight": 8.164,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "members": true,
   "name": "Ugthanki & onion",
   "notedId": 1878,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "members": true,
   "name": "Onion & tomato",
   "notedId": 1876,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

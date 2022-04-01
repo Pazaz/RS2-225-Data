@@ -16,5 +16,6 @@
   ],
   "name": "Raw shrimps",
   "notedId": 318,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

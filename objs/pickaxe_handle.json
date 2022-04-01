@@ -15,5 +15,6 @@
   "name": "Pickaxe handle",
   "notedId": 467,
   "wearSlot": "weapon",
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

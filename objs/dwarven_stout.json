@@ -21,5 +21,6 @@
   ],
   "name": "Dwarven stout",
   "notedId": 1914,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

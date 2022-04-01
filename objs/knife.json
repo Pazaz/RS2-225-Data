@@ -10,5 +10,6 @@
   "iconCameraPitch": 444,
   "name": "Knife",
   "notedId": 947,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Attack potion(1)",
   "notedId": 126,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

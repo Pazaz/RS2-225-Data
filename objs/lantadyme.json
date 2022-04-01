@@ -10,5 +10,6 @@
   "iconCameraPitch": 376,
   "name": "Lantadyme",
   "notedId": 2482,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

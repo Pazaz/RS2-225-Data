@@ -11,5 +11,6 @@
   "iconCameraPitch": 484,
   "name": "Snape grass",
   "notedId": 232,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

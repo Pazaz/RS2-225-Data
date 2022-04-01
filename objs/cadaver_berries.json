@@ -15,5 +15,6 @@
   ],
   "name": "Cadaver berries",
   "notedId": 754,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Water talisman",
   "notedId": 1445,
-  "weight": 0.015
+  "weight": 0.015,
+  "tradeable": true
 }

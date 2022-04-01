@@ -18,5 +18,6 @@
   ],
   "name": "Cadantine",
   "notedId": 266,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Burnt shark",
   "notedId": 388,
-  "weight": 0.6
+  "weight": 0.6,
+  "tradeable": true
 }

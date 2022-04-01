@@ -12,5 +12,6 @@
   "iconCameraPitch": 700,
   "name": "Lemon",
   "notedId": 2103,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

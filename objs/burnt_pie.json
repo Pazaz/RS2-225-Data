@@ -22,5 +22,6 @@
   ],
   "name": "Burnt pie",
   "notedId": 2330,
-  "weight": 0.35
+  "weight": 0.35,
+  "tradeable": true
 }

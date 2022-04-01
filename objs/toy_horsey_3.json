@@ -25,5 +25,6 @@
   ],
   "name": "Toy horsey",
   "notedId": 2525,
-  "weight": 0.05
+  "weight": 0.05,
+  "tradeable": true
 }

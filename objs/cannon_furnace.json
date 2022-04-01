@@ -11,5 +11,6 @@
   "members": true,
   "name": "Cannon furnace",
   "notedId": 13,
-  "weight": 5
+  "weight": 5,
+  "tradeable": true
 }

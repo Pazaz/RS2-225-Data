@@ -16,5 +16,6 @@
   ],
   "name": "Tin ore",
   "notedId": 439,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

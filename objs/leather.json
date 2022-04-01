@@ -15,5 +15,6 @@
   ],
   "name": "Leather",
   "notedId": 1742,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

@@ -22,5 +22,6 @@
   "name": "Sapphire ring",
   "notedId": 1638,
   "wearSlot": "ring",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "iconCameraPitch": 152,
   "name": "Ball of wool",
   "notedId": 1760,
-  "weight": 0.012
+  "weight": 0.012,
+  "tradeable": true
 }

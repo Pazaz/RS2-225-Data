@@ -16,5 +16,6 @@
   ],
   "name": "Runite ore",
   "notedId": 452,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

@@ -9,5 +9,6 @@
   "iconCameraPitch": 236,
   "stackable": true,
   "value": 3,
-  "name": "Fishing bait"
+  "name": "Fishing bait",
+  "tradeable": true
 }

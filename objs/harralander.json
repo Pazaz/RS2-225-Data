@@ -18,5 +18,6 @@
   ],
   "name": "Harralander",
   "notedId": 256,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

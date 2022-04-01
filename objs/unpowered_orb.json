@@ -17,5 +17,6 @@
   ],
   "name": "Unpowered orb",
   "notedId": 568,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

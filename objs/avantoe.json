@@ -18,5 +18,6 @@
   ],
   "name": "Avantoe",
   "notedId": 262,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

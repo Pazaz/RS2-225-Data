@@ -16,5 +16,6 @@
   ],
   "name": "Dragon scale dust",
   "notedId": 242,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

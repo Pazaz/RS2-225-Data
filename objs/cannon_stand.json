@@ -10,5 +10,6 @@
   "members": true,
   "name": "Cannon stand",
   "notedId": 9,
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

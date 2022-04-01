@@ -9,5 +9,6 @@
   "iconZoom": 650,
   "iconYaw": 1984,
   "iconCameraPitch": 308,
-  "name": "Nails"
+  "name": "Nails",
+  "tradeable": true
 }

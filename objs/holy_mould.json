@@ -9,5 +9,6 @@
   "iconCameraPitch": 320,
   "name": "Holy mould",
   "notedId": 1600,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

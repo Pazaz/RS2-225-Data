@@ -20,5 +20,6 @@
   ],
   "name": "Fruit batta",
   "notedId": 2278,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

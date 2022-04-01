@@ -19,5 +19,6 @@
   ],
   "name": "Zamorak potion(1)",
   "notedId": 194,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

@@ -38,5 +38,6 @@
     "dmagic": 2
   },
   "wearSlot": "hands",
-  "weight": 0.283
+  "weight": 0.283,
+  "tradeable": true
 }

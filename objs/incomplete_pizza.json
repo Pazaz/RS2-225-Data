@@ -17,5 +17,6 @@
   ],
   "name": "Incomplete pizza",
   "notedId": 2286,
-  "weight": 0.6
+  "weight": 0.6,
+  "tradeable": true
 }

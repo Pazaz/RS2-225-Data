@@ -18,5 +18,6 @@
   ],
   "name": "Dragonhide",
   "notedId": 1752,
-  "weight": 3.175
+  "weight": 3.175,
+  "tradeable": true
 }

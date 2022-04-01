@@ -10,5 +10,6 @@
   "members": true,
   "name": "Chopped tomato",
   "notedId": 1870,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

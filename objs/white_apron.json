@@ -19,5 +19,6 @@
   "name": "White apron",
   "notedId": 1006,
   "wearSlot": "body",
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

@@ -20,5 +20,6 @@
   "name": "Eye patch",
   "notedId": 1026,
   "wearSlot": "head",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

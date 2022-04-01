@@ -10,5 +10,6 @@
   "iconCameraPitch": 364,
   "name": "Eye of newt",
   "notedId": 222,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

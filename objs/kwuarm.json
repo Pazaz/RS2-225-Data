@@ -18,5 +18,6 @@
   ],
   "name": "Kwuarm",
   "notedId": 264,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

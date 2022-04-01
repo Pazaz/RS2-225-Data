@@ -17,5 +17,6 @@
   ],
   "name": "Dragonstoneamulet",
   "notedId": 1684,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

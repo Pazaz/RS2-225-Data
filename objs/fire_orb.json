@@ -17,5 +17,6 @@
   ],
   "name": "Fire orb",
   "notedId": 570,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

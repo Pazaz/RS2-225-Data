@@ -17,5 +17,6 @@
   ],
   "name": "Earth orb",
   "notedId": 576,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

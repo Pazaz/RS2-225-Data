@@ -10,5 +10,6 @@
   "members": true,
   "name": "Cocktail glass",
   "notedId": 2027,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

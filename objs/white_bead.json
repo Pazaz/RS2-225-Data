@@ -8,5 +8,6 @@
   "iconCameraPitch": 68,
   "name": "White bead",
   "notedId": 1477,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

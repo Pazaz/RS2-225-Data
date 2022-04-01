@@ -22,5 +22,6 @@
   ],
   "name": "Oak logs",
   "notedId": 1522,
-  "weight": 2
+  "weight": 2,
+  "tradeable": true
 }

@@ -18,5 +18,6 @@
   ],
   "name": "Uncut jade",
   "notedId": 1628,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

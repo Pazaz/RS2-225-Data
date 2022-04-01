@@ -17,5 +17,6 @@
   ],
   "name": "Uncut sapphire",
   "notedId": 1624,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

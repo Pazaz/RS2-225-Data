@@ -7,5 +7,6 @@
   "iconY": 1,
   "iconZoom": 740,
   "iconCameraPitch": 516,
-  "name": "Chaos rune"
+  "name": "Chaos rune",
+  "tradeable": true
 }

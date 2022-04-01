@@ -12,5 +12,6 @@
   "iconCameraPitch": 376,
   "name": "Herb",
   "notedId": 200,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

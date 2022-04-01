@@ -22,5 +22,6 @@
   ],
   "name": "Maple logs",
   "notedId": 1518,
-  "weight": 2
+  "weight": 2,
+  "tradeable": true
 }

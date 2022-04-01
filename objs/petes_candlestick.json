@@ -10,5 +10,6 @@
   "members": true,
   "name": "Pete's candlestick",
   "notedId": 1578,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

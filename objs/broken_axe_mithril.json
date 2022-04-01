@@ -20,5 +20,6 @@
   "name": "Broken axe",
   "notedId": 503,
   "wearSlot": "weapon",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

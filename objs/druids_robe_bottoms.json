@@ -27,5 +27,6 @@
     "prayer": 4
   },
   "wearSlot": "legs",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

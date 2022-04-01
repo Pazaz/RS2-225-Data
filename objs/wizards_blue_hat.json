@@ -25,5 +25,6 @@
     "dmagic": 2
   },
   "wearSlot": "head",
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

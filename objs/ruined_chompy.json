@@ -15,5 +15,6 @@
   ],
   "name": "Ruined chompy",
   "notedId": 2881,
-  "weight": 10
+  "weight": 10,
+  "tradeable": true
 }

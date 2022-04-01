@@ -13,5 +13,6 @@
   "iconCameraPitch": 104,
   "name": "Drunk dragon",
   "notedId": 2093,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

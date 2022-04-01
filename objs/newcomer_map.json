@@ -13,5 +13,6 @@
   "value": 1,
   "name": "Newcomer map",
   "notedId": 551,
-  "weight": 0.51
+  "weight": 0.51,
+  "tradeable": true
 }

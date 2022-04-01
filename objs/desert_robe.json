@@ -24,5 +24,6 @@
   "name": "Desert robe",
   "notedId": 1836,
   "wearSlot": "legs",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

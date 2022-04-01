@@ -17,5 +17,6 @@
   ],
   "name": "Raw pike",
   "notedId": 350,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

@@ -21,5 +21,6 @@
   ],
   "name": "Worm batta",
   "notedId": 2254,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

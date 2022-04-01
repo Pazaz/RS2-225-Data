@@ -17,5 +17,6 @@
   ],
   "name": "Oak longbow",
   "notedId": 57,
-  "weight": 1.332
+  "weight": 1.332,
+  "tradeable": true
 }

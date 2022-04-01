@@ -16,5 +16,6 @@
   ],
   "name": "Gold amulet",
   "notedId": 1674,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

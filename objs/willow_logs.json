@@ -22,5 +22,6 @@
   ],
   "name": "Willow logs",
   "notedId": 1520,
-  "weight": 2
+  "weight": 2,
+  "tradeable": true
 }

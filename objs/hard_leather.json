@@ -15,5 +15,6 @@
   ],
   "name": "Hard leather",
   "notedId": 1744,
-  "weight": 3.175
+  "weight": 3.175,
+  "tradeable": true
 }

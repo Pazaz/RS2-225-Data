@@ -17,5 +17,6 @@
   ],
   "name": "Gianne dough",
   "notedId": 2172,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

@@ -17,5 +17,6 @@
   ],
   "name": "Raw tuna",
   "notedId": 360,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

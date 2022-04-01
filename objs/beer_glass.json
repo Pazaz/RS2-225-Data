@@ -10,5 +10,6 @@
   "iconCameraPitch": 140,
   "name": "Beer glass",
   "notedId": 1920,
-  "weight": 0.05
+  "weight": 0.05,
+  "tradeable": true
 }

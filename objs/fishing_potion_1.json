@@ -19,5 +19,6 @@
   ],
   "name": "Fishing potion(1)",
   "notedId": 156,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

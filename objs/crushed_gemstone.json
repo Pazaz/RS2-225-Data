@@ -16,5 +16,6 @@
   ],
   "name": "Crushed gemstone",
   "notedId": 1634,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

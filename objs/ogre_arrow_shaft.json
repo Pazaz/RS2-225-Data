@@ -16,5 +16,6 @@
   "newColors": [
     7582
   ],
-  "name": "Ogre arrow shaft"
+  "name": "Ogre arrow shaft",
+  "tradeable": true
 }

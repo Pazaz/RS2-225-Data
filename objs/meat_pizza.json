@@ -22,5 +22,6 @@
   ],
   "name": "Meat pizza",
   "notedId": 2294,
-  "weight": 0.9
+  "weight": 0.9,
+  "tradeable": true
 }

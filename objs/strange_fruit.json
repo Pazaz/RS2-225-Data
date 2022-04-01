@@ -11,5 +11,6 @@
   ],
   "name": "Strange fruit",
   "notedId": 465,
-  "weight": 0.085
+  "weight": 0.085,
+  "tradeable": true
 }

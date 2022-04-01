@@ -9,5 +9,6 @@
   "iconCameraPitch": 144,
   "name": "Egg",
   "notedId": 1945,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

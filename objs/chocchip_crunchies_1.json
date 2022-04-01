@@ -12,5 +12,6 @@
   "members": true,
   "name": "Chocchip crunchies",
   "notedId": 2210,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "value": 20,
   "name": "Lockpick",
   "notedId": 1524,
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

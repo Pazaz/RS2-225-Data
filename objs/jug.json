@@ -16,5 +16,6 @@
   ],
   "name": "Jug",
   "notedId": 1936,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

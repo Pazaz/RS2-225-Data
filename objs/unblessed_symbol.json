@@ -31,5 +31,6 @@
   "name": "Unblessed symbol",
   "notedId": 1717,
   "wearSlot": "neck",
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

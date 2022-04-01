@@ -19,5 +19,6 @@
   ],
   "name": "Half full wine jug",
   "notedId": 1990,
-  "weight": 1
+  "weight": 1,
+  "tradeable": true
 }

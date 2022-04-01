@@ -17,5 +17,6 @@
   ],
   "name": "Longbow",
   "notedId": 49,
-  "weight": 1.332
+  "weight": 1.332,
+  "tradeable": true
 }

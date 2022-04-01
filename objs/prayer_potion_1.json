@@ -19,5 +19,6 @@
   ],
   "name": "Prayer potion(1)",
   "notedId": 144,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

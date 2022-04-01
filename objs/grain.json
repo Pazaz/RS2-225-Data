@@ -10,5 +10,6 @@
   "iconCameraPitch": 292,
   "name": "Grain",
   "notedId": 1948,
-  "weight": 0.6
+  "weight": 0.6,
+  "tradeable": true
 }

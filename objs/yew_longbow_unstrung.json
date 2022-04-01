@@ -17,5 +17,6 @@
   ],
   "name": "Yew longbow",
   "notedId": 67,
-  "weight": 1.332
+  "weight": 1.332,
+  "tradeable": true
 }

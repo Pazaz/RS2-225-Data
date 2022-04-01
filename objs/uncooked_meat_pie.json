@@ -19,5 +19,6 @@
   ],
   "name": "Uncooked meat pie",
   "notedId": 2320,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

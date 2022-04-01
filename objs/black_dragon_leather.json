@@ -16,5 +16,6 @@
   ],
   "name": "Dragon leather",
   "notedId": 2510,
-  "weight": 3.175
+  "weight": 3.175,
+  "tradeable": true
 }

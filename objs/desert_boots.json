@@ -28,5 +28,6 @@
   "name": "Desert boots",
   "notedId": 1838,
   "wearSlot": "feet",
-  "weight": 0.226
+  "weight": 0.226,
+  "tradeable": true
 }

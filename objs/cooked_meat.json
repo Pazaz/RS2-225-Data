@@ -21,5 +21,6 @@
   ],
   "name": "Cooked meat",
   "notedId": 2143,
-  "weight": 0.283
+  "weight": 0.283,
+  "tradeable": true
 }

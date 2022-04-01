@@ -11,5 +11,6 @@
   "iconCameraPitch": 52,
   "name": "Waterskin(0)",
   "notedId": 1832,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

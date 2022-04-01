@@ -13,5 +13,6 @@
   "iconCameraPitch": 356,
   "name": "Hammer",
   "notedId": 2348,
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

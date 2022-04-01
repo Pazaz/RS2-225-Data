@@ -19,5 +19,6 @@
   ],
   "name": "Poison chalice",
   "notedId": 198,
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

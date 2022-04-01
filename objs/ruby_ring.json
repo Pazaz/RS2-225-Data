@@ -22,5 +22,6 @@
   "name": "Ruby ring",
   "notedId": 1642,
   "wearSlot": "ring",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

@@ -15,5 +15,6 @@
   ],
   "name": "Pizza base",
   "notedId": 2284,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

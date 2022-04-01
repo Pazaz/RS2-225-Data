@@ -17,5 +17,6 @@
   ],
   "name": "Water orb",
   "notedId": 572,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

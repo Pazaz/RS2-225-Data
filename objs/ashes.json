@@ -15,5 +15,6 @@
   ],
   "name": "Ashes",
   "notedId": 593,
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

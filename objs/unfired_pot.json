@@ -16,5 +16,6 @@
   ],
   "name": "Unfired pot",
   "notedId": 1788,
-  "weight": 0.68
+  "weight": 0.68,
+  "tradeable": true
 }

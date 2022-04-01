@@ -15,5 +15,6 @@
   ],
   "name": "Raw chicken",
   "notedId": 2139,
-  "weight": 0.17
+  "weight": 0.17,
+  "tradeable": true
 }

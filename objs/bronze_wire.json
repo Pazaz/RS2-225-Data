@@ -10,5 +10,6 @@
   "members": true,
   "name": "Bronze wire",
   "notedId": 1795,
-  "weight": 0.005
+  "weight": 0.005,
+  "tradeable": true
 }

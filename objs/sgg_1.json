@@ -19,5 +19,6 @@
   ],
   "name": "Sgg",
   "notedId": 2039,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

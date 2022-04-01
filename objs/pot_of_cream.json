@@ -14,5 +14,6 @@
   "iconCameraPitch": 128,
   "name": "Pot of cream",
   "notedId": 2131,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

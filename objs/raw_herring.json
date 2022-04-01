@@ -18,5 +18,6 @@
   ],
   "name": "Raw herring",
   "notedId": 346,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

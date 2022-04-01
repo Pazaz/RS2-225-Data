@@ -35,5 +35,6 @@
     "str": 28
   },
   "wearSlot": "weapon",
-  "weight": 2.041
+  "weight": 2.041,
+  "tradeable": true
 }

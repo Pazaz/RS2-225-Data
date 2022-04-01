@@ -22,5 +22,6 @@
   ],
   "name": "Anchovy pizza",
   "notedId": 2298,
-  "weight": 0.9
+  "weight": 0.9,
+  "tradeable": true
 }

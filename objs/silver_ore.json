@@ -18,5 +18,6 @@
   ],
   "name": "Silver ore",
   "notedId": 443,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

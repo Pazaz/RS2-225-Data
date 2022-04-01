@@ -17,5 +17,6 @@
   ],
   "name": "Death talisman",
   "notedId": 1457,
-  "weight": 0.015
+  "weight": 0.015,
+  "tradeable": true
 }

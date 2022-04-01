@@ -19,5 +19,6 @@
   ],
   "name": "Wolf bones",
   "notedId": 2860,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

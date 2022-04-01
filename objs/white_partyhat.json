@@ -26,5 +26,6 @@
   "name": "White partyhat",
   "notedId": 1049,
   "wearSlot": "head",
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

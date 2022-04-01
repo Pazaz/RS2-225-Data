@@ -10,5 +10,6 @@
   "iconCameraPitch": 404,
   "name": "Redberries",
   "notedId": 1952,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

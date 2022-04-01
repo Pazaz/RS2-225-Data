@@ -19,5 +19,6 @@
   ],
   "name": "Wizard blizzard",
   "notedId": 2055,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

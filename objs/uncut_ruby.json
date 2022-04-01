@@ -17,5 +17,6 @@
   ],
   "name": "Uncut ruby",
   "notedId": 1620,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

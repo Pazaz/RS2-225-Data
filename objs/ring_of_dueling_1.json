@@ -25,5 +25,6 @@
   "name": "Ring of dueling(1)",
   "notedId": 2567,
   "wearSlot": "ring",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

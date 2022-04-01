@@ -15,5 +15,6 @@
   ],
   "name": "Vial of water",
   "notedId": 228,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

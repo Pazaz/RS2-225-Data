@@ -26,5 +26,6 @@
   "name": "Purple partyhat",
   "notedId": 1047,
   "wearSlot": "head",
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

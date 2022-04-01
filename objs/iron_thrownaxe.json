@@ -31,5 +31,6 @@
     "arange": 5,
     "rstr": 7
   },
-  "wearSlot": "weapon"
+  "wearSlot": "weapon",
+  "tradeable": true
 }

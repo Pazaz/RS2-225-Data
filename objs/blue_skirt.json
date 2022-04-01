@@ -23,5 +23,6 @@
   "name": "Blue skirt",
   "notedId": 1012,
   "wearSlot": "legs",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

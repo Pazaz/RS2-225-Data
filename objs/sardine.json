@@ -22,5 +22,6 @@
   ],
   "name": "Sardine",
   "notedId": 326,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

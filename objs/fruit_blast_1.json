@@ -23,5 +23,6 @@
   ],
   "name": "Fruit blast",
   "notedId": 2035,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

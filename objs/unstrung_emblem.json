@@ -17,5 +17,6 @@
   ],
   "name": "Unstrung emblem",
   "notedId": 1721,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

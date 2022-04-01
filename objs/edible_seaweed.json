@@ -14,5 +14,6 @@
   "members": true,
   "name": "Edible seaweed",
   "notedId": 404,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

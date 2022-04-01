@@ -15,5 +15,6 @@
   ],
   "name": "Uncooked curry",
   "notedId": 2010,
-  "weight": 1.5
+  "weight": 1.5,
+  "tradeable": true
 }

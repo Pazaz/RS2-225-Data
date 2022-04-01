@@ -22,5 +22,6 @@
   "name": "Gold ring",
   "notedId": 1636,
   "wearSlot": "ring",
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

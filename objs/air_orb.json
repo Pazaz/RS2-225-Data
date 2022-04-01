@@ -11,5 +11,6 @@
   "value": 300,
   "name": "Air orb",
   "notedId": 574,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

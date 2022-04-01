@@ -11,5 +11,6 @@
   "members": true,
   "name": "Wrapped oomlie",
   "notedId": 2342,
-  "weight": 0.325
+  "weight": 0.325,
+  "tradeable": true
 }

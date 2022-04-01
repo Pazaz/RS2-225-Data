@@ -19,5 +19,6 @@
   ],
   "name": "Pie dish",
   "notedId": 2314,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

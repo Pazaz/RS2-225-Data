@@ -17,5 +17,6 @@
   "name": "Gnomeball",
   "notedId": 752,
   "wearSlot": "weapon",
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

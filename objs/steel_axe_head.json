@@ -9,5 +9,6 @@
   "value": 199,
   "name": "Axe head",
   "notedId": 513,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

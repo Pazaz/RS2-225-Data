@@ -21,5 +21,6 @@
   "name": "Highwayman mask",
   "notedId": 2632,
   "wearSlot": "head",
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

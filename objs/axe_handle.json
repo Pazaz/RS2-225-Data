@@ -21,5 +21,6 @@
   "name": "Axe handle",
   "notedId": 493,
   "wearSlot": "weapon",
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

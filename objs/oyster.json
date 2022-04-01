@@ -14,5 +14,6 @@
   "members": true,
   "name": "Oyster",
   "notedId": 408,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

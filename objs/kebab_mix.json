@@ -10,5 +10,6 @@
   "members": true,
   "name": "Kebab mix",
   "notedId": 1882,
-  "weight": 0.4
+  "weight": 0.4,
+  "tradeable": true
 }

@@ -11,5 +11,6 @@
   ],
   "name": "Bones",
   "notedId": 527,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Grey wolf fur",
   "notedId": 959,
-  "weight": 3
+  "weight": 3,
+  "tradeable": true
 }

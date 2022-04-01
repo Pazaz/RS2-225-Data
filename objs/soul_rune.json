@@ -8,5 +8,6 @@
   "iconZoom": 740,
   "iconCameraPitch": 516,
   "members": true,
-  "name": "Soul rune"
+  "name": "Soul rune",
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Unfired bowl",
   "notedId": 1792,
-  "weight": 0.68
+  "weight": 0.68,
+  "tradeable": true
 }

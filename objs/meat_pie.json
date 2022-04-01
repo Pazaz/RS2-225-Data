@@ -22,5 +22,6 @@
   ],
   "name": "Meat pie",
   "notedId": 2328,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

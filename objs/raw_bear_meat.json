@@ -10,5 +10,6 @@
   "value": 1,
   "name": "Raw bear meat",
   "notedId": 2137,
-  "weight": 0.425
+  "weight": 0.425,
+  "tradeable": true
 }

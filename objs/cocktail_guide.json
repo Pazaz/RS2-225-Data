@@ -18,5 +18,6 @@
   ],
   "name": "Cocktail guide",
   "notedId": 2024,
-  "weight": 0.51
+  "weight": 0.51,
+  "tradeable": true
 }

@@ -32,5 +32,6 @@
   "wearBonus": {
     "rstr": 16
   },
-  "wearSlot": "ammo"
+  "wearSlot": "ammo",
+  "tradeable": true
 }

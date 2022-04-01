@@ -12,5 +12,6 @@
   "iconCameraPitch": 164,
   "name": "Cake",
   "notedId": 1892,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

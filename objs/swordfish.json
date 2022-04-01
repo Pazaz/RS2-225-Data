@@ -20,5 +20,6 @@
   ],
   "name": "Swordfish",
   "notedId": 374,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

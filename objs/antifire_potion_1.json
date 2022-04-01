@@ -19,5 +19,6 @@
   ],
   "name": "Antifire potion(1)",
   "notedId": 2459,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

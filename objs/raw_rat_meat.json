@@ -10,5 +10,6 @@
   "value": 1,
   "name": "Raw rat meat",
   "notedId": 2135,
-  "weight": 0.141
+  "weight": 0.141,
+  "tradeable": true
 }

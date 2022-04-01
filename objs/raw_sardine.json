@@ -19,5 +19,6 @@
   ],
   "name": "Raw sardine",
   "notedId": 328,
-  "weight": 0.14
+  "weight": 0.14,
+  "tradeable": true
 }

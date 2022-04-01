@@ -16,5 +16,6 @@
   ],
   "name": "Emerald amulet",
   "notedId": 1678,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

@@ -32,5 +32,6 @@
     "drange": 2
   },
   "wearSlot": "cape",
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

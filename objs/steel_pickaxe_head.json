@@ -10,5 +10,6 @@
   "value": 499,
   "name": "Pickaxe head",
   "notedId": 485,
-  "weight": 1.814
+  "weight": 1.814,
+  "tradeable": true
 }

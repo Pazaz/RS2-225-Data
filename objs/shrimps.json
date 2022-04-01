@@ -11,5 +11,6 @@
   ],
   "name": "Shrimps",
   "notedId": 316,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

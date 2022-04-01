@@ -10,5 +10,6 @@
   "members": true,
   "name": "Chopped ugthanki",
   "notedId": 1874,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

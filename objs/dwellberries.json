@@ -14,5 +14,6 @@
   "iconCameraPitch": 180,
   "name": "Dwellberries",
   "notedId": 2127,
-  "weight": 0.014
+  "weight": 0.014,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Restore potion(1)",
   "notedId": 132,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

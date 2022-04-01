@@ -17,5 +17,6 @@
   ],
   "name": "Burnt batta",
   "notedId": 2248,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

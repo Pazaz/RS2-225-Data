@@ -15,5 +15,6 @@
   ],
   "name": "Ugthanki kebab",
   "notedId": 1884,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

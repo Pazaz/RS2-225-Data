@@ -17,5 +17,6 @@
   ],
   "name": "Uncut emerald",
   "notedId": 1622,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

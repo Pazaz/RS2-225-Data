@@ -28,5 +28,6 @@
   ],
   "name": "Opal",
   "notedId": 1610,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

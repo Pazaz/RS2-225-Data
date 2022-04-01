@@ -14,5 +14,6 @@
   ],
   "name": "Onion",
   "notedId": 1958,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

@@ -42,5 +42,6 @@
     "prayer": 1
   },
   "wearSlot": "shield",
-  "weight": 5.443
+  "weight": 5.443,
+  "tradeable": true
 }

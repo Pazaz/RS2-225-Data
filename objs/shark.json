@@ -22,5 +22,6 @@
   ],
   "name": "Shark",
   "notedId": 386,
-  "weight": 0.65
+  "weight": 0.65,
+  "tradeable": true
 }

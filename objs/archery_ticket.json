@@ -10,5 +10,6 @@
   "iconCameraPitch": 320,
   "members": true,
   "stackable": true,
-  "name": "Archery ticket"
+  "name": "Archery ticket",
+  "tradeable": true
 }

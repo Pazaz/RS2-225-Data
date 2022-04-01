@@ -20,5 +20,6 @@
   ],
   "name": "Tuna",
   "notedId": 362,
-  "weight": 0.4
+  "weight": 0.4,
+  "tradeable": true
 }

@@ -20,5 +20,6 @@
     66
   ],
   "name": "Odd cocktail",
-  "notedId": 2095
+  "notedId": 2095,
+  "tradeable": true
 }

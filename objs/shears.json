@@ -12,5 +12,6 @@
   "iconCameraPitch": 300,
   "name": "Shears",
   "notedId": 1736,
-  "weight": 0.113
+  "weight": 0.113,
+  "tradeable": true
 }

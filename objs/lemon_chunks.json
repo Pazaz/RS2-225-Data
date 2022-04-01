@@ -21,5 +21,6 @@
   ],
   "name": "Lemon chunks",
   "notedId": 2105,
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

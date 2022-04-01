@@ -10,5 +10,6 @@
   "members": true,
   "name": "Gnome spice",
   "notedId": 2170,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

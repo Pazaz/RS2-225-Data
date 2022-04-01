@@ -11,5 +11,6 @@
   "value": 1,
   "name": "Spinach roll",
   "notedId": 1970,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

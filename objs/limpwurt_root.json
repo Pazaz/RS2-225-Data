@@ -10,5 +10,6 @@
   "iconCameraPitch": 456,
   "name": "Limpwurt root",
   "notedId": 226,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

@@ -11,5 +11,6 @@
   "members": true,
   "name": "Empty oyster",
   "notedId": 410,
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

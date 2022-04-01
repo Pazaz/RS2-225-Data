@@ -20,5 +20,6 @@
   ],
   "name": "Lemon slices",
   "notedId": 2107,
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

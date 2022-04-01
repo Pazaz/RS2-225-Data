@@ -10,5 +10,6 @@
   "iconCameraPitch": 296,
   "name": "Half of a key",
   "notedId": 986,
-  "weight": 0.005
+  "weight": 0.005,
+  "tradeable": true
 }

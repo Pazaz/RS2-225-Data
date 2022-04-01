@@ -10,5 +10,6 @@
   "iconZoom": 490,
   "iconYaw": 608,
   "iconCameraPitch": 492,
-  "name": "Barb bolttips"
+  "name": "Barb bolttips",
+  "tradeable": true
 }

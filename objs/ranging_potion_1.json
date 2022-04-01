@@ -19,5 +19,6 @@
   ],
   "name": "Ranging potion(1)",
   "notedId": 174,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

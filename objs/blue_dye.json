@@ -15,5 +15,6 @@
   ],
   "name": "Blue dye",
   "notedId": 1768,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

@@ -23,5 +23,6 @@
   "name": "Black skirt",
   "notedId": 1016,
   "wearSlot": "legs",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

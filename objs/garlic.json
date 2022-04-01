@@ -8,5 +8,6 @@
   "iconCameraPitch": 116,
   "name": "Garlic",
   "notedId": 1551,
-  "weight": 0.028
+  "weight": 0.028,
+  "tradeable": true
 }

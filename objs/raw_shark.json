@@ -17,5 +17,6 @@
   ],
   "name": "Raw shark",
   "notedId": 384,
-  "weight": 0.7
+  "weight": 0.7,
+  "tradeable": true
 }

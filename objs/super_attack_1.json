@@ -19,5 +19,6 @@
   ],
   "name": "Super attack(1)",
   "notedId": 150,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

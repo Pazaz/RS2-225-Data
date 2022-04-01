@@ -25,5 +25,6 @@
   ],
   "name": "Diamond",
   "notedId": 1602,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

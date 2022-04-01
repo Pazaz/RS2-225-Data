@@ -16,5 +16,6 @@
   ],
   "name": "Sapphire amulet",
   "notedId": 1676,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

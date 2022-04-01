@@ -16,5 +16,6 @@
   ],
   "name": "Logs",
   "notedId": 1512,
-  "weight": 2
+  "weight": 2,
+  "tradeable": true
 }

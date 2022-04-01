@@ -29,5 +29,6 @@
     1000,
     10000
   ],
-  "name": "Coins"
+  "name": "Coins",
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   "name": "Santa hat",
   "notedId": 1051,
   "wearSlot": "head",
-  "weight": 0.113
+  "weight": 0.113,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "iconCameraPitch": 156,
   "name": "Potato",
   "notedId": 1943,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

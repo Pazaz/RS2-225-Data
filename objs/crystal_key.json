@@ -16,5 +16,6 @@
   ],
   "name": "Crystal key",
   "notedId": 990,
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

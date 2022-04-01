@@ -9,5 +9,6 @@
   "iconCameraPitch": 204,
   "name": "Rock",
   "notedId": 969,
-  "weight": 1
+  "weight": 1,
+  "tradeable": true
 }

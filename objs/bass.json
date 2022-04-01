@@ -21,5 +21,6 @@
   ],
   "name": "Bass",
   "notedId": 366,
-  "weight": 0.35
+  "weight": 0.35,
+  "tradeable": true
 }

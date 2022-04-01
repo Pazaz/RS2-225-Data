@@ -23,5 +23,6 @@
   "name": "Ring of recoil",
   "notedId": 2551,
   "wearSlot": "ring",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

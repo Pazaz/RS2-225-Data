@@ -20,5 +20,6 @@
   ],
   "name": "Toad batta",
   "notedId": 2222,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

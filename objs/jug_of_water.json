@@ -16,5 +16,6 @@
   ],
   "name": "Jug of water",
   "notedId": 1938,
-  "weight": 1
+  "weight": 1,
+  "tradeable": true
 }

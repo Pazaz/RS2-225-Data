@@ -18,5 +18,6 @@
   ],
   "name": "Strength potion(1)",
   "notedId": 120,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

@@ -27,5 +27,6 @@
   "name": "Brown apron",
   "notedId": 1758,
   "wearSlot": "body",
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

@@ -10,5 +10,6 @@
   "iconCameraPitch": 124,
   "name": "Insect repellent",
   "notedId": 29,
-  "weight": 0.028
+  "weight": 0.028,
+  "tradeable": true
 }

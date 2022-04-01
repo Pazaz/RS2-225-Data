@@ -23,5 +23,6 @@
   ],
   "name": "Burnt oomlie wrap",
   "notedId": 2346,
-  "weight": 0.275
+  "weight": 0.275,
+  "tradeable": true
 }

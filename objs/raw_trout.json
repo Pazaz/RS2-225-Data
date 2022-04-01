@@ -17,5 +17,6 @@
   ],
   "name": "Raw trout",
   "notedId": 336,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

@@ -46,5 +46,6 @@
     "prayer": 3
   },
   "wearSlot": "neck",
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

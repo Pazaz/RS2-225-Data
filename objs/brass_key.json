@@ -15,5 +15,6 @@
   ],
   "name": "Brass key",
   "notedId": 984,
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Unfinished potion",
   "notedId": 104,
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

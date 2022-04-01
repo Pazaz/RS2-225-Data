@@ -15,5 +15,6 @@
   ],
   "name": "Burnt crunchies",
   "notedId": 2200,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

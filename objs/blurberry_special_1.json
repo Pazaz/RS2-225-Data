@@ -19,5 +19,6 @@
   ],
   "name": "Blurberry special",
   "notedId": 2029,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

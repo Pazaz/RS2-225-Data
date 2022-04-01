@@ -13,5 +13,6 @@
   "description": "Mmmmmmm chocolate.",
   "name": "Chocolate bar",
   "notedId": 1974,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

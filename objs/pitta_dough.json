@@ -15,5 +15,6 @@
   ],
   "name": "Pitta dough",
   "notedId": 1864,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

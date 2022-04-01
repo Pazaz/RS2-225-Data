@@ -10,5 +10,6 @@
   "iconCameraPitch": 460,
   "name": "Disk of returning",
   "notedId": 982,
-  "weight": 0.453
+  "weight": 0.453,
+  "tradeable": true
 }

@@ -15,5 +15,6 @@
   ],
   "name": "Pitta bread",
   "notedId": 1866,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

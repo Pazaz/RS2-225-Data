@@ -21,5 +21,6 @@
   ],
   "name": "Ruby",
   "notedId": 1604,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

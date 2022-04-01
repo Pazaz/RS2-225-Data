@@ -10,5 +10,6 @@
   "iconCameraPitch": 224,
   "members": true,
   "stackable": true,
-  "name": "Swamp paste"
+  "name": "Swamp paste",
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Raw anchovies",
   "notedId": 322,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

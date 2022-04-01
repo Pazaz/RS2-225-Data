@@ -12,5 +12,6 @@
   "iconCameraPitch": 308,
   "name": "Orange",
   "notedId": 2109,
-  "weight": 0.11
+  "weight": 0.11,
+  "tradeable": true
 }

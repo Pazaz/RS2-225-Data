@@ -10,5 +10,6 @@
   "members": true,
   "name": "Dragonhide",
   "notedId": 1754,
-  "weight": 3.175
+  "weight": 3.175,
+  "tradeable": true
 }

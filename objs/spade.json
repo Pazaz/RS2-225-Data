@@ -17,5 +17,6 @@
   ],
   "name": "Spade",
   "notedId": 953,
-  "weight": 1.814
+  "weight": 1.814,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Unfired pie dish",
   "notedId": 1790,
-  "weight": 0.68
+  "weight": 0.68,
+  "tradeable": true
 }

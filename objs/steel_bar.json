@@ -16,5 +16,6 @@
   ],
   "name": "Steel bar",
   "notedId": 2354,
-  "weight": 1.814
+  "weight": 1.814,
+  "tradeable": true
 }

@@ -19,5 +19,6 @@
   ],
   "name": "Gin",
   "notedId": 2020,
-  "weight": 1
+  "weight": 1,
+  "tradeable": true
 }

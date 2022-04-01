@@ -10,5 +10,6 @@
   "iconZoom": 1220,
   "iconYaw": 100,
   "iconCameraPitch": 216,
-  "name": "Arrow shaft"
+  "name": "Arrow shaft",
+  "tradeable": true
 }

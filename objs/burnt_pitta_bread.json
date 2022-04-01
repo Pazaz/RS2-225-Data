@@ -15,5 +15,6 @@
   ],
   "name": "Burnt pitta bread",
   "notedId": 1868,
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

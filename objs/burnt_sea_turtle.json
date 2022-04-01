@@ -18,5 +18,6 @@
   ],
   "name": "Burnt sea turtle",
   "notedId": 400,
-  "weight": 0.32
+  "weight": 0.32,
+  "tradeable": true
 }

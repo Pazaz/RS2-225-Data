@@ -14,5 +14,6 @@
   "femaleOffsetY": 6,
   "name": "Fly fishing rod",
   "notedId": 310,
-  "weight": 1.36
+  "weight": 1.36,
+  "tradeable": true
 }

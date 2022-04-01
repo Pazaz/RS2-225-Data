@@ -16,5 +16,6 @@
   ],
   "name": "Ruby amulet",
   "notedId": 1680,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

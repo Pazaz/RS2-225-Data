@@ -28,5 +28,6 @@
   ],
   "name": "Dragonstone",
   "notedId": 1616,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

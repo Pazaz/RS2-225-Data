@@ -37,5 +37,6 @@
     "drange": 3
   },
   "wearSlot": "head",
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

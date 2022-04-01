@@ -9,5 +9,6 @@
   "iconCameraPitch": 272,
   "name": "Christmas cracker",
   "notedId": 963,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

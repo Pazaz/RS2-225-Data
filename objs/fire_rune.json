@@ -7,5 +7,6 @@
   "iconY": 1,
   "iconZoom": 740,
   "iconCameraPitch": 516,
-  "name": "Fire rune"
+  "name": "Fire rune",
+  "tradeable": true
 }

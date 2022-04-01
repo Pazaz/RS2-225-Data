@@ -19,5 +19,6 @@
   "name": "Halloween mask",
   "notedId": 1058,
   "wearSlot": "head",
-  "weight": 0.34
+  "weight": 0.34,
+  "tradeable": true
 }

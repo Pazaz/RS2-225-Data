@@ -18,5 +18,6 @@
   ],
   "name": "Worm crunchies",
   "notedId": 2238,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

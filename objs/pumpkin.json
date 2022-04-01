@@ -13,5 +13,6 @@
   "iconCameraPitch": 132,
   "name": "Pumpkin",
   "notedId": 1960,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

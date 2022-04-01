@@ -19,5 +19,6 @@
   ],
   "name": "Choc saturday",
   "notedId": 2031,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

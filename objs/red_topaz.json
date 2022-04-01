@@ -28,5 +28,6 @@
   ],
   "name": "Red topaz",
   "notedId": 1614,
-  "weight": 0.002
+  "weight": 0.002,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Raw chompy",
   "notedId": 2877,
-  "weight": 10
+  "weight": 10,
+  "tradeable": true
 }

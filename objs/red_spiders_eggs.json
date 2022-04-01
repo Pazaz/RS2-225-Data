@@ -9,5 +9,6 @@
   "iconCameraPitch": 252,
   "name": "Red spiders' eggs",
   "notedId": 224,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

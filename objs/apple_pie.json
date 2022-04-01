@@ -22,5 +22,6 @@
   ],
   "name": "Apple pie",
   "notedId": 2324,
-  "weight": 0.45
+  "weight": 0.45,
+  "tradeable": true
 }

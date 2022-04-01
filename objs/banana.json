@@ -13,5 +13,6 @@
   "iconCameraPitch": 280,
   "name": "Banana",
   "notedId": 1964,
-  "weight": 0.028
+  "weight": 0.028,
+  "tradeable": true
 }

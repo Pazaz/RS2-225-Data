@@ -10,5 +10,6 @@
   "members": true,
   "name": "Chopped onion",
   "notedId": 1872,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

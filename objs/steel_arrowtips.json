@@ -10,5 +10,6 @@
   "members": true,
   "stackable": true,
   "value": 6,
-  "name": "Steel arrowtips"
+  "name": "Steel arrowtips",
+  "tradeable": true
 }

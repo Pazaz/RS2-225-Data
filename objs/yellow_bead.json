@@ -14,5 +14,6 @@
   ],
   "name": "Yellow bead",
   "notedId": 1473,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

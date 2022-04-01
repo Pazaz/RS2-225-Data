@@ -28,5 +28,6 @@
   "name": "Cavalier",
   "notedId": 2644,
   "wearSlot": "head",
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

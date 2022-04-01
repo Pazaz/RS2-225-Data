@@ -17,5 +17,6 @@
   ],
   "name": "Raw swordfish",
   "notedId": 372,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

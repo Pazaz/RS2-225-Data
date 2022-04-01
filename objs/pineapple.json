@@ -13,5 +13,6 @@
   "iconCameraPitch": 228,
   "name": "Pineapple",
   "notedId": 2115,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

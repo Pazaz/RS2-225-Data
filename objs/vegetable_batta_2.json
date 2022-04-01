@@ -22,5 +22,6 @@
   ],
   "name": "Vegetable batta",
   "notedId": 2282,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

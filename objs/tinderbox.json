@@ -19,5 +19,6 @@
   ],
   "name": "Tinderbox",
   "notedId": 591,
-  "weight": 0.035
+  "weight": 0.035,
+  "tradeable": true
 }

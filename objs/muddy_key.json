@@ -15,5 +15,6 @@
   ],
   "name": "Muddy key",
   "notedId": 992,
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

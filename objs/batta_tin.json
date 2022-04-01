@@ -9,5 +9,6 @@
   "iconYaw": 136,
   "iconCameraPitch": 236,
   "name": "Batta tin",
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

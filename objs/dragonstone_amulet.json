@@ -30,5 +30,6 @@
   "name": "Dragonstoneamulet",
   "notedId": 1703,
   "wearSlot": "neck",
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

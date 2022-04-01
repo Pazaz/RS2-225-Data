@@ -17,5 +17,6 @@
   ],
   "name": "Magic shortbow",
   "notedId": 73,
-  "weight": 0.992
+  "weight": 0.992,
+  "tradeable": true
 }

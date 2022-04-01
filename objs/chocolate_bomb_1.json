@@ -19,5 +19,6 @@
   ],
   "name": "Chocolate bomb",
   "notedId": 2186,
-  "weight": 0.35
+  "weight": 0.35,
+  "tradeable": true
 }

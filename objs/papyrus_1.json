@@ -13,5 +13,6 @@
   "members": true,
   "name": "Papyrus",
   "notedId": 971,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

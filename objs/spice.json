@@ -10,5 +10,6 @@
   "members": true,
   "name": "Spice",
   "notedId": 2008,
-  "weight": 0.2
+  "weight": 0.2,
+  "tradeable": true
 }

@@ -17,5 +17,6 @@
   ],
   "name": "Yew shortbow",
   "notedId": 69,
-  "weight": 0.992
+  "weight": 0.992,
+  "tradeable": true
 }

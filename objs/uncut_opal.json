@@ -18,5 +18,6 @@
   ],
   "name": "Uncut opal",
   "notedId": 1626,
-  "weight": 0.003
+  "weight": 0.003,
+  "tradeable": true
 }

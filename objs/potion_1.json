@@ -14,5 +14,6 @@
   ],
   "name": "Potion",
   "notedId": 196,
-  "weight": 0.025
+  "weight": 0.025,
+  "tradeable": true
 }

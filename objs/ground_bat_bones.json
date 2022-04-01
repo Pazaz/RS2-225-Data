@@ -10,5 +10,6 @@
   "members": true,
   "name": "Ground bat bones",
   "notedId": 2392,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

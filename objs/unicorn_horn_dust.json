@@ -16,5 +16,6 @@
   ],
   "name": "Unicorn horn dust",
   "notedId": 236,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

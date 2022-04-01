@@ -14,5 +14,6 @@
   "femaleOffsetY": 6,
   "name": "Small fishing net",
   "notedId": 304,
-  "weight": 4.535
+  "weight": 4.535,
+  "tradeable": true
 }

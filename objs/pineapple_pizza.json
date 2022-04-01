@@ -23,5 +23,6 @@
   ],
   "name": "Pineapple pizza",
   "notedId": 2302,
-  "weight": 0.9
+  "weight": 0.9,
+  "tradeable": true
 }

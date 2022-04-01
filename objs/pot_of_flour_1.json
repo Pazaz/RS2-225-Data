@@ -10,5 +10,6 @@
   "value": 10,
   "name": "Pot of flour",
   "notedId": 1934,
-  "weight": 1.36
+  "weight": 1.36,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Gold bar",
   "notedId": 2358,
-  "weight": 1.814
+  "weight": 1.814,
+  "tradeable": true
 }

@@ -22,5 +22,6 @@
   ],
   "name": "Chocolate cake",
   "notedId": 1898,
-  "weight": 0.3
+  "weight": 0.3,
+  "tradeable": true
 }

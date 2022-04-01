@@ -19,5 +19,6 @@
   "newColors": [
     22433
   ],
-  "name": "Mithril seeds"
+  "name": "Mithril seeds",
+  "tradeable": true
 }

@@ -23,5 +23,6 @@
   "name": "Dragonstone ring",
   "notedId": 1646,
   "wearSlot": "ring",
-  "weight": 0.006
+  "weight": 0.006,
+  "tradeable": true
 }

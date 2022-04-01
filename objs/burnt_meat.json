@@ -18,5 +18,6 @@
   ],
   "name": "Burnt meat",
   "notedId": 2147,
-  "weight": 0.226
+  "weight": 0.226,
+  "tradeable": true
 }

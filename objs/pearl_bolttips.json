@@ -10,5 +10,6 @@
   "members": true,
   "stackable": true,
   "value": 56,
-  "name": "Pearl bolttips"
+  "name": "Pearl bolttips",
+  "tradeable": true
 }

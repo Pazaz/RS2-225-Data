@@ -19,5 +19,6 @@
   ],
   "name": "Anchovies",
   "notedId": 320,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

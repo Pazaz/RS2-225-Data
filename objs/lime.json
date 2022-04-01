@@ -12,5 +12,6 @@
   "iconCameraPitch": 596,
   "name": "Lime",
   "notedId": 2121,
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

@@ -22,5 +22,6 @@
   ],
   "name": "Yew logs",
   "notedId": 1516,
-  "weight": 2
+  "weight": 2,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Adamantite bar",
   "notedId": 2362,
-  "weight": 2.041
+  "weight": 2.041,
+  "tradeable": true
 }

@@ -18,5 +18,6 @@
   ],
   "name": "Iron ore",
   "notedId": 441,
-  "weight": 2.267
+  "weight": 2.267,
+  "tradeable": true
 }

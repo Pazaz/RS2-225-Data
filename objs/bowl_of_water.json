@@ -8,5 +8,6 @@
   "iconCameraPitch": 204,
   "name": "Bowl of water",
   "notedId": 1922,
-  "weight": 0.907
+  "weight": 0.907,
+  "tradeable": true
 }

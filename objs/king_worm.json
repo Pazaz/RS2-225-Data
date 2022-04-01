@@ -14,5 +14,6 @@
   "iconCameraPitch": 404,
   "name": "King worm",
   "notedId": 2163,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

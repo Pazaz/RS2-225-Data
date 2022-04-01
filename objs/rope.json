@@ -16,5 +16,6 @@
   ],
   "name": "Rope",
   "notedId": 955,
-  "weight": 1.36
+  "weight": 1.36,
+  "tradeable": true
 }

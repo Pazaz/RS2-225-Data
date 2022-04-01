@@ -12,5 +12,6 @@
   "iconCameraPitch": 76,
   "name": "Brandy",
   "notedId": 2022,
-  "weight": 1
+  "weight": 1,
+  "tradeable": true
 }

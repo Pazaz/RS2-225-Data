@@ -10,5 +10,6 @@
   "iconCameraPitch": 212,
   "name": "Blue dragon scale",
   "notedId": 244,
-  "weight": 0.01
+  "weight": 0.01,
+  "tradeable": true
 }

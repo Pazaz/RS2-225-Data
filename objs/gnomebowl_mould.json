@@ -8,5 +8,6 @@
   "iconYaw": 1888,
   "iconCameraPitch": 192,
   "name": "Gnomebowl mould",
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

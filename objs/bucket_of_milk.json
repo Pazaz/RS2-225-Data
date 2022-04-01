@@ -15,5 +15,6 @@
   ],
   "name": "Bucket of milk",
   "notedId": 1928,
-  "weight": 2.2
+  "weight": 2.2,
+  "tradeable": true
 }

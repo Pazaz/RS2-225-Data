@@ -18,5 +18,6 @@
   ],
   "name": "Rotten tomato",
   "notedId": 2519,
-  "weight": 0.08
+  "weight": 0.08,
+  "tradeable": true
 }

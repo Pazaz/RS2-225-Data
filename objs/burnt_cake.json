@@ -17,5 +17,6 @@
   ],
   "name": "Burnt cake",
   "notedId": 1904,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

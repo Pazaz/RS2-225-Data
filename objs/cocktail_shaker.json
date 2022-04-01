@@ -12,5 +12,6 @@
     "Inspect"
   ],
   "name": "Cocktail shaker",
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

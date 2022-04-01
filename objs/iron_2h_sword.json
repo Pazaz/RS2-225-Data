@@ -33,5 +33,6 @@
     "str": 14
   },
   "wearSlot": "2h",
-  "weight": 3.628
+  "weight": 3.628,
+  "tradeable": true
 }

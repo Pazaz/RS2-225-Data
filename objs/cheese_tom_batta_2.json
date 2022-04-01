@@ -20,5 +20,6 @@
   ],
   "name": "Cheese+tom batta",
   "notedId": 2260,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

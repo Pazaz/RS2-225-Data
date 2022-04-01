@@ -19,5 +19,6 @@
   ],
   "name": "Superantipoison(1)",
   "notedId": 186,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

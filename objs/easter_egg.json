@@ -11,5 +11,6 @@
   "iconCameraPitch": 2044,
   "name": "Easter egg",
   "notedId": 1962,
-  "weight": 0.085
+  "weight": 0.085,
+  "tradeable": true
 }

@@ -16,5 +16,6 @@
   ],
   "name": "Bucket of wax",
   "notedId": 31,
-  "weight": 2.5
+  "weight": 2.5,
+  "tradeable": true
 }

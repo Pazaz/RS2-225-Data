@@ -9,5 +9,6 @@
   "iconYaw": 1664,
   "iconCameraPitch": 252,
   "name": "Crunchy tray",
-  "weight": 0.1
+  "weight": 0.1,
+  "tradeable": true
 }

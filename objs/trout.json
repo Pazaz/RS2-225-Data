@@ -20,5 +20,6 @@
   ],
   "name": "Trout",
   "notedId": 334,
-  "weight": 0.4
+  "weight": 0.4,
+  "tradeable": true
 }

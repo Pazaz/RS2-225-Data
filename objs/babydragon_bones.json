@@ -11,5 +11,6 @@
   ],
   "name": "Babydragon bones",
   "notedId": 535,
-  "weight": 0.8
+  "weight": 0.8,
+  "tradeable": true
 }

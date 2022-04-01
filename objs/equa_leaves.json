@@ -13,5 +13,6 @@
   "iconCameraPitch": 664,
   "name": "Equa leaves",
   "notedId": 2129,
-  "weight": 0.014
+  "weight": 0.014,
+  "tradeable": true
 }

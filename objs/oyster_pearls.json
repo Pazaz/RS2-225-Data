@@ -11,5 +11,6 @@
   "members": true,
   "name": "Oyster pearls",
   "notedId": 414,
-  "weight": 0.004
+  "weight": 0.004,
+  "tradeable": true
 }

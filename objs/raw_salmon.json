@@ -17,5 +17,6 @@
   ],
   "name": "Raw salmon",
   "notedId": 332,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

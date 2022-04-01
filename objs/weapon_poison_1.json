@@ -16,5 +16,6 @@
   ],
   "name": "Weapon poison",
   "notedId": 188,
-  "weight": 0.025
+  "weight": 0.025,
+  "tradeable": true
 }

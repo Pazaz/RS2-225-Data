@@ -22,5 +22,6 @@
   ],
   "name": "Dragon bitter",
   "notedId": 1912,
-  "weight": 0.55
+  "weight": 0.55,
+  "tradeable": true
 }

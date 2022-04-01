@@ -11,5 +11,6 @@
   "description": "I can grind things for potions in this.",
   "name": "Pestle and mortar",
   "notedId": 234,
-  "weight": 0.056
+  "weight": 0.056,
+  "tradeable": true
 }

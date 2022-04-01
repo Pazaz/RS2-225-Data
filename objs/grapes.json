@@ -16,5 +16,6 @@
   ],
   "name": "Grapes",
   "notedId": 1988,
-  "weight": 0.25
+  "weight": 0.25,
+  "tradeable": true
 }

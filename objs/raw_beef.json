@@ -10,5 +10,6 @@
   "value": 1,
   "name": "Raw beef",
   "notedId": 2133,
-  "weight": 0.34
+  "weight": 0.34,
+  "tradeable": true
 }

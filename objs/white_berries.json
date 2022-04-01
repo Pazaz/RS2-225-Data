@@ -17,5 +17,6 @@
   ],
   "name": "White berries",
   "notedId": 240,
-  "weight": 0.007
+  "weight": 0.007,
+  "tradeable": true
 }

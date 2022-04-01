@@ -17,5 +17,6 @@
   ],
   "name": "Burnt swordfish",
   "notedId": 376,
-  "weight": 0.4
+  "weight": 0.4,
+  "tradeable": true
 }

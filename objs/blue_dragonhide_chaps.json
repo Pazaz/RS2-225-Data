@@ -40,5 +40,6 @@
     "drange": 20
   },
   "wearSlot": "legs",
-  "weight": 5.443
+  "weight": 5.443,
+  "tradeable": true
 }

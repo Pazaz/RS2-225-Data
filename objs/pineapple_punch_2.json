@@ -23,5 +23,6 @@
   ],
   "name": "Pineapple punch",
   "notedId": 2049,
-  "weight": 0.5
+  "weight": 0.5,
+  "tradeable": true
 }

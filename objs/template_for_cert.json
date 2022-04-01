@@ -6,5 +6,6 @@
   "iconZoom": 760,
   "iconYaw": 28,
   "iconCameraPitch": 552,
-  "name": "Template for cert"
+  "name": "Template for cert",
+  "tradeable": true
 }

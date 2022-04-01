@@ -14,5 +14,6 @@
   "iconCameraPitch": 340,
   "name": "Toad's legs",
   "notedId": 2153,
-  "weight": 0.15
+  "weight": 0.15,
+  "tradeable": true
 }

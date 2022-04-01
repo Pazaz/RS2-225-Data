@@ -31,5 +31,6 @@
   "wearBonus": {
     "rstr": 3
   },
-  "wearSlot": "weapon"
+  "wearSlot": "weapon",
+  "tradeable": true
 }

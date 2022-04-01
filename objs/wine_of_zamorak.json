@@ -15,5 +15,6 @@
   ],
   "name": "Wine of zamorak",
   "notedId": 246,
-  "weight": 0.085
+  "weight": 0.085,
+  "tradeable": true
 }

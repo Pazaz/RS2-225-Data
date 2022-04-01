@@ -20,5 +20,6 @@
   ],
   "name": "Seasoned sardine",
   "notedId": 1553,
-  "weight": 0.12
+  "weight": 0.12,
+  "tradeable": true
 }

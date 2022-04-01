@@ -15,5 +15,6 @@
   "iconCameraPitch": 244,
   "name": "Orange chunks",
   "notedId": 2111,
-  "weight": 0.09
+  "weight": 0.09,
+  "tradeable": true
 }

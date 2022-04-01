@@ -18,5 +18,6 @@
   ],
   "name": "Orange slices",
   "notedId": 2113,
-  "weight": 0.09
+  "weight": 0.09,
+  "tradeable": true
 }

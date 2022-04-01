@@ -19,5 +19,6 @@
   ],
   "name": "Defence potion(1)",
   "notedId": 138,
-  "weight": 0.02
+  "weight": 0.02,
+  "tradeable": true
 }

@@ -12,5 +12,6 @@
   "femaleOffsetY": 6,
   "name": "Lobster pot",
   "notedId": 302,
-  "weight": 0.255
+  "weight": 0.255,
+  "tradeable": true
 }

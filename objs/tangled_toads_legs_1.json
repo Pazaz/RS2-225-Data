@@ -13,5 +13,6 @@
   "members": true,
   "name": "Tangled toad's legs",
   "notedId": 2188,
-  "weight": 0.35
+  "weight": 0.35,
+  "tradeable": true
 }
