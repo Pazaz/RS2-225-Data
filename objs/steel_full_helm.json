@@ -25,5 +25,8 @@
     48030
   ],
   "name": "Steel full helm",
-  "notedId": 1158
+  "notedId": 1158,
+  "wearReq": {
+    "defence": 5
+  }
 }

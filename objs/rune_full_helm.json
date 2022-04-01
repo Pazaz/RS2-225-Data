@@ -27,5 +27,8 @@
     48030
   ],
   "name": "Rune full helm",
-  "notedId": 1164
+  "notedId": 1164,
+  "wearReq": {
+    "defence": 40
+  }
 }

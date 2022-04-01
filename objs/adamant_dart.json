@@ -24,5 +24,8 @@
   "newColors": [
     21662
   ],
-  "name": "Adamant dart"
+  "name": "Adamant dart",
+  "wearReq": {
+    "ranged": 30
+  }
 }

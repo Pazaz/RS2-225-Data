@@ -25,5 +25,8 @@
     937
   ],
   "name": "Zamorak platelegs",
-  "notedId": 2656
+  "notedId": 2656,
+  "wearReq": {
+    "defence": 40
+  }
 }

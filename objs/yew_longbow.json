@@ -24,5 +24,8 @@
     9135
   ],
   "name": "Yew longbow",
-  "notedId": 856
+  "notedId": 856,
+  "wearReq": {
+    "ranged": 40
+  }
 }

@@ -23,5 +23,8 @@
     43297
   ],
   "name": "Mithril sq shield",
-  "notedId": 1182
+  "notedId": 1182,
+  "wearReq": {
+    "defence": 20
+  }
 }

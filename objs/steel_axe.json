@@ -16,5 +16,8 @@
   "femaleModel0": 510,
   "femaleOffsetY": 6,
   "name": "Steel axe",
-  "notedId": 1354
+  "notedId": 1354,
+  "wearReq": {
+    "attack": 5
+  }
 }

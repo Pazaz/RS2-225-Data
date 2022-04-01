@@ -23,5 +23,9 @@
     43297
   ],
   "name": "Mithril pickaxe",
-  "notedId": 1274
+  "notedId": 1274,
+  "wearReq": {
+    "mining": 21,
+    "attack": 20
+  }
 }

@@ -27,5 +27,8 @@
     48030
   ],
   "name": "Adamant full helm",
-  "notedId": 1162
+  "notedId": 1162,
+  "wearReq": {
+    "defence": 30
+  }
 }

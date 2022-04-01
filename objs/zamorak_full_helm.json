@@ -27,5 +27,8 @@
     937
   ],
   "name": "Zamorak full helm",
-  "notedId": 2658
+  "notedId": 2658,
+  "wearReq": {
+    "defence": 40
+  }
 }

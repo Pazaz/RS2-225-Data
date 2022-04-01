@@ -22,5 +22,8 @@
     36133
   ],
   "name": "Rune axe",
-  "notedId": 1360
+  "notedId": 1360,
+  "wearReq": {
+    "attack": 40
+  }
 }

@@ -25,5 +25,8 @@
     21939
   ],
   "name": "Guthix platelegs",
-  "notedId": 2672
+  "notedId": 2672,
+  "wearReq": {
+    "defence": 40
+  }
 }

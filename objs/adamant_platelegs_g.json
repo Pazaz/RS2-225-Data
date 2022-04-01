@@ -25,5 +25,8 @@
     7114
   ],
   "name": "Adam platelegs (g)",
-  "notedId": 2610
+  "notedId": 2610,
+  "wearReq": {
+    "defence": 30
+  }
 }

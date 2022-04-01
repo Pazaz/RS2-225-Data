@@ -23,5 +23,8 @@
     36133
   ],
   "name": "Rune 2h sword",
-  "notedId": 1320
+  "notedId": 1320,
+  "wearReq": {
+    "attack": 40
+  }
 }

@@ -22,5 +22,8 @@
     43297
   ],
   "name": "Mithril axe",
-  "notedId": 1356
+  "notedId": 1356,
+  "wearReq": {
+    "attack": 20
+  }
 }

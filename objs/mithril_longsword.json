@@ -24,5 +24,8 @@
     43297
   ],
   "name": "Mithril longsword",
-  "notedId": 1300
+  "notedId": 1300,
+  "wearReq": {
+    "attack": 20
+  }
 }

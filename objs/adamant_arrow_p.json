@@ -34,5 +34,8 @@
     21662,
     13221
   ],
-  "name": "Adamant arrow(p)"
+  "name": "Adamant arrow(p)",
+  "wearReq": {
+    "ranged": 30
+  }
 }

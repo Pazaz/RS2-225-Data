@@ -31,5 +31,8 @@
     10467
   ],
   "name": "Saradomin plate",
-  "notedId": 2662
+  "notedId": 2662,
+  "wearReq": {
+    "defence": 40
+  }
 }

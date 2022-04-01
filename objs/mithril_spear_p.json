@@ -27,5 +27,8 @@
     13221
   ],
   "name": "Mithril spear(p)",
-  "notedId": 1258
+  "notedId": 1258,
+  "wearReq": {
+    "attack": 20
+  }
 }

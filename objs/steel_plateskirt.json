@@ -22,5 +22,8 @@
     41
   ],
   "name": "Steel plateskirt",
-  "notedId": 1084
+  "notedId": 1084,
+  "wearReq": {
+    "defence": 5
+  }
 }

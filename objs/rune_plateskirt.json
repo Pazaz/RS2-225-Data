@@ -24,5 +24,8 @@
     37270
   ],
   "name": "Rune plateskirt",
-  "notedId": 1094
+  "notedId": 1094,
+  "wearReq": {
+    "defence": 40
+  }
 }

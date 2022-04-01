@@ -24,5 +24,8 @@
     31516
   ],
   "name": "Magic shortbow",
-  "notedId": 862
+  "notedId": 862,
+  "wearReq": {
+    "ranged": 50
+  }
 }

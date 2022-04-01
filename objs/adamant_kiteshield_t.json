@@ -27,5 +27,8 @@
     14515
   ],
   "name": "Adam kiteshield (t)",
-  "notedId": 2604
+  "notedId": 2604,
+  "wearReq": {
+    "defence": 30
+  }
 }

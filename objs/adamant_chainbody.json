@@ -21,5 +21,8 @@
     21662
   ],
   "name": "Adamant chainbody",
-  "notedId": 1112
+  "notedId": 1112,
+  "wearReq": {
+    "defence": 30
+  }
 }

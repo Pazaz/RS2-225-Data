@@ -16,5 +16,8 @@
   "femaleModel0": 533,
   "femaleOffsetY": 6,
   "name": "Steel dagger",
-  "notedId": 1208
+  "notedId": 1208,
+  "wearReq": {
+    "attack": 5
+  }
 }

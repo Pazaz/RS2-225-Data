@@ -25,5 +25,8 @@
   "newColors": [
     61
   ],
-  "name": "Steel knife"
+  "name": "Steel knife",
+  "wearReq": {
+    "ranged": 5
+  }
 }

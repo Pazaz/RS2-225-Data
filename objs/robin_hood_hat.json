@@ -20,5 +20,8 @@
   "maleHeadModelA": 3384,
   "femaleHeadModelA": 3385,
   "name": "Robin hood hat",
-  "notedId": 2582
+  "notedId": 2582,
+  "wearReq": {
+    "ranged": 40
+  }
 }

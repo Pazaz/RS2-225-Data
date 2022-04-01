@@ -16,5 +16,8 @@
     null,
     "Wield"
   ],
-  "name": "Staff of saradomin"
+  "name": "Staff of saradomin",
+  "wearReq": {
+    "magic": 60
+  }
 }

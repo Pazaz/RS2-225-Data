@@ -40,5 +40,8 @@
     13790,
     9329
   ],
-  "name": "Ogre arrow"
+  "name": "Ogre arrow",
+  "wearReq": {
+    "ranged": 30
+  }
 }

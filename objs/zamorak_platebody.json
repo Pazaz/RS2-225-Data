@@ -29,5 +29,8 @@
     937
   ],
   "name": "Zamorak platebody",
-  "notedId": 2654
+  "notedId": 2654,
+  "wearReq": {
+    "defence": 40
+  }
 }

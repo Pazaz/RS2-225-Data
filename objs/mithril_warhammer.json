@@ -23,5 +23,8 @@
     43297
   ],
   "name": "Mithril warhammer",
-  "notedId": 1344
+  "notedId": 1344,
+  "wearReq": {
+    "attack": 20
+  }
 }

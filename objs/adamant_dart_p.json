@@ -26,5 +26,8 @@
     21662,
     13221
   ],
-  "name": "Adamant dart(p)"
+  "name": "Adamant dart(p)",
+  "wearReq": {
+    "ranged": 30
+  }
 }

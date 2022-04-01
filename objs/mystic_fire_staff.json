@@ -26,5 +26,9 @@
     960
   ],
   "name": "Mystic fire staff",
-  "notedId": 1402
+  "notedId": 1402,
+  "wearReq": {
+    "magic": 40,
+    "attack": 40
+  }
 }

@@ -25,5 +25,8 @@
     43297
   ],
   "name": "Mithril med helm",
-  "notedId": 1144
+  "notedId": 1144,
+  "wearReq": {
+    "defence": 20
+  }
 }

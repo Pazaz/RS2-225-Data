@@ -17,5 +17,8 @@
   "femaleModel0": 546,
   "femaleOffsetY": 6,
   "name": "Steel 2h sword",
-  "notedId": 1312
+  "notedId": 1312,
+  "wearReq": {
+    "attack": 5
+  }
 }

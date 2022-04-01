@@ -23,5 +23,8 @@
     36133
   ],
   "name": "Rune scimitar",
-  "notedId": 1334
+  "notedId": 1334,
+  "wearReq": {
+    "attack": 40
+  }
 }

@@ -24,5 +24,8 @@
   "newColors": [
     43297
   ],
-  "name": "Mithril javelin(p)"
+  "name": "Mithril javelin(p)",
+  "wearReq": {
+    "ranged": 20
+  }
 }

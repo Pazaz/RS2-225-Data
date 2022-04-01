@@ -22,5 +22,8 @@
     21662
   ],
   "name": "Adamant sword",
-  "notedId": 1288
+  "notedId": 1288,
+  "wearReq": {
+    "attack": 30
+  }
 }

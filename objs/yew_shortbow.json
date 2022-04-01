@@ -24,5 +24,8 @@
     9135
   ],
   "name": "Yew shortbow",
-  "notedId": 858
+  "notedId": 858,
+  "wearReq": {
+    "ranged": 40
+  }
 }

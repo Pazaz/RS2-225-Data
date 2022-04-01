@@ -22,5 +22,8 @@
     21662
   ],
   "name": "Adamant mace",
-  "notedId": 1431
+  "notedId": 1431,
+  "wearReq": {
+    "attack": 30
+  }
 }

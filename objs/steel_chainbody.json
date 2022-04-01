@@ -14,5 +14,8 @@
   "femaleModel0": 458,
   "femaleOffsetY": 0,
   "name": "Steel chainbody",
-  "notedId": 1106
+  "notedId": 1106,
+  "wearReq": {
+    "defence": 5
+  }
 }

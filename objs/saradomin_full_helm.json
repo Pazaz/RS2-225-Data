@@ -27,5 +27,8 @@
     10467
   ],
   "name": "Saradomin full",
-  "notedId": 2666
+  "notedId": 2666,
+  "wearReq": {
+    "defence": 40
+  }
 }

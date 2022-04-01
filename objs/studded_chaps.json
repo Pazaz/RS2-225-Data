@@ -17,5 +17,8 @@
   "femaleModel0": 441,
   "femaleOffsetY": 0,
   "name": "Studded chaps",
-  "notedId": 1098
+  "notedId": 1098,
+  "wearReq": {
+    "ranged": 20
+  }
 }

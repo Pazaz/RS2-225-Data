@@ -23,5 +23,8 @@
     8111
   ],
   "name": "Oak longbow",
-  "notedId": 846
+  "notedId": 846,
+  "wearReq": {
+    "ranged": 5
+  }
 }

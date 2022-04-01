@@ -27,5 +27,8 @@
     21776
   ],
   "name": "Adamant platebody",
-  "notedId": 1124
+  "notedId": 1124,
+  "wearReq": {
+    "defence": 30
+  }
 }

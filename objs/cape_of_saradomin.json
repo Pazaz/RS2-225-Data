@@ -29,5 +29,8 @@
     10714,
     127
   ],
-  "name": "Cape of saradomin"
+  "name": "Cape of saradomin",
+  "wearReq": {
+    "magic": 60
+  }
 }

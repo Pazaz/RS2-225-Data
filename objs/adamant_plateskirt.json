@@ -24,5 +24,8 @@
     21776
   ],
   "name": "Adamant plateskirt",
-  "notedId": 1092
+  "notedId": 1092,
+  "wearReq": {
+    "defence": 30
+  }
 }

@@ -26,5 +26,9 @@
     3501
   ],
   "name": "Mystic earth staff",
-  "notedId": 1408
+  "notedId": 1408,
+  "wearReq": {
+    "magic": 40,
+    "attack": 40
+  }
 }

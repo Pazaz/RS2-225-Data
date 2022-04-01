@@ -27,5 +27,8 @@
     8,
     13221
   ],
-  "name": "Black knife(p)"
+  "name": "Black knife(p)",
+  "wearReq": {
+    "ranged": 10
+  }
 }

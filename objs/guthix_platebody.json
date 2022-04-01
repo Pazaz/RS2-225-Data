@@ -29,5 +29,8 @@
     21939
   ],
   "name": "Guthix platebody",
-  "notedId": 2670
+  "notedId": 2670,
+  "wearReq": {
+    "defence": 40
+  }
 }

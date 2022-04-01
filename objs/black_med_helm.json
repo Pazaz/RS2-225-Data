@@ -29,5 +29,8 @@
     48030
   ],
   "name": "Black med helm",
-  "notedId": 1152
+  "notedId": 1152,
+  "wearReq": {
+    "defence": 10
+  }
 }

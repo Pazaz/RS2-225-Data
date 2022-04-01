@@ -24,5 +24,8 @@
   "newColors": [
     36133
   ],
-  "name": "Rune javelin(p)"
+  "name": "Rune javelin(p)",
+  "wearReq": {
+    "ranged": 40
+  }
 }

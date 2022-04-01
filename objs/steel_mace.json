@@ -16,5 +16,8 @@
   "iconYaw": 1188,
   "iconCameraPitch": 392,
   "name": "Steel mace",
-  "notedId": 1425
+  "notedId": 1425,
+  "wearReq": {
+    "attack": 5
+  }
 }

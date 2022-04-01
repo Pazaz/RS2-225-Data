@@ -27,5 +27,8 @@
     21939
   ],
   "name": "Guthix full helm",
-  "notedId": 2674
+  "notedId": 2674,
+  "wearReq": {
+    "defence": 40
+  }
 }

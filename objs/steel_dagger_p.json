@@ -23,5 +23,8 @@
     13221
   ],
   "name": "Steel dagger(p)",
-  "notedId": 1224
+  "notedId": 1224,
+  "wearReq": {
+    "attack": 5
+  }
 }

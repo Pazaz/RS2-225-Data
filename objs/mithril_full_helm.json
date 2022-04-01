@@ -27,5 +27,8 @@
     48030
   ],
   "name": "Mithril full helm",
-  "notedId": 1160
+  "notedId": 1160,
+  "wearReq": {
+    "defence": 20
+  }
 }

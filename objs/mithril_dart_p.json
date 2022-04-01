@@ -26,5 +26,8 @@
     43297,
     13221
   ],
-  "name": "Mithril dart(p)"
+  "name": "Mithril dart(p)",
+  "wearReq": {
+    "ranged": 20
+  }
 }

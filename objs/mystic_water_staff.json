@@ -26,5 +26,9 @@
     43968
   ],
   "name": "Mystic water staff",
-  "notedId": 1404
+  "notedId": 1404,
+  "wearReq": {
+    "magic": 40,
+    "attack": 40
+  }
 }

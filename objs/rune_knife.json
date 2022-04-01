@@ -27,5 +27,8 @@
     36133,
     36133
   ],
-  "name": "Rune knife"
+  "name": "Rune knife",
+  "wearReq": {
+    "ranged": 40
+  }
 }

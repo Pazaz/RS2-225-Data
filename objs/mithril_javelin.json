@@ -26,5 +26,8 @@
     43297,
     43297
   ],
-  "name": "Mithril javelin"
+  "name": "Mithril javelin",
+  "wearReq": {
+    "ranged": 20
+  }
 }

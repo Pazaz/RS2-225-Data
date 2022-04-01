@@ -23,5 +23,8 @@
     36133
   ],
   "name": "Rune battleaxe",
-  "notedId": 1374
+  "notedId": 1374,
+  "wearReq": {
+    "attack": 40
+  }
 }

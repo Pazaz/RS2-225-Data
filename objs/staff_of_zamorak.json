@@ -17,5 +17,8 @@
     null,
     "Wield"
   ],
-  "name": "Staff of zamorak"
+  "name": "Staff of zamorak",
+  "wearReq": {
+    "magic": 60
+  }
 }

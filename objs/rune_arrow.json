@@ -34,5 +34,8 @@
     36133,
     36133
   ],
-  "name": "Rune arrow"
+  "name": "Rune arrow",
+  "wearReq": {
+    "ranged": 40
+  }
 }

@@ -25,5 +25,8 @@
     4,
     5
   ],
-  "name": "Steel arrow"
+  "name": "Steel arrow",
+  "wearReq": {
+    "ranged": 5
+  }
 }

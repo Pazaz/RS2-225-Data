@@ -23,5 +23,8 @@
     12
   ],
   "name": "Black sq shield",
-  "notedId": 1180
+  "notedId": 1180,
+  "wearReq": {
+    "defence": 10
+  }
 }

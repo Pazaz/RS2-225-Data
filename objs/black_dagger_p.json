@@ -31,5 +31,8 @@
     13221
   ],
   "name": "Black dagger(p)",
-  "notedId": 1234
+  "notedId": 1234,
+  "wearReq": {
+    "attack": 10
+  }
 }

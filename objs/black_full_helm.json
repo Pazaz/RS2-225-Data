@@ -27,5 +27,8 @@
     48030
   ],
   "name": "Black full helm",
-  "notedId": 1166
+  "notedId": 1166,
+  "wearReq": {
+    "defence": 10
+  }
 }

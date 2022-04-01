@@ -25,5 +25,8 @@
     21662
   ],
   "name": "Adamant med helm",
-  "notedId": 1146
+  "notedId": 1146,
+  "wearReq": {
+    "defence": 30
+  }
 }

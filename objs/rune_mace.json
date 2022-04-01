@@ -22,5 +22,8 @@
     36133
   ],
   "name": "Rune mace",
-  "notedId": 1433
+  "notedId": 1433,
+  "wearReq": {
+    "attack": 40
+  }
 }

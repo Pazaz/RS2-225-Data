@@ -18,5 +18,8 @@
   "femaleModel0": 518,
   "femaleOffsetY": 6,
   "name": "Steel longsword",
-  "notedId": 1296
+  "notedId": 1296,
+  "wearReq": {
+    "attack": 5
+  }
 }

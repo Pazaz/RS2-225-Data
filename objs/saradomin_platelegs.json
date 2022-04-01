@@ -25,5 +25,8 @@
     10467
   ],
   "name": "Saradomin legs",
-  "notedId": 2664
+  "notedId": 2664,
+  "wearReq": {
+    "defence": 40
+  }
 }

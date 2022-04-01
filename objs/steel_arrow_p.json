@@ -32,5 +32,8 @@
   "newColors": [
     13221
   ],
-  "name": "Steel arrow(p)"
+  "name": "Steel arrow(p)",
+  "wearReq": {
+    "ranged": 5
+  }
 }

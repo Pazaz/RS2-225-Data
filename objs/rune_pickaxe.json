@@ -23,5 +23,9 @@
     36133
   ],
   "name": "Rune pickaxe",
-  "notedId": 1276
+  "notedId": 1276,
+  "wearReq": {
+    "mining": 41,
+    "attack": 40
+  }
 }

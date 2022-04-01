@@ -17,5 +17,8 @@
   "femaleModel0": 539,
   "femaleOffsetY": 6,
   "name": "Dragon dagger(p)",
-  "notedId": 1232
+  "notedId": 1232,
+  "wearReq": {
+    "attack": 60
+  }
 }

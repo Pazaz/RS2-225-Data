@@ -31,5 +31,8 @@
     13221
   ],
   "name": "Rune dagger(p)",
-  "notedId": 1230
+  "notedId": 1230,
+  "wearReq": {
+    "attack": 40
+  }
 }

@@ -25,5 +25,8 @@
     43297
   ],
   "name": "Mithril platelegs",
-  "notedId": 1072
+  "notedId": 1072,
+  "wearReq": {
+    "defence": 20
+  }
 }

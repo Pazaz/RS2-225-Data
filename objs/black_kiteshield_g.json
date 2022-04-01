@@ -27,5 +27,8 @@
     7114
   ],
   "name": "Black kiteshield (g)",
-  "notedId": 2598
+  "notedId": 2598,
+  "wearReq": {
+    "defence": 10
+  }
 }

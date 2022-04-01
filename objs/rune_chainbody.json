@@ -21,5 +21,8 @@
     36133
   ],
   "name": "Rune chainbody",
-  "notedId": 1114
+  "notedId": 1114,
+  "wearReq": {
+    "defence": 40
+  }
 }

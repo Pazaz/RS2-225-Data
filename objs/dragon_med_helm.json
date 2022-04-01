@@ -30,5 +30,8 @@
     924
   ],
   "name": "Dragon med helm",
-  "notedId": 1150
+  "notedId": 1150,
+  "wearReq": {
+    "defence": 60
+  }
 }

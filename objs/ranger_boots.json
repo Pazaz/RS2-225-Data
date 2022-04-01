@@ -24,5 +24,8 @@
     22416
   ],
   "name": "Ranger boots",
-  "notedId": 2578
+  "notedId": 2578,
+  "wearReq": {
+    "ranged": 40
+  }
 }

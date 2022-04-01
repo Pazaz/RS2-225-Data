@@ -25,5 +25,8 @@
     24
   ],
   "name": "Black platelegs (t)",
-  "notedId": 2586
+  "notedId": 2586,
+  "wearReq": {
+    "defence": 10
+  }
 }

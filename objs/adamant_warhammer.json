@@ -23,5 +23,8 @@
     21662
   ],
   "name": "Adamnt warhammer",
-  "notedId": 1346
+  "notedId": 1346,
+  "wearReq": {
+    "attack": 30
+  }
 }

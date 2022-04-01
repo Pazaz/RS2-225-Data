@@ -23,5 +23,8 @@
     21662
   ],
   "name": "Adamant battleaxe",
-  "notedId": 1372
+  "notedId": 1372,
+  "wearReq": {
+    "attack": 30
+  }
 }

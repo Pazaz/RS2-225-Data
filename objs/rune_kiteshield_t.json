@@ -27,5 +27,8 @@
     38226
   ],
   "name": "Rune kiteshield (t)",
-  "notedId": 2630
+  "notedId": 2630,
+  "wearReq": {
+    "defence": 40
+  }
 }

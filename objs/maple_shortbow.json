@@ -24,5 +24,8 @@
     2250
   ],
   "name": "Maple shortbow",
-  "notedId": 854
+  "notedId": 854,
+  "wearReq": {
+    "ranged": 30
+  }
 }

@@ -19,5 +19,8 @@
   "maleHeadModelA": 57,
   "femaleHeadModelA": 117,
   "name": "Steel med helm",
-  "notedId": 1142
+  "notedId": 1142,
+  "wearReq": {
+    "defence": 5
+  }
 }

@@ -17,5 +17,8 @@
   "femaleModel0": 490,
   "femaleOffsetY": 6,
   "name": "Steel scimitar",
-  "notedId": 1326
+  "notedId": 1326,
+  "wearReq": {
+    "attack": 5
+  }
 }

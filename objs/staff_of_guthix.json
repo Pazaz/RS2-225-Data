@@ -16,5 +16,8 @@
     null,
     "Wield"
   ],
-  "name": "Staff of guthix"
+  "name": "Staff of guthix",
+  "wearReq": {
+    "magic": 60
+  }
 }

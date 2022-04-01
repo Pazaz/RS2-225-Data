@@ -27,5 +27,8 @@
     8,
     0
   ],
-  "name": "Black knife"
+  "name": "Black knife",
+  "wearReq": {
+    "ranged": 10
+  }
 }

@@ -26,5 +26,8 @@
     43297,
     43297
   ],
-  "name": "Mithril thrownaxe"
+  "name": "Mithril thrownaxe",
+  "wearReq": {
+    "ranged": 20
+  }
 }

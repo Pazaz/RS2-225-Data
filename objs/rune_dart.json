@@ -24,5 +24,8 @@
   "newColors": [
     36133
   ],
-  "name": "Rune dart"
+  "name": "Rune dart",
+  "wearReq": {
+    "ranged": 40
+  }
 }

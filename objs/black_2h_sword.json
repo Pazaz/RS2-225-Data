@@ -23,5 +23,8 @@
     0
   ],
   "name": "Black 2h sword",
-  "notedId": 1314
+  "notedId": 1314,
+  "wearReq": {
+    "attack": 10
+  }
 }

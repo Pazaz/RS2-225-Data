@@ -17,5 +17,8 @@
   "femaleModel0": 423,
   "femaleOffsetY": 0,
   "name": "Dragonhide chaps",
-  "notedId": 1100
+  "notedId": 1100,
+  "wearReq": {
+    "ranged": 40
+  }
 }

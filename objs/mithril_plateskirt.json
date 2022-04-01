@@ -24,5 +24,8 @@
     43282
   ],
   "name": "Mithril plateskirt",
-  "notedId": 1086
+  "notedId": 1086,
+  "wearReq": {
+    "defence": 20
+  }
 }

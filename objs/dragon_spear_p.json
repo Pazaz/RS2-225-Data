@@ -25,5 +25,8 @@
     13221
   ],
   "name": "Dragon spear(p)",
-  "notedId": 1264
+  "notedId": 1264,
+  "wearReq": {
+    "attack": 60
+  }
 }

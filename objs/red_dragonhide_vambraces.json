@@ -28,5 +28,8 @@
     912
   ],
   "name": "Dragon vambraces",
-  "notedId": 2490
+  "notedId": 2490,
+  "wearReq": {
+    "ranged": 60
+  }
 }

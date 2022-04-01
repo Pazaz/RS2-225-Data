@@ -23,5 +23,8 @@
     7054
   ],
   "name": "Steel kiteshield",
-  "notedId": 1194
+  "notedId": 1194,
+  "wearReq": {
+    "defence": 5
+  }
 }

@@ -23,5 +23,8 @@
     36133
   ],
   "name": "Rune warhammer",
-  "notedId": 1348
+  "notedId": 1348,
+  "wearReq": {
+    "attack": 40
+  }
 }

@@ -23,5 +23,8 @@
     8111
   ],
   "name": "Oak shortbow",
-  "notedId": 844
+  "notedId": 844,
+  "wearReq": {
+    "ranged": 5
+  }
 }

@@ -27,5 +27,8 @@
     21662,
     21662
   ],
-  "name": "Adamant knife"
+  "name": "Adamant knife",
+  "wearReq": {
+    "ranged": 30
+  }
 }

@@ -14,5 +14,9 @@
   "femaleModel0": 466,
   "femaleOffsetY": 0,
   "name": "Studded body",
-  "notedId": 1134
+  "notedId": 1134,
+  "wearReq": {
+    "ranged": 20,
+    "defence": 20
+  }
 }

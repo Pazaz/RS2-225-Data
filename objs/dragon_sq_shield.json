@@ -18,5 +18,8 @@
   "femaleModel0": 565,
   "femaleOffsetY": 6,
   "name": "Dragon sq shield",
-  "notedId": 1188
+  "notedId": 1188,
+  "wearReq": {
+    "defence": 60
+  }
 }

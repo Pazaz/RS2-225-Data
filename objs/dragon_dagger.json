@@ -23,5 +23,8 @@
     924
   ],
   "name": "Dragon dagger",
-  "notedId": 1216
+  "notedId": 1216,
+  "wearReq": {
+    "attack": 60
+  }
 }

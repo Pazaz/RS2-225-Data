@@ -24,5 +24,8 @@
     4,
     5
   ],
-  "name": "Adamnt fire arrows"
+  "name": "Adamnt fire arrows",
+  "wearReq": {
+    "ranged": 30
+  }
 }

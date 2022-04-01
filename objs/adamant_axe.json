@@ -22,5 +22,8 @@
     21662
   ],
   "name": "Adamant axe",
-  "notedId": 1358
+  "notedId": 1358,
+  "wearReq": {
+    "attack": 30
+  }
 }

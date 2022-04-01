@@ -20,5 +20,9 @@
   "femaleOffsetY": 6,
   "femaleModel1": 567,
   "name": "Mystic air staff",
-  "notedId": 1406
+  "notedId": 1406,
+  "wearReq": {
+    "magic": 40,
+    "attack": 40
+  }
 }

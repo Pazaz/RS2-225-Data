@@ -23,5 +23,9 @@
     21662
   ],
   "name": "Adamant pickaxe",
-  "notedId": 1272
+  "notedId": 1272,
+  "wearReq": {
+    "mining": 31,
+    "attack": 30
+  }
 }

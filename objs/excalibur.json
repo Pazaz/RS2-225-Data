@@ -17,5 +17,8 @@
   "maleOffsetY": 0,
   "femaleModel0": 501,
   "femaleOffsetY": 6,
-  "name": "Excalibur"
+  "name": "Excalibur",
+  "wearReq": {
+    "attack": 20
+  }
 }

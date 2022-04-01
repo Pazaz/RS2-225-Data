@@ -23,5 +23,8 @@
     61
   ],
   "name": "Steel sq shield",
-  "notedId": 1178
+  "notedId": 1178,
+  "wearReq": {
+    "defence": 5
+  }
 }

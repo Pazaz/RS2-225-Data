@@ -18,5 +18,8 @@
   "iconCameraPitch": 268,
   "stackable": true,
   "members": true,
-  "name": "Steel javelin(p)"
+  "name": "Steel javelin(p)",
+  "wearReq": {
+    "ranged": 5
+  }
 }

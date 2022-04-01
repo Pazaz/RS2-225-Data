@@ -22,5 +22,8 @@
     43297
   ],
   "name": "Mithril mace",
-  "notedId": 1429
+  "notedId": 1429,
+  "wearReq": {
+    "attack": 20
+  }
 }

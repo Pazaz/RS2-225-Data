@@ -29,5 +29,8 @@
     33690,
     33690
   ],
-  "name": "Cape of guthix"
+  "name": "Cape of guthix",
+  "wearReq": {
+    "magic": 60
+  }
 }

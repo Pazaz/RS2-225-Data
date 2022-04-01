@@ -34,5 +34,8 @@
     43297,
     43297
   ],
-  "name": "Mithril arrow"
+  "name": "Mithril arrow",
+  "wearReq": {
+    "ranged": 20
+  }
 }

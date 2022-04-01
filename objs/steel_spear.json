@@ -27,5 +27,8 @@
     61
   ],
   "name": "Steel spear",
-  "notedId": 1242
+  "notedId": 1242,
+  "wearReq": {
+    "attack": 5
+  }
 }

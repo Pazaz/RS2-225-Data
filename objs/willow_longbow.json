@@ -24,5 +24,8 @@
     9903
   ],
   "name": "Willow longbow",
-  "notedId": 848
+  "notedId": 848,
+  "wearReq": {
+    "ranged": 20
+  }
 }

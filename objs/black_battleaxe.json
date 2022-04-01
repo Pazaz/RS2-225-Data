@@ -23,5 +23,8 @@
     0
   ],
   "name": "Black battleaxe",
-  "notedId": 1368
+  "notedId": 1368,
+  "wearReq": {
+    "attack": 10
+  }
 }

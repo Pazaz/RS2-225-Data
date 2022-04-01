@@ -26,5 +26,8 @@
     21662,
     21662
   ],
-  "name": "Adamnt thrownaxe"
+  "name": "Adamnt thrownaxe",
+  "wearReq": {
+    "ranged": 30
+  }
 }

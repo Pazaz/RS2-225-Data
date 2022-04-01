@@ -17,5 +17,9 @@
     "Wield"
   ],
   "name": "Steel pickaxe",
-  "notedId": 1270
+  "notedId": 1270,
+  "wearReq": {
+    "mining": 6,
+    "attack": 5
+  }
 }

@@ -27,5 +27,8 @@
     7114
   ],
   "name": "Adam full helm (g)",
-  "notedId": 2614
+  "notedId": 2614,
+  "wearReq": {
+    "defence": 30
+  }
 }

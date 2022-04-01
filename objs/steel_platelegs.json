@@ -21,5 +21,8 @@
     61
   ],
   "name": "Steel platelegs",
-  "notedId": 1070
+  "notedId": 1070,
+  "wearReq": {
+    "defence": 5
+  }
 }

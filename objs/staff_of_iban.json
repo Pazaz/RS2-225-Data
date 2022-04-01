@@ -16,5 +16,9 @@
   "maleOffsetY": 0,
   "femaleModel0": 514,
   "femaleOffsetY": 6,
-  "name": "Staff of iban"
+  "name": "Staff of iban",
+  "wearReq": {
+    "magic": 50,
+    "attack": 50
+  }
 }

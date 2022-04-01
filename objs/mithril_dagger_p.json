@@ -31,5 +31,8 @@
     13221
   ],
   "name": "Mithril dagger(p)",
-  "notedId": 1226
+  "notedId": 1226,
+  "wearReq": {
+    "attack": 20
+  }
 }

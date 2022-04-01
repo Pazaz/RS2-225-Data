@@ -24,5 +24,8 @@
     4,
     5
   ],
-  "name": "Steel fire arrows"
+  "name": "Steel fire arrows",
+  "wearReq": {
+    "ranged": 5
+  }
 }

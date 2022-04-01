@@ -17,5 +17,8 @@
   "femaleModel0": 564,
   "femaleOffsetY": 6,
   "name": "Dragon longsword",
-  "notedId": 1306
+  "notedId": 1306,
+  "wearReq": {
+    "attack": 60
+  }
 }

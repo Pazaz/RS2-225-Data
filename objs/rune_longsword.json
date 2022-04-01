@@ -24,5 +24,8 @@
     36133
   ],
   "name": "Rune longsword",
-  "notedId": 1304
+  "notedId": 1304,
+  "wearReq": {
+    "attack": 40
+  }
 }

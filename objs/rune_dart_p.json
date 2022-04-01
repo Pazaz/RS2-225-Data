@@ -26,5 +26,8 @@
     36133,
     13221
   ],
-  "name": "Rune dart(p)"
+  "name": "Rune dart(p)",
+  "wearReq": {
+    "ranged": 40
+  }
 }

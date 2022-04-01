@@ -18,5 +18,9 @@
   "femaleModel0": 477,
   "femaleOffsetY": 0,
   "name": "Dragonhide body",
-  "notedId": 1136
+  "notedId": 1136,
+  "wearReq": {
+    "ranged": 40,
+    "defence": 40
+  }
 }

@@ -23,5 +23,8 @@
     36133
   ],
   "name": "Rune sq shield",
-  "notedId": 1186
+  "notedId": 1186,
+  "wearReq": {
+    "defence": 40
+  }
 }

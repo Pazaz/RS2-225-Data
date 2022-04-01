@@ -26,5 +26,8 @@
     36133,
     36133
   ],
-  "name": "Rune javelin"
+  "name": "Rune javelin",
+  "wearReq": {
+    "ranged": 40
+  }
 }

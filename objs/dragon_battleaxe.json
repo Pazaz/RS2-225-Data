@@ -18,5 +18,8 @@
   "femaleModel0": 559,
   "femaleOffsetY": 6,
   "name": "Dragon battleaxe",
-  "notedId": 1378
+  "notedId": 1378,
+  "wearReq": {
+    "attack": 60
+  }
 }

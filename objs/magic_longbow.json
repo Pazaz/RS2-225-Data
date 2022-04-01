@@ -24,5 +24,8 @@
     31516
   ],
   "name": "Magic longbow",
-  "notedId": 860
+  "notedId": 860,
+  "wearReq": {
+    "ranged": 50
+  }
 }

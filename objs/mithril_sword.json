@@ -22,5 +22,8 @@
     43297
   ],
   "name": "Mithril sword",
-  "notedId": 1286
+  "notedId": 1286,
+  "wearReq": {
+    "attack": 20
+  }
 }

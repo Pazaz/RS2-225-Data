@@ -27,5 +27,8 @@
     10467
   ],
   "name": "Saradomin kite",
-  "notedId": 2668
+  "notedId": 2668,
+  "wearReq": {
+    "defence": 40
+  }
 }

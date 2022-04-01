@@ -25,5 +25,8 @@
     7054
   ],
   "name": "Mithril kiteshield",
-  "notedId": 1198
+  "notedId": 1198,
+  "wearReq": {
+    "defence": 20
+  }
 }

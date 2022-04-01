@@ -26,5 +26,8 @@
     61,
     13221
   ],
-  "name": "Steel dart(p)"
+  "name": "Steel dart(p)",
+  "wearReq": {
+    "ranged": 5
+  }
 }

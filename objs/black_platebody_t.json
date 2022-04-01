@@ -27,5 +27,8 @@
     0
   ],
   "name": "Black platebody (t)",
-  "notedId": 2584
+  "notedId": 2584,
+  "wearReq": {
+    "defence": 10
+  }
 }

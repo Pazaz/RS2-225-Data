@@ -20,5 +20,8 @@
     0
   ],
   "name": "Black chainbody",
-  "notedId": 1108
+  "notedId": 1108,
+  "wearReq": {
+    "defence": 10
+  }
 }

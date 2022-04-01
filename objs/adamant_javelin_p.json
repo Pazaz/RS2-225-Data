@@ -24,5 +24,8 @@
   "newColors": [
     21662
   ],
-  "name": "Adamant javelin(p)"
+  "name": "Adamant javelin(p)",
+  "wearReq": {
+    "ranged": 30
+  }
 }

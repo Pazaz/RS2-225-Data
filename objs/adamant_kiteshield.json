@@ -25,5 +25,8 @@
     7054
   ],
   "name": "Adamant kiteshield",
-  "notedId": 1200
+  "notedId": 1200,
+  "wearReq": {
+    "defence": 30
+  }
 }

@@ -27,5 +27,8 @@
     43282
   ],
   "name": "Mithril platebody",
-  "notedId": 1122
+  "notedId": 1122,
+  "wearReq": {
+    "defence": 20
+  }
 }

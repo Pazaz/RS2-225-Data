@@ -25,5 +25,8 @@
     38226
   ],
   "name": "Rune platelegs (t)",
-  "notedId": 2626
+  "notedId": 2626,
+  "wearReq": {
+    "defence": 40
+  }
 }

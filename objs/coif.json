@@ -21,5 +21,8 @@
   "maleHeadModelB": 63,
   "femaleHeadModelB": 120,
   "name": "Coif",
-  "notedId": 1170
+  "notedId": 1170,
+  "wearReq": {
+    "ranged": 20
+  }
 }

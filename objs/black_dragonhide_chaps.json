@@ -26,5 +26,8 @@
     16
   ],
   "name": "Dragonhide chaps",
-  "notedId": 2498
+  "notedId": 2498,
+  "wearReq": {
+    "ranged": 70
+  }
 }

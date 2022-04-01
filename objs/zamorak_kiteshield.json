@@ -27,5 +27,8 @@
     937
   ],
   "name": "Zamorak kiteshield",
-  "notedId": 2660
+  "notedId": 2660,
+  "wearReq": {
+    "defence": 40
+  }
 }

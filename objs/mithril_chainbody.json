@@ -21,5 +21,8 @@
     43297
   ],
   "name": "Mithril chainbody",
-  "notedId": 1110
+  "notedId": 1110,
+  "wearReq": {
+    "defence": 20
+  }
 }

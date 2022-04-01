@@ -26,5 +26,8 @@
     37270
   ],
   "name": "Rune platebody",
-  "notedId": 1128
+  "notedId": 1128,
+  "wearReq": {
+    "defence": 40
+  }
 }

@@ -27,5 +27,8 @@
     14515
   ],
   "name": "Adam platebody (t)",
-  "notedId": 2600
+  "notedId": 2600,
+  "wearReq": {
+    "defence": 30
+  }
 }

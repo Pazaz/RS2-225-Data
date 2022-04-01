@@ -25,5 +25,8 @@
   "newColors": [
     13221
   ],
-  "name": "Steel knife(p)"
+  "name": "Steel knife(p)",
+  "wearReq": {
+    "ranged": 5
+  }
 }

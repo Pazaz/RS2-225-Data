@@ -23,5 +23,8 @@
     43297
   ],
   "name": "Mithril battleaxe",
-  "notedId": 1370
+  "notedId": 1370,
+  "wearReq": {
+    "attack": 20
+  }
 }

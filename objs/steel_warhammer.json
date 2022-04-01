@@ -17,5 +17,8 @@
   "iconYaw": 456,
   "iconCameraPitch": 344,
   "name": "Steel warhammer",
-  "notedId": 1340
+  "notedId": 1340,
+  "wearReq": {
+    "attack": 5
+  }
 }

@@ -26,5 +26,8 @@
     4,
     5
   ],
-  "name": "Rune fire arrows"
+  "name": "Rune fire arrows",
+  "wearReq": {
+    "ranged": 40
+  }
 }

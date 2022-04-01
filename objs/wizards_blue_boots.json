@@ -24,5 +24,8 @@
     38814
   ],
   "name": "Wizard's boots",
-  "notedId": 2580
+  "notedId": 2580,
+  "wearReq": {
+    "magic": 20
+  }
 }

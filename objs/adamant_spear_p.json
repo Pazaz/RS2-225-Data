@@ -27,5 +27,8 @@
     13221
   ],
   "name": "Adamant spear(p)",
-  "notedId": 1260
+  "notedId": 1260,
+  "wearReq": {
+    "attack": 30
+  }
 }

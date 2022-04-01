@@ -27,5 +27,8 @@
     21939
   ],
   "name": "Guthix kiteshield",
-  "notedId": 2676
+  "notedId": 2676,
+  "wearReq": {
+    "defence": 40
+  }
 }

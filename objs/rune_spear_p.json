@@ -27,5 +27,8 @@
     13221
   ],
   "name": "Rune spear(p)",
-  "notedId": 1262
+  "notedId": 1262,
+  "wearReq": {
+    "attack": 40
+  }
 }

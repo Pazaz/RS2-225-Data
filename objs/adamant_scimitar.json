@@ -23,5 +23,8 @@
     21662
   ],
   "name": "Adamant scimitar",
-  "notedId": 1332
+  "notedId": 1332,
+  "wearReq": {
+    "attack": 30
+  }
 }

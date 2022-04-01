@@ -23,5 +23,8 @@
     61
   ],
   "name": "Steel platebody",
-  "notedId": 1120
+  "notedId": 1120,
+  "wearReq": {
+    "defence": 5
+  }
 }

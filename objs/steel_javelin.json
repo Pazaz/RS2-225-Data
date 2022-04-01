@@ -24,5 +24,8 @@
   "newColors": [
     61
   ],
-  "name": "Steel javelin"
+  "name": "Steel javelin",
+  "wearReq": {
+    "ranged": 5
+  }
 }

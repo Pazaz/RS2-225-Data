@@ -16,5 +16,8 @@
     "Wield",
     "Check kills"
   ],
-  "name": "Ogre bow"
+  "name": "Ogre bow",
+  "wearReq": {
+    "ranged": 30
+  }
 }

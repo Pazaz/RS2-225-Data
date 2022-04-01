@@ -18,5 +18,8 @@
   "iconYaw": 1388,
   "iconCameraPitch": 348,
   "name": "Dragon mace",
-  "notedId": 1435
+  "notedId": 1435,
+  "wearReq": {
+    "attack": 60
+  }
 }

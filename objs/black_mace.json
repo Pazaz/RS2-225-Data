@@ -22,5 +22,8 @@
     0
   ],
   "name": "Black mace",
-  "notedId": 1427
+  "notedId": 1427,
+  "wearReq": {
+    "attack": 10
+  }
 }

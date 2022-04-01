@@ -23,5 +23,8 @@
     21662
   ],
   "name": "Adamant sq shield",
-  "notedId": 1184
+  "notedId": 1184,
+  "wearReq": {
+    "defence": 30
+  }
 }

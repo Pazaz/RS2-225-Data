@@ -27,5 +27,9 @@
     43177
   ],
   "name": "Dragonhide body",
-  "notedId": 2500
+  "notedId": 2500,
+  "wearReq": {
+    "ranged": 50,
+    "defence": 40
+  }
 }

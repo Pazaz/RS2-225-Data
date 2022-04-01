@@ -14,5 +14,8 @@
   "femaleModel0": 296,
   "femaleOffsetY": 0,
   "name": "Hardleather body",
-  "notedId": 1132
+  "notedId": 1132,
+  "wearReq": {
+    "defence": 10
+  }
 }

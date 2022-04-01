@@ -27,5 +27,8 @@
     43297,
     43297
   ],
-  "name": "Mithril knife"
+  "name": "Mithril knife",
+  "wearReq": {
+    "ranged": 20
+  }
 }

@@ -25,5 +25,8 @@
     21662
   ],
   "name": "Adamant platelegs",
-  "notedId": 1074
+  "notedId": 1074,
+  "wearReq": {
+    "defence": 30
+  }
 }

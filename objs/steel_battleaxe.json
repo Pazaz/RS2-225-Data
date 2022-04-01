@@ -17,5 +17,8 @@
   "femaleModel0": 550,
   "femaleOffsetY": 6,
   "name": "Steel battleaxe",
-  "notedId": 1366
+  "notedId": 1366,
+  "wearReq": {
+    "attack": 5
+  }
 }

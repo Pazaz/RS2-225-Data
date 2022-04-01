@@ -25,5 +25,8 @@
     36133
   ],
   "name": "Rune med helm",
-  "notedId": 1148
+  "notedId": 1148,
+  "wearReq": {
+    "defence": 40
+  }
 }

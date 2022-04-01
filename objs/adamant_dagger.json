@@ -28,5 +28,8 @@
     21675
   ],
   "name": "Adamant dagger",
-  "notedId": 1212
+  "notedId": 1212,
+  "wearReq": {
+    "attack": 30
+  }
 }

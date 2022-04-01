@@ -29,5 +29,8 @@
     926,
     926
   ],
-  "name": "Cape of zamorak"
+  "name": "Cape of zamorak",
+  "wearReq": {
+    "magic": 60
+  }
 }

@@ -23,5 +23,8 @@
     43297
   ],
   "name": "Mithril 2h sword",
-  "notedId": 1316
+  "notedId": 1316,
+  "wearReq": {
+    "attack": 20
+  }
 }

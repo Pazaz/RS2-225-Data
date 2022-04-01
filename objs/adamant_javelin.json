@@ -26,5 +26,8 @@
     21662,
     21662
   ],
-  "name": "Adamant javelin"
+  "name": "Adamant javelin",
+  "wearReq": {
+    "ranged": 30
+  }
 }

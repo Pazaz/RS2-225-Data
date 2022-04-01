@@ -24,5 +24,8 @@
     4,
     5
   ],
-  "name": "Mithril fire arrows"
+  "name": "Mithril fire arrows",
+  "wearReq": {
+    "ranged": 20
+  }
 }
