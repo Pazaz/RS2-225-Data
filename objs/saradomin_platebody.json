@@ -45,7 +45,7 @@
     "drange": 80,
     "prayer": 1
   },
-  "wearSlot": "body",
+  "wearSlot": "fullbody",
   "weight": 9.979,
   "tradeable": true
 }

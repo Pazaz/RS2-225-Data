@@ -39,7 +39,7 @@
     "dmagic": -6,
     "drange": 80
   },
-  "wearSlot": "body",
+  "wearSlot": "fullbody",
   "weight": 9.979,
   "tradeable": true
 }
