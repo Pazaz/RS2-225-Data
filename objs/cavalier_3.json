@@ -26,5 +26,7 @@
     8
   ],
   "name": "Cavalier",
-  "notedId": 2644
+  "notedId": 2644,
+  "wearSlot": "head",
+  "weight": 0.08
 }

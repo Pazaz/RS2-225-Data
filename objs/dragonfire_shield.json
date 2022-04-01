@@ -17,5 +17,14 @@
   "femaleModel0": 526,
   "femaleOffsetY": 6,
   "name": "Dragonfire shield",
-  "notedId": 1541
+  "notedId": 1541,
+  "wearBonus": {
+    "dstab": 7,
+    "dslash": 9,
+    "dcrush": 8,
+    "dmagic": 2,
+    "drange": 8
+  },
+  "wearSlot": "shield",
+  "weight": 5.443
 }

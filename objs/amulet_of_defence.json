@@ -27,5 +27,14 @@
     127
   ],
   "name": "Amulet of defence",
-  "notedId": 1730
+  "notedId": 1730,
+  "wearBonus": {
+    "dstab": 7,
+    "dslash": 7,
+    "dcrush": 7,
+    "dmagic": 7,
+    "drange": 7
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

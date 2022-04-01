@@ -22,5 +22,7 @@
   "newColors": [
     22464
   ],
-  "name": "Glarials amulet"
+  "name": "Glarials amulet",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

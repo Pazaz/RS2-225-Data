@@ -23,5 +23,7 @@
     960
   ],
   "name": "Ruby necklace",
-  "notedId": 1661
+  "notedId": 1661,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

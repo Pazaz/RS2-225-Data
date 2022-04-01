@@ -15,5 +15,7 @@
     "Wear"
   ],
   "name": "Ring of life",
-  "notedId": 2571
+  "notedId": 2571,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

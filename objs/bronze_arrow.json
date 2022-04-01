@@ -33,5 +33,9 @@
     5652,
     5652
   ],
-  "name": "Bronze arrow"
+  "name": "Bronze arrow",
+  "wearBonus": {
+    "rstr": 7
+  },
+  "wearSlot": "ammo"
 }

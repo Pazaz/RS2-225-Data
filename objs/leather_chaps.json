@@ -17,5 +17,13 @@
   "femaleModel0": 425,
   "femaleOffsetY": 0,
   "name": "Leather chaps",
-  "notedId": 1096
+  "notedId": 1096,
+  "wearBonus": {
+    "arange": 4,
+    "dstab": 2,
+    "dslash": 2,
+    "dcrush": 1
+  },
+  "wearSlot": "legs",
+  "weight": 2.721
 }

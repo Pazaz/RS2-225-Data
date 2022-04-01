@@ -28,5 +28,9 @@
   "name": "Steel arrow",
   "wearReq": {
     "ranged": 5
-  }
+  },
+  "wearBonus": {
+    "rstr": 16
+  },
+  "wearSlot": "ammo"
 }

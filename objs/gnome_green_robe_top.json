@@ -24,5 +24,11 @@
     21838
   ],
   "name": "Robe top",
-  "notedId": 639
+  "notedId": 639,
+  "wearBonus": {
+    "dslash": 2,
+    "dcrush": 2
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

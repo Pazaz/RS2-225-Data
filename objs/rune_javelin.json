@@ -29,5 +29,9 @@
   "name": "Rune javelin",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "rstr": 124
+  },
+  "wearSlot": "ammo"
 }

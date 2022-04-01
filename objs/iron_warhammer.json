@@ -23,5 +23,14 @@
     33
   ],
   "name": "Iron warhammer",
-  "notedId": 1336
+  "notedId": 1336,
+  "wearBonus": {
+    "astab": -4,
+    "aslash": -4,
+    "acrush": 11,
+    "amagic": -4,
+    "str": 11
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

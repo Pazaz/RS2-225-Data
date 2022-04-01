@@ -24,5 +24,10 @@
     127
   ],
   "name": "Druid's robe",
-  "notedId": 541
+  "notedId": 541,
+  "wearBonus": {
+    "prayer": 4
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

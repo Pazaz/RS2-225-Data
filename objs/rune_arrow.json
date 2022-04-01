@@ -37,5 +37,9 @@
   "name": "Rune arrow",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "rstr": 49
+  },
+  "wearSlot": "ammo"
 }

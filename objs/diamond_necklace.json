@@ -23,5 +23,7 @@
     127
   ],
   "name": "Diamond necklace",
-  "notedId": 1663
+  "notedId": 1663,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

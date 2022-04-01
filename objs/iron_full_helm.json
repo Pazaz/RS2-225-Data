@@ -27,5 +27,16 @@
     48030
   ],
   "name": "Iron full helm",
-  "notedId": 1154
+  "notedId": 1154,
+  "wearBonus": {
+    "amagic": -6,
+    "arange": -3,
+    "dstab": 6,
+    "dslash": 7,
+    "dcrush": 5,
+    "dmagic": -1,
+    "drange": 6
+  },
+  "wearSlot": "head",
+  "weight": 2.721
 }

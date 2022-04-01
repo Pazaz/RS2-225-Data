@@ -24,5 +24,15 @@
     33
   ],
   "name": "Iron longsword",
-  "notedId": 1294
+  "notedId": 1294,
+  "wearBonus": {
+    "astab": 6,
+    "aslash": 8,
+    "acrush": -2,
+    "dslash": 3,
+    "dcrush": 2,
+    "str": 10
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

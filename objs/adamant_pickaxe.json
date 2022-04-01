@@ -27,5 +27,14 @@
   "wearReq": {
     "mining": 31,
     "attack": 30
-  }
+  },
+  "wearBonus": {
+    "astab": 17,
+    "aslash": -2,
+    "acrush": 15,
+    "dslash": 1,
+    "str": 19
+  },
+  "wearSlot": "weapon",
+  "weight": 2.721
 }

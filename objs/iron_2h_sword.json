@@ -23,5 +23,15 @@
     33
   ],
   "name": "Iron 2h sword",
-  "notedId": 1310
+  "notedId": 1310,
+  "wearBonus": {
+    "astab": -4,
+    "aslash": 13,
+    "acrush": 10,
+    "amagic": -4,
+    "drange": -1,
+    "str": 14
+  },
+  "wearSlot": "2h",
+  "weight": 3.628
 }

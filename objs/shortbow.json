@@ -23,5 +23,10 @@
     8109
   ],
   "name": "Shortbow",
-  "notedId": 842
+  "notedId": 842,
+  "wearBonus": {
+    "arange": 8
+  },
+  "wearSlot": "2h",
+  "weight": 1.36
 }

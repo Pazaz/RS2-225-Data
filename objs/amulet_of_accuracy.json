@@ -25,5 +25,14 @@
     4044
   ],
   "name": "Amulet of accuracy",
-  "notedId": 1479
+  "notedId": 1479,
+  "wearBonus": {
+    "astab": 4,
+    "aslash": 4,
+    "acrush": 4,
+    "amagic": 4,
+    "arange": 4
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

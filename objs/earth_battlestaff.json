@@ -26,5 +26,18 @@
     3501
   ],
   "name": "Earth battlestaff",
-  "notedId": 1400
+  "notedId": 1400,
+  "wearBonus": {
+    "astab": 7,
+    "aslash": -1,
+    "acrush": 28,
+    "amagic": 12,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 12,
+    "str": 35
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

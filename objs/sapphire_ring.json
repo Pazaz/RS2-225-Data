@@ -20,5 +20,7 @@
     43951
   ],
   "name": "Sapphire ring",
-  "notedId": 1638
+  "notedId": 1638,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

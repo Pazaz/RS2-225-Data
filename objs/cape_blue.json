@@ -27,5 +27,12 @@
     43420
   ],
   "name": "Cape",
-  "notedId": 1022
+  "notedId": 1022,
+  "wearBonus": {
+    "dslash": 1,
+    "dcrush": 1,
+    "drange": 2
+  },
+  "wearSlot": "cape",
+  "weight": 0.453
 }

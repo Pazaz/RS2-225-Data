@@ -27,5 +27,10 @@
   "name": "Steel thrownaxe",
   "wearReq": {
     "ranged": 5
-  }
+  },
+  "wearBonus": {
+    "arange": 8,
+    "rstr": 11
+  },
+  "wearSlot": "weapon"
 }

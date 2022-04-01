@@ -20,5 +20,18 @@
   "wearReq": {
     "magic": 50,
     "attack": 50
-  }
+  },
+  "wearBonus": {
+    "astab": 10,
+    "aslash": -1,
+    "acrush": 40,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 50
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

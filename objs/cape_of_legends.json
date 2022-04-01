@@ -15,5 +15,14 @@
   "maleOffsetY": 0,
   "femaleModel0": 3194,
   "femaleOffsetY": 0,
-  "name": "Cape of legends"
+  "name": "Cape of legends",
+  "wearBonus": {
+    "dstab": 7,
+    "dslash": 7,
+    "dcrush": 7,
+    "dmagic": 7,
+    "drange": 7
+  },
+  "wearSlot": "cape",
+  "weight": 1.814
 }

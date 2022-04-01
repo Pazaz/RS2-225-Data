@@ -21,5 +21,7 @@
   "newColors": [
     8615
   ],
-  "name": "Slave robe"
+  "name": "Slave robe",
+  "wearSlot": "legs",
+  "weight": 0.907
 }

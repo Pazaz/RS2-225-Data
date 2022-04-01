@@ -25,5 +25,12 @@
     20,
     3974
   ],
-  "name": "Khazard armour"
+  "name": "Khazard armour",
+  "wearBonus": {
+    "dstab": 9,
+    "dslash": 11,
+    "dcrush": 10
+  },
+  "wearSlot": "body",
+  "weight": 0.566
 }

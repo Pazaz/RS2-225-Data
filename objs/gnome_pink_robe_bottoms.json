@@ -22,5 +22,11 @@
     334
   ],
   "name": "Robe bottoms",
-  "notedId": 647
+  "notedId": 647,
+  "wearBonus": {
+    "dslash": 2,
+    "dcrush": 2
+  },
+  "wearSlot": "legs",
+  "weight": 0.907
 }

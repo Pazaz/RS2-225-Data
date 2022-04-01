@@ -24,5 +24,7 @@
     127
   ],
   "name": "Chef's hat",
-  "notedId": 1950
+  "notedId": 1950,
+  "wearSlot": "head",
+  "weight": 0.907
 }

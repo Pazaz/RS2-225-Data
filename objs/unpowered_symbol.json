@@ -31,5 +31,7 @@
     94
   ],
   "name": "Unpowered symbol",
-  "notedId": 1723
+  "notedId": 1723,
+  "wearSlot": "neck",
+  "weight": 0.007
 }

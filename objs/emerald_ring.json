@@ -20,5 +20,7 @@
     22443
   ],
   "name": "Emerald ring",
-  "notedId": 1640
+  "notedId": 1640,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

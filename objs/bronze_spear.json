@@ -27,5 +27,15 @@
     5652
   ],
   "name": "Bronze spear",
-  "notedId": 1238
+  "notedId": 1238,
+  "wearBonus": {
+    "astab": 5,
+    "aslash": 5,
+    "acrush": 5,
+    "dstab": 1,
+    "dslash": 1,
+    "str": 6
+  },
+  "wearSlot": "2h",
+  "weight": 2.267
 }

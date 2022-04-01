@@ -28,5 +28,10 @@
   "name": "Steel knife",
   "wearReq": {
     "ranged": 5
-  }
+  },
+  "wearBonus": {
+    "arange": 8,
+    "rstr": 7
+  },
+  "wearSlot": "weapon"
 }

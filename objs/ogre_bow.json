@@ -19,5 +19,10 @@
   "name": "Ogre bow",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "arange": 38
+  },
+  "wearSlot": "2h",
+  "weight": 1.814
 }

@@ -29,5 +29,10 @@
   "name": "Rune thrownaxe",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "arange": 26,
+    "rstr": 36
+  },
+  "wearSlot": "weapon"
 }

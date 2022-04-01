@@ -23,5 +23,7 @@
   "newColors": [
     8615
   ],
-  "name": "Slave boots"
+  "name": "Slave boots",
+  "wearSlot": "feet",
+  "weight": 0.68
 }

@@ -16,5 +16,7 @@
   "maleOffsetY": 0,
   "femaleModel0": 450,
   "femaleOffsetY": 0,
-  "name": "Mark of hazeel"
+  "name": "Mark of hazeel",
+  "wearSlot": "neck",
+  "weight": 0.012
 }

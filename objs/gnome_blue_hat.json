@@ -26,5 +26,11 @@
     43342
   ],
   "name": "Hat",
-  "notedId": 661
+  "notedId": 661,
+  "wearBonus": {
+    "amagic": 3,
+    "dmagic": 3
+  },
+  "wearSlot": "head",
+  "weight": 0.453
 }

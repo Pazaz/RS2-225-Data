@@ -23,5 +23,7 @@
   "newColors": [
     99
   ],
-  "name": "Armadyl pendant"
+  "name": "Armadyl pendant",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

@@ -24,5 +24,11 @@
     43342
   ],
   "name": "Boots",
-  "notedId": 631
+  "notedId": 631,
+  "wearBonus": {
+    "dslash": 1,
+    "dcrush": 1
+  },
+  "wearSlot": "feet",
+  "weight": 0.34
 }

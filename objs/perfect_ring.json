@@ -20,5 +20,7 @@
   "newColors": [
     960
   ],
-  "name": "'perfect' ring"
+  "name": "'perfect' ring",
+  "wearSlot": "ring",
+  "weight": 0.007
 }

@@ -24,5 +24,7 @@
     127
   ],
   "name": "Desert shirt",
-  "notedId": 1834
+  "notedId": 1834,
+  "wearSlot": "body",
+  "weight": 0.907
 }

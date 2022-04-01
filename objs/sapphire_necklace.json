@@ -23,5 +23,7 @@
     43951
   ],
   "name": "Sapphire necklace",
-  "notedId": 1657
+  "notedId": 1657,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

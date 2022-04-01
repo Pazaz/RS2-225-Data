@@ -20,5 +20,7 @@
   "maleHeadModelA": 28,
   "femaleHeadModelA": 86,
   "name": "Cavalier",
-  "notedId": 2640
+  "notedId": 2640,
+  "wearSlot": "head",
+  "weight": 0.08
 }

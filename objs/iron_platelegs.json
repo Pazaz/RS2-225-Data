@@ -25,5 +25,16 @@
     33
   ],
   "name": "Iron platelegs",
-  "notedId": 1068
+  "notedId": 1068,
+  "wearBonus": {
+    "amagic": -21,
+    "arange": -11,
+    "dstab": 11,
+    "dslash": 10,
+    "dcrush": 10,
+    "dmagic": -4,
+    "drange": 10
+  },
+  "wearSlot": "legs",
+  "weight": 9.071
 }

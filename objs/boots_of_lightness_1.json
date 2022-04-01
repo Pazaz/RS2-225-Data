@@ -23,5 +23,12 @@
   "newColors": [
     43189
   ],
-  "name": "Boots of lightness"
+  "name": "Boots of lightness",
+  "wearBonus": {
+    "dstab": 1,
+    "dslash": 1,
+    "dcrush": 1
+  },
+  "wearSlot": "feet",
+  "weight": 0.3
 }

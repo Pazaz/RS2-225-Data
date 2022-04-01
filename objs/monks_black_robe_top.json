@@ -23,5 +23,10 @@
     0
   ],
   "name": "Black robe",
-  "notedId": 547
+  "notedId": 547,
+  "wearBonus": {
+    "prayer": 5
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

@@ -25,5 +25,16 @@
     7054
   ],
   "name": "Iron kiteshield",
-  "notedId": 1192
+  "notedId": 1192,
+  "wearBonus": {
+    "amagic": -8,
+    "arange": -3,
+    "dstab": 8,
+    "dslash": 10,
+    "dcrush": 9,
+    "dmagic": -1,
+    "drange": 9
+  },
+  "wearSlot": "shield",
+  "weight": 5.443
 }

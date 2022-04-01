@@ -27,5 +27,9 @@
   "name": "Rune fire arrows",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "rstr": 49
+  },
+  "wearSlot": "ammo"
 }

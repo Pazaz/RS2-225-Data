@@ -13,5 +13,7 @@
   "femaleOffsetY": 6,
   "value": 1,
   "name": "Pickaxe handle",
-  "notedId": 467
+  "notedId": 467,
+  "wearSlot": "weapon",
+  "weight": 0.1
 }

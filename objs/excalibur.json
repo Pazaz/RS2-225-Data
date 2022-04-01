@@ -20,5 +20,16 @@
   "name": "Excalibur",
   "wearReq": {
     "attack": 20
-  }
+  },
+  "wearBonus": {
+    "astab": 20,
+    "aslash": 29,
+    "acrush": -2,
+    "dslash": 3,
+    "dcrush": 2,
+    "dmagic": 1,
+    "str": 25
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

@@ -20,5 +20,7 @@
     12209
   ],
   "name": "Gold ring",
-  "notedId": 1636
+  "notedId": 1636,
+  "wearSlot": "ring",
+  "weight": 0.004
 }

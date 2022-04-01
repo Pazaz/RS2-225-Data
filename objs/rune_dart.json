@@ -27,5 +27,9 @@
   "name": "Rune dart",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "rstr": 26
+  },
+  "wearSlot": "weapon"
 }

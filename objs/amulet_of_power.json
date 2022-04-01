@@ -25,5 +25,21 @@
     127
   ],
   "name": "Amulet of power",
-  "notedId": 1732
+  "notedId": 1732,
+  "wearBonus": {
+    "astab": 6,
+    "aslash": 6,
+    "acrush": 6,
+    "amagic": 6,
+    "arange": 6,
+    "dstab": 6,
+    "dslash": 6,
+    "dcrush": 6,
+    "dmagic": 6,
+    "drange": 6,
+    "str": 6,
+    "prayer": 1
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

@@ -15,5 +15,16 @@
   "femaleModel0": 475,
   "femaleOffsetY": 0,
   "name": "Leather body",
-  "notedId": 1130
+  "notedId": 1130,
+  "wearBonus": {
+    "amagic": -2,
+    "arange": 2,
+    "dstab": 8,
+    "dslash": 9,
+    "dcrush": 10,
+    "dmagic": 4,
+    "drange": 9
+  },
+  "wearSlot": "body",
+  "weight": 2.721
 }

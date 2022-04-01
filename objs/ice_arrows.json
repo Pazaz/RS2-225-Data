@@ -40,5 +40,9 @@
     37340,
     37340
   ],
-  "name": "Ice arrows"
+  "name": "Ice arrows",
+  "wearBonus": {
+    "rstr": 16
+  },
+  "wearSlot": "ammo"
 }

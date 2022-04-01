@@ -21,5 +21,7 @@
     38814
   ],
   "name": "Blue skirt",
-  "notedId": 1012
+  "notedId": 1012,
+  "wearSlot": "legs",
+  "weight": 0.907
 }

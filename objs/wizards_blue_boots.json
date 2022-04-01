@@ -27,5 +27,11 @@
   "notedId": 2580,
   "wearReq": {
     "magic": 20
-  }
+  },
+  "wearBonus": {
+    "amagic": 4,
+    "dmagic": 4
+  },
+  "wearSlot": "feet",
+  "weight": 0.283
 }

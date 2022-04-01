@@ -23,5 +23,14 @@
     5784
   ],
   "name": "Wooden shield",
-  "notedId": 1172
+  "notedId": 1172,
+  "wearBonus": {
+    "dstab": 4,
+    "dslash": 5,
+    "dcrush": 3,
+    "dmagic": 1,
+    "drange": 4
+  },
+  "wearSlot": "shield",
+  "weight": 2.267
 }

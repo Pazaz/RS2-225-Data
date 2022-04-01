@@ -21,5 +21,14 @@
   "notedId": 1435,
   "wearReq": {
     "attack": 60
-  }
+  },
+  "wearBonus": {
+    "astab": 40,
+    "aslash": -2,
+    "acrush": 60,
+    "str": 55,
+    "prayer": 5
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

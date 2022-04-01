@@ -17,5 +17,10 @@
   "femaleModel0": 508,
   "femaleOffsetY": 6,
   "name": "Crossbow",
-  "notedId": 838
+  "notedId": 838,
+  "wearBonus": {
+    "arange": 6
+  },
+  "wearSlot": "weapon",
+  "weight": 8
 }

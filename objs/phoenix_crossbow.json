@@ -22,5 +22,10 @@
     6806
   ],
   "name": "Phoenix crossbow",
-  "notedId": 768
+  "notedId": 768,
+  "wearBonus": {
+    "arange": 6
+  },
+  "wearSlot": "weapon",
+  "weight": 3.628
 }

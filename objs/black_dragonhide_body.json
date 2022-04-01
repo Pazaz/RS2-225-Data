@@ -31,5 +31,16 @@
   "wearReq": {
     "ranged": 70,
     "defence": 40
-  }
+  },
+  "wearBonus": {
+    "amagic": -15,
+    "arange": 30,
+    "dstab": 30,
+    "dslash": 38,
+    "dcrush": 45,
+    "dmagic": 45,
+    "drange": 50
+  },
+  "wearSlot": "body",
+  "weight": 6.803
 }

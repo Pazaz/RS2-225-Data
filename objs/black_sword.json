@@ -25,5 +25,15 @@
   "notedId": 1284,
   "wearReq": {
     "attack": 10
-  }
+  },
+  "wearBonus": {
+    "astab": 14,
+    "aslash": 10,
+    "acrush": -2,
+    "dslash": 2,
+    "dcrush": 1,
+    "str": 12
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

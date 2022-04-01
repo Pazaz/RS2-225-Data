@@ -24,5 +24,7 @@
     43968
   ],
   "name": "Blue partyhat",
-  "notedId": 1043
+  "notedId": 1043,
+  "wearSlot": "head",
+  "weight": 0.056
 }

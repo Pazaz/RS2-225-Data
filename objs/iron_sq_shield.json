@@ -23,5 +23,14 @@
     33
   ],
   "name": "Iron sq shield",
-  "notedId": 1176
+  "notedId": 1176,
+  "wearBonus": {
+    "amagic": -6,
+    "dstab": 8,
+    "dslash": 9,
+    "dcrush": 7,
+    "drange": 8
+  },
+  "wearSlot": "shield",
+  "weight": 3.628
 }

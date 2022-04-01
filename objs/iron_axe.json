@@ -22,5 +22,14 @@
     33
   ],
   "name": "Iron axe",
-  "notedId": 1350
+  "notedId": 1350,
+  "wearBonus": {
+    "astab": -2,
+    "aslash": 5,
+    "acrush": 3,
+    "dslash": 1,
+    "str": 7
+  },
+  "wearSlot": "weapon",
+  "weight": 1.36
 }

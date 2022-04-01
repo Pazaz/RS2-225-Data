@@ -24,5 +24,7 @@
     11200
   ],
   "name": "Yellow partyhat",
-  "notedId": 1041
+  "notedId": 1041,
+  "wearSlot": "head",
+  "weight": 0.056
 }

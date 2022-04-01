@@ -27,5 +27,10 @@
     24,
     24
   ],
-  "name": "Iron knife"
+  "name": "Iron knife",
+  "wearBonus": {
+    "arange": 5,
+    "rstr": 4
+  },
+  "wearSlot": "weapon"
 }

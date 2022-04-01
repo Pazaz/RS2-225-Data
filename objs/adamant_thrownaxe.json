@@ -29,5 +29,10 @@
   "name": "Adamnt thrownaxe",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "arange": 17,
+    "rstr": 23
+  },
+  "wearSlot": "weapon"
 }

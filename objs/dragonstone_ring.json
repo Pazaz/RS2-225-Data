@@ -21,5 +21,7 @@
     51111
   ],
   "name": "Dragonstone ring",
-  "notedId": 1646
+  "notedId": 1646,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

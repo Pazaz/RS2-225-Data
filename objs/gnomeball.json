@@ -15,5 +15,7 @@
   "femaleOffsetY": 6,
   "members": true,
   "name": "Gnomeball",
-  "notedId": 752
+  "notedId": 752,
+  "wearSlot": "weapon",
+  "weight": 0.5
 }

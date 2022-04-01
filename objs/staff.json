@@ -16,5 +16,17 @@
   "femaleModel0": 534,
   "femaleOffsetY": 6,
   "name": "Staff",
-  "notedId": 1380
+  "notedId": 1380,
+  "wearBonus": {
+    "aslash": -1,
+    "acrush": 7,
+    "amagic": 4,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 4,
+    "str": 3
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

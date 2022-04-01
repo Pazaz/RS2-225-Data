@@ -23,5 +23,7 @@
     7085
   ],
   "name": "Brass necklace",
-  "notedId": 1010
+  "notedId": 1010,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

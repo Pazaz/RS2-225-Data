@@ -19,5 +19,7 @@
     33
   ],
   "name": "Broken pickaxe",
-  "notedId": 471
+  "notedId": 471,
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

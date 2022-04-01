@@ -27,5 +27,13 @@
     11200
   ],
   "name": "Flowers",
-  "notedId": 2473
+  "notedId": 2473,
+  "wearBonus": {
+    "astab": -100,
+    "aslash": -100,
+    "acrush": -50,
+    "str": -10
+  },
+  "wearSlot": "weapon",
+  "weight": 0.028
 }

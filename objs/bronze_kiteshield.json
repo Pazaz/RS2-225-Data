@@ -25,5 +25,16 @@
     7054
   ],
   "name": "Bronze kiteshield",
-  "notedId": 1190
+  "notedId": 1190,
+  "wearBonus": {
+    "amagic": -8,
+    "arange": -3,
+    "dstab": 5,
+    "dslash": 7,
+    "dcrush": 6,
+    "dmagic": -1,
+    "drange": 6
+  },
+  "wearSlot": "shield",
+  "weight": 5.443
 }

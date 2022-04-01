@@ -24,5 +24,12 @@
     33
   ],
   "name": "Machete",
-  "notedId": 976
+  "notedId": 976,
+  "wearBonus": {
+    "aslash": 6,
+    "acrush": -2,
+    "str": 5
+  },
+  "wearSlot": "weapon",
+  "weight": 1.36
 }

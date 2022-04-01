@@ -32,5 +32,14 @@
   "name": "Cape of saradomin",
   "wearReq": {
     "magic": 60
-  }
+  },
+  "wearBonus": {
+    "amagic": 10,
+    "dstab": 1,
+    "dslash": 1,
+    "dcrush": 2,
+    "dmagic": 10
+  },
+  "wearSlot": "cape",
+  "weight": 0.453
 }

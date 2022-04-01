@@ -27,5 +27,9 @@
   "name": "Steel dart",
   "wearReq": {
     "ranged": 5
-  }
+  },
+  "wearBonus": {
+    "rstr": 3
+  },
+  "wearSlot": "weapon"
 }

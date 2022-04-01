@@ -27,5 +27,7 @@
     127
   ],
   "name": "Ruby amulet",
-  "notedId": 1699
+  "notedId": 1699,
+  "wearSlot": "neck",
+  "weight": 0.007
 }

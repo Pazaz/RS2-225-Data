@@ -25,5 +25,17 @@
     43968
   ],
   "name": "Staff of water",
-  "notedId": 1384
+  "notedId": 1384,
+  "wearBonus": {
+    "aslash": -1,
+    "acrush": 7,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 3
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

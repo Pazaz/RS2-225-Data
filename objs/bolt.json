@@ -13,5 +13,9 @@
     null,
     "Wield"
   ],
-  "name": "Bolt"
+  "name": "Bolt",
+  "wearBonus": {
+    "rstr": 10
+  },
+  "wearSlot": "ammo"
 }

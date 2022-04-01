@@ -24,5 +24,12 @@
     937
   ],
   "name": "Robe of zamorak",
-  "notedId": 1036
+  "notedId": 1036,
+  "wearBonus": {
+    "amagic": 2,
+    "dmagic": 3,
+    "prayer": 3
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

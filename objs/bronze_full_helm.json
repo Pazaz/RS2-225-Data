@@ -27,5 +27,16 @@
     48030
   ],
   "name": "Bronze full helm",
-  "notedId": 1156
+  "notedId": 1156,
+  "wearBonus": {
+    "amagic": -6,
+    "arange": -3,
+    "dstab": 4,
+    "dslash": 5,
+    "dcrush": 3,
+    "dmagic": -1,
+    "drange": 4
+  },
+  "wearSlot": "head",
+  "weight": 2.721
 }

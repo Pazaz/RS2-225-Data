@@ -25,5 +25,18 @@
     960
   ],
   "name": "Staff of fire",
-  "notedId": 1388
+  "notedId": 1388,
+  "wearBonus": {
+    "astab": 3,
+    "aslash": -1,
+    "acrush": 9,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 6
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

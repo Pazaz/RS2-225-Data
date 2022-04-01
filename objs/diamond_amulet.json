@@ -25,5 +25,7 @@
     127
   ],
   "name": "Diamond amulet",
-  "notedId": 1701
+  "notedId": 1701,
+  "wearSlot": "neck",
+  "weight": 0.007
 }

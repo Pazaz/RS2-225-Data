@@ -17,5 +17,13 @@
   "iconYaw": 816,
   "iconCameraPitch": 612,
   "name": "Flowers",
-  "notedId": 2461
+  "notedId": 2461,
+  "wearBonus": {
+    "astab": -100,
+    "aslash": -100,
+    "acrush": -50,
+    "str": -10
+  },
+  "wearSlot": "weapon",
+  "weight": 0.028
 }

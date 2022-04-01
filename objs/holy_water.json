@@ -22,5 +22,10 @@
   "newColors": [
     43959
   ],
-  "name": "Holy water"
+  "name": "Holy water",
+  "wearBonus": {
+    "arange": 6,
+    "rstr": 12
+  },
+  "wearSlot": "weapon"
 }

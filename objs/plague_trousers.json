@@ -17,5 +17,7 @@
   "maleOffsetY": 0,
   "femaleModel0": 436,
   "femaleOffsetY": 0,
-  "name": "Plague trousers"
+  "name": "Plague trousers",
+  "wearSlot": "legs",
+  "weight": 2.267
 }

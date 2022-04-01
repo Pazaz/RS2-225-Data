@@ -24,5 +24,7 @@
     51111
   ],
   "name": "Dragon necklace",
-  "notedId": 1665
+  "notedId": 1665,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

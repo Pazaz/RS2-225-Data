@@ -24,5 +24,9 @@
   "newColors": [
     28
   ],
-  "name": "Iron dart"
+  "name": "Iron dart",
+  "wearBonus": {
+    "rstr": 2
+  },
+  "wearSlot": "weapon"
 }

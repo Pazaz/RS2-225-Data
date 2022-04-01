@@ -23,5 +23,10 @@
     8109
   ],
   "name": "Longbow",
-  "notedId": 840
+  "notedId": 840,
+  "wearBonus": {
+    "arange": 8
+  },
+  "wearSlot": "2h",
+  "weight": 1.814
 }

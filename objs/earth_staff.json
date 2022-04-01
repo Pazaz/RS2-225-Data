@@ -25,5 +25,18 @@
     3501
   ],
   "name": "Staff of earth",
-  "notedId": 1386
+  "notedId": 1386,
+  "wearBonus": {
+    "astab": 1,
+    "aslash": -1,
+    "acrush": 9,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 5
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

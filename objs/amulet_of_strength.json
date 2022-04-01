@@ -27,5 +27,10 @@
     127
   ],
   "name": "Amulet of strength",
-  "notedId": 1726
+  "notedId": 1726,
+  "wearBonus": {
+    "str": 10
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

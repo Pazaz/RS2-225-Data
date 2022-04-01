@@ -23,5 +23,7 @@
   "newColors": [
     960
   ],
-  "name": "'perfect' necklace"
+  "name": "'perfect' necklace",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

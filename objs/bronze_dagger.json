@@ -28,5 +28,15 @@
     3489
   ],
   "name": "Bronze dagger",
-  "notedId": 1206
+  "notedId": 1206,
+  "wearBonus": {
+    "astab": 4,
+    "aslash": 2,
+    "acrush": -4,
+    "amagic": 1,
+    "dmagic": 1,
+    "str": 3
+  },
+  "wearSlot": "weapon",
+  "weight": 0.453
 }

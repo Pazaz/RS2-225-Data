@@ -21,5 +21,7 @@
     62928
   ],
   "name": "Pink skirt",
-  "notedId": 1014
+  "notedId": 1014,
+  "wearSlot": "legs",
+  "weight": 0.907
 }

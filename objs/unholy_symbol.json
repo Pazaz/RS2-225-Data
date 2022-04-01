@@ -30,5 +30,15 @@
     127,
     94
   ],
-  "name": "Unholy symbol"
+  "name": "Unholy symbol",
+  "wearBonus": {
+    "astab": 2,
+    "aslash": 2,
+    "acrush": 2,
+    "amagic": 2,
+    "arange": 2,
+    "prayer": 8
+  },
+  "wearSlot": "neck",
+  "weight": 0.007
 }

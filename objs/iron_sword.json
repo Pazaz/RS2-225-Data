@@ -22,5 +22,15 @@
     33
   ],
   "name": "Iron sword",
-  "notedId": 1280
+  "notedId": 1280,
+  "wearBonus": {
+    "astab": 6,
+    "aslash": 4,
+    "acrush": -2,
+    "dslash": 2,
+    "dcrush": 1,
+    "str": 7
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

@@ -14,5 +14,9 @@
     null,
     "Wield"
   ],
-  "name": "Barbed bolt"
+  "name": "Barbed bolt",
+  "wearBonus": {
+    "rstr": 12
+  },
+  "wearSlot": "ammo"
 }

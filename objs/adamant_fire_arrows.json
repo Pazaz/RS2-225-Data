@@ -27,5 +27,9 @@
   "name": "Adamnt fire arrows",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "rstr": 31
+  },
+  "wearSlot": "ammo"
 }

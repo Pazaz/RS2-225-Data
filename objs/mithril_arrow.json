@@ -37,5 +37,9 @@
   "name": "Mithril arrow",
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "rstr": 22
+  },
+  "wearSlot": "ammo"
 }

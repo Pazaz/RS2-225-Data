@@ -24,5 +24,16 @@
   "notedId": 1170,
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "amagic": -1,
+    "arange": 2,
+    "dstab": 4,
+    "dslash": 6,
+    "dcrush": 8,
+    "dmagic": 4,
+    "drange": 4
+  },
+  "wearSlot": "head",
+  "weight": 0.907
 }

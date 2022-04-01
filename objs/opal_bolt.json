@@ -22,5 +22,9 @@
     10465,
     10465
   ],
-  "name": "Opal bolt"
+  "name": "Opal bolt",
+  "wearBonus": {
+    "rstr": 14
+  },
+  "wearSlot": "ammo"
 }

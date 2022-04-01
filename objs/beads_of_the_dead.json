@@ -22,5 +22,21 @@
   "newColors": [
     4032
   ],
-  "name": "Beads of the dead"
+  "name": "Beads of the dead",
+  "wearBonus": {
+    "astab": 1,
+    "aslash": 1,
+    "acrush": 1,
+    "amagic": 1,
+    "arange": 1,
+    "dstab": 1,
+    "dslash": 1,
+    "dcrush": 1,
+    "dmagic": 1,
+    "drange": 1,
+    "str": 1,
+    "prayer": 1
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

@@ -28,5 +28,15 @@
     45
   ],
   "name": "Iron dagger",
-  "notedId": 1204
+  "notedId": 1204,
+  "wearBonus": {
+    "astab": 5,
+    "aslash": 3,
+    "acrush": -4,
+    "amagic": 1,
+    "dmagic": 1,
+    "str": 4
+  },
+  "wearSlot": "weapon",
+  "weight": 0.453
 }

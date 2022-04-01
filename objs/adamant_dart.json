@@ -27,5 +27,9 @@
   "name": "Adamant dart",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "rstr": 17
+  },
+  "wearSlot": "weapon"
 }

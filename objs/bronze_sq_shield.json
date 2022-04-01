@@ -23,5 +23,14 @@
     5652
   ],
   "name": "Bronze sq shield",
-  "notedId": 1174
+  "notedId": 1174,
+  "wearBonus": {
+    "amagic": -6,
+    "dstab": 5,
+    "dslash": 6,
+    "dcrush": 4,
+    "drange": 5
+  },
+  "wearSlot": "shield",
+  "weight": 3.628
 }

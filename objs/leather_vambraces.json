@@ -17,5 +17,13 @@
   "femaleModel0": 354,
   "femaleOffsetY": 0,
   "name": "Leather vambraces",
-  "notedId": 1064
+  "notedId": 1064,
+  "wearBonus": {
+    "arange": 4,
+    "dstab": 2,
+    "dslash": 2,
+    "dcrush": 1
+  },
+  "wearSlot": "hands",
+  "weight": 0.226
 }

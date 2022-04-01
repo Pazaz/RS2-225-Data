@@ -23,5 +23,14 @@
     5652
   ],
   "name": "Bronze battleaxe",
-  "notedId": 1376
+  "notedId": 1376,
+  "wearBonus": {
+    "astab": -2,
+    "aslash": 6,
+    "acrush": 3,
+    "drange": -1,
+    "str": 9
+  },
+  "wearSlot": "weapon",
+  "weight": 2.721
 }

@@ -23,5 +23,14 @@
     5652
   ],
   "name": "Bronze pickaxe",
-  "notedId": 1266
+  "notedId": 1266,
+  "wearBonus": {
+    "astab": 4,
+    "aslash": -2,
+    "acrush": 2,
+    "dslash": 1,
+    "str": 5
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

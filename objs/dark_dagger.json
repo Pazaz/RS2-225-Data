@@ -15,5 +15,14 @@
   "maleOffsetY": 0,
   "femaleModel0": 524,
   "femaleOffsetY": 6,
-  "name": "Black dagger"
+  "name": "Black dagger",
+  "wearBonus": {
+    "astab": 5,
+    "aslash": 3,
+    "acrush": -4,
+    "amagic": 1,
+    "dmagic": 1
+  },
+  "wearSlot": "weapon",
+  "weight": 0.453
 }

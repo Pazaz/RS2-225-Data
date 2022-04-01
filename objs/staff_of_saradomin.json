@@ -19,5 +19,18 @@
   "name": "Staff of saradomin",
   "wearReq": {
     "magic": 60
-  }
+  },
+  "wearBonus": {
+    "astab": -1,
+    "aslash": -1,
+    "acrush": 6,
+    "amagic": 6,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 6,
+    "str": 2
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

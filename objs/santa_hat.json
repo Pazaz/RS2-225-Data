@@ -17,5 +17,7 @@
   "maleHeadModelA": 69,
   "femaleHeadModelA": 127,
   "name": "Santa hat",
-  "notedId": 1051
+  "notedId": 1051,
+  "wearSlot": "head",
+  "weight": 0.113
 }

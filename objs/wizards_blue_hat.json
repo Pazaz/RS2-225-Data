@@ -19,5 +19,11 @@
   "maleHeadModelA": 44,
   "femaleHeadModelA": 102,
   "name": "Wizards hat",
-  "notedId": 580
+  "notedId": 580,
+  "wearBonus": {
+    "amagic": 2,
+    "dmagic": 2
+  },
+  "wearSlot": "head",
+  "weight": 0.453
 }

@@ -19,5 +19,7 @@
   "maleHeadModelA": 76,
   "femaleHeadModelA": 134,
   "name": "Highwayman mask",
-  "notedId": 2632
+  "notedId": 2632,
+  "wearSlot": "head",
+  "weight": 0.02
 }

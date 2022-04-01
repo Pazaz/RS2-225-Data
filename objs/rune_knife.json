@@ -30,5 +30,10 @@
   "name": "Rune knife",
   "wearReq": {
     "ranged": 40
-  }
+  },
+  "wearBonus": {
+    "arange": 25,
+    "rstr": 24
+  },
+  "wearSlot": "weapon"
 }

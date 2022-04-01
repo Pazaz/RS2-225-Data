@@ -25,5 +25,12 @@
     35290,
     35290
   ],
-  "name": "Ice gloves"
+  "name": "Ice gloves",
+  "wearBonus": {
+    "dslash": 3,
+    "dcrush": 4,
+    "drange": 2
+  },
+  "wearSlot": "hands",
+  "weight": 0.226
 }

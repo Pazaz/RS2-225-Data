@@ -30,5 +30,10 @@
   "name": "Mithril knife",
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "arange": 11,
+    "rstr": 10
+  },
+  "wearSlot": "weapon"
 }

@@ -19,5 +19,7 @@
   "femaleModel0": 459,
   "femaleOffsetY": 0,
   "femaleModel1": 331,
-  "name": "Plague jacket"
+  "name": "Plague jacket",
+  "wearSlot": "body",
+  "weight": 2.721
 }

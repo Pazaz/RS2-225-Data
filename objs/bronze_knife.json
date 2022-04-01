@@ -27,5 +27,10 @@
     5652,
     5652
   ],
-  "name": "Bronze knife"
+  "name": "Bronze knife",
+  "wearBonus": {
+    "arange": 4,
+    "rstr": 3
+  },
+  "wearSlot": "weapon"
 }

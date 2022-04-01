@@ -22,5 +22,14 @@
     5652
   ],
   "name": "Bronze mace",
-  "notedId": 1423
+  "notedId": 1423,
+  "wearBonus": {
+    "astab": 1,
+    "aslash": -2,
+    "acrush": 6,
+    "str": 5,
+    "prayer": 1
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

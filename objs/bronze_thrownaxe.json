@@ -26,5 +26,10 @@
     5652,
     5652
   ],
-  "name": "Bronze thrownaxe"
+  "name": "Bronze thrownaxe",
+  "wearBonus": {
+    "arange": 4,
+    "rstr": 5
+  },
+  "wearSlot": "weapon"
 }

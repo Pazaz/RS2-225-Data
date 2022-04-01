@@ -27,5 +27,9 @@
   "name": "Mithril fire arrows",
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "rstr": 22
+  },
+  "wearSlot": "ammo"
 }

@@ -26,5 +26,7 @@
     127
   ],
   "name": "Desert boots",
-  "notedId": 1838
+  "notedId": 1838,
+  "wearSlot": "feet",
+  "weight": 0.226
 }

@@ -22,5 +22,9 @@
     127,
     127
   ],
-  "name": "Pearl bolt"
+  "name": "Pearl bolt",
+  "wearBonus": {
+    "rstr": 48
+  },
+  "wearSlot": "ammo"
 }

@@ -23,5 +23,11 @@
     10508
   ],
   "name": "Black robe",
-  "notedId": 582
+  "notedId": 582,
+  "wearBonus": {
+    "amagic": 3,
+    "dmagic": 3
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

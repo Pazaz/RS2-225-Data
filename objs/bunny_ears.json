@@ -15,5 +15,7 @@
   "femaleOffsetY": 0,
   "maleHeadModelA": 33,
   "femaleHeadModelA": 91,
-  "name": "Bunny ears"
+  "name": "Bunny ears",
+  "wearSlot": "head",
+  "weight": 0.226
 }

@@ -30,5 +30,10 @@
   "name": "Adamant knife",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "arange": 15,
+    "rstr": 14
+  },
+  "wearSlot": "weapon"
 }

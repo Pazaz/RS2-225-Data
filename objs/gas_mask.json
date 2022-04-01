@@ -19,5 +19,7 @@
   "femaleOffsetY": 0,
   "maleHeadModelA": 51,
   "femaleHeadModelA": 112,
-  "name": "Gas mask"
+  "name": "Gas mask",
+  "wearSlot": "head",
+  "weight": 0.255
 }

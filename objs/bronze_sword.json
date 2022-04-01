@@ -22,5 +22,15 @@
     5652
   ],
   "name": "Bronze sword",
-  "notedId": 1278
+  "notedId": 1278,
+  "wearBonus": {
+    "astab": 4,
+    "aslash": 3,
+    "acrush": -2,
+    "dslash": 2,
+    "dcrush": 1,
+    "str": 5
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

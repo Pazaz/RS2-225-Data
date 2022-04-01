@@ -27,5 +27,16 @@
     24
   ],
   "name": "Iron platebody",
-  "notedId": 1116
+  "notedId": 1116,
+  "wearBonus": {
+    "amagic": -30,
+    "arange": -15,
+    "dstab": 21,
+    "dslash": 20,
+    "dcrush": 12,
+    "dmagic": -6,
+    "drange": 20
+  },
+  "wearSlot": "body",
+  "weight": 9.979
 }

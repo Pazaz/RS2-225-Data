@@ -16,5 +16,18 @@
   "maleOffsetY": 0,
   "femaleModel0": 534,
   "femaleOffsetY": 6,
-  "name": "Dramen staff"
+  "name": "Dramen staff",
+  "wearBonus": {
+    "astab": -1,
+    "aslash": -1,
+    "acrush": 10,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 10
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

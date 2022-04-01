@@ -27,5 +27,12 @@
     937,
     43945
   ],
-  "name": "Carnillean armour"
+  "name": "Carnillean armour",
+  "wearBonus": {
+    "dstab": 20,
+    "dslash": 14,
+    "dcrush": 8
+  },
+  "wearSlot": "body",
+  "weight": 9.071
 }

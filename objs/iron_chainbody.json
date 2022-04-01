@@ -21,5 +21,15 @@
     33
   ],
   "name": "Iron chainbody",
-  "notedId": 1102
+  "notedId": 1102,
+  "wearBonus": {
+    "amagic": -15,
+    "dstab": 10,
+    "dslash": 15,
+    "dcrush": 19,
+    "dmagic": -3,
+    "drange": 12
+  },
+  "wearSlot": "body",
+  "weight": 6.803
 }

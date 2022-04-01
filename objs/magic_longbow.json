@@ -27,5 +27,10 @@
   "notedId": 860,
   "wearReq": {
     "ranged": 50
-  }
+  },
+  "wearBonus": {
+    "arange": 69
+  },
+  "wearSlot": "2h",
+  "weight": 1.814
 }

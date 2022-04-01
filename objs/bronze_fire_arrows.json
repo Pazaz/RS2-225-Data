@@ -24,5 +24,9 @@
   "iconZoom": 1580,
   "iconYaw": 1832,
   "iconCameraPitch": 336,
-  "name": "Unlit arrows"
+  "name": "Unlit arrows",
+  "wearBonus": {
+    "rstr": 7
+  },
+  "wearSlot": "ammo"
 }

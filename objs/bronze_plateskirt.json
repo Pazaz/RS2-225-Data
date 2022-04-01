@@ -24,5 +24,16 @@
     7050
   ],
   "name": "Bronze plateskirt",
-  "notedId": 1088
+  "notedId": 1088,
+  "wearBonus": {
+    "amagic": -21,
+    "arange": -11,
+    "dstab": 8,
+    "dslash": 7,
+    "dcrush": 6,
+    "dmagic": -4,
+    "drange": 7
+  },
+  "wearSlot": "legs",
+  "weight": 8.164
 }

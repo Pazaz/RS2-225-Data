@@ -17,5 +17,7 @@
   "maleOffsetY": 0,
   "femaleModel0": 446,
   "femaleOffsetY": 0,
-  "name": "Lathas' amulet"
+  "name": "Lathas' amulet",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

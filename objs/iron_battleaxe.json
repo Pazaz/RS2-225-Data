@@ -23,5 +23,14 @@
     33
   ],
   "name": "Iron battleaxe",
-  "notedId": 1364
+  "notedId": 1364,
+  "wearBonus": {
+    "astab": -2,
+    "aslash": 8,
+    "acrush": 5,
+    "drange": -1,
+    "str": 13
+  },
+  "wearSlot": "weapon",
+  "weight": 2.721
 }

@@ -21,5 +21,7 @@
     960
   ],
   "name": "Ring of forging",
-  "notedId": 2569
+  "notedId": 2569,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

@@ -19,5 +19,7 @@
   "maleHeadModelA": 31,
   "femaleHeadModelA": 89,
   "name": "Pirate's hat",
-  "notedId": 2652
+  "notedId": 2652,
+  "wearSlot": "head",
+  "weight": 0.001
 }

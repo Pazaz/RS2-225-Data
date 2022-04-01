@@ -27,5 +27,12 @@
     20,
     3974
   ],
-  "name": "Khazard helmet"
+  "name": "Khazard helmet",
+  "wearBonus": {
+    "dstab": 4,
+    "dslash": 5,
+    "dcrush": 3
+  },
+  "wearSlot": "head",
+  "weight": 2.721
 }

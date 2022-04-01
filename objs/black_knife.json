@@ -30,5 +30,10 @@
   "name": "Black knife",
   "wearReq": {
     "ranged": 10
-  }
+  },
+  "wearBonus": {
+    "arange": 10,
+    "rstr": 8
+  },
+  "wearSlot": "weapon"
 }

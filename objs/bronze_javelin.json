@@ -26,5 +26,9 @@
     5652,
     5652
   ],
-  "name": "Bronze javelin"
+  "name": "Bronze javelin",
+  "wearBonus": {
+    "rstr": 25
+  },
+  "wearSlot": "ammo"
 }

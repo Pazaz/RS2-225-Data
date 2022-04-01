@@ -29,5 +29,9 @@
   "name": "Adamant javelin",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "rstr": 107
+  },
+  "wearSlot": "ammo"
 }

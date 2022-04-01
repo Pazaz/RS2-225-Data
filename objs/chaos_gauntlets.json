@@ -22,5 +22,16 @@
   "newColors": [
     1825
   ],
-  "name": "Chaos gauntlets"
+  "name": "Chaos gauntlets",
+  "wearBonus": {
+    "astab": 2,
+    "aslash": 2,
+    "acrush": 2,
+    "dstab": 8,
+    "dslash": 9,
+    "dcrush": 7,
+    "str": 2
+  },
+  "wearSlot": "hands",
+  "weight": 0.226
 }

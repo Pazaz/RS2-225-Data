@@ -17,5 +17,18 @@
   "femaleModel0": 534,
   "femaleOffsetY": 6,
   "name": "Battlestaff",
-  "notedId": 1392
+  "notedId": 1392,
+  "wearBonus": {
+    "astab": 7,
+    "aslash": -1,
+    "acrush": 25,
+    "amagic": 12,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 12,
+    "str": 32
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

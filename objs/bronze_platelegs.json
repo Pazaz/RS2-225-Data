@@ -25,5 +25,16 @@
     5652
   ],
   "name": "Bronze platelegs",
-  "notedId": 1076
+  "notedId": 1076,
+  "wearBonus": {
+    "amagic": -21,
+    "arange": -11,
+    "dstab": 8,
+    "dslash": 7,
+    "dcrush": 6,
+    "dmagic": -4,
+    "drange": 7
+  },
+  "wearSlot": "legs",
+  "weight": 9.071
 }

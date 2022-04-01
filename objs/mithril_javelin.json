@@ -29,5 +29,9 @@
   "name": "Mithril javelin",
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "rstr": 85
+  },
+  "wearSlot": "ammo"
 }

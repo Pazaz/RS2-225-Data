@@ -23,5 +23,7 @@
     22443
   ],
   "name": "Emerald necklace",
-  "notedId": 1659
+  "notedId": 1659,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

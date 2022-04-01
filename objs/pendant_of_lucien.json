@@ -23,5 +23,7 @@
   "newColors": [
     22193
   ],
-  "name": "Pendant of lucien"
+  "name": "Pendant of lucien",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

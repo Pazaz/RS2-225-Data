@@ -17,5 +17,11 @@
   "iconYaw": 828,
   "iconCameraPitch": 420,
   "name": "Leather gloves",
-  "notedId": 1060
+  "notedId": 1060,
+  "wearBonus": {
+    "dslash": 1,
+    "dcrush": 2
+  },
+  "wearSlot": "hands",
+  "weight": 0.226
 }

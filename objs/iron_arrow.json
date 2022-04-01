@@ -33,5 +33,9 @@
     33,
     33
   ],
-  "name": "Iron arrow"
+  "name": "Iron arrow",
+  "wearBonus": {
+    "rstr": 10
+  },
+  "wearSlot": "ammo"
 }

@@ -23,5 +23,7 @@
   "newColors": [
     8615
   ],
-  "name": "Slaves' shirt"
+  "name": "Slaves' shirt",
+  "wearSlot": "body",
+  "weight": 0.907
 }

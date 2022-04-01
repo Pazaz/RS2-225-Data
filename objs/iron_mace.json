@@ -22,5 +22,14 @@
     33
   ],
   "name": "Iron mace",
-  "notedId": 1421
+  "notedId": 1421,
+  "wearBonus": {
+    "astab": 4,
+    "aslash": -2,
+    "acrush": 9,
+    "str": 7,
+    "prayer": 1
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

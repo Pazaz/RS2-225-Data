@@ -17,5 +17,7 @@
   "femaleModel0": 453,
   "femaleOffsetY": 0,
   "name": "Cat training medal",
-  "notedId": 1576
+  "notedId": 1576,
+  "wearSlot": "neck",
+  "weight": 0.01
 }

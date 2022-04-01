@@ -24,5 +24,16 @@
     24
   ],
   "name": "Iron plateskirt",
-  "notedId": 1082
+  "notedId": 1082,
+  "wearBonus": {
+    "amagic": -21,
+    "arange": -11,
+    "dstab": 11,
+    "dslash": 10,
+    "dcrush": 10,
+    "dmagic": -4,
+    "drange": 10
+  },
+  "wearSlot": "legs",
+  "weight": 8.164
 }

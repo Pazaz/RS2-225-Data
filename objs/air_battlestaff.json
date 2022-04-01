@@ -20,5 +20,18 @@
   "femaleOffsetY": 6,
   "femaleModel1": 567,
   "name": "Air battlestaff",
-  "notedId": 1398
+  "notedId": 1398,
+  "wearBonus": {
+    "astab": 7,
+    "aslash": -1,
+    "acrush": 28,
+    "amagic": 12,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 12,
+    "str": 35
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

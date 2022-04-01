@@ -43,5 +43,9 @@
   "name": "Ogre arrow",
   "wearReq": {
     "ranged": 30
-  }
+  },
+  "wearBonus": {
+    "rstr": 22
+  },
+  "wearSlot": "ammo"
 }

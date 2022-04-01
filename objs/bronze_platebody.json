@@ -27,5 +27,16 @@
     7050
   ],
   "name": "Bronze platebody",
-  "notedId": 1118
+  "notedId": 1118,
+  "wearBonus": {
+    "amagic": -30,
+    "arange": -15,
+    "dstab": 15,
+    "dslash": 14,
+    "dcrush": 9,
+    "dmagic": -6,
+    "drange": 14
+  },
+  "wearSlot": "body",
+  "weight": 9.979
 }

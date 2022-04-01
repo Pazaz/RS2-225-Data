@@ -14,5 +14,15 @@
   "maleOffsetY": 0,
   "femaleModel0": 507,
   "femaleOffsetY": 0,
-  "name": "Scythe"
+  "name": "Scythe",
+  "wearBonus": {
+    "astab": 3,
+    "aslash": 8,
+    "acrush": 3,
+    "dslash": 3,
+    "dcrush": 1,
+    "str": 10
+  },
+  "wearSlot": "2h",
+  "weight": 3.175
 }

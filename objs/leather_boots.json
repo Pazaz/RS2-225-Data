@@ -17,5 +17,11 @@
   "femaleModel0": 361,
   "femaleOffsetY": 0,
   "name": "Leather boots",
-  "notedId": 1062
+  "notedId": 1062,
+  "wearBonus": {
+    "dslash": 1,
+    "dcrush": 1
+  },
+  "wearSlot": "feet",
+  "weight": 0.34
 }

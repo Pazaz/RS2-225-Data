@@ -23,5 +23,7 @@
   "newColors": [
     127
   ],
-  "name": "Doctors' gown"
+  "name": "Doctors' gown",
+  "wearSlot": "body",
+  "weight": 1.814
 }

@@ -14,5 +14,7 @@
     "Wear"
   ],
   "name": "Diamond ring",
-  "notedId": 1644
+  "notedId": 1644,
+  "wearSlot": "ring",
+  "weight": 0.006
 }

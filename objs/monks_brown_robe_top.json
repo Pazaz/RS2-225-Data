@@ -23,5 +23,10 @@
     4769
   ],
   "name": "Monk's robe",
-  "notedId": 545
+  "notedId": 545,
+  "wearBonus": {
+    "prayer": 6
+  },
+  "wearSlot": "body",
+  "weight": 0.907
 }

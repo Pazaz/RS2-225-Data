@@ -30,5 +30,16 @@
   "notedId": 1124,
   "wearReq": {
     "defence": 30
-  }
+  },
+  "wearBonus": {
+    "amagic": -30,
+    "arange": -15,
+    "dstab": 65,
+    "dslash": 63,
+    "dcrush": 55,
+    "dmagic": -6,
+    "drange": 63
+  },
+  "wearSlot": "body",
+  "weight": 11.339
 }

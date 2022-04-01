@@ -25,5 +25,15 @@
     33
   ],
   "name": "Iron spear",
-  "notedId": 1240
+  "notedId": 1240,
+  "wearBonus": {
+    "astab": 8,
+    "aslash": 8,
+    "acrush": 8,
+    "dstab": 1,
+    "dslash": 1,
+    "str": 10
+  },
+  "wearSlot": "2h",
+  "weight": 2.267
 }

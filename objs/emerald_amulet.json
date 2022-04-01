@@ -27,5 +27,7 @@
     127
   ],
   "name": "Emerald amulet",
-  "notedId": 1697
+  "notedId": 1697,
+  "wearSlot": "neck",
+  "weight": 0.007
 }

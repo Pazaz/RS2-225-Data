@@ -29,5 +29,10 @@
   "name": "Mithril thrownaxe",
   "wearReq": {
     "ranged": 20
-  }
+  },
+  "wearBonus": {
+    "arange": 12,
+    "rstr": 16
+  },
+  "wearSlot": "weapon"
 }

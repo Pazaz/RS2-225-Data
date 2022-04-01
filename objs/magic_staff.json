@@ -24,5 +24,18 @@
     127
   ],
   "name": "Magic staff",
-  "notedId": 1390
+  "notedId": 1390,
+  "wearBonus": {
+    "astab": 2,
+    "aslash": -1,
+    "acrush": 10,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 7
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

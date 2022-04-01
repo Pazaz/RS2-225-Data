@@ -27,5 +27,15 @@
     8596
   ],
   "name": "Leather cowl",
-  "notedId": 1168
+  "notedId": 1168,
+  "wearBonus": {
+    "arange": 1,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 4,
+    "dmagic": 2,
+    "drange": 3
+  },
+  "wearSlot": "head",
+  "weight": 0.907
 }

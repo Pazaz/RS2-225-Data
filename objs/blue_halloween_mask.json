@@ -23,5 +23,7 @@
     43934
   ],
   "name": "Halloween mask",
-  "notedId": 1056
+  "notedId": 1056,
+  "wearSlot": "head",
+  "weight": 0.34
 }

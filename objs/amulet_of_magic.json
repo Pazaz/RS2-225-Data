@@ -27,5 +27,10 @@
     127
   ],
   "name": "Amulet of magic",
-  "notedId": 1728
+  "notedId": 1728,
+  "wearBonus": {
+    "amagic": 10
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

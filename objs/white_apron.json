@@ -17,5 +17,7 @@
   "femaleModel0": 467,
   "femaleOffsetY": 0,
   "name": "White apron",
-  "notedId": 1006
+  "notedId": 1006,
+  "wearSlot": "body",
+  "weight": 0.453
 }

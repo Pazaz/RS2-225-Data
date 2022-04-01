@@ -27,5 +27,7 @@
     1932
   ],
   "name": "Headband",
-  "notedId": 2650
+  "notedId": 2650,
+  "wearSlot": "head",
+  "weight": 0.04
 }

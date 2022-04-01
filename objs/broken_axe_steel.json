@@ -12,5 +12,7 @@
   "femaleOffsetY": 6,
   "value": 0,
   "name": "Broken axe",
-  "notedId": 499
+  "notedId": 499,
+  "wearSlot": "weapon",
+  "weight": 0.907
 }

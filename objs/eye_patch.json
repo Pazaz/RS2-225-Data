@@ -18,5 +18,7 @@
   "femaleHeadModelA": 126,
   "members": true,
   "name": "Eye patch",
-  "notedId": 1026
+  "notedId": 1026,
+  "wearSlot": "head",
+  "weight": 0.006
 }

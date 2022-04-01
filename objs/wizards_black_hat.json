@@ -25,5 +25,11 @@
     0
   ],
   "name": "Wizards hat",
-  "notedId": 1018
+  "notedId": 1018,
+  "wearBonus": {
+    "amagic": 2,
+    "dmagic": 2
+  },
+  "wearSlot": "head",
+  "weight": 0.453
 }

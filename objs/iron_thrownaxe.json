@@ -26,5 +26,10 @@
     24,
     24
   ],
-  "name": "Iron thrownaxe"
+  "name": "Iron thrownaxe",
+  "wearBonus": {
+    "arange": 5,
+    "rstr": 7
+  },
+  "wearSlot": "weapon"
 }

@@ -23,5 +23,10 @@
     0
   ],
   "name": "Priest gown",
-  "notedId": 427
+  "notedId": 427,
+  "wearBonus": {
+    "prayer": 3
+  },
+  "wearSlot": "body",
+  "weight": 1.814
 }

@@ -23,5 +23,14 @@
     5652
   ],
   "name": "Bronze warhammer",
-  "notedId": 1338
+  "notedId": 1338,
+  "wearBonus": {
+    "astab": -4,
+    "aslash": -4,
+    "acrush": 10,
+    "amagic": -4,
+    "str": 8
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

@@ -30,5 +30,21 @@
     127
   ],
   "name": "Amulet of glory",
-  "notedId": 1705
+  "notedId": 1705,
+  "wearBonus": {
+    "astab": 10,
+    "aslash": 10,
+    "acrush": 10,
+    "amagic": 10,
+    "arange": 10,
+    "dstab": 3,
+    "dslash": 3,
+    "dcrush": 3,
+    "dmagic": 3,
+    "drange": 3,
+    "str": 6,
+    "prayer": 3
+  },
+  "wearSlot": "neck",
+  "weight": 0.01
 }

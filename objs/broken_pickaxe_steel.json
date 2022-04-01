@@ -13,5 +13,7 @@
   "femaleOffsetY": 6,
   "value": 17,
   "name": "Broken pickaxe",
-  "notedId": 473
+  "notedId": 473,
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

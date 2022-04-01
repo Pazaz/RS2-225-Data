@@ -16,5 +16,15 @@
   "maleOffsetY": 0,
   "femaleModel0": 537,
   "femaleOffsetY": 6,
-  "name": "Prod"
+  "name": "Prod",
+  "wearBonus": {
+    "astab": 4,
+    "aslash": 2,
+    "acrush": -4,
+    "amagic": 1,
+    "dmagic": 1,
+    "str": 3
+  },
+  "wearSlot": "weapon",
+  "weight": 0.453
 }

@@ -22,5 +22,7 @@
   "newColors": [
     82
   ],
-  "name": "Silver necklace"
+  "name": "Silver necklace",
+  "wearSlot": "neck",
+  "weight": 0.01
 }

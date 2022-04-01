@@ -19,5 +19,17 @@
   "femaleOffsetY": 6,
   "femaleModel1": 567,
   "name": "Staff of air",
-  "notedId": 1382
+  "notedId": 1382,
+  "wearBonus": {
+    "aslash": -1,
+    "acrush": 7,
+    "amagic": 10,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 1,
+    "dmagic": 10,
+    "str": 3
+  },
+  "wearSlot": "weapon",
+  "weight": 2.267
 }

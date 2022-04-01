@@ -25,5 +25,15 @@
     5652
   ],
   "name": "Bronze med helm",
-  "notedId": 1140
+  "notedId": 1140,
+  "wearBonus": {
+    "amagic": -3,
+    "dstab": 3,
+    "dslash": 4,
+    "dcrush": 2,
+    "dmagic": -1,
+    "drange": 4
+  },
+  "wearSlot": "head",
+  "weight": 1.814
 }

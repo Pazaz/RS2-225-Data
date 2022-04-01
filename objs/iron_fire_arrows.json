@@ -24,5 +24,9 @@
     4,
     5
   ],
-  "name": "Iron fire arrows"
+  "name": "Iron fire arrows",
+  "wearBonus": {
+    "rstr": 10
+  },
+  "wearSlot": "ammo"
 }

@@ -17,5 +17,7 @@
   "femaleModel0": 504,
   "femaleOffsetY": 6,
   "name": "Poisoned dagger(p)",
-  "notedId": 1236
+  "notedId": 1236,
+  "wearSlot": "weapon",
+  "weight": 0.453
 }

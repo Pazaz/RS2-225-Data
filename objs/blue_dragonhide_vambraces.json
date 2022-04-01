@@ -31,5 +31,15 @@
   "notedId": 2488,
   "wearReq": {
     "ranged": 50
-  }
+  },
+  "wearBonus": {
+    "amagic": -10,
+    "arange": 9,
+    "dstab": 2,
+    "dslash": 3,
+    "dcrush": 3,
+    "dmagic": 4
+  },
+  "wearSlot": "hands",
+  "weight": 0.283
 }

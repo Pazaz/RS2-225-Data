@@ -19,5 +19,7 @@
     7073
   ],
   "name": "Axe handle",
-  "notedId": 493
+  "notedId": 493,
+  "wearSlot": "weapon",
+  "weight": 0.1
 }

@@ -29,5 +29,15 @@
     127
   ],
   "name": "Holy symbol",
-  "notedId": 1719
+  "notedId": 1719,
+  "wearBonus": {
+    "dstab": 2,
+    "dslash": 2,
+    "dcrush": 2,
+    "dmagic": 2,
+    "drange": 2,
+    "prayer": 8
+  },
+  "wearSlot": "neck",
+  "weight": 0.007
 }

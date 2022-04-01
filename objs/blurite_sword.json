@@ -16,5 +16,15 @@
     null,
     "Wield"
   ],
-  "name": "Blurite sword"
+  "name": "Blurite sword",
+  "wearBonus": {
+    "astab": 9,
+    "aslash": 14,
+    "acrush": -2,
+    "dslash": 3,
+    "dcrush": 2,
+    "str": 10
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

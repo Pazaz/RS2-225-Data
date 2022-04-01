@@ -18,5 +18,7 @@
     33
   ],
   "name": "Broken axe",
-  "notedId": 497
+  "notedId": 497,
+  "wearSlot": "weapon",
+  "weight": 0.907
 }

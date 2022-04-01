@@ -23,5 +23,16 @@
   "newColors": [
     33
   ],
-  "name": "Silverlight"
+  "name": "Silverlight",
+  "wearBonus": {
+    "astab": 9,
+    "aslash": 14,
+    "acrush": -2,
+    "dslash": 3,
+    "dcrush": 2,
+    "dmagic": 1,
+    "str": 12
+  },
+  "wearSlot": "weapon",
+  "weight": 1.814
 }

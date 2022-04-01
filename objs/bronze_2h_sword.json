@@ -23,5 +23,15 @@
     5652
   ],
   "name": "Bronze 2h sword",
-  "notedId": 1308
+  "notedId": 1308,
+  "wearBonus": {
+    "astab": -4,
+    "aslash": 9,
+    "acrush": 8,
+    "amagic": -4,
+    "drange": -1,
+    "str": 10
+  },
+  "wearSlot": "2h",
+  "weight": 3.628
 }

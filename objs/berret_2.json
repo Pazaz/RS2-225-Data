@@ -26,5 +26,7 @@
     4
   ],
   "name": "Berret",
-  "notedId": 2636
+  "notedId": 2636,
+  "wearSlot": "head",
+  "weight": 0.04
 }

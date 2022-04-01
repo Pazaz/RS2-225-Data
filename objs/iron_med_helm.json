@@ -25,5 +25,15 @@
     33
   ],
   "name": "Iron med helm",
-  "notedId": 1138
+  "notedId": 1138,
+  "wearBonus": {
+    "amagic": -3,
+    "dstab": 4,
+    "dslash": 5,
+    "dcrush": 3,
+    "dmagic": -1,
+    "drange": 4
+  },
+  "wearSlot": "head",
+  "weight": 1.814
 }
