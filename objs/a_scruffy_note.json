@@ -12,5 +12,6 @@
   "options": [
     "Read"
   ],
-  "name": "A scruffy note"
+  "name": "A scruffy note",
+  "weight": 0.01
 }

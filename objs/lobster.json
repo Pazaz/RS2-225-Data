@@ -12,5 +12,6 @@
     "Eat"
   ],
   "name": "Lobster",
-  "notedId": 380
+  "notedId": 380,
+  "weight": 0.35
 }

@@ -8,5 +8,6 @@
   "iconYaw": 76,
   "iconCameraPitch": 136,
   "members": true,
-  "name": "Barrel"
+  "name": "Barrel",
+  "weight": 9.979
 }

@@ -8,5 +8,6 @@
   "iconCameraPitch": 288,
   "members": true,
   "name": "Worm",
-  "notedId": 944
+  "notedId": 944,
+  "weight": 0.003
 }

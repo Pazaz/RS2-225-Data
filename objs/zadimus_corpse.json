@@ -11,5 +11,6 @@
     "Bury"
   ],
   "members": true,
-  "name": "Zadimus corpse"
+  "name": "Zadimus corpse",
+  "weight": 0.5
 }

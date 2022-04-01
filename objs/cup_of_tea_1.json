@@ -11,5 +11,6 @@
   "iconYaw": 1980,
   "iconCameraPitch": 156,
   "members": true,
-  "name": "Cup of tea"
+  "name": "Cup of tea",
+  "weight": 0.15
 }

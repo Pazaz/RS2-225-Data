@@ -8,5 +8,6 @@
   "iconYaw": 276,
   "iconCameraPitch": 292,
   "members": true,
-  "name": "Ogre tooth"
+  "name": "Ogre tooth",
+  "weight": 0.01
 }

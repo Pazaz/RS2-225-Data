@@ -10,5 +10,6 @@
   "iconCameraPitch": 320,
   "members": true,
   "name": "Ship ticket",
-  "notedId": 622
+  "notedId": 622,
+  "weight": 0.004
 }

@@ -16,5 +16,6 @@
   ],
   "members": true,
   "name": "Bailing bucket",
-  "notedId": 584
+  "notedId": 584,
+  "weight": 1
 }

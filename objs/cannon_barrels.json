@@ -8,5 +8,6 @@
   "value": 187500,
   "members": true,
   "name": "Cannon barrels",
-  "notedId": 11
+  "notedId": 11,
+  "weight": 15
 }

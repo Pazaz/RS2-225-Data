@@ -8,5 +8,6 @@
   "iconCameraPitch": 120,
   "description": "A carefully kept safe rock sample.",
   "members": true,
-  "name": "Rock sample 1"
+  "name": "Rock sample 1",
+  "weight": 0.085
 }

@@ -8,5 +8,6 @@
   "iconCameraPitch": 520,
   "value": 199,
   "name": "Axe head",
-  "notedId": 513
+  "notedId": 513,
+  "weight": 0.1
 }

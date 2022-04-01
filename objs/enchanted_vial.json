@@ -11,5 +11,6 @@
   "maleOffsetY": 0,
   "femaleModel0": 561,
   "femaleOffsetY": 6,
-  "name": "Enchanted vial"
+  "name": "Enchanted vial",
+  "weight": 0.01
 }

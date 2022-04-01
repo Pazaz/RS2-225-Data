@@ -13,5 +13,6 @@
   ],
   "members": true,
   "name": "Edible seaweed",
-  "notedId": 404
+  "notedId": 404,
+  "weight": 0.25
 }

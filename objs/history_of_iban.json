@@ -10,5 +10,6 @@
   "options": [
     "Read"
   ],
-  "name": "History of iban"
+  "name": "History of iban",
+  "weight": 0.226
 }

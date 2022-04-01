@@ -9,5 +9,6 @@
   "iconYaw": 1672,
   "iconCameraPitch": 288,
   "members": true,
-  "name": "Touch paper"
+  "name": "Touch paper",
+  "weight": 0.01
 }

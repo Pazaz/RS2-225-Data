@@ -7,5 +7,6 @@
   "iconYaw": 1700,
   "iconCameraPitch": 100,
   "members": true,
-  "name": "Orb of light"
+  "name": "Orb of light",
+  "weight": 0.453
 }

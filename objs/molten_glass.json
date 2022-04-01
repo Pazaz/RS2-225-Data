@@ -10,5 +10,6 @@
   "members": true,
   "description": "Hot glass ready to be blown into useful objects.",
   "name": "Molten glass",
-  "notedId": 1776
+  "notedId": 1776,
+  "weight": 0.907
 }

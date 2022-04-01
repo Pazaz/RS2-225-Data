@@ -9,5 +9,6 @@
   "iconYaw": 156,
   "iconCameraPitch": 444,
   "members": true,
-  "name": "Paladin's badge"
+  "name": "Paladin's badge",
+  "weight": 0.012
 }

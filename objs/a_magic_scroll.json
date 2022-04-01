@@ -12,5 +12,6 @@
   "options": [
     "Read"
   ],
-  "name": "A magic scroll"
+  "name": "A magic scroll",
+  "weight": 0.02
 }

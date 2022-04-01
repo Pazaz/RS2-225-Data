@@ -11,5 +11,6 @@
   "options": [
     "Inspect"
   ],
-  "name": "Bone shard"
+  "name": "Bone shard",
+  "weight": 0.01
 }

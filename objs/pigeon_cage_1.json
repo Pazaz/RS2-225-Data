@@ -12,5 +12,6 @@
     "Open"
   ],
   "members": true,
-  "name": "Pigeon cage"
+  "name": "Pigeon cage",
+  "weight": 2
 }

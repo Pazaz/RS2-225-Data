@@ -10,5 +10,6 @@
   "iconCameraPitch": 320,
   "members": true,
   "name": "Paramaya ticket",
-  "notedId": 620
+  "notedId": 620,
+  "weight": 0.004
 }

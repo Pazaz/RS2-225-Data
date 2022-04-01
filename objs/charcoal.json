@@ -12,5 +12,6 @@
   "iconYaw": 220,
   "iconCameraPitch": 288,
   "name": "Charcoal",
-  "notedId": 974
+  "notedId": 974,
+  "weight": 0.005
 }

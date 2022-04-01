@@ -13,5 +13,6 @@
   ],
   "members": true,
   "name": "Casket",
-  "notedId": 406
+  "notedId": 406,
+  "weight": 5
 }

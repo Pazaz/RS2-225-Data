@@ -9,5 +9,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "name": "Scroll",
-  "notedId": 762
+  "notedId": 762,
+  "weight": 0.02
 }

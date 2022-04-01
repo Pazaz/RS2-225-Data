@@ -8,5 +8,6 @@
   "iconZoom": 840,
   "iconYaw": 152,
   "iconCameraPitch": 256,
-  "name": "Book"
+  "name": "Book",
+  "weight": 0.2
 }

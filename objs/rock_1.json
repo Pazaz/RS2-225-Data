@@ -8,5 +8,6 @@
   "iconYaw": 20,
   "iconCameraPitch": 204,
   "name": "Rock",
-  "notedId": 969
+  "notedId": 969,
+  "weight": 1
 }

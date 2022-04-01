@@ -8,5 +8,6 @@
   "iconCameraPitch": 156,
   "value": 10,
   "description": "It's empty!",
-  "name": "Scorpion cage"
+  "name": "Scorpion cage",
+  "weight": 0.15
 }

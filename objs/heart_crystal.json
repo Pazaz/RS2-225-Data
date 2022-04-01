@@ -9,5 +9,6 @@
   "options": [
     "Look-at"
   ],
-  "name": "Heart crystal"
+  "name": "Heart crystal",
+  "weight": 0.15
 }

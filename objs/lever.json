@@ -8,5 +8,6 @@
   "iconZoom": 830,
   "iconYaw": 1704,
   "iconCameraPitch": 264,
-  "name": "Lever"
+  "name": "Lever",
+  "weight": 0.056
 }

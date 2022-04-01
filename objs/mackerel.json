@@ -21,5 +21,6 @@
     8883
   ],
   "name": "Mackerel",
-  "notedId": 356
+  "notedId": 356,
+  "weight": 0.3
 }

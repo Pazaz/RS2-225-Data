@@ -8,5 +8,6 @@
   "iconYaw": 20,
   "iconCameraPitch": 328,
   "members": true,
-  "name": "Chest key"
+  "name": "Chest key",
+  "weight": 0.01
 }

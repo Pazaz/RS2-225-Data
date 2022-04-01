@@ -12,5 +12,6 @@
     "Read"
   ],
   "members": true,
-  "name": "Spell scroll"
+  "name": "Spell scroll",
+  "weight": 0.01
 }

@@ -8,5 +8,6 @@
   "iconZoom": 1040,
   "iconYaw": 120,
   "iconCameraPitch": 380,
-  "name": "Notes"
+  "name": "Notes",
+  "weight": 0.028
 }

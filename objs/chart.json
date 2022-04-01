@@ -19,5 +19,6 @@
     4647,
     4890
   ],
-  "name": "Chart"
+  "name": "Chart",
+  "weight": 0.01
 }

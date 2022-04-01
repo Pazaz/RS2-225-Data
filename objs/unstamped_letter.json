@@ -8,5 +8,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "members": true,
-  "name": "Unstamped letter"
+  "name": "Unstamped letter",
+  "weight": 0.02
 }

@@ -10,5 +10,6 @@
   "options": [
     "Rub"
   ],
-  "name": "Lamp"
+  "name": "Lamp",
+  "weight": 0.1
 }

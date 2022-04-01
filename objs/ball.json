@@ -7,5 +7,6 @@
   "iconYaw": 1956,
   "iconCameraPitch": 300,
   "members": true,
-  "name": "Ball"
+  "name": "Ball",
+  "weight": 0.15
 }

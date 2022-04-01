@@ -15,5 +15,6 @@
     "Release All",
     "Release"
   ],
-  "name": "Bloated toad"
+  "name": "Bloated toad",
+  "weight": 0.75
 }

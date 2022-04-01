@@ -9,5 +9,6 @@
   "members": true,
   "value": 20,
   "name": "Lockpick",
-  "notedId": 1524
+  "notedId": 1524,
+  "weight": 0.01
 }

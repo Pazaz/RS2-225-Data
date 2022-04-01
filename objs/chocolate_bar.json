@@ -12,5 +12,6 @@
   "iconCameraPitch": 276,
   "description": "Mmmmmmm chocolate.",
   "name": "Chocolate bar",
-  "notedId": 1974
+  "notedId": 1974,
+  "weight": 0.15
 }

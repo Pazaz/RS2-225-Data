@@ -8,5 +8,6 @@
   "iconYaw": 64,
   "iconRoll": 1996,
   "iconCameraPitch": 160,
-  "name": "Skull"
+  "name": "Skull",
+  "weight": 0.08
 }

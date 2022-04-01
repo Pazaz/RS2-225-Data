@@ -9,5 +9,6 @@
   "options": [
     "Study"
   ],
-  "name": "Crandor map"
+  "name": "Crandor map",
+  "weight": 0.015
 }

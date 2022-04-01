@@ -6,5 +6,6 @@
   "iconX": 2,
   "iconY": 1,
   "iconZoom": 660,
-  "name": "Chunk of crystal"
+  "name": "Chunk of crystal",
+  "weight": 0.05
 }

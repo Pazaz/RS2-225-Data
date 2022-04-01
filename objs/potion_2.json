@@ -14,5 +14,6 @@
   "newColors": [
     14278
   ],
-  "name": "Potion"
+  "name": "Potion",
+  "weight": 0.025
 }

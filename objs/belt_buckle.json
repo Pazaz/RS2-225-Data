@@ -9,5 +9,6 @@
   "iconRoll": 56,
   "iconCameraPitch": 524,
   "members": true,
-  "name": "Belt buckle"
+  "name": "Belt buckle",
+  "weight": 1
 }

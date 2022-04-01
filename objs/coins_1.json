@@ -8,5 +8,6 @@
   "iconYaw": 2012,
   "iconCameraPitch": 184,
   "members": true,
-  "name": "Coins"
+  "name": "Coins",
+  "weight": 0.002
 }

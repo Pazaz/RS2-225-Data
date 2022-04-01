@@ -12,5 +12,6 @@
   "iconYaw": 104,
   "iconCameraPitch": 132,
   "name": "Pumpkin",
-  "notedId": 1960
+  "notedId": 1960,
+  "weight": 0.5
 }

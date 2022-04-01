@@ -9,5 +9,6 @@
   "iconCameraPitch": 248,
   "members": true,
   "value": 20,
-  "name": "Unicorn horn"
+  "name": "Unicorn horn",
+  "weight": 0.007
 }

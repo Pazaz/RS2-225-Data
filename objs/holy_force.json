@@ -10,5 +10,6 @@
   "options": [
     "Cast Spell"
   ],
-  "name": "Holy force"
+  "name": "Holy force",
+  "weight": 0.02
 }

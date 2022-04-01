@@ -8,5 +8,6 @@
   "iconZoom": 1380,
   "iconYaw": 84,
   "iconCameraPitch": 320,
-  "name": "Annas' print"
+  "name": "Annas' print",
+  "weight": 0.01
 }

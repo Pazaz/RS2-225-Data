@@ -9,5 +9,6 @@
   "iconZoom": 1150,
   "iconYaw": 108,
   "iconCameraPitch": 188,
-  "name": "Totem"
+  "name": "Totem",
+  "weight": 3
 }

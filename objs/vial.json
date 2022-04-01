@@ -12,5 +12,6 @@
   "femaleOffsetY": 6,
   "value": 2,
   "name": "Vial",
-  "notedId": 230
+  "notedId": 230,
+  "weight": 0.015
 }

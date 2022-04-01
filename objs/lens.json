@@ -8,5 +8,6 @@
   "iconYaw": 84,
   "iconCameraPitch": 388,
   "members": true,
-  "name": "Lens"
+  "name": "Lens",
+  "weight": 0.003
 }

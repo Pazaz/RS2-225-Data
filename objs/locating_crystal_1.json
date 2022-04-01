@@ -11,5 +11,6 @@
   "options": [
     "Activate"
   ],
-  "name": "Locating crystal"
+  "name": "Locating crystal",
+  "weight": 0.907
 }

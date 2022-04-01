@@ -9,5 +9,6 @@
   "iconYaw": 144,
   "iconCameraPitch": 604,
   "members": true,
-  "name": "Sword pommel"
+  "name": "Sword pommel",
+  "weight": 0.085
 }

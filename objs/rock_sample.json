@@ -8,5 +8,6 @@
   "iconCameraPitch": 172,
   "description": "A rough shaped piece of rock.",
   "members": true,
-  "name": "Rock sample"
+  "name": "Rock sample",
+  "weight": 0.085
 }

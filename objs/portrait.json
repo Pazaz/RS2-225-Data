@@ -6,5 +6,6 @@
   "iconZoom": 1450,
   "iconYaw": 80,
   "iconCameraPitch": 288,
-  "name": "Portrait"
+  "name": "Portrait",
+  "weight": 1.36
 }

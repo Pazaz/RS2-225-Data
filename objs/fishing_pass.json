@@ -8,5 +8,6 @@
   "iconZoom": 1040,
   "iconYaw": 120,
   "iconCameraPitch": 380,
-  "name": "Fishing pass"
+  "name": "Fishing pass",
+  "weight": 0.006
 }

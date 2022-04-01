@@ -8,5 +8,6 @@
   "iconYaw": 92,
   "iconCameraPitch": 312,
   "members": true,
-  "name": "Skavid map"
+  "name": "Skavid map",
+  "weight": 0.01
 }

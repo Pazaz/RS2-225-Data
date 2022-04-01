@@ -6,5 +6,6 @@
   "iconZoom": 900,
   "iconYaw": 1988,
   "iconCameraPitch": 268,
-  "name": "Key print"
+  "name": "Key print",
+  "weight": 0.01
 }

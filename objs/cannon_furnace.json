@@ -10,5 +10,6 @@
   "value": 187500,
   "members": true,
   "name": "Cannon furnace",
-  "notedId": 13
+  "notedId": 13,
+  "weight": 5
 }

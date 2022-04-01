@@ -11,5 +11,6 @@
   "options": [
     "Inspect"
   ],
-  "name": "Cocktail shaker"
+  "name": "Cocktail shaker",
+  "weight": 0.15
 }

@@ -13,5 +13,6 @@
   "iconYaw": 128,
   "iconCameraPitch": 352,
   "name": "Swamp toad",
-  "notedId": 2151
+  "notedId": 2151,
+  "weight": 0.5
 }

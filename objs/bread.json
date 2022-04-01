@@ -11,5 +11,6 @@
   "iconYaw": 268,
   "iconCameraPitch": 392,
   "name": "Bread",
-  "notedId": 2310
+  "notedId": 2310,
+  "weight": 0.5
 }

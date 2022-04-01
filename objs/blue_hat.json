@@ -19,5 +19,6 @@
   "femaleOffsetY": 0,
   "maleHeadModelA": 44,
   "femaleHeadModelA": 102,
-  "name": "Blue hat"
+  "name": "Blue hat",
+  "weight": 0.453
 }

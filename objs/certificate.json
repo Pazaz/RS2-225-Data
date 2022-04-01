@@ -8,5 +8,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "name": "Certificate",
-  "notedId": 770
+  "notedId": 770,
+  "weight": 0.02
 }

@@ -9,5 +9,6 @@
   "iconZoom": 710,
   "iconYaw": 1832,
   "iconCameraPitch": 60,
-  "name": "War ship"
+  "name": "War ship",
+  "weight": 0.4
 }

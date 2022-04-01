@@ -11,5 +11,6 @@
   "options": [
     "Blow"
   ],
-  "name": "Magic whistle"
+  "name": "Magic whistle",
+  "weight": 0.005
 }

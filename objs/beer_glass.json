@@ -9,5 +9,6 @@
   "iconYaw": 1904,
   "iconCameraPitch": 140,
   "name": "Beer glass",
-  "notedId": 1920
+  "notedId": 1920,
+  "weight": 0.05
 }

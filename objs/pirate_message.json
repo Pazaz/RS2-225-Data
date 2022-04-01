@@ -11,5 +11,6 @@
   ],
   "value": 1,
   "description": "Pirates don't have the best handwriting...",
-  "name": "Pirate message"
+  "name": "Pirate message",
+  "weight": 0.02
 }

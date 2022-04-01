@@ -13,5 +13,6 @@
     25026
   ],
   "name": "Potion",
-  "notedId": 196
+  "notedId": 196,
+  "weight": 0.025
 }

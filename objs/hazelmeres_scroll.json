@@ -12,5 +12,6 @@
   "options": [
     "Read"
   ],
-  "name": "Hazelmere's scroll"
+  "name": "Hazelmere's scroll",
+  "weight": 0.02
 }

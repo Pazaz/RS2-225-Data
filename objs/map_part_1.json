@@ -10,5 +10,6 @@
   "options": [
     "Study"
   ],
-  "name": "Map part"
+  "name": "Map part",
+  "weight": 0.005
 }

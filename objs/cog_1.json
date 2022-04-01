@@ -5,5 +5,6 @@
   "members": true,
   "iconYaw": 2040,
   "iconCameraPitch": 292,
-  "name": "Cog"
+  "name": "Cog",
+  "weight": 1
 }

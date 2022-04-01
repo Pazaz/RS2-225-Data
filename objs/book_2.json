@@ -7,5 +7,6 @@
   "iconYaw": 152,
   "iconCameraPitch": 256,
   "description": "Turnip growing for beginners.",
-  "name": "Book"
+  "name": "Book",
+  "weight": 0.51
 }

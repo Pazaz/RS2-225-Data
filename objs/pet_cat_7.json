@@ -9,5 +9,6 @@
   "iconRoll": 1940,
   "iconCameraPitch": 32,
   "members": true,
-  "name": "Pet cat"
+  "name": "Pet cat",
+  "weight": 0.015
 }

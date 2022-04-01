@@ -9,5 +9,6 @@
   "iconYaw": 1844,
   "iconCameraPitch": 116,
   "members": true,
-  "name": "Bird feed"
+  "name": "Bird feed",
+  "weight": 0.05
 }

@@ -3,5 +3,6 @@
   "description": "Some rocks.",
   "modelIndex": 2394,
   "members": true,
-  "name": "Rocks"
+  "name": "Rocks",
+  "weight": 0.001
 }

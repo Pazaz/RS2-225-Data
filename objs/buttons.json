@@ -8,5 +8,6 @@
   "iconYaw": 112,
   "iconCameraPitch": 236,
   "members": true,
-  "name": "Buttons"
+  "name": "Buttons",
+  "weight": 0.001
 }

@@ -6,5 +6,6 @@
   "iconZoom": 660,
   "iconYaw": 1232,
   "iconCameraPitch": 392,
-  "name": "Pressure gauge"
+  "name": "Pressure gauge",
+  "weight": 0.056
 }

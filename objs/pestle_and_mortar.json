@@ -10,5 +10,6 @@
   "iconCameraPitch": 180,
   "description": "I can grind things for potions in this.",
   "name": "Pestle and mortar",
-  "notedId": 234
+  "notedId": 234,
+  "weight": 0.056
 }

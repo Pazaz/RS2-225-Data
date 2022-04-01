@@ -12,5 +12,6 @@
   "options": [
     "Look through"
   ],
-  "name": "Sextant"
+  "name": "Sextant",
+  "weight": 0.2
 }

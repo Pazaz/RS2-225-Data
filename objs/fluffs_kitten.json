@@ -12,5 +12,6 @@
   "groundOptions": [
     "Use"
   ],
-  "name": "Fluffs' kitten"
+  "name": "Fluffs' kitten",
+  "weight": 0.75
 }

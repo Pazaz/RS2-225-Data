@@ -14,5 +14,6 @@
   "newColors": [
     43486
   ],
-  "name": "Weapon poison"
+  "name": "Weapon poison",
+  "weight": 0.02
 }

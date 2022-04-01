@@ -8,5 +8,6 @@
   "iconZoom": 690,
   "iconYaw": 2032,
   "iconCameraPitch": 368,
-  "name": "Watch"
+  "name": "Watch",
+  "weight": 0.1
 }

@@ -9,5 +9,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "description": "A search warrant for a house in Ardougne.",
-  "name": "Warrant"
+  "name": "Warrant",
+  "weight": 0.01
 }

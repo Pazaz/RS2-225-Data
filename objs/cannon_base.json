@@ -13,5 +13,6 @@
   ],
   "members": true,
   "name": "Cannon base",
-  "notedId": 7
+  "notedId": 7,
+  "weight": 10
 }

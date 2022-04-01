@@ -8,5 +8,6 @@
   "iconYaw": 276,
   "iconCameraPitch": 292,
   "members": true,
-  "name": "Old tooth"
+  "name": "Old tooth",
+  "weight": 0.001
 }

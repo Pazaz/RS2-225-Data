@@ -8,5 +8,6 @@
   "iconZoom": 930,
   "iconYaw": 1936,
   "iconCameraPitch": 120,
-  "name": "Feed"
+  "name": "Feed",
+  "weight": 2.267
 }

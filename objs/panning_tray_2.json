@@ -11,5 +11,6 @@
     null,
     "Search"
   ],
-  "name": "Panning tray"
+  "name": "Panning tray",
+  "weight": 0.141
 }

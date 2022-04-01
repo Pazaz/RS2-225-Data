@@ -11,5 +11,6 @@
   "options": [
     "Read"
   ],
-  "name": "Clue scroll"
+  "name": "Clue scroll",
+  "weight": 0.02
 }

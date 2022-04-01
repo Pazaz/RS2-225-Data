@@ -11,5 +11,6 @@
     "Read"
   ],
   "members": true,
-  "name": "Stone-plaque"
+  "name": "Stone-plaque",
+  "weight": 0.8
 }

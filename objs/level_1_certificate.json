@@ -8,5 +8,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "members": true,
-  "name": "Level 1 certificate"
+  "name": "Level 1 certificate",
+  "weight": 0.02
 }

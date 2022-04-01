@@ -11,5 +11,6 @@
     null,
     "Read"
   ],
-  "name": "Stone tablet"
+  "name": "Stone tablet",
+  "weight": 0.8
 }

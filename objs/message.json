@@ -8,5 +8,6 @@
   "iconZoom": 1040,
   "iconYaw": 120,
   "iconCameraPitch": 380,
-  "name": "Message"
+  "name": "Message",
+  "weight": 0.02
 }

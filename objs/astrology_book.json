@@ -9,5 +9,6 @@
   "iconZoom": 840,
   "iconYaw": 152,
   "iconCameraPitch": 256,
-  "name": "Astrology book"
+  "name": "Astrology book",
+  "weight": 0.003
 }

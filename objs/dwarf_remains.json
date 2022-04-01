@@ -8,5 +8,6 @@
   "iconYaw": 436,
   "iconCameraPitch": 320,
   "members": true,
-  "name": "Dwarf remains"
+  "name": "Dwarf remains",
+  "weight": 16
 }

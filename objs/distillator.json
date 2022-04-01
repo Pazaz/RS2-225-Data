@@ -9,5 +9,6 @@
   "iconZoom": 720,
   "iconYaw": 684,
   "iconCameraPitch": 304,
-  "name": "Distillator"
+  "name": "Distillator",
+  "weight": 0.02
 }

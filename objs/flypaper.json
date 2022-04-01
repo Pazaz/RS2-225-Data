@@ -8,5 +8,6 @@
   "iconYaw": 84,
   "iconCameraPitch": 320,
   "members": true,
-  "name": "Flypaper"
+  "name": "Flypaper",
+  "weight": 0.01
 }

@@ -10,5 +10,6 @@
   "description": "A magic glowing orb.",
   "value": 300,
   "name": "Air orb",
-  "notedId": 574
+  "notedId": 574,
+  "weight": 0.453
 }

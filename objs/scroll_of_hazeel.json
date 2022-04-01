@@ -8,5 +8,6 @@
   "iconZoom": 1040,
   "iconYaw": 120,
   "iconCameraPitch": 380,
-  "name": "Scroll of hazeel"
+  "name": "Scroll of hazeel",
+  "weight": 0.01
 }

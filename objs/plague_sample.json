@@ -8,5 +8,6 @@
   "iconYaw": 116,
   "iconCameraPitch": 136,
   "members": true,
-  "name": "Plague sample"
+  "name": "Plague sample",
+  "weight": 0.05
 }

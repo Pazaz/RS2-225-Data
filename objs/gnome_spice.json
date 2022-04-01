@@ -9,5 +9,6 @@
   "value": 2,
   "members": true,
   "name": "Gnome spice",
-  "notedId": 2170
+  "notedId": 2170,
+  "weight": 0.15
 }

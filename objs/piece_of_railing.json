@@ -9,5 +9,6 @@
   "iconYaw": 1960,
   "iconCameraPitch": 240,
   "members": true,
-  "name": "Piece of railing"
+  "name": "Piece of railing",
+  "weight": 2
 }

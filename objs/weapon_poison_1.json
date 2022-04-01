@@ -15,5 +15,6 @@
     39876
   ],
   "name": "Weapon poison",
-  "notedId": 188
+  "notedId": 188,
+  "weight": 0.025
 }

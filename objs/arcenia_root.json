@@ -8,5 +8,6 @@
   "iconYaw": 380,
   "iconCameraPitch": 456,
   "members": true,
-  "name": "Arcenia root"
+  "name": "Arcenia root",
+  "weight": 0.01
 }

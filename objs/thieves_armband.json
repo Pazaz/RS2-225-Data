@@ -9,5 +9,6 @@
   "iconYaw": 1924,
   "iconCameraPitch": 296,
   "members": true,
-  "name": "Thieves' armband"
+  "name": "Thieves' armband",
+  "weight": 0.025
 }

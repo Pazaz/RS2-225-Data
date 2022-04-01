@@ -10,5 +10,6 @@
   "options": [
     "Identify"
   ],
-  "name": "Unidentified herb"
+  "name": "Unidentified herb",
+  "weight": 0.007
 }

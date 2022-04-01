@@ -8,5 +8,6 @@
   "iconZoom": 1650,
   "iconYaw": 1480,
   "iconCameraPitch": 180,
-  "name": "Oil can"
+  "name": "Oil can",
+  "weight": 0.028
 }

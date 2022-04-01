@@ -12,5 +12,6 @@
   "options": [
     "Read"
   ],
-  "name": "Technical plans"
+  "name": "Technical plans",
+  "weight": 0.015
 }

@@ -8,5 +8,6 @@
   "iconYaw": 1076,
   "iconCameraPitch": 476,
   "members": true,
-  "name": "Rock pick"
+  "name": "Rock pick",
+  "weight": 0.056
 }

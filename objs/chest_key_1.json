@@ -8,5 +8,6 @@
   "iconCameraPitch": 328,
   "value": 1,
   "description": "A key to One eyed Hector's chest.",
-  "name": "Chest key"
+  "name": "Chest key",
+  "weight": 0.01
 }

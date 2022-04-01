@@ -10,5 +10,6 @@
     null,
     "Eat"
   ],
-  "name": "Rock cake"
+  "name": "Rock cake",
+  "weight": 0.025
 }

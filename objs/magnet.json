@@ -9,5 +9,6 @@
   "iconYaw": 132,
   "iconCameraPitch": 440,
   "members": true,
-  "name": "Magnet"
+  "name": "Magnet",
+  "weight": 0.02
 }

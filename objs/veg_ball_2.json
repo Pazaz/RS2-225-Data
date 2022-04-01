@@ -12,5 +12,6 @@
   "members": true,
   "value": 150,
   "name": "Veg ball",
-  "notedId": 2236
+  "notedId": 2236,
+  "weight": 0.35
 }

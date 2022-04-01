@@ -8,5 +8,6 @@
   "iconYaw": 104,
   "iconCameraPitch": 432,
   "members": true,
-  "name": "Tool kit"
+  "name": "Tool kit",
+  "weight": 0.453
 }

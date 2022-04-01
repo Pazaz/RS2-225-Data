@@ -9,5 +9,6 @@
   "iconYaw": 120,
   "iconCameraPitch": 380,
   "name": "Flier",
-  "notedId": 957
+  "notedId": 957,
+  "weight": 0.015
 }

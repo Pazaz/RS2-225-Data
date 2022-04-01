@@ -9,5 +9,6 @@
   "iconZoom": 760,
   "iconYaw": 1116,
   "iconCameraPitch": 244,
-  "name": "Address label"
+  "name": "Address label",
+  "weight": 0.01
 }

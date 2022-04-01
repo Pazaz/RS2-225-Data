@@ -9,5 +9,6 @@
   "iconYaw": 112,
   "iconCameraPitch": 288,
   "description": "A picture of a lady called Elena.",
-  "name": "Picture"
+  "name": "Picture",
+  "weight": 0.453
 }

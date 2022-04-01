@@ -12,5 +12,6 @@
   ],
   "members": true,
   "name": "Worm hole",
-  "notedId": 2192
+  "notedId": 2192,
+  "weight": 0.35
 }

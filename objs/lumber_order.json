@@ -12,5 +12,6 @@
   "options": [
     "Read"
   ],
-  "name": "Lumber order"
+  "name": "Lumber order",
+  "weight": 0.02
 }

@@ -9,5 +9,6 @@
   "options": [
     "Swing"
   ],
-  "name": "Bull roarer"
+  "name": "Bull roarer",
+  "weight": 0.02
 }

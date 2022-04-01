@@ -12,5 +12,6 @@
   "iconYaw": 1904,
   "iconCameraPitch": 140,
   "name": "Beer",
-  "notedId": 1918
+  "notedId": 1918,
+  "weight": 0.55
 }

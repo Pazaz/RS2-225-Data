@@ -8,5 +8,6 @@
   "iconYaw": 100,
   "iconCameraPitch": 340,
   "name": "Tile",
-  "notedId": 967
+  "notedId": 967,
+  "weight": 0.07
 }

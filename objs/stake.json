@@ -7,5 +7,6 @@
   "iconYaw": 192,
   "iconCameraPitch": 280,
   "description": "A very pointy stick.",
-  "name": "Stake"
+  "name": "Stake",
+  "weight": 0.085
 }
