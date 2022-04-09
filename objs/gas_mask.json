@@ -20,6 +20,10 @@
   "maleHeadModelA": 51,
   "femaleHeadModelA": 112,
   "name": "Gas mask",
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "hideSlot": [
+    "head",
+    "beard"
+  ],
   "weight": 0.255
 }

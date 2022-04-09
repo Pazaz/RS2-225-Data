@@ -41,7 +41,11 @@
     "drange": 30,
     "prayer": 1
   },
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "hideSlot": [
+    "head",
+    "beard"
+  ],
   "weight": 2.721,
   "tradeable": true
 }

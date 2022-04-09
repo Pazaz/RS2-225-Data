@@ -20,7 +20,7 @@
   "femaleHeadModelA": 89,
   "name": "Pirate's hat",
   "notedId": 2652,
-  "wearSlot": "head",
+  "wearSlot": "helmet",
   "weight": 0.001,
   "tradeable": true
 }

@@ -33,6 +33,9 @@
     "dslash": 5,
     "dcrush": 3
   },
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "hideSlot": [
+    "beard"
+  ],
   "weight": 2.721
 }

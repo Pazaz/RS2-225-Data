@@ -18,7 +18,11 @@
   ],
   "name": "Halloween mask",
   "notedId": 1058,
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "hideSlot": [
+    "head",
+    "beard"
+  ],
   "weight": 0.34,
   "tradeable": true
 }

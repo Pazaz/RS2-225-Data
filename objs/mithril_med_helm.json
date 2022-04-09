@@ -37,7 +37,10 @@
     "dmagic": -1,
     "drange": 10
   },
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "overrideSlot": {
+    "head": 0
+  },
   "weight": 1.36,
   "tradeable": true
 }

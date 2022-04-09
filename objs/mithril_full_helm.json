@@ -40,7 +40,11 @@
     "dmagic": -1,
     "drange": 13
   },
-  "wearSlot": "head",
+  "wearSlot": "helmet",
+  "hideSlot": [
+    "head",
+    "beard"
+  ],
   "weight": 2.267,
   "tradeable": true
 }

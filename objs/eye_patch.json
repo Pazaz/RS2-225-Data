@@ -19,7 +19,7 @@
   "members": true,
   "name": "Eye patch",
   "notedId": 1026,
-  "wearSlot": "head",
+  "wearSlot": "helmet",
   "weight": 0.006,
   "tradeable": true
 }
