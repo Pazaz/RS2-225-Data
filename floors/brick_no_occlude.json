@@ -2,6 +2,7 @@
   "id": 46,
   "opcode3": true,
   "textureIndex": 2,
+  "rgb": 3815994,
   "occlude": false,
   "name": "brick_no_occlude"
 }

@@ -2,6 +2,7 @@
   "id": 44,
   "opcode3": true,
   "textureIndex": 3,
+  "rgb": 4465681,
   "occlude": false,
   "name": "woodenfloor_no_occlude"
 }
