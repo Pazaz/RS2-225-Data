@@ -28,8 +28,6 @@
         }
 
         let names = await get('models/model-names.json');
-        const gui = new dat.GUI();
-        const modelSelected = gui.add({ model: names[0] }, 'model', names);
 
         let container = document.createElement('div');
         document.body.appendChild(container);
@@ -51,6 +49,55 @@
             get: (searchParams, prop) => searchParams.get(prop),
         });
 
+        let selected = params.id ?? names[0];
+        const gui = new dat.GUI();
+        const clearScene = gui.add({
+            clear: () => {
+                if ('URLSearchParams' in window) {
+                    var searchParams = new URLSearchParams(window.location.search)
+                    searchParams.delete("id");
+                    var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
+                    history.pushState(null, '', newRelativePathQuery);
+                }
+                scene.clear();
+                scene.add(new THREE.AxesHelper(5));
+                scene.add(light);
+            }
+        }, 'clear');
+        const modelFolder = gui.addFolder('Model');
+        modelFolder.open();
+        const modelSelected = modelFolder.add({ model: selected }, 'model', names);
+        const reloadScene = modelFolder.add({
+            load: () => {
+                if ('URLSearchParams' in window) {
+                    var searchParams = new URLSearchParams(window.location.search)
+                    searchParams.set("id", selected);
+                    var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
+                    history.pushState(null, '', newRelativePathQuery);
+                }
+                scene.clear();
+                scene.add(new THREE.AxesHelper(5));
+                scene.add(light);
+                loadModel(selected);
+            }
+        }, 'load');
+        const playerFolder = gui.addFolder('Construct Player Model');
+        playerFolder.open();
+        const playerSelected = playerFolder.add({ model: '' }, 'model', names.filter(x => x.toString().indexOf('player_') !== -1));
+        const addPlayerPart = playerFolder.add({
+            add: () => {
+                loadModel(selected);
+            }
+        }, 'add');
+        const npcFolder = gui.addFolder('Construct NPC Model');
+        npcFolder.open();
+        const npcSelected = npcFolder.add({ model: '' }, 'model', names.filter(x => x.toString().indexOf('npc_world_') !== -1));
+        const addNpcPart = npcFolder.add({
+            add: () => {
+                loadModel(selected);
+            }
+        }, 'add');
+
         function loadModel(name) {
             const mtlLoader = new MTLLoader(manager);
             mtlLoader.setMaterialOptions({ side: THREE.DoubleSide });
@@ -64,17 +111,16 @@
                 });
             });
         }
-        loadModel(params.id);
+        loadModel(selected);
 
         modelSelected.onChange(function(value) {
-            if ('URLSearchParams' in window) {
-                var searchParams = new URLSearchParams(window.location.search)
-                searchParams.set("id", value);
-                var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
-                history.pushState(null, '', newRelativePathQuery);
-            }
-            scene.remove(object);
-            loadModel(value);
+            selected = value;
+        });
+        playerSelected.onChange(function(value) {
+            selected = value;
+        });
+        npcSelected.onChange(function(value) {
+            selected = value;
         });
 
         const renderer = new THREE.WebGLRenderer();
