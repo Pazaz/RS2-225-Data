@@ -15,6 +15,22 @@
         import { OBJLoader } from 'https://cdn.jsdelivr.net/npm/three@0.124.0/examples/jsm/loaders/OBJLoader.js';
         import { MTLLoader } from 'https://cdn.jsdelivr.net/npm/three@0.124.0/examples/jsm/loaders/MTLLoader.js';
 
+        import * as dat from "https://cdn.skypack.dev/dat.gui@0.7.9";
+
+        function get(url) {
+            return new Promise((res, rej) => {
+                fetch(new Request(url)).then((response) => {
+                    res(response.json());
+                }).catch((reason) => {
+                    rej(reason);
+                });
+            });
+        }
+
+        let names = await get('models/model-names.json');
+        const gui = new dat.GUI();
+        const modelSelected = gui.add({ model: names[0] }, 'model', names);
+
         let container = document.createElement('div');
         document.body.appendChild(container);
 
@@ -34,18 +50,31 @@
         const params = new Proxy(new URLSearchParams(window.location.search), {
             get: (searchParams, prop) => searchParams.get(prop),
         });
-        const name = params.id;
 
-        const mtlLoader = new MTLLoader(manager);
-        mtlLoader.setMaterialOptions({ side: THREE.DoubleSide });
-        mtlLoader.load('models/obj/' + params.id + '.mtl', function (mat) {
-            let material = mat;
+        function loadModel(name) {
+            const mtlLoader = new MTLLoader(manager);
+            mtlLoader.setMaterialOptions({ side: THREE.DoubleSide });
+            mtlLoader.load('models/obj/' + name + '.mtl', function (mat) {
+                let material = mat;
 
-            const objLoader = new OBJLoader(manager);
-            objLoader.setMaterials(material);
-            objLoader.load('models/obj/' + params.id + '.obj', function (obj) {
-                object = obj;
+                const objLoader = new OBJLoader(manager);
+                objLoader.setMaterials(material);
+                objLoader.load('models/obj/' + name + '.obj', function (obj) {
+                    object = obj;
+                });
             });
+        }
+        loadModel(params.id);
+
+        modelSelected.onChange(function(value) {
+            if ('URLSearchParams' in window) {
+                var searchParams = new URLSearchParams(window.location.search)
+                searchParams.set("id", value);
+                var newRelativePathQuery = window.location.pathname + '?' + searchParams.toString();
+                history.pushState(null, '', newRelativePathQuery);
+            }
+            scene.remove(object);
+            loadModel(value);
         });
 
         const renderer = new THREE.WebGLRenderer();
