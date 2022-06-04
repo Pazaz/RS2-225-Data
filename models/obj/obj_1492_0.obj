@@ -1,0 +1,7 @@
+# RS OBJ file
+mtllib obj_1492_0.mtl
+v -0.5 0 0.5
+v -0.5 0 -0.5
+v 0.5 0 -0.5
+usemtl mat.6689
+f 1 2 3

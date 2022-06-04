@@ -1,0 +1,6 @@
+# RS MTL file
+# Material count: 2
+newmtl mat.0
+Kd 0 0 0
+newmtl mat.65469
+Kd 0.9411764705882353 0.054901960784313725 0.054901960784313725

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>RS2-225-Data</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <script type="module">
+        import * as THREE from 'https://cdn.jsdelivr.net/npm/three@0.124.0/build/three.module.js';
+        import { OrbitControls } from 'https://cdn.jsdelivr.net/npm/three@0.124.0/examples/jsm/controls/OrbitControls.js';
+        import { OBJLoader } from 'https://cdn.jsdelivr.net/npm/three@0.124.0/examples/jsm/loaders/OBJLoader.js';
+        import { MTLLoader } from 'https://cdn.jsdelivr.net/npm/three@0.124.0/examples/jsm/loaders/MTLLoader.js';
+
+        let container = document.createElement('div');
+        document.body.appendChild(container);
+
+        const scene = new THREE.Scene();
+        scene.background = new THREE.Color(0x111111);
+        scene.add(new THREE.AxesHelper(5));
+
+        const light = new THREE.AmbientLight(0xffffff, 1);
+        scene.add(light);
+
+        // load scene
+        let object = null;
+        const manager = new THREE.LoadingManager(() => {
+            scene.add(object);
+        });
+
+        const params = new Proxy(new URLSearchParams(window.location.search), {
+            get: (searchParams, prop) => searchParams.get(prop),
+        });
+        const name = params.id;
+
+        const mtlLoader = new MTLLoader(manager);
+        mtlLoader.setMaterialOptions({ side: THREE.DoubleSide });
+        mtlLoader.load('models/obj/' + params.id + '.mtl', function (mat) {
+            let material = mat;
+
+            const objLoader = new OBJLoader(manager);
+            objLoader.setMaterials(material);
+            objLoader.load('models/obj/' + params.id + '.obj', function (obj) {
+                object = obj;
+            });
+        });
+
+        const renderer = new THREE.WebGLRenderer();
+        renderer.setPixelRatio(window.devicePixelRatio);
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        container.appendChild(renderer.domElement);
+
+        // setup camera
+        const camera = new THREE.PerspectiveCamera(50, window.innerWidth / window.innerHeight, 0.5, 50);
+        camera.position.set(-2, 1, -4);
+
+        const controls = new OrbitControls(camera, renderer.domElement);
+
+        function animate() {
+            controls.update();
+            renderer.render(scene, camera);
+            window.requestAnimationFrame(animate);
+        }
+
+        animate();
+
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+
+        window.addEventListener('resize', onWindowResize);
+    </script>
+</body>
+
+</html>
