@@ -37,7 +37,7 @@ colour=0xFFFF00
 overcolour=0x00C000
 
 [interface_6221:6225]
-x=39
+x=34
 y=53
 type=^IFTYPE_MODEL
 width=32

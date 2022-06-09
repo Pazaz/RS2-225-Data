@@ -42,6 +42,7 @@ y=23
 type=^IFTYPE_MODEL
 width=32
 height=32
+model=3327
 zoom=631
 xan=512
 yan=14

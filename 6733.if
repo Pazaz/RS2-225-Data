@@ -1,9 +1,9 @@
-[interface_5292]
+[interface_6733]
 type=^IFTYPE_LAYER
 width=512
 height=334
 
-[interface_5292:5293]
+[interface_6733:6734]
 x=12
 y=20
 type=^IFTYPE_GRAPHIC
@@ -11,7 +11,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5294]
+[interface_6733:6735]
 x=12
 y=80
 type=^IFTYPE_GRAPHIC
@@ -19,7 +19,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5295]
+[interface_6733:6736]
 x=12
 y=140
 type=^IFTYPE_GRAPHIC
@@ -27,7 +27,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5296]
+[interface_6733:6737]
 x=12
 y=200
 type=^IFTYPE_GRAPHIC
@@ -35,7 +35,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5297]
+[interface_6733:6738]
 x=12
 y=260
 type=^IFTYPE_GRAPHIC
@@ -43,7 +43,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5298]
+[interface_6733:6739]
 x=100
 y=20
 type=^IFTYPE_GRAPHIC
@@ -51,7 +51,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5299]
+[interface_6733:6740]
 x=100
 y=80
 type=^IFTYPE_GRAPHIC
@@ -59,7 +59,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5300]
+[interface_6733:6741]
 x=100
 y=140
 type=^IFTYPE_GRAPHIC
@@ -67,7 +67,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5301]
+[interface_6733:6742]
 x=100
 y=200
 type=^IFTYPE_GRAPHIC
@@ -75,7 +75,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5302]
+[interface_6733:6743]
 x=188
 y=20
 type=^IFTYPE_GRAPHIC
@@ -83,7 +83,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5303]
+[interface_6733:6744]
 x=100
 y=260
 type=^IFTYPE_GRAPHIC
@@ -91,7 +91,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5304]
+[interface_6733:6745]
 x=188
 y=80
 type=^IFTYPE_GRAPHIC
@@ -99,7 +99,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5305]
+[interface_6733:6746]
 x=188
 y=140
 type=^IFTYPE_GRAPHIC
@@ -107,7 +107,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5306]
+[interface_6733:6747]
 x=188
 y=200
 type=^IFTYPE_GRAPHIC
@@ -115,7 +115,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5307]
+[interface_6733:6748]
 x=188
 y=260
 type=^IFTYPE_GRAPHIC
@@ -123,7 +123,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5308]
+[interface_6733:6749]
 x=276
 y=20
 type=^IFTYPE_GRAPHIC
@@ -131,7 +131,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5309]
+[interface_6733:6750]
 x=364
 y=80
 type=^IFTYPE_GRAPHIC
@@ -139,7 +139,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5310]
+[interface_6733:6751]
 x=276
 y=80
 type=^IFTYPE_GRAPHIC
@@ -147,7 +147,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5311]
+[interface_6733:6752]
 x=276
 y=140
 type=^IFTYPE_GRAPHIC
@@ -155,7 +155,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5312]
+[interface_6733:6753]
 x=276
 y=200
 type=^IFTYPE_GRAPHIC
@@ -163,7 +163,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5313]
+[interface_6733:6754]
 x=276
 y=260
 type=^IFTYPE_GRAPHIC
@@ -171,7 +171,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5314]
+[interface_6733:6755]
 x=364
 y=140
 type=^IFTYPE_GRAPHIC
@@ -179,7 +179,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5315]
+[interface_6733:6756]
 x=364
 y=20
 type=^IFTYPE_GRAPHIC
@@ -187,15 +187,15 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5316]
-x=364
-y=200
+[interface_6733:6757]
+x=359
+y=209
 type=^IFTYPE_GRAPHIC
 width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5317]
+[interface_6733:6758]
 x=364
 y=260
 type=^IFTYPE_GRAPHIC
@@ -203,7 +203,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5318]
+[interface_6733:6759]
 x=412
 y=20
 type=^IFTYPE_GRAPHIC
@@ -211,7 +211,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5319]
+[interface_6733:6760]
 x=412
 y=80
 type=^IFTYPE_GRAPHIC
@@ -219,7 +219,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5320]
+[interface_6733:6761]
 x=412
 y=140
 type=^IFTYPE_GRAPHIC
@@ -227,14 +227,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5321]
-y=49
-type=^IFTYPE_GRAPHIC
-width=36
-height=36
-graphic="miscgraphics,2"
-
-[interface_5292:5322]
+[interface_6733:6762]
 x=412
 y=200
 type=^IFTYPE_GRAPHIC
@@ -242,7 +235,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5323]
+[interface_6733:6763]
 x=412
 y=260
 type=^IFTYPE_GRAPHIC
@@ -250,7 +243,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_5292:5324]
+[interface_6733:6764]
 x=12
 y=20
 type=^IFTYPE_GRAPHIC
@@ -258,49 +251,56 @@ width=25
 height=30
 graphic="steelborder,0"
 
-[interface_5292:5325]
+[interface_6733:6765]
+y=49
+type=^IFTYPE_GRAPHIC
+width=36
+height=36
+graphic="miscgraphics,2"
+
+[interface_6733:6766]
 y=85
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5326]
+[interface_6733:6767]
 y=121
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5327]
+[interface_6733:6768]
 y=157
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5328]
+[interface_6733:6769]
 y=193
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5329]
+[interface_6733:6770]
 y=229
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5330]
+[interface_6733:6771]
 y=265
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_5292:5331]
+[interface_6733:6772]
 x=479
 y=50
 type=^IFTYPE_GRAPHIC
@@ -308,7 +308,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5332]
+[interface_6733:6773]
 x=479
 y=86
 type=^IFTYPE_GRAPHIC
@@ -316,7 +316,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5333]
+[interface_6733:6774]
 x=479
 y=122
 type=^IFTYPE_GRAPHIC
@@ -324,7 +324,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5334]
+[interface_6733:6775]
 x=479
 y=158
 type=^IFTYPE_GRAPHIC
@@ -332,7 +332,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5335]
+[interface_6733:6776]
 x=479
 y=194
 type=^IFTYPE_GRAPHIC
@@ -340,7 +340,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5336]
+[interface_6733:6777]
 x=479
 y=230
 type=^IFTYPE_GRAPHIC
@@ -348,7 +348,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5337]
+[interface_6733:6778]
 x=479
 y=266
 type=^IFTYPE_GRAPHIC
@@ -356,95 +356,95 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_5292:5338]
+[interface_6733:6779]
 x=73
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5339]
+[interface_6733:6780]
 x=109
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5340]
+[interface_6733:6781]
 x=145
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5341]
+[interface_6733:6782]
 x=181
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5342]
+[interface_6733:6783]
 x=217
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5343]
+[interface_6733:6784]
 x=253
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5344]
+[interface_6733:6785]
 x=289
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5345]
+[interface_6733:6786]
 x=325
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5346]
+[interface_6733:6787]
 x=361
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5347]
+[interface_6733:6788]
 x=397
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5348]
+[interface_6733:6789]
 x=433
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5349]
+[interface_6733:6790]
 x=72
 y=5
 type=^IFTYPE_GRAPHIC
@@ -452,7 +452,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5350]
+[interface_6733:6791]
 x=108
 y=5
 type=^IFTYPE_GRAPHIC
@@ -460,7 +460,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5351]
+[interface_6733:6792]
 x=144
 y=5
 type=^IFTYPE_GRAPHIC
@@ -468,7 +468,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5352]
+[interface_6733:6793]
 x=180
 y=5
 type=^IFTYPE_GRAPHIC
@@ -476,7 +476,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5353]
+[interface_6733:6794]
 x=216
 y=5
 type=^IFTYPE_GRAPHIC
@@ -484,7 +484,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5354]
+[interface_6733:6795]
 x=252
 y=5
 type=^IFTYPE_GRAPHIC
@@ -492,7 +492,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5355]
+[interface_6733:6796]
 x=288
 y=5
 type=^IFTYPE_GRAPHIC
@@ -500,7 +500,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5356]
+[interface_6733:6797]
 x=324
 y=5
 type=^IFTYPE_GRAPHIC
@@ -508,7 +508,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5357]
+[interface_6733:6798]
 x=360
 y=5
 type=^IFTYPE_GRAPHIC
@@ -516,7 +516,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5358]
+[interface_6733:6799]
 x=396
 y=5
 type=^IFTYPE_GRAPHIC
@@ -524,7 +524,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5359]
+[interface_6733:6800]
 x=432
 y=5
 type=^IFTYPE_GRAPHIC
@@ -532,7 +532,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5360]
+[interface_6733:6801]
 x=252
 y=34
 type=^IFTYPE_GRAPHIC
@@ -540,31 +540,31 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5361]
-x=37
+[interface_6733:6802]
+x=36
 y=5
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5362]
+[interface_6733:6803]
 x=37
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5363]
+[interface_6733:6804]
 x=12
-y=295
+y=290
 type=^IFTYPE_GRAPHIC
 width=25
 height=30
 graphic="steelborder,2"
 
-[interface_5292:5364]
+[interface_6733:6805]
 x=475
 y=20
 type=^IFTYPE_GRAPHIC
@@ -572,7 +572,7 @@ width=25
 height=30
 graphic="steelborder,1"
 
-[interface_5292:5365]
+[interface_6733:6806]
 x=439
 y=5
 type=^IFTYPE_GRAPHIC
@@ -580,23 +580,23 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5366]
+[interface_6733:6807]
 x=475
-y=295
+y=290
 type=^IFTYPE_GRAPHIC
 width=25
 height=30
 graphic="steelborder,3"
 
-[interface_5292:5367]
+[interface_6733:6808]
 x=439
-y=304
+y=299
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_5292:5368]
+[interface_6733:6809]
 x=288
 y=34
 type=^IFTYPE_GRAPHIC
@@ -604,7 +604,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5369]
+[interface_6733:6810]
 x=324
 y=34
 type=^IFTYPE_GRAPHIC
@@ -612,7 +612,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5370]
+[interface_6733:6811]
 x=360
 y=34
 type=^IFTYPE_GRAPHIC
@@ -620,7 +620,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5371]
+[interface_6733:6812]
 x=396
 y=34
 type=^IFTYPE_GRAPHIC
@@ -628,7 +628,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5372]
+[interface_6733:6813]
 x=432
 y=34
 type=^IFTYPE_GRAPHIC
@@ -636,7 +636,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5373]
+[interface_6733:6814]
 x=459
 y=34
 type=^IFTYPE_GRAPHIC
@@ -644,7 +644,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5374]
+[interface_6733:6815]
 x=216
 y=34
 type=^IFTYPE_GRAPHIC
@@ -652,7 +652,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5375]
+[interface_6733:6816]
 x=180
 y=34
 type=^IFTYPE_GRAPHIC
@@ -660,7 +660,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5376]
+[interface_6733:6817]
 x=144
 y=34
 type=^IFTYPE_GRAPHIC
@@ -668,7 +668,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5377]
+[interface_6733:6818]
 x=108
 y=34
 type=^IFTYPE_GRAPHIC
@@ -676,7 +676,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5378]
+[interface_6733:6819]
 x=72
 y=34
 type=^IFTYPE_GRAPHIC
@@ -684,7 +684,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5379]
+[interface_6733:6820]
 x=36
 y=34
 type=^IFTYPE_GRAPHIC
@@ -692,7 +692,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5380]
+[interface_6733:6821]
 x=17
 y=34
 type=^IFTYPE_GRAPHIC
@@ -700,27 +700,119 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_5292:5381]
-x=36
-y=20
-type=^IFTYPE_LAYER
-width=440
-height=299
+[interface_6733:6822]
+x=109
+y=92
+type=^IFTYPE_INVENTORY
+width=5
+height=6
+xof=10
+yof=1
 
-[interface_5292:5383]
-x=181
-y=30
+[interface_6733:6823]
+x=52
+y=280
+type=^IFTYPE_MODEL
+width=32
+height=32
+model=3276
+zoom=1031
+xan=105
+yan=312
+
+[interface_6733:6824]
+x=359
+y=264
+type=^IFTYPE_LAYER
+width=78
+height=42
+
+[interface_6824:6826]
+x=6
+y=6
+type=^IFTYPE_RECTANGLE
+buttontype=^CLOSE
+width=66
+height=31
+layer=interface_6824:6733
+fill=yes
+
+[interface_6824:6827]
+x=23
+y=14
 type=^IFTYPE_TEXT
-width=151
+width=32
 height=14
-font=^BOLD
-text="The Bank of RuneScape"
-colour=0xFF981F
+layer=interface_6824:6733
+font=^PLAIN
+text="Claim!"
+colour=0x008000
+overcolour=0x00FF00
 shadowed=yes
 
-[interface_5292:5384]
-x=419
-y=32
+[interface_6824:6828]
+x=21
+type=^IFTYPE_GRAPHIC
+width=36
+height=36
+layer=interface_6824:6733
+graphic="steelborder2,0"
+
+[interface_6824:6829]
+type=^IFTYPE_GRAPHIC
+width=25
+height=30
+layer=interface_6824:6733
+graphic="steelborder,0"
+
+[interface_6824:6830]
+x=53
+type=^IFTYPE_GRAPHIC
+width=25
+height=30
+layer=interface_6824:6733
+graphic="steelborder,1"
+
+[interface_6824:6831]
+y=13
+type=^IFTYPE_GRAPHIC
+width=25
+height=30
+layer=interface_6824:6733
+graphic="steelborder,2"
+
+[interface_6824:6832]
+x=53
+y=13
+type=^IFTYPE_GRAPHIC
+width=25
+height=30
+layer=interface_6824:6733
+graphic="steelborder,3"
+
+[interface_6824:6833]
+x=21
+y=22
+type=^IFTYPE_GRAPHIC
+width=36
+height=36
+layer=interface_6824:6733
+graphic="miscgraphics,3"
+
+[interface_6733:6825]
+x=21
+y=29
+type=^IFTYPE_TEXT
+width=106
+height=14
+font=^PLAIN
+text="You are victorious!"
+colour=0xFFAA44
+shadowed=yes
+
+[interface_6733:6834]
+x=423
+y=29
 type=^IFTYPE_TEXT
 buttontype=^CLOSE
 width=68
@@ -731,101 +823,80 @@ colour=0x808080
 overcolour=0xFFFFFF
 shadowed=yes
 
-[interface_5292:5385]
-x=37
-y=55
-type=^IFTYPE_LAYER
-width=427
-height=229
-scrollheight=1145
-
-[interface_5385:5382]
-x=38
-y=3
-type=^IFTYPE_INVENTORY
-width=8
-height=30
-layer=interface_5385:5292
-invdummy=yes
-xof=15
-yof=6
-invoption1="Withdraw 1"
-invoption2="Withdraw 5"
-invoption3="Withdraw 10"
-invoption4="Withdraw All"
-invoption5="Withdraw X"
-
-[interface_5292:5386]
-x=294
-y=283
-type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=72
-height=36
-scriptc1=1
-scriptv1=1
-script1op1=5
-script1op2=115
-script1op3=0
-graphic="combatboxes,0"
-activegraphic="combatboxes,1"
-
-[interface_5292:5387]
-x=150
-y=283
-type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=72
-height=36
-scriptc1=1
-scriptv1=0
-script1op1=5
-script1op2=115
-script1op3=0
-graphic="combatboxes,0"
-activegraphic="combatboxes,1"
-
-[interface_5292:5388]
-x=161
-y=287
+[interface_6733:6835]
+x=110
+y=71
 type=^IFTYPE_TEXT
-width=50
+width=59
 height=14
 font=^PLAIN
-text="Withdraw"
-colour=0xFF981F
+text="The Spoils:"
+colour=0xAA8822
 shadowed=yes
 
-[interface_5292:5389]
-x=165
-y=300
+[interface_6733:6836]
+x=323
+y=71
 type=^IFTYPE_TEXT
-width=41
+width=78
 height=14
 font=^PLAIN
-text="as item"
-colour=0xFF981F
+text="The Defeated:"
+colour=0xAA8822
 shadowed=yes
 
-[interface_5292:5390]
-x=305
-y=287
+[interface_6733:6837]
+x=323
+y=97
 type=^IFTYPE_TEXT
-width=50
+width=34
 height=14
 font=^PLAIN
-text="Withdraw"
-colour=0xFF981F
+text="Name:"
+colour=0xAA8822
 shadowed=yes
 
-[interface_5292:5391]
-x=308
-y=300
+[interface_6733:6838]
+x=323
+y=121
 type=^IFTYPE_TEXT
-width=43
+width=75
 height=14
 font=^PLAIN
-text="as note"
-colour=0xFF981F
+text="Combat level:"
+colour=0xAA8822
 shadowed=yes
+
+[interface_6733:6839]
+x=406
+y=121
+type=^IFTYPE_TEXT
+width=22
+height=14
+font=^PLAIN
+text="126"
+colour=0xAAAAAA
+shadowed=yes
+
+[interface_6733:6840]
+x=365
+y=97
+type=^IFTYPE_TEXT
+width=46
+height=14
+font=^PLAIN
+text="Crunchy"
+colour=0xAAAAAA
+shadowed=yes
+
+[interface_6733:6841]
+x=381
+y=210
+type=^IFTYPE_MODEL
+width=32
+height=32
+model=3278
+zoom=1275
+xan=2047
+yan=514
 

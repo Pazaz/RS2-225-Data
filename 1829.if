@@ -865,11 +865,11 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1852:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 1 missile attack"
+text="A basic Air missile"
 colour=0x6B6F33
 shadowed=yes
 
@@ -979,11 +979,11 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1860:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 2 missile attack"
+text="A basic Water missile"
 colour=0x6B6F33
 shadowed=yes
 
@@ -1133,11 +1133,11 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1870:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 3 missile attack"
+text="A basic Earth missile"
 colour=0x6B6F33
 shadowed=yes
 
@@ -1282,7 +1282,20 @@ text="Level 13 : Fire Strike"
 colour=0xFFF000
 shadowed=yes
 
-[interface_1880:1883]
+[interface_1880:1990]
+x=3
+y=17
+type=^IFTYPE_TEXT
+width=174
+height=11
+layer=interface_1880:1829
+halign=^SETTEXTALIGN_CENTRE
+font=^PLAIN_SMALL
+text="A basic Fire missile"
+colour=0x6B6F33
+shadowed=yes
+
+[interface_1880:1884]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -1293,7 +1306,7 @@ model=2399
 zoom=900
 xan=512
 
-[interface_1880:1884]
+[interface_1880:1885]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -1304,7 +1317,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1880:1885]
+[interface_1880:1886]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -1315,7 +1328,7 @@ model=2481
 zoom=900
 xan=512
 
-[interface_1880:1886]
+[interface_1880:1887]
 x=27
 y=62
 type=^IFTYPE_TEXT
@@ -1344,7 +1357,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1880:1887]
+[interface_1880:1888]
 x=79
 y=62
 type=^IFTYPE_TEXT
@@ -1373,7 +1386,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1880:1888]
+[interface_1880:6844]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -1393,19 +1406,6 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1880:1990]
-x=3
-y=17
-type=^IFTYPE_TEXT
-width=174
-height=54
-layer=interface_1880:1829
-halign=^SETTEXTALIGN_CENTRE
-font=^PLAIN_SMALL
-text="A strength 4 missile attack"
-colour=0x6B6F33
-shadowed=yes
-
 [interface_1829:1889]
 x=5
 y=184
@@ -1414,7 +1414,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1889:1890]
+[interface_1889:6845]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -1441,15 +1441,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=68
+height=11
 layer=interface_1889:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 5 missile  attack"
+text="A low level Air missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1889:1893]
+[interface_1889:1894]
 x=38
 y=35
 type=^IFTYPE_MODEL
@@ -1460,7 +1460,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1889:1894]
+[interface_1889:1895]
 x=114
 y=35
 type=^IFTYPE_MODEL
@@ -1471,7 +1471,7 @@ model=2707
 zoom=900
 xan=512
 
-[interface_1889:1895]
+[interface_1889:1896]
 x=40
 y=62
 type=^IFTYPE_TEXT
@@ -1500,7 +1500,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1889:1896]
+[interface_1889:6846]
 x=116
 y=62
 type=^IFTYPE_TEXT
@@ -1528,7 +1528,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1897:1898]
+[interface_1897:6847]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -1555,15 +1555,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1897:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 6 missile attack"
+text="A low level Water missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1897:1901]
+[interface_1897:1902]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -1574,7 +1574,7 @@ model=2652
 zoom=900
 xan=512
 
-[interface_1897:1902]
+[interface_1897:1903]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -1585,7 +1585,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1897:1903]
+[interface_1897:1904]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -1596,7 +1596,7 @@ model=2707
 zoom=900
 xan=512
 
-[interface_1897:1904]
+[interface_1897:1905]
 x=27
 y=62
 type=^IFTYPE_TEXT
@@ -1625,7 +1625,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1897:1905]
+[interface_1897:1906]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -1654,7 +1654,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1897:1906]
+[interface_1897:6848]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -1682,7 +1682,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1907:1908]
+[interface_1907:6849]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -1709,15 +1709,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1907:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="Strength 7 missile attack"
+text="A low level Earth missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1907:1911]
+[interface_1907:1912]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -1728,7 +1728,7 @@ model=2737
 zoom=900
 xan=512
 
-[interface_1907:1912]
+[interface_1907:1913]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -1739,7 +1739,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1907:1913]
+[interface_1907:1914]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -1750,7 +1750,7 @@ model=2707
 zoom=900
 xan=512
 
-[interface_1907:1914]
+[interface_1907:1915]
 x=27
 y=62
 type=^IFTYPE_TEXT
@@ -1779,7 +1779,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1907:1915]
+[interface_1907:1916]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -1808,7 +1808,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1907:1916]
+[interface_1907:6850]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -1836,7 +1836,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1917:1918]
+[interface_1917:6851]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -1863,15 +1863,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1917:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 8 missile attack"
+text="A low level Fire missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1917:1921]
+[interface_1917:1922]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -1882,7 +1882,7 @@ model=2399
 zoom=900
 xan=512
 
-[interface_1917:1922]
+[interface_1917:1923]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -1893,7 +1893,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1917:1923]
+[interface_1917:1924]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -1904,7 +1904,7 @@ model=2707
 zoom=900
 xan=512
 
-[interface_1917:1924]
+[interface_1917:1925]
 x=27
 y=62
 type=^IFTYPE_TEXT
@@ -1933,7 +1933,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1917:1925]
+[interface_1917:1926]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -1962,7 +1962,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1917:1926]
+[interface_1917:6852]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -1990,7 +1990,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1927:1928]
+[interface_1927:6853]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2017,15 +2017,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1927:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 9 missile attack"
+text="A medium level Air missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1927:1931]
+[interface_1927:1932]
 x=38
 y=35
 type=^IFTYPE_MODEL
@@ -2036,7 +2036,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1927:1932]
+[interface_1927:1933]
 x=114
 y=35
 type=^IFTYPE_MODEL
@@ -2047,7 +2047,7 @@ model=2645
 zoom=900
 xan=512
 
-[interface_1927:1933]
+[interface_1927:1934]
 x=40
 y=62
 type=^IFTYPE_TEXT
@@ -2076,7 +2076,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1927:1934]
+[interface_1927:6854]
 x=116
 y=62
 type=^IFTYPE_TEXT
@@ -2104,7 +2104,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1935:1936]
+[interface_1935:6855]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2131,15 +2131,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1935:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 10 missile attack"
+text="A medium level Water missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1935:1939]
+[interface_1935:1940]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -2150,7 +2150,7 @@ model=2652
 zoom=900
 xan=512
 
-[interface_1935:1940]
+[interface_1935:1941]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -2161,7 +2161,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1935:1941]
+[interface_1935:1942]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -2172,7 +2172,7 @@ model=2645
 zoom=900
 xan=512
 
-[interface_1935:1942]
+[interface_1935:1943]
 x=28
 y=62
 type=^IFTYPE_TEXT
@@ -2201,7 +2201,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1935:1943]
+[interface_1935:1944]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -2230,7 +2230,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1935:1944]
+[interface_1935:6856]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -2258,7 +2258,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1945:1946]
+[interface_1945:6857]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2285,15 +2285,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=54
+height=11
 layer=interface_1945:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 11 missile attack"
+text="A low level Earth missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1945:1949]
+[interface_1945:1950]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -2304,7 +2304,7 @@ model=2737
 zoom=900
 xan=512
 
-[interface_1945:1950]
+[interface_1945:1951]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -2315,7 +2315,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1945:1951]
+[interface_1945:1952]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -2326,7 +2326,7 @@ model=2645
 zoom=900
 xan=512
 
-[interface_1945:1952]
+[interface_1945:1953]
 x=28
 y=62
 type=^IFTYPE_TEXT
@@ -2355,7 +2355,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1945:1953]
+[interface_1945:1954]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -2384,7 +2384,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1945:1954]
+[interface_1945:6858]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -2412,7 +2412,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1955:1956]
+[interface_1955:6859]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2439,15 +2439,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=12
+height=11
 layer=interface_1955:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 12 missile attack"
+text="A low level Fire missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1955:1959]
+[interface_1955:1960]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -2458,7 +2458,7 @@ model=2399
 zoom=900
 xan=512
 
-[interface_1955:1960]
+[interface_1955:1961]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -2469,7 +2469,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1955:1961]
+[interface_1955:1962]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -2480,7 +2480,7 @@ model=2645
 zoom=900
 xan=512
 
-[interface_1955:1962]
+[interface_1955:1963]
 x=27
 y=62
 type=^IFTYPE_TEXT
@@ -2509,7 +2509,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1955:1963]
+[interface_1955:1964]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -2538,7 +2538,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1955:1964]
+[interface_1955:6860]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -2566,7 +2566,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1965:1966]
+[interface_1965:6861]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2593,15 +2593,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=12
+height=11
 layer=interface_1965:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 13 missile attack"
+text="A high level Air missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1965:1969]
+[interface_1965:1970]
 x=38
 y=35
 type=^IFTYPE_MODEL
@@ -2612,7 +2612,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1965:1970]
+[interface_1965:1971]
 x=114
 y=35
 type=^IFTYPE_MODEL
@@ -2623,7 +2623,7 @@ model=2665
 zoom=900
 xan=512
 
-[interface_1965:1971]
+[interface_1965:1972]
 x=40
 y=62
 type=^IFTYPE_TEXT
@@ -2652,7 +2652,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1965:1972]
+[interface_1965:6862]
 x=116
 y=62
 type=^IFTYPE_TEXT
@@ -2680,7 +2680,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1973:1974]
+[interface_1973:6863]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2707,15 +2707,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=12
+height=11
 layer=interface_1973:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 14 missile attack"
+text="A high level Water missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1973:1977]
+[interface_1973:1978]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -2726,7 +2726,7 @@ model=2652
 zoom=900
 xan=512
 
-[interface_1973:1978]
+[interface_1973:1979]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -2737,7 +2737,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1973:1979]
+[interface_1973:1980]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -2748,7 +2748,7 @@ model=2665
 zoom=900
 xan=512
 
-[interface_1973:1980]
+[interface_1973:1981]
 x=28
 y=62
 type=^IFTYPE_TEXT
@@ -2777,7 +2777,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1973:1981]
+[interface_1973:1982]
 x=80
 y=62
 type=^IFTYPE_TEXT
@@ -2806,7 +2806,7 @@ colour=0xC00000
 activecolour=0x00C000
 shadowed=yes
 
-[interface_1973:1982]
+[interface_1973:6864]
 x=132
 y=62
 type=^IFTYPE_TEXT
@@ -2834,7 +2834,7 @@ width=182
 height=76
 hide=yes
 
-[interface_1983:1984]
+[interface_1983:6865]
 x=3
 y=5
 type=^IFTYPE_RECTANGLE
@@ -2861,15 +2861,15 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=12
+height=11
 layer=interface_1983:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 15 missile attack"
+text="A low level Earth missile"
 colour=0x6B6F33
 shadowed=yes
 
-[interface_1983:1987]
+[interface_1983:1988]
 x=26
 y=35
 type=^IFTYPE_MODEL
@@ -2880,7 +2880,7 @@ model=2737
 zoom=900
 xan=512
 
-[interface_1983:1988]
+[interface_1983:1989]
 x=78
 y=35
 type=^IFTYPE_MODEL
@@ -2891,7 +2891,7 @@ model=2405
 zoom=900
 xan=512
 
-[interface_1983:1989]
+[interface_1983:6866]
 x=130
 y=35
 type=^IFTYPE_MODEL
@@ -3015,11 +3015,11 @@ x=3
 y=17
 type=^IFTYPE_TEXT
 width=174
-height=12
+height=11
 layer=interface_1994:1829
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN_SMALL
-text="A strength 16 missile attack"
+text="A high level Fire missile"
 colour=0x6B6F33
 shadowed=yes
 

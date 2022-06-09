@@ -4,8 +4,8 @@ width=512
 height=334
 
 [interface_3796:3797]
-x=135
-y=16
+x=136
+y=23
 type=^IFTYPE_MODEL
 width=35
 height=32

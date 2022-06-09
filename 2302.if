@@ -113,11 +113,11 @@ shadowed=yes
 x=256
 y=197
 type=^IFTYPE_TEXT
-width=8
+width=6
 height=14
 halign=^SETTEXTALIGN_CENTRE
 font=^PLAIN
-text="2"
+text="1"
 colour=0xFF0000
 shadowed=yes
 

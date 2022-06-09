@@ -9,7 +9,7 @@ y=55
 type=^IFTYPE_LAYER
 width=168
 height=190
-scrollheight=2400
+scrollheight=2710
 
 [interface_4262:3206]
 x=9
@@ -565,7 +565,7 @@ shadowed=yes
 
 [interface_4262:4314]
 x=10
-y=467
+y=483
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=104
@@ -585,7 +585,7 @@ shadowed=yes
 
 [interface_4262:4315]
 x=10
-y=483
+y=529
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=72
@@ -605,7 +605,7 @@ shadowed=yes
 
 [interface_4262:4316]
 x=10
-y=500
+y=546
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=77
@@ -625,7 +625,7 @@ shadowed=yes
 
 [interface_4262:4317]
 x=10
-y=516
+y=577
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=61
@@ -645,7 +645,7 @@ shadowed=yes
 
 [interface_4262:4318]
 x=10
-y=533
+y=594
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=33
@@ -665,7 +665,7 @@ shadowed=yes
 
 [interface_4262:4319]
 x=10
-y=549
+y=610
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=60
@@ -685,7 +685,7 @@ shadowed=yes
 
 [interface_4262:4320]
 x=10
-y=565
+y=626
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=83
@@ -705,7 +705,7 @@ shadowed=yes
 
 [interface_4262:4321]
 x=10
-y=581
+y=642
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=54
@@ -725,7 +725,7 @@ shadowed=yes
 
 [interface_4262:4322]
 x=10
-y=597
+y=658
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=41
@@ -745,7 +745,7 @@ shadowed=yes
 
 [interface_4262:4323]
 x=10
-y=613
+y=690
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=41
@@ -765,7 +765,7 @@ shadowed=yes
 
 [interface_4262:4324]
 x=10
-y=629
+y=706
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=32
@@ -785,7 +785,7 @@ shadowed=yes
 
 [interface_4262:4325]
 x=10
-y=645
+y=722
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=44
@@ -805,7 +805,7 @@ shadowed=yes
 
 [interface_4262:4326]
 x=10
-y=677
+y=768
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=48
@@ -825,7 +825,7 @@ shadowed=yes
 
 [interface_4262:4327]
 x=10
-y=693
+y=784
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=55
@@ -845,7 +845,7 @@ shadowed=yes
 
 [interface_4262:4328]
 x=10
-y=726
+y=817
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=35
@@ -865,7 +865,7 @@ shadowed=yes
 
 [interface_4262:4329]
 x=10
-y=742
+y=833
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=45
@@ -885,7 +885,7 @@ shadowed=yes
 
 [interface_4262:4330]
 x=10
-y=758
+y=849
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=53
@@ -905,7 +905,7 @@ shadowed=yes
 
 [interface_4262:4331]
 x=10
-y=774
+y=865
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=52
@@ -925,7 +925,7 @@ shadowed=yes
 
 [interface_4262:4332]
 x=10
-y=790
+y=881
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=40
@@ -945,7 +945,7 @@ shadowed=yes
 
 [interface_4262:4333]
 x=10
-y=806
+y=897
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=62
@@ -965,7 +965,7 @@ shadowed=yes
 
 [interface_4262:4334]
 x=10
-y=823
+y=928
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=44
@@ -985,7 +985,7 @@ shadowed=yes
 
 [interface_4262:4335]
 x=10
-y=839
+y=944
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=25
@@ -1005,7 +1005,7 @@ shadowed=yes
 
 [interface_4262:4336]
 x=10
-y=856
+y=961
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=41
@@ -1025,7 +1025,7 @@ shadowed=yes
 
 [interface_4262:4337]
 x=10
-y=872
+y=977
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=65
@@ -1045,7 +1045,7 @@ shadowed=yes
 
 [interface_4262:4338]
 x=10
-y=888
+y=993
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=76
@@ -1065,7 +1065,7 @@ shadowed=yes
 
 [interface_4262:4339]
 x=10
-y=903
+y=1008
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=78
@@ -1085,7 +1085,7 @@ shadowed=yes
 
 [interface_4262:4340]
 x=10
-y=918
+y=1023
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=86
@@ -1105,7 +1105,7 @@ shadowed=yes
 
 [interface_4262:4341]
 x=10
-y=933
+y=1038
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=38
@@ -1125,7 +1125,7 @@ shadowed=yes
 
 [interface_4262:4342]
 x=10
-y=948
+y=1053
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=58
@@ -1145,7 +1145,7 @@ shadowed=yes
 
 [interface_4262:4343]
 x=10
-y=963
+y=1068
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=60
@@ -1165,7 +1165,7 @@ shadowed=yes
 
 [interface_4262:4344]
 x=10
-y=978
+y=1099
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=49
@@ -1185,7 +1185,7 @@ shadowed=yes
 
 [interface_4262:4345]
 x=10
-y=993
+y=1144
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=55
@@ -1205,7 +1205,7 @@ shadowed=yes
 
 [interface_4262:4346]
 x=10
-y=1008
+y=1159
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=43
@@ -1225,7 +1225,7 @@ shadowed=yes
 
 [interface_4262:4347]
 x=10
-y=1023
+y=1174
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=24
@@ -1245,7 +1245,7 @@ shadowed=yes
 
 [interface_4262:4348]
 x=10
-y=1038
+y=1204
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=70
@@ -1265,7 +1265,7 @@ shadowed=yes
 
 [interface_4262:4349]
 x=10
-y=1053
+y=1219
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=61
@@ -1285,7 +1285,7 @@ shadowed=yes
 
 [interface_4262:4350]
 x=10
-y=1068
+y=1234
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=44
@@ -1305,7 +1305,7 @@ shadowed=yes
 
 [interface_4262:4351]
 x=10
-y=1084
+y=1250
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=40
@@ -1325,7 +1325,7 @@ shadowed=yes
 
 [interface_4262:4352]
 x=10
-y=1099
+y=1265
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=75
@@ -1345,7 +1345,7 @@ shadowed=yes
 
 [interface_4262:4353]
 x=10
-y=1114
+y=1280
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=44
@@ -1365,7 +1365,7 @@ shadowed=yes
 
 [interface_4262:4354]
 x=10
-y=1129
+y=1295
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=46
@@ -1385,7 +1385,7 @@ shadowed=yes
 
 [interface_4262:4355]
 x=10
-y=1144
+y=1310
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=45
@@ -1405,7 +1405,7 @@ shadowed=yes
 
 [interface_4262:4356]
 x=10
-y=1159
+y=1325
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=46
@@ -1425,7 +1425,7 @@ shadowed=yes
 
 [interface_4262:4357]
 x=10
-y=1174
+y=1357
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -1445,7 +1445,7 @@ shadowed=yes
 
 [interface_4262:4358]
 x=10
-y=1189
+y=1372
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=37
@@ -1465,7 +1465,7 @@ shadowed=yes
 
 [interface_4262:4359]
 x=10
-y=1204
+y=1387
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=56
@@ -1485,7 +1485,7 @@ shadowed=yes
 
 [interface_4262:4360]
 x=10
-y=1219
+y=1402
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=51
@@ -1505,7 +1505,7 @@ shadowed=yes
 
 [interface_4262:4361]
 x=10
-y=1249
+y=1432
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=52
@@ -1525,7 +1525,7 @@ shadowed=yes
 
 [interface_4262:4362]
 x=10
-y=1264
+y=1447
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=86
@@ -1545,7 +1545,7 @@ shadowed=yes
 
 [interface_4262:4363]
 x=10
-y=1339
+y=1522
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -1565,7 +1565,7 @@ shadowed=yes
 
 [interface_4262:4364]
 x=10
-y=1279
+y=1462
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=40
@@ -1585,7 +1585,7 @@ shadowed=yes
 
 [interface_4262:4365]
 x=10
-y=1294
+y=1477
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=67
@@ -1605,7 +1605,7 @@ shadowed=yes
 
 [interface_4262:4366]
 x=10
-y=1309
+y=1492
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=69
@@ -1625,7 +1625,7 @@ shadowed=yes
 
 [interface_4262:4367]
 x=10
-y=1324
+y=1507
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=92
@@ -1645,7 +1645,7 @@ shadowed=yes
 
 [interface_4262:4368]
 x=10
-y=1354
+y=1537
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=50
@@ -1665,7 +1665,7 @@ shadowed=yes
 
 [interface_4262:4369]
 x=10
-y=1369
+y=1552
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=36
@@ -1685,7 +1685,7 @@ shadowed=yes
 
 [interface_4262:4370]
 x=10
-y=1384
+y=1567
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=61
@@ -1705,7 +1705,7 @@ shadowed=yes
 
 [interface_4262:4371]
 x=10
-y=1399
+y=1582
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=77
@@ -1725,7 +1725,7 @@ shadowed=yes
 
 [interface_4262:4372]
 x=10
-y=1414
+y=1597
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=82
@@ -1745,7 +1745,7 @@ shadowed=yes
 
 [interface_4262:4373]
 x=10
-y=1429
+y=1612
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=37
@@ -1765,7 +1765,7 @@ shadowed=yes
 
 [interface_4262:4374]
 x=10
-y=1444
+y=1627
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=58
@@ -1785,7 +1785,7 @@ shadowed=yes
 
 [interface_4262:4375]
 x=10
-y=1459
+y=1642
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=82
@@ -1799,7 +1799,7 @@ shadowed=yes
 
 [interface_4262:4376]
 x=10
-y=1474
+y=1657
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=49
@@ -1819,7 +1819,7 @@ shadowed=yes
 
 [interface_4262:4377]
 x=10
-y=1489
+y=1688
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=45
@@ -1839,7 +1839,7 @@ shadowed=yes
 
 [interface_4262:4378]
 x=10
-y=1504
+y=1703
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=51
@@ -1859,7 +1859,7 @@ shadowed=yes
 
 [interface_4262:4379]
 x=10
-y=1519
+y=1718
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=40
@@ -1879,7 +1879,7 @@ shadowed=yes
 
 [interface_4262:4380]
 x=10
-y=1534
+y=1733
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=34
@@ -1899,7 +1899,7 @@ shadowed=yes
 
 [interface_4262:4381]
 x=10
-y=1549
+y=1748
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=39
@@ -1919,7 +1919,7 @@ shadowed=yes
 
 [interface_4262:4382]
 x=10
-y=1564
+y=1763
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -1939,7 +1939,7 @@ shadowed=yes
 
 [interface_4262:4383]
 x=10
-y=1579
+y=1778
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=50
@@ -1959,7 +1959,7 @@ shadowed=yes
 
 [interface_4262:4384]
 x=10
-y=1594
+y=1793
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=53
@@ -1979,7 +1979,7 @@ shadowed=yes
 
 [interface_4262:4385]
 x=10
-y=1609
+y=1808
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=38
@@ -1999,7 +1999,7 @@ shadowed=yes
 
 [interface_4262:4386]
 x=10
-y=1624
+y=1823
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=78
@@ -2019,7 +2019,7 @@ shadowed=yes
 
 [interface_4262:4387]
 x=10
-y=1639
+y=1838
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=68
@@ -2039,7 +2039,7 @@ shadowed=yes
 
 [interface_4262:4388]
 x=10
-y=1654
+y=1853
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=65
@@ -2059,7 +2059,7 @@ shadowed=yes
 
 [interface_4262:4389]
 x=10
-y=1669
+y=1868
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=63
@@ -2073,7 +2073,7 @@ shadowed=yes
 
 [interface_4262:4390]
 x=10
-y=1699
+y=1898
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=64
@@ -2093,7 +2093,7 @@ shadowed=yes
 
 [interface_4262:4391]
 x=10
-y=1714
+y=1913
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=65
@@ -2113,7 +2113,7 @@ shadowed=yes
 
 [interface_4262:4392]
 x=10
-y=1729
+y=1928
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=64
@@ -2133,7 +2133,7 @@ shadowed=yes
 
 [interface_4262:4393]
 x=10
-y=1744
+y=1943
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=72
@@ -2153,7 +2153,7 @@ shadowed=yes
 
 [interface_4262:4394]
 x=10
-y=1759
+y=1958
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=54
@@ -2173,7 +2173,7 @@ shadowed=yes
 
 [interface_4262:4395]
 x=10
-y=1774
+y=1973
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=40
@@ -2193,7 +2193,7 @@ shadowed=yes
 
 [interface_4262:4396]
 x=10
-y=1789
+y=1988
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=31
@@ -2213,7 +2213,7 @@ shadowed=yes
 
 [interface_4262:4397]
 x=10
-y=1819
+y=2018
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=69
@@ -2233,7 +2233,7 @@ shadowed=yes
 
 [interface_4262:4398]
 x=10
-y=1834
+y=2033
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=30
@@ -2253,7 +2253,7 @@ shadowed=yes
 
 [interface_4262:4399]
 x=10
-y=1849
+y=2048
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=57
@@ -2273,7 +2273,7 @@ shadowed=yes
 
 [interface_4262:4400]
 x=10
-y=1864
+y=2063
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=49
@@ -2293,7 +2293,7 @@ shadowed=yes
 
 [interface_4262:4401]
 x=10
-y=1879
+y=2078
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=82
@@ -2313,7 +2313,7 @@ shadowed=yes
 
 [interface_4262:4402]
 x=10
-y=1911
+y=2110
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=49
@@ -2333,7 +2333,7 @@ shadowed=yes
 
 [interface_4262:4403]
 x=10
-y=1928
+y=2127
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=54
@@ -2353,7 +2353,7 @@ shadowed=yes
 
 [interface_4262:4404]
 x=10
-y=1960
+y=2159
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=60
@@ -2373,7 +2373,7 @@ shadowed=yes
 
 [interface_4262:4405]
 x=10
-y=1975
+y=2174
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=64
@@ -2393,7 +2393,7 @@ shadowed=yes
 
 [interface_4262:4406]
 x=10
-y=1990
+y=2189
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=53
@@ -2413,7 +2413,7 @@ shadowed=yes
 
 [interface_4262:4407]
 x=10
-y=2021
+y=2237
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=39
@@ -2433,7 +2433,7 @@ shadowed=yes
 
 [interface_4262:4408]
 x=10
-y=2036
+y=2252
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=73
@@ -2453,7 +2453,7 @@ shadowed=yes
 
 [interface_4262:4409]
 x=10
-y=2051
+y=2267
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=64
@@ -2473,7 +2473,7 @@ shadowed=yes
 
 [interface_4262:4410]
 x=10
-y=2066
+y=2282
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=99
@@ -2493,7 +2493,7 @@ shadowed=yes
 
 [interface_4262:4411]
 x=10
-y=2081
+y=2297
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=30
@@ -2513,7 +2513,7 @@ shadowed=yes
 
 [interface_4262:4412]
 x=10
-y=2096
+y=2312
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=38
@@ -2533,7 +2533,7 @@ shadowed=yes
 
 [interface_4262:4413]
 x=10
-y=2111
+y=2327
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=35
@@ -2553,7 +2553,7 @@ shadowed=yes
 
 [interface_4262:4414]
 x=10
-y=2126
+y=2342
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=48
@@ -2573,7 +2573,7 @@ shadowed=yes
 
 [interface_4262:4415]
 x=10
-y=2141
+y=2373
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=74
@@ -2593,7 +2593,7 @@ shadowed=yes
 
 [interface_4262:4418]
 x=10
-y=2156
+y=2403
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=79
@@ -2613,7 +2613,7 @@ shadowed=yes
 
 [interface_4262:4419]
 x=10
-y=2171
+y=2418
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -2633,7 +2633,7 @@ shadowed=yes
 
 [interface_4262:4420]
 x=10
-y=2186
+y=2433
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=54
@@ -2653,7 +2653,7 @@ shadowed=yes
 
 [interface_4262:4421]
 x=10
-y=2201
+y=2448
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=45
@@ -2673,7 +2673,7 @@ shadowed=yes
 
 [interface_4262:4422]
 x=10
-y=2216
+y=2478
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=34
@@ -2693,7 +2693,7 @@ shadowed=yes
 
 [interface_4262:4423]
 x=10
-y=2231
+y=2493
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=67
@@ -2713,7 +2713,7 @@ shadowed=yes
 
 [interface_4262:4424]
 x=10
-y=2246
+y=2508
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -2733,7 +2733,7 @@ shadowed=yes
 
 [interface_4262:4425]
 x=10
-y=2261
+y=2523
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -2753,7 +2753,7 @@ shadowed=yes
 
 [interface_4262:4426]
 x=10
-y=2276
+y=2538
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=52
@@ -2773,7 +2773,7 @@ shadowed=yes
 
 [interface_4262:4427]
 x=10
-y=2291
+y=2553
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=70
@@ -2793,7 +2793,7 @@ shadowed=yes
 
 [interface_4262:4428]
 x=10
-y=2306
+y=2568
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=69
@@ -2813,7 +2813,7 @@ shadowed=yes
 
 [interface_4262:4429]
 x=10
-y=2321
+y=2583
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=69
@@ -2833,7 +2833,7 @@ shadowed=yes
 
 [interface_4262:4430]
 x=10
-y=2336
+y=2598
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=47
@@ -2853,7 +2853,7 @@ shadowed=yes
 
 [interface_4262:4431]
 x=10
-y=2351
+y=2628
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=42
@@ -2873,7 +2873,7 @@ shadowed=yes
 
 [interface_4262:4432]
 x=10
-y=2366
+y=2643
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=63
@@ -2893,7 +2893,7 @@ shadowed=yes
 
 [interface_4262:4433]
 x=10
-y=2381
+y=2658
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=55
@@ -2913,7 +2913,7 @@ shadowed=yes
 
 [interface_4262:4434]
 x=10
-y=1895
+y=2094
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=29
@@ -2933,7 +2933,7 @@ shadowed=yes
 
 [interface_4262:4435]
 x=10
-y=1943
+y=2142
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=78
@@ -2953,7 +2953,7 @@ shadowed=yes
 
 [interface_4262:4436]
 x=10
-y=2005
+y=2204
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=35
@@ -2973,7 +2973,7 @@ shadowed=yes
 
 [interface_4262:4437]
 x=10
-y=710
+y=801
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=59
@@ -3005,7 +3005,7 @@ shadowed=yes
 
 [interface_4262:4441]
 x=10
-y=661
+y=738
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=46
@@ -3025,7 +3025,7 @@ shadowed=yes
 
 [interface_4262:5988]
 x=10
-y=1684
+y=1883
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=62
@@ -3045,7 +3045,7 @@ shadowed=yes
 
 [interface_4262:5989]
 x=10
-y=2396
+y=2673
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=64
@@ -3065,7 +3065,7 @@ shadowed=yes
 
 [interface_4262:5990]
 x=10
-y=1804
+y=2003
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=41
@@ -3085,7 +3085,7 @@ shadowed=yes
 
 [interface_4262:6185]
 x=10
-y=1234
+y=1417
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=57
@@ -3099,6 +3099,386 @@ script1op3=21
 script1op4=0
 font=^PLAIN
 text="Lonesome"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6297]
+x=10
+y=2221
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=52
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=3
+script1op4=0
+font=^PLAIN
+text="Tomorrow"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6298]
+x=10
+y=674
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=61
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=4
+script1op4=0
+font=^PLAIN
+text="Duel Arena"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:961]
+x=10
+y=1189
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=59
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=5
+script1op4=0
+font=^PLAIN
+text="Ice Melody"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6842]
+x=10
+y=2613
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=80
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=6
+script1op4=0
+font=^PLAIN
+text="Wolf Mountain"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6843]
+x=10
+y=1114
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=57
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=7
+script1op4=0
+font=^PLAIN
+text="Harmony2"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6867]
+x=10
+y=2463
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=53
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=8
+script1op4=0
+font=^PLAIN
+text="Venture2"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:1883]
+x=10
+y=1341
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=63
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=9
+script1op4=0
+font=^PLAIN
+text="Landlubber"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:1890]
+x=10
+y=2357
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=76
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=10
+script1op4=0
+font=^PLAIN
+text="Undercurrent"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:1898]
+x=10
+y=2688
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=36
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=12
+script1op4=0
+font=^PLAIN
+text="Zealot"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:1901]
+x=10
+y=468
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=69
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=13
+script1op4=0
+font=^PLAIN
+text="Cellar Song1"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6943]
+x=10
+y=753
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=40
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=16
+script1op4=0
+font=^PLAIN
+text="Escape"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6944]
+x=10
+y=514
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=85
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=15
+script1op4=0
+font=^PLAIN
+text="Close Quarters"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:6945]
+x=10
+y=1129
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=84
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=14
+script1op4=0
+font=^PLAIN
+text="Heart and Mind"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:1893]
+x=10
+y=1673
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=38
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=11
+script1op4=0
+font=^PLAIN
+text="Nomad"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:674]
+x=10
+y=498
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=73
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=18
+script1op4=0
+font=^PLAIN
+text="Chompy Hunt"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:675]
+x=10
+y=1083
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=43
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=17
+script1op4=0
+font=^PLAIN
+text="Grumpy"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:676]
+x=10
+y=912
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=56
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=25
+script1op4=0
+font=^PLAIN
+text="Forbidden"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:677]
+x=10
+y=561
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=40
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=26
+script1op4=0
+font=^PLAIN
+text="Cursed"
+colour=0xFF0000
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_4262:678]
+x=10
+y=2388
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=84
+height=14
+layer=interface_4262:962
+scriptc1=1
+scriptv1=1
+script1op1=13
+script1op2=25
+script1op3=27
+script1op4=0
+font=^PLAIN
+text="Understanding"
 colour=0xFF0000
 activecolour=0x00FF00
 shadowed=yes

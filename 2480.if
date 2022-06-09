@@ -13,7 +13,7 @@ text="Select an Option"
 colour=0x800000
 
 [interface_2480:2482]
-y=19
+y=16
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=480
@@ -24,7 +24,7 @@ text="option1"
 overcolour=0x00C000
 
 [interface_2480:2483]
-y=39
+y=36
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=480
@@ -35,7 +35,7 @@ text="option2"
 overcolour=0x00C000
 
 [interface_2480:2484]
-y=59
+y=56
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=480
@@ -46,7 +46,7 @@ text="option3"
 overcolour=0x00C000
 
 [interface_2480:2485]
-y=79
+y=76
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
 width=480
