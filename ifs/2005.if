@@ -1,0 +1,20 @@
+[interface_2005]
+type=^IFTYPE_LAYER
+width=512
+height=334
+
+[interface_2005:2006]
+x=16
+y=8
+type=^IFTYPE_INVENTORY
+width=4
+height=7
+invdummy=yes
+xof=10
+yof=4
+invoption1="Deposit 1"
+invoption2="Deposit 5"
+invoption3="Deposit 10"
+invoption4="Deposit All"
+invoption5="Deposit X"
+

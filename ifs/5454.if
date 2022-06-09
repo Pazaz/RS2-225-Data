@@ -1,9 +1,9 @@
-[interface_0]
+[interface_5454]
 type=^IFTYPE_LAYER
 width=512
 height=334
 
-[interface_0:1]
+[interface_5454:5455]
 x=12
 y=20
 type=^IFTYPE_GRAPHIC
@@ -11,7 +11,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:2]
+[interface_5454:5456]
 x=12
 y=80
 type=^IFTYPE_GRAPHIC
@@ -19,7 +19,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:3]
+[interface_5454:5457]
 x=12
 y=140
 type=^IFTYPE_GRAPHIC
@@ -27,7 +27,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:4]
+[interface_5454:5458]
 x=12
 y=200
 type=^IFTYPE_GRAPHIC
@@ -35,7 +35,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:5]
+[interface_5454:5459]
 x=12
 y=260
 type=^IFTYPE_GRAPHIC
@@ -43,7 +43,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:6]
+[interface_5454:5460]
 x=100
 y=20
 type=^IFTYPE_GRAPHIC
@@ -51,7 +51,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:7]
+[interface_5454:5461]
 x=100
 y=80
 type=^IFTYPE_GRAPHIC
@@ -59,7 +59,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:8]
+[interface_5454:5462]
 x=100
 y=140
 type=^IFTYPE_GRAPHIC
@@ -67,7 +67,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:9]
+[interface_5454:5463]
 x=100
 y=200
 type=^IFTYPE_GRAPHIC
@@ -75,7 +75,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:10]
+[interface_5454:5464]
 x=188
 y=20
 type=^IFTYPE_GRAPHIC
@@ -83,7 +83,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:11]
+[interface_5454:5465]
 x=100
 y=260
 type=^IFTYPE_GRAPHIC
@@ -91,7 +91,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:12]
+[interface_5454:5466]
 x=188
 y=80
 type=^IFTYPE_GRAPHIC
@@ -99,7 +99,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:13]
+[interface_5454:5467]
 x=188
 y=140
 type=^IFTYPE_GRAPHIC
@@ -107,7 +107,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:14]
+[interface_5454:5468]
 x=188
 y=200
 type=^IFTYPE_GRAPHIC
@@ -115,7 +115,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:15]
+[interface_5454:5469]
 x=188
 y=260
 type=^IFTYPE_GRAPHIC
@@ -123,7 +123,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:16]
+[interface_5454:5470]
 x=276
 y=20
 type=^IFTYPE_GRAPHIC
@@ -131,7 +131,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:17]
+[interface_5454:5471]
 x=364
 y=80
 type=^IFTYPE_GRAPHIC
@@ -139,7 +139,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:18]
+[interface_5454:5472]
 x=276
 y=80
 type=^IFTYPE_GRAPHIC
@@ -147,7 +147,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:19]
+[interface_5454:5473]
 x=276
 y=140
 type=^IFTYPE_GRAPHIC
@@ -155,7 +155,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:20]
+[interface_5454:5474]
 x=276
 y=200
 type=^IFTYPE_GRAPHIC
@@ -163,7 +163,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:21]
+[interface_5454:5475]
 x=276
 y=260
 type=^IFTYPE_GRAPHIC
@@ -171,7 +171,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:22]
+[interface_5454:5476]
 x=364
 y=140
 type=^IFTYPE_GRAPHIC
@@ -179,7 +179,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:23]
+[interface_5454:5477]
 x=364
 y=20
 type=^IFTYPE_GRAPHIC
@@ -187,7 +187,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:24]
+[interface_5454:5478]
 x=364
 y=200
 type=^IFTYPE_GRAPHIC
@@ -195,7 +195,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:25]
+[interface_5454:5479]
 x=364
 y=260
 type=^IFTYPE_GRAPHIC
@@ -203,7 +203,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:26]
+[interface_5454:5480]
 x=412
 y=20
 type=^IFTYPE_GRAPHIC
@@ -211,7 +211,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:27]
+[interface_5454:5481]
 x=412
 y=80
 type=^IFTYPE_GRAPHIC
@@ -219,7 +219,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:28]
+[interface_5454:5482]
 x=412
 y=140
 type=^IFTYPE_GRAPHIC
@@ -227,7 +227,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:29]
+[interface_5454:5483]
 x=412
 y=200
 type=^IFTYPE_GRAPHIC
@@ -235,7 +235,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:30]
+[interface_5454:5484]
 x=412
 y=260
 type=^IFTYPE_GRAPHIC
@@ -243,7 +243,7 @@ width=88
 height=60
 graphic="tradebacking,0"
 
-[interface_0:31]
+[interface_5454:5485]
 x=12
 y=20
 type=^IFTYPE_GRAPHIC
@@ -251,56 +251,56 @@ width=25
 height=30
 graphic="steelborder,0"
 
-[interface_0:32]
+[interface_5454:5486]
 y=49
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:33]
+[interface_5454:5487]
 y=85
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:34]
+[interface_5454:5488]
 y=121
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:35]
+[interface_5454:5489]
 y=157
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:36]
+[interface_5454:5490]
 y=193
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:37]
+[interface_5454:5491]
 y=229
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:38]
+[interface_5454:5492]
 y=265
 type=^IFTYPE_GRAPHIC
 width=36
 height=36
 graphic="miscgraphics,2"
 
-[interface_0:39]
+[interface_5454:5493]
 x=479
 y=50
 type=^IFTYPE_GRAPHIC
@@ -308,7 +308,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:40]
+[interface_5454:5494]
 x=479
 y=86
 type=^IFTYPE_GRAPHIC
@@ -316,7 +316,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:41]
+[interface_5454:5495]
 x=479
 y=122
 type=^IFTYPE_GRAPHIC
@@ -324,7 +324,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:42]
+[interface_5454:5496]
 x=479
 y=158
 type=^IFTYPE_GRAPHIC
@@ -332,7 +332,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:43]
+[interface_5454:5497]
 x=479
 y=194
 type=^IFTYPE_GRAPHIC
@@ -340,7 +340,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:44]
+[interface_5454:5498]
 x=479
 y=230
 type=^IFTYPE_GRAPHIC
@@ -348,7 +348,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:45]
+[interface_5454:5499]
 x=479
 y=266
 type=^IFTYPE_GRAPHIC
@@ -356,7 +356,7 @@ width=36
 height=36
 graphic="steelborder2,1"
 
-[interface_0:46]
+[interface_5454:5500]
 x=73
 y=299
 type=^IFTYPE_GRAPHIC
@@ -364,7 +364,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:47]
+[interface_5454:5501]
 x=109
 y=299
 type=^IFTYPE_GRAPHIC
@@ -372,7 +372,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:48]
+[interface_5454:5502]
 x=145
 y=299
 type=^IFTYPE_GRAPHIC
@@ -380,7 +380,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:49]
+[interface_5454:5503]
 x=181
 y=299
 type=^IFTYPE_GRAPHIC
@@ -388,7 +388,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:50]
+[interface_5454:5504]
 x=217
 y=299
 type=^IFTYPE_GRAPHIC
@@ -396,7 +396,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:51]
+[interface_5454:5505]
 x=253
 y=299
 type=^IFTYPE_GRAPHIC
@@ -404,7 +404,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:52]
+[interface_5454:5506]
 x=289
 y=299
 type=^IFTYPE_GRAPHIC
@@ -412,7 +412,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:53]
+[interface_5454:5507]
 x=325
 y=299
 type=^IFTYPE_GRAPHIC
@@ -420,7 +420,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:54]
+[interface_5454:5508]
 x=361
 y=299
 type=^IFTYPE_GRAPHIC
@@ -428,7 +428,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:55]
+[interface_5454:5509]
 x=397
 y=299
 type=^IFTYPE_GRAPHIC
@@ -436,7 +436,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:56]
+[interface_5454:5510]
 x=433
 y=299
 type=^IFTYPE_GRAPHIC
@@ -444,7 +444,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:57]
+[interface_5454:5511]
 x=72
 y=5
 type=^IFTYPE_GRAPHIC
@@ -452,7 +452,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:58]
+[interface_5454:5512]
 x=108
 y=5
 type=^IFTYPE_GRAPHIC
@@ -460,7 +460,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:59]
+[interface_5454:5513]
 x=144
 y=5
 type=^IFTYPE_GRAPHIC
@@ -468,7 +468,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:60]
+[interface_5454:5514]
 x=180
 y=5
 type=^IFTYPE_GRAPHIC
@@ -476,7 +476,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:61]
+[interface_5454:5515]
 x=216
 y=5
 type=^IFTYPE_GRAPHIC
@@ -484,7 +484,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:62]
+[interface_5454:5516]
 x=252
 y=5
 type=^IFTYPE_GRAPHIC
@@ -492,7 +492,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:63]
+[interface_5454:5517]
 x=288
 y=5
 type=^IFTYPE_GRAPHIC
@@ -500,7 +500,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:64]
+[interface_5454:5518]
 x=324
 y=5
 type=^IFTYPE_GRAPHIC
@@ -508,7 +508,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:65]
+[interface_5454:5519]
 x=360
 y=5
 type=^IFTYPE_GRAPHIC
@@ -516,7 +516,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:66]
+[interface_5454:5520]
 x=396
 y=5
 type=^IFTYPE_GRAPHIC
@@ -524,7 +524,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:67]
+[interface_5454:5521]
 x=432
 y=5
 type=^IFTYPE_GRAPHIC
@@ -532,7 +532,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:68]
+[interface_5454:5522]
 x=252
 y=34
 type=^IFTYPE_GRAPHIC
@@ -540,7 +540,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:69]
+[interface_5454:5523]
 x=37
 y=5
 type=^IFTYPE_GRAPHIC
@@ -548,7 +548,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:70]
+[interface_5454:5524]
 x=37
 y=299
 type=^IFTYPE_GRAPHIC
@@ -556,7 +556,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:71]
+[interface_5454:5525]
 x=12
 y=290
 type=^IFTYPE_GRAPHIC
@@ -564,7 +564,7 @@ width=25
 height=30
 graphic="steelborder,2"
 
-[interface_0:72]
+[interface_5454:5526]
 x=475
 y=20
 type=^IFTYPE_GRAPHIC
@@ -572,7 +572,7 @@ width=25
 height=30
 graphic="steelborder,1"
 
-[interface_0:73]
+[interface_5454:5527]
 x=439
 y=5
 type=^IFTYPE_GRAPHIC
@@ -580,7 +580,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:74]
+[interface_5454:5528]
 x=475
 y=290
 type=^IFTYPE_GRAPHIC
@@ -588,7 +588,7 @@ width=25
 height=30
 graphic="steelborder,3"
 
-[interface_0:75]
+[interface_5454:5529]
 x=439
 y=299
 type=^IFTYPE_GRAPHIC
@@ -596,7 +596,7 @@ width=36
 height=36
 graphic="miscgraphics,3"
 
-[interface_0:76]
+[interface_5454:5530]
 x=288
 y=34
 type=^IFTYPE_GRAPHIC
@@ -604,7 +604,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:77]
+[interface_5454:5531]
 x=324
 y=34
 type=^IFTYPE_GRAPHIC
@@ -612,7 +612,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:78]
+[interface_5454:5532]
 x=360
 y=34
 type=^IFTYPE_GRAPHIC
@@ -620,7 +620,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:79]
+[interface_5454:5533]
 x=396
 y=34
 type=^IFTYPE_GRAPHIC
@@ -628,7 +628,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:80]
+[interface_5454:5534]
 x=432
 y=34
 type=^IFTYPE_GRAPHIC
@@ -636,7 +636,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:81]
+[interface_5454:5535]
 x=459
 y=34
 type=^IFTYPE_GRAPHIC
@@ -644,7 +644,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:82]
+[interface_5454:5536]
 x=216
 y=34
 type=^IFTYPE_GRAPHIC
@@ -652,7 +652,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:83]
+[interface_5454:5537]
 x=180
 y=34
 type=^IFTYPE_GRAPHIC
@@ -660,7 +660,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:84]
+[interface_5454:5538]
 x=144
 y=34
 type=^IFTYPE_GRAPHIC
@@ -668,7 +668,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:85]
+[interface_5454:5539]
 x=108
 y=34
 type=^IFTYPE_GRAPHIC
@@ -676,7 +676,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:86]
+[interface_5454:5540]
 x=72
 y=34
 type=^IFTYPE_GRAPHIC
@@ -684,7 +684,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:87]
+[interface_5454:5541]
 x=36
 y=34
 type=^IFTYPE_GRAPHIC
@@ -692,7 +692,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:88]
+[interface_5454:5542]
 x=17
 y=34
 type=^IFTYPE_GRAPHIC
@@ -700,7 +700,7 @@ width=36
 height=36
 graphic="steelborder2,0"
 
-[interface_0:89]
+[interface_5454:5543]
 x=420
 y=29
 type=^IFTYPE_TEXT
@@ -713,666 +713,349 @@ colour=0xFF0000
 overcolour=0xFFFFFF
 shadowed=yes
 
-[interface_0:90]
-x=154
-y=30
-type=^IFTYPE_TEXT
-width=194
-height=14
-halign=^SETTEXTALIGN_CENTRE
-font=^BOLD
-text="Thessalias' Makeovers (Legs)"
-colour=0xFFFF00
-shadowed=yes
-
-[interface_0:91]
-x=59
-y=249
-type=^IFTYPE_RECTANGLE
-width=403
-height=28
-fill=yes
-
-[interface_0:92]
-x=85
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=2
-script1op1=5
-script1op2=263
-script1op3=0
-option="Khaki"
-fill=yes
-colour=0x7B6E32
-
-[interface_0:93]
-x=110
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=3
-script1op1=5
-script1op2=263
-script1op3=0
-option="Black"
-fill=yes
-colour=0x262323
-
-[interface_0:94]
-x=135
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=4
-script1op1=5
-script1op2=263
-script1op3=0
-option="Crimson"
-fill=yes
-colour=0x752F3B
-
-[interface_0:95]
-x=160
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=5
-script1op1=5
-script1op2=263
-script1op3=0
-option="Navy"
-fill=yes
-colour=0x3B3B4E
-
-[interface_0:96]
-x=185
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=6
-script1op1=5
-script1op2=263
-script1op3=0
-option="Straw"
-fill=yes
-colour=0xAA9045
-
-[interface_0:97]
-x=210
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=7
-script1op1=5
-script1op2=263
-script1op3=0
-option="White"
-fill=yes
-colour=0xBEB89C
-
-[interface_0:98]
-x=235
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=8
-script1op1=5
-script1op2=263
-script1op3=0
-option="Red"
-fill=yes
-colour=0x8B3B2A
-
-[interface_0:99]
-x=260
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=9
-script1op1=5
-script1op2=263
-script1op3=0
-option="Blue"
-fill=yes
-colour=0x2D5272
-
-[interface_0:100]
-x=285
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=10
-script1op1=5
-script1op2=263
-script1op3=0
-option="Green"
-fill=yes
-colour=0x2D723E
-
-[interface_0:101]
-x=310
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=11
-script1op1=5
-script1op2=263
-script1op3=0
-option="Yellow"
-fill=yes
-colour=0xA3970D
-
-[interface_0:102]
-x=335
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=12
-script1op1=5
-script1op2=263
-script1op3=0
-option="Purple"
-fill=yes
-colour=0x83537B
-
-[interface_0:103]
-x=360
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=13
-script1op1=5
-script1op2=263
-script1op3=0
-option="Orange"
-fill=yes
-colour=0x9D642F
-
-[interface_0:104]
-x=385
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=14
-script1op1=5
-script1op2=263
-script1op3=0
-option="Rose"
-fill=yes
-colour=0xA17067
-
-[interface_0:105]
-x=410
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=15
-script1op1=5
-script1op2=263
-script1op3=0
-option="Lime"
-fill=yes
-colour=0x829472
-
-[interface_0:106]
-x=435
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=16
-script1op1=5
-script1op2=263
-script1op3=0
-option="Cyan"
-fill=yes
-colour=0x728C94
-
-[interface_0:107]
-x=60
-y=250
-type=^IFTYPE_RECTANGLE
-buttontype=^SELECT
-width=25
-height=25
-scriptc1=1
-scriptv1=1
-script1op1=5
-script1op2=263
-script1op3=0
-option="Emerald"
-fill=yes
-colour=0x1C6135
-
-[interface_0:108]
-x=197
-y=289
+[interface_5454:5544]
+x=182
+y=274
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
-width=127
+width=137
 height=14
 font=^BOLD
-text="CONFIRM (500 gold)"
-colour=0x00FF00
-overcolour=0xFF0000
+text="CONFIRM (3000 Gold)"
+colour=0xFFFF00
+overcolour=0x00FF00
 shadowed=yes
 
-[interface_0:109]
-x=59
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5545]
+x=229
+y=64
+type=^IFTYPE_RECTANGLE
+width=35
+height=202
+fill=yes
+
+[interface_5454:5546]
+x=90
+y=160
+type=^IFTYPE_MODEL
+width=32
+height=32
+model=63
+zoom=500
+yan=1800
+
+[interface_5454:5547]
+x=380
+y=165
+type=^IFTYPE_MODEL
+width=32
+height=32
+model=103
+zoom=500
+yan=200
+
+[interface_5454:5548]
+x=90
+y=160
+type=^IFTYPE_MODEL
+width=32
+height=32
+model=81
+zoom=500
+yan=1800
+
+[interface_5454:5549]
+x=230
+y=90
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=1
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0xBB8F6A
 
-[interface_0:110]
-x=84
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5550]
+x=230
+y=115
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=2
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0xA47F5D
 
-[interface_0:111]
-x=109
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5551]
+x=230
+y=140
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=3
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0x9E7A49
 
-[interface_0:112]
-x=134
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5552]
+x=230
+y=165
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=4
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0x8E6E42
 
-[interface_0:113]
-x=160
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5553]
+x=230
+y=190
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=5
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0x79582A
 
-[interface_0:114]
-x=185
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5554]
+x=230
+y=215
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=6
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0x644E24
 
-[interface_0:115]
-x=210
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
+[interface_5454:5555]
+x=230
+y=240
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
 height=25
 scriptc1=1
 scriptv1=7
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
-activegraphic="headicons,1"
+fill=yes
+colour=0x4C3D09
 
-[interface_0:116]
-x=235
-y=250
+[interface_5454:5556]
+x=230
+y=65
+type=^IFTYPE_RECTANGLE
+buttontype=^SELECT
+width=32
+height=25
+scriptc1=1
+scriptv1=8
+script1op1=5
+script1op2=262
+script1op3=0
+fill=yes
+colour=0xD5A985
+
+[interface_5454:5557]
+x=78
+y=273
+type=^IFTYPE_TEXT
+buttontype=^SELECT
+width=33
+height=14
+scriptc1=1
+scriptv1=1
+script1op1=5
+script1op2=261
+script1op3=0
+font=^BOLD
+text="MALE"
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_5454:5558]
+x=167
+y=29
+type=^IFTYPE_TEXT
+width=166
+height=14
+font=^PLAIN
+text="Select skin colour and gender"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_5454:5559]
+x=377
+y=273
+type=^IFTYPE_TEXT
+buttontype=^SELECT
+width=47
+height=14
+scriptc1=1
+scriptv1=2
+script1op1=5
+script1op2=261
+script1op3=0
+font=^BOLD
+text="FEMALE"
+activecolour=0x00FF00
+shadowed=yes
+
+[interface_5454:5560]
+x=233
+y=65
 type=^IFTYPE_GRAPHIC
 width=25
 height=25
 scriptc1=1
 scriptv1=8
 script1op1=5
-script1op2=263
+script1op2=262
 script1op3=0
 activegraphic="headicons,1"
 
-[interface_0:117]
-x=260
-y=250
+[interface_5454:5561]
+x=233
+y=90
 type=^IFTYPE_GRAPHIC
 width=25
 height=25
-scriptc1=1
-scriptv1=9
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:118]
-x=285
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=10
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:119]
-x=310
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=11
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:120]
-x=335
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=12
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:121]
-x=360
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=13
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:122]
-x=385
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=14
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:123]
-x=410
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=15
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:124]
-x=435
-y=250
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=16
-script1op1=5
-script1op2=263
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:125]
-x=220
-y=225
-type=^IFTYPE_TEXT
-width=73
-height=14
-font=^PLAIN
-text="Select colour"
-colour=0xFFFF00
-shadowed=yes
-
-[interface_0:126]
-x=50
-y=220
-type=^IFTYPE_MODEL
-width=32
-height=32
-model=254
-zoom=400
-
-[interface_0:127]
-x=185
-y=220
-type=^IFTYPE_MODEL
-width=32
-height=32
-model=271
-zoom=400
-
-[interface_0:128]
-x=310
-y=210
-type=^IFTYPE_MODEL
-width=32
-height=32
-model=267
-zoom=420
-
-[interface_0:129]
-x=435
-y=220
-type=^IFTYPE_MODEL
-width=32
-height=32
-model=274
-zoom=400
-
-[interface_0:130]
-x=46
-y=89
-type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=40
-height=120
 scriptc1=1
 scriptv1=1
 script1op1=5
-script1op2=261
+script1op2=262
 script1op3=0
-option="Plain"
+activegraphic="headicons,1"
 
-[interface_0:131]
-x=180
-y=90
+[interface_5454:5562]
+x=233
+y=115
 type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=40
-height=120
+width=25
+height=25
 scriptc1=1
 scriptv1=2
 script1op1=5
-script1op2=261
+script1op2=262
 script1op3=0
-option="Shorts"
+activegraphic="headicons,1"
 
-[interface_0:132]
-x=306
-y=86
+[interface_5454:5563]
+x=233
+y=140
 type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=40
-height=120
+width=25
+height=25
 scriptc1=1
 scriptv1=3
 script1op1=5
-script1op2=261
+script1op2=262
 script1op3=0
-option="Flares"
+activegraphic="headicons,1"
 
-[interface_0:133]
-x=430
-y=88
-type=^IFTYPE_GRAPHIC
-buttontype=^SELECT
-width=40
-height=120
-scriptc1=1
-scriptv1=4
-script1op1=5
-script1op2=261
-script1op3=0
-option="Turn-ups"
-
-[interface_0:134]
-x=53
-y=90
+[interface_5454:5564]
+x=233
+y=165
 type=^IFTYPE_GRAPHIC
 width=25
 height=25
+scriptc1=1
+scriptv1=4
+script1op1=5
+script1op2=262
+script1op3=0
+activegraphic="headicons,1"
+
+[interface_5454:5565]
+x=233
+y=190
+type=^IFTYPE_GRAPHIC
+width=25
+height=25
+scriptc1=1
+scriptv1=5
+script1op1=5
+script1op2=262
+script1op3=0
+activegraphic="headicons,1"
+
+[interface_5454:5566]
+x=233
+y=215
+type=^IFTYPE_GRAPHIC
+width=25
+height=25
+scriptc1=1
+scriptv1=6
+script1op1=5
+script1op2=262
+script1op3=0
+activegraphic="headicons,1"
+
+[interface_5454:5567]
+x=233
+y=240
+type=^IFTYPE_GRAPHIC
+width=25
+height=25
+scriptc1=1
+scriptv1=7
+script1op1=5
+script1op2=262
+script1op3=0
+activegraphic="headicons,1"
+
+[interface_5454:5568]
+x=60
+y=94
+type=^IFTYPE_GRAPHIC
+buttontype=^SELECT
+width=100
+height=150
 scriptc1=1
 scriptv1=1
 script1op1=5
 script1op2=261
 script1op3=0
-activegraphic="headicons,1"
 
-[interface_0:135]
-x=187
-y=90
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=2
-script1op1=5
-script1op2=261
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:136]
-x=313
+[interface_5454:5569]
+x=341
 y=87
 type=^IFTYPE_GRAPHIC
-width=25
-height=25
+buttontype=^SELECT
+width=100
+height=150
 scriptc1=1
-scriptv1=3
+scriptv1=2
 script1op1=5
 script1op2=261
 script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:137]
-x=436
-y=89
-type=^IFTYPE_GRAPHIC
-width=25
-height=25
-scriptc1=1
-scriptv1=4
-script1op1=5
-script1op2=261
-script1op3=0
-activegraphic="headicons,1"
-
-[interface_0:138]
-x=211
-y=62
-type=^IFTYPE_TEXT
-width=87
-height=14
-font=^PLAIN
-text="Select leg style"
-colour=0xFFFF00
-shadowed=yes
 

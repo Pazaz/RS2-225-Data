@@ -1,0 +1,19 @@
+[interface_6573]
+type=^IFTYPE_LAYER
+width=512
+height=334
+
+[interface_6573:6574]
+x=16
+y=8
+type=^IFTYPE_INVENTORY
+width=4
+height=7
+xof=10
+yof=4
+invoption1="Stake 1"
+invoption2="Stake 5"
+invoption3="Stake 10"
+invoption4="Stake All"
+invoption5="Stake X"
+

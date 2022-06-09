@@ -1,0 +1,93 @@
+[interface_6299]
+type=^IFTYPE_LAYER
+width=512
+height=334
+
+[interface_6299:6300]
+x=8
+y=45
+type=^IFTYPE_TEXT
+width=180
+height=14
+font=^PLAIN
+text="To reduce memory requirements"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6301]
+x=24
+y=60
+type=^IFTYPE_TEXT
+width=136
+height=14
+font=^PLAIN
+text="Music + sounds are only"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6302]
+x=18
+y=75
+type=^IFTYPE_TEXT
+width=151
+height=14
+font=^PLAIN
+text="available in the high-detail"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6303]
+x=21
+y=145
+type=^IFTYPE_TEXT
+width=140
+height=14
+font=^PLAIN
+text="If you wish to hear these"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6304]
+x=7
+y=160
+type=^IFTYPE_TEXT
+width=170
+height=14
+font=^PLAIN
+text="please switch version, but bear"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6305]
+x=15
+y=175
+type=^IFTYPE_TEXT
+width=150
+height=14
+font=^PLAIN
+text="in mind things will run more"
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6306]
+x=43
+y=190
+type=^IFTYPE_TEXT
+width=101
+height=14
+font=^PLAIN
+text="slowly as a result."
+colour=0xFFFF00
+shadowed=yes
+
+[interface_6299:6307]
+x=33
+y=90
+type=^IFTYPE_TEXT
+width=117
+height=14
+font=^PLAIN
+text="version of the game."
+colour=0xFFFF00
+shadowed=yes
+

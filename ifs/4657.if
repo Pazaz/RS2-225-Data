@@ -1,9 +1,9 @@
-[interface_139]
+[interface_4657]
 type=^IFTYPE_LAYER
 width=512
 height=334
 
-[interface_139:140]
+[interface_4657:4658]
 x=2
 y=5
 type=^IFTYPE_GRAPHIC
@@ -11,7 +11,7 @@ width=57
 height=13
 graphic="sworddecor,1"
 
-[interface_139:141]
+[interface_4657:4659]
 x=421
 y=5
 type=^IFTYPE_GRAPHIC
@@ -19,8 +19,8 @@ width=57
 height=13
 graphic="sworddecor,0"
 
-[interface_139:142]
-x=92
+[interface_4657:4660]
+x=56
 y=13
 type=^IFTYPE_MODEL
 buttontype=^BUTTON
@@ -28,8 +28,8 @@ width=64
 height=96
 zoom=400
 
-[interface_139:143]
-x=323
+[interface_4657:4661]
+x=207
 y=13
 type=^IFTYPE_MODEL
 buttontype=^BUTTON
@@ -37,8 +37,17 @@ width=64
 height=96
 zoom=400
 
-[interface_139:144]
-x=48
+[interface_4657:4662]
+x=360
+y=13
+type=^IFTYPE_MODEL
+buttontype=^BUTTON
+width=64
+height=96
+zoom=400
+
+[interface_4657:4663]
+x=12
 y=76
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
@@ -47,8 +56,8 @@ height=17
 halign=^SETTEXTALIGN_CENTRE
 font=^QUILL
 
-[interface_139:145]
-x=280
+[interface_4657:4664]
+x=164
 y=76
 type=^IFTYPE_TEXT
 buttontype=^BUTTON
@@ -57,7 +66,17 @@ height=17
 halign=^SETTEXTALIGN_CENTRE
 font=^QUILL
 
-[interface_139:146]
+[interface_4657:4665]
+x=316
+y=76
+type=^IFTYPE_TEXT
+buttontype=^BUTTON
+width=152
+height=17
+halign=^SETTEXTALIGN_CENTRE
+font=^QUILL
+
+[interface_4657:4666]
 x=8
 y=3
 type=^IFTYPE_TEXT
