@@ -1,0 +1,17 @@
+[interface_3213]
+type=^IFTYPE_LAYER
+width=512
+height=334
+
+[interface_3213:3214]
+x=16
+y=8
+type=^IFTYPE_INVENTORY
+width=4
+height=7
+invdummy=yes
+hasoptions=yes
+usable=yes
+xof=10
+yof=4
+
