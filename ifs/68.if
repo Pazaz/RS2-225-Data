@@ -1,0 +1,14 @@
+[interface_68:0]
+x=16
+y=8
+type=^IFTYPE_INVENTORY
+width=4
+height=7
+xof=10
+yof=4
+invoption1="Offer 1"
+invoption2="Offer 5"
+invoption3="Offer 10"
+invoption4="Offer All"
+invoption5="Offer X"
+

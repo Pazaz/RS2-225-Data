@@ -1,0 +1,13 @@
+[interface_74:0]
+x=16
+y=8
+type=^IFTYPE_INVENTORY
+width=4
+height=7
+xof=10
+yof=4
+invoption1="Value"
+invoption2="Sell 1"
+invoption3="Sell 5"
+invoption4="Sell 10"
+
